@@ -1,0 +1,1 @@
+A tree is an [[Undirected Graph]] with no cycles. Equivalently, it is a connected graph with N nodes and N-1 edges.

@@ -1,0 +1,71 @@
+Topological sort (or top sort for short) is an algorighm that work on [[Directed Acyclic Graphs (DAG)]]. It creates something called [[Topological ordering]].
+
+Topological sort works with $O(V+E)$ complexity.
+
+## Algorithm
+1. Pick an unvisided node
+2. Beggining with the selected node, do a [[Depth First Search (DFS)]] exploring only unvisited nodes.
+3. On recursive callback of the DFS, add the current node to the topological ordering in the reverse order. (Or add to array and remember to revese it after the end of algorithm)
+
+## Code
+### Naive
+```pseudo
+# Gloal or class scope variables
+n = number of nodes in the graph
+graph = adjancy list representing graph
+visited = [false, ..., false] # size n
+
+function topsort():
+	ordering = [0,...,0] # Length N
+	i = N-1 # Index for ordering array
+
+	for (at=0; at<N; at++):
+		if V[at] == false:
+			visited_nodes = []
+			dfs(at, visitedNodes)
+			for nodeId in visited_nodes:
+				ordering[i] = nodeId
+				i = i-1
+	return ordering
+
+
+# Modified DepthFirstSearch:
+function dfs(at, visitedNodes):
+
+	V[at] = true
+	edges = graph.getEdgesOutFromNode(at)
+	for edge in edges:
+		if v[edge.to] == false:
+			dfs(edge.to, visitedNodes)
+	
+	visitedNodes.add(at)
+```
+
+### Optimised
+Optimisation will focus on eliminating the creation and use of `visited_nodes` array as it serves no function other that to make things easier. We will rewrite the code to modify `ordering` array directly.
+
+```pseudo
+# Gloal or class scope variables
+n = number of nodes in the graph
+graph = adjancy list representing graph
+visited = [false, ..., false] # size n
+
+function topsort():
+	ordering = [0,...,0] # Length N
+	i = N-1 # Index for ordering array
+
+	for (at=0; at<N; at++):
+		if V[at] == false:
+			i = dfs(at, i, ordering)
+
+# New DFS that allows us to use it in this new env:
+function dfs(at, i, ordering):
+	V[at] = true
+	edges = graph.getEdgesOutFromNode(at)
+	for edge in edges:
+		if V[edge.to] == false:
+			i = dfs(edge.to, i, ordering)
+
+	ordering[i] = at
+	return i-1
+```

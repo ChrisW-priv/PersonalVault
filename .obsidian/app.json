@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "pl",
+    "en-GB"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten",
+  "attachmentFolderPath": "./attachments",
+  "vimMode": true,
+  "showInlineTitle": false,
+  "showLineNumber": true
+}
