@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "95d0704b6fb3949d",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e9845484e31dc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Niemiecki/Lec1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "867986ab0a814039",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Niemiecki/słowniczek.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf22aa1180460630",
+    "type": "split",
+    "children": [
+      {
+        "id": "24a36717b31a7915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463202de1aef991c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f25d9e83312b593",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac6e90bcec3615c3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7846f4a25413bf11",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aca55157e81deda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a8474ac47b20fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Niemiecki/słowniczek.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e298457d3e95ff8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Niemiecki/słowniczek.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9167466d09fc7ce9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dddfc9db695c24ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Niemiecki/słowniczek.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "867986ab0a814039",
+  "lastOpenFiles": [
+    "Niemiecki/Lec1.md",
+    "Niemiecki/słowniczek.md",
+    "Niemiecki/Intro.md",
+    "Digital circuits/Lec2.md",
+    "Computer Architecture/Tut1.md",
+    "Computer Architecture/Lec1.md",
+    "Computer Architecture/Intro.md",
+    "Differential maths/edde03.pdf",
+    "Differential maths/edde02.pdf",
+    "Differential maths/Intro.md"
+  ]
+}
