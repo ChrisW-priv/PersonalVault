@@ -30,3 +30,18 @@ FH - Fah schule
 BWL - Szkoła biznesu
 
 praca w grupie - Teamarbeit
+
+die Realschule - szkoła techniczna (?)
+die Partnerhochschule - uczelnia partnerska
+
+die Lehrveranstaltung - (?)
+Ausbildung - wykształcenie
+abschreiben - spisywać
+die prufung ablegen - podejść do egzaminu
+die prufung bestehen - zdać zadanie
+ablehnen - zrezygnować
+sich bewerben [um] Akk. - ubiegać się o coś
+erhalten
+[etwas] halten - [coś] wygłaszać 
+
+czasami - manchmal

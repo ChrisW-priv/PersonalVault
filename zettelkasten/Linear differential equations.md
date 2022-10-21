@@ -1,5 +1,5 @@
 # Linear differential equations
-## Definition
+In notation part we get 2 ways to solve the equations
 
 ## Notation
 Given function:
@@ -28,3 +28,6 @@ $ln |h| = \int p'(x)dx$
 $h = Ce^{\int p'(x)dx}, C(x)$ 
 
 $h$ is called an integration factor
+
+## Examples
+Examples with no solutions attached are in [[edde03.pdf]] in part 2
