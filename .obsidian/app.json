@@ -6,8 +6,8 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "zettelkasten",
-  "attachmentFolderPath": "./attachments",
-  "vimMode": true,
+  "attachmentFolderPath": "IMGS",
+  "vimMode": false,
   "showInlineTitle": false,
   "showLineNumber": true
 }

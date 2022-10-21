@@ -16,3 +16,4 @@ Academie Deutch A2+
 10,11,12
 
 Hasło do zniżki: HPWAW
+[link do samouczków niemieckiego](https://learngerman.dw.com/pl/nicos-weg/c-50080643)
