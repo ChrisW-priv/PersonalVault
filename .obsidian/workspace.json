@@ -4,10 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11fffa8c5c4379cc",
+        "id": "b50f051db3ce2870",
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "7ef81eefd7ab9520",
             "type": "leaf",
             "state": {
@@ -16,6 +17,69 @@
             }
           }
         ]
+=======
+            "id": "445d02020dbe133a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Zaimki dzeiżawcze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69e0aa5c3aed0a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "320409cb88e330bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Czas przeszły.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f5cee18c3ade22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Odmiana sein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ccfed7c5fcfdebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -81,6 +145,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "UNI/Niemiecki/Intro.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +165,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "UNI/Niemiecki/Intro.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +190,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {}
+=======
+              "state": {
+                "file": "UNI/Niemiecki/Intro.md"
+              }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -131,6 +209,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< Updated upstream
   "active": "7ef81eefd7ab9520",
   "lastOpenFiles": [
     "zettelkasten/Static Optimisation.md",
@@ -143,5 +222,19 @@
     "UNI/Differential maths/edde03.pdf",
     "UNI/Niemiecki/Intro.md",
     "zettelkasten/Linear differential equations.md"
+=======
+  "active": "9ccfed7c5fcfdebf",
+  "lastOpenFiles": [
+    "UNI/Niemiecki/Czasowniki.md",
+    "UNI/Niemiecki/Odmiana sein.md",
+    "UNI/Niemiecki/Czas przeszły.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
+    "UNI/Niemiecki/Zaimki dzeiżawcze.md",
+    "UNI/Niemiecki/Intro.md",
+    "Templates/Notka niemiecki.md",
+    "Templates/Math Notes.md",
+    "UNI/Differential maths/edde03.pdf",
+    "zettelkasten/NOTES LEFT TODO.md"
+>>>>>>> Stashed changes
   ]
 }
