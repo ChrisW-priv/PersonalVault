@@ -1,4 +1,4 @@
-SSSP problem can be solved efficiently on a DAG in $O(V+E)$ time. This is due to the fact that the nodes can be ordered in a [[Topological ordering]] via [[Topological Sort]] and processed sequencially. 
+[[SSSP]] problem can be solved efficiently on a DAG in $O(V+E)$ time. This is due to the fact that the nodes can be ordered in a [[Topological ordering]] via [[Topological Sort]] and processed sequencially. 
 
 In this case we don't have to worry about negative edge weights as we do in other, more general algorithms.
 
