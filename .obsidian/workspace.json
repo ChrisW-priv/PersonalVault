@@ -4,11 +4,20 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "050261a29e20ccf3",
         "type": "tabs",
         "children": [
           {
             "id": "b67ab30ea6218717",
+=======
+        "id": "b50f051db3ce2870",
+        "type": "tabs",
+        "children": [
+          {
+<<<<<<< Updated upstream
+            "id": "7ef81eefd7ab9520",
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +40,75 @@
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+=======
+            "id": "445d02020dbe133a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Zaimki dzeiżawcze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69e0aa5c3aed0a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "320409cb88e330bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Czas przeszły.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f5cee18c3ade22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Odmiana sein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ccfed7c5fcfdebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+>>>>>>> Stashed changes
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
       }
     ],
     "direction": "vertical"
@@ -98,7 +174,14 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Computer Architecture/Lec3.md",
+=======
+<<<<<<< Updated upstream
+=======
+                "file": "UNI/Niemiecki/Intro.md",
+>>>>>>> Stashed changes
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +198,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Computer Architecture/Lec3.md",
+=======
+<<<<<<< Updated upstream
+=======
+                "file": "UNI/Niemiecki/Intro.md",
+>>>>>>> Stashed changes
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +227,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "UNI/Computer Architecture/Lec3.md"
               }
+=======
+<<<<<<< Updated upstream
+              "state": {}
+=======
+              "state": {
+                "file": "UNI/Niemiecki/Intro.md"
+              }
+>>>>>>> Stashed changes
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
             }
           }
         ]
@@ -152,11 +252,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< HEAD
   "active": "7e0c67b9deffddb4",
+=======
+<<<<<<< Updated upstream
+  "active": "7ef81eefd7ab9520",
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
   "lastOpenFiles": [
     "zettelkasten/Binary Search Tree (BST).md",
     "UNI/Algo+DS/Tut1.md",
     "zettelkasten/Stack.md",
+<<<<<<< HEAD
     "zettelkasten/Finding path on the graph.md",
     "zettelkasten/Bridges and Articulation Points in graphs.md",
     "zettelkasten/Floyd Warshall algorithm.md",
@@ -164,5 +270,25 @@
     "zettelkasten/Single Source Shortest Path on DAG (SSSP).md",
     "zettelkasten/Longest path on DAG.md",
     "zettelkasten/Dijkstra's algorithm.md"
+=======
+    "zettelkasten/Queue.md",
+    "UNI/Differential maths/edde03.pdf",
+    "UNI/Niemiecki/Intro.md",
+    "zettelkasten/Linear differential equations.md"
+=======
+  "active": "9ccfed7c5fcfdebf",
+  "lastOpenFiles": [
+    "UNI/Niemiecki/Czasowniki.md",
+    "UNI/Niemiecki/Odmiana sein.md",
+    "UNI/Niemiecki/Czas przeszły.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
+    "UNI/Niemiecki/Zaimki dzeiżawcze.md",
+    "UNI/Niemiecki/Intro.md",
+    "Templates/Notka niemiecki.md",
+    "Templates/Math Notes.md",
+    "UNI/Differential maths/edde03.pdf",
+    "zettelkasten/NOTES LEFT TODO.md"
+>>>>>>> Stashed changes
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
   ]
 }
