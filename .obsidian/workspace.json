@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "11fffa8c5c4379cc",
+        "id": "050261a29e20ccf3",
         "type": "tabs",
         "children": [
           {
-            "id": "7ef81eefd7ab9520",
+            "id": "b67ab30ea6218717",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Binary Search Tree (BST).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0c67b9deffddb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Computer Architecture/Lec3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI/Computer Architecture/Lec3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI/Computer Architecture/Lec3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNI/Computer Architecture/Lec3.md"
+              }
             }
           }
         ]
@@ -131,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7ef81eefd7ab9520",
+  "active": "7e0c67b9deffddb4",
   "lastOpenFiles": [
-    "zettelkasten/Static Optimisation.md",
-    "UNI/Niemiecki/Lec2.md",
+    "zettelkasten/Binary Search Tree (BST).md",
     "UNI/Algo+DS/Tut1.md",
-    "UNI/Niemiecki/słowniczek.md",
-    "zettelkasten/Recursion.md",
     "zettelkasten/Stack.md",
-    "zettelkasten/Queue.md",
-    "UNI/Differential maths/edde03.pdf",
-    "UNI/Niemiecki/Intro.md",
-    "zettelkasten/Linear differential equations.md"
+    "zettelkasten/Finding path on the graph.md",
+    "zettelkasten/Bridges and Articulation Points in graphs.md",
+    "zettelkasten/Floyd Warshall algorithm.md",
+    "zettelkasten/Bellman-Ford algorithm.md",
+    "zettelkasten/Single Source Shortest Path on DAG (SSSP).md",
+    "zettelkasten/Longest path on DAG.md",
+    "zettelkasten/Dijkstra's algorithm.md"
   ]
 }
