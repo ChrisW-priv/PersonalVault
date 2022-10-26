@@ -6,7 +6,11 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "zettelkasten",
+<<<<<<< Updated upstream
   "attachmentFolderPath": "IMGS",
+=======
+  "attachmentFolderPath": "./attachments",
+>>>>>>> Stashed changes
   "vimMode": false,
   "showInlineTitle": false,
   "showLineNumber": true

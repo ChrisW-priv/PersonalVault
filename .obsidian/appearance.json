@@ -1,5 +1,10 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
   "baseFontSize": 27,
+=======
+  "baseFontSize": 24,
+  "accentColor": "",
+>>>>>>> 97291b3dd1298942c4efcf7682f193ec06b02b0f
   "nativeMenus": false
 }
