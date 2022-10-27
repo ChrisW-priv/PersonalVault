@@ -36,5 +36,5 @@ Odpowiedzi (niepoprawione)
 12 das Gehalt - die bazahlung fur eine Arbeit (J)
 
 Meine Fraudin Rebecca liest gerne deshalb studiert sie Germanistik
-Meine Mutter spricht sie viele Sprachen deswegen arbeitet als Dolmetscherin
+Meine Mutter spricht sie viele Sprachen deswegen arbeitet sie als Dolmetscherin
 Mein Bruder will in Paris studieren darum lernt er Franzosisch

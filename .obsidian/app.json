@@ -1,17 +1,5 @@
 {
-  "promptDelete": false,
-  "spellcheckLanguages": [
-    "pl",
-    "en-GB"
-  ],
-  "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten",
-<<<<<<< Updated upstream
-  "attachmentFolderPath": "IMGS",
-=======
-  "attachmentFolderPath": "./attachments",
->>>>>>> Stashed changes
-  "vimMode": false,
+  "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "showLineNumber": true
+  "attachmentFolderPath": "IMGS"
 }
