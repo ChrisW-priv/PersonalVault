@@ -45,3 +45,4 @@ erhalten
 [etwas] halten - [coś] wygłaszać 
 
 czasami - manchmal
+entscheiden - zdecydować
