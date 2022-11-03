@@ -37,4 +37,4 @@ We want to list all needed methods:
 	- funkcje popFront i popBack usuwają element bez zwracania wartości 
 	- dodane funkcje peekFront/Back zwracają wartości key i info modyfikując argumenty foo(Key& resKey, Info& resInfo)
 	- bool getInfo(Info& resInfo, key, occ=1) zamiast get_node(key) i też modyfikuje podane argumenty
-	- Move operator, 
+	- Move operator (zabawka, raczej nigdy jej nie użyjemy haha przydaje się do optymalizacji więc fajowa)
