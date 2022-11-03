@@ -46,3 +46,12 @@ erhalten
 
 czasami - manchmal
 entscheiden - zdecydować
+einfach - łatwo
+
+obwohl - chociaż/pomimo tego
+
+Denn oznacza to samo co weil/da ale nie zmienia szyku zdania + nie może być na początku zdania!
+
+Warum kommst du zum Baden nicht mit?
+Ich komme zum Baden nicht mit, weil...
+

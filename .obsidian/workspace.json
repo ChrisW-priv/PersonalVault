@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b3350f1fd7478a",
+        "id": "6914ce94d9bc49da",
         "type": "tabs",
         "children": [
           {
-            "id": "cd49c6226602c515",
+            "id": "a39ccf379e6fc3e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Heap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43bcc6cc9f87b424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/Lec3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e0e3556f1d04e530",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7493ec10ac8b6f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/słowniczek.md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "498c71dafec750bb",
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/Lec3.md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/Lec3.md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,28 +126,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Niemiecki/Lec3.md"
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "43bcc6cc9f87b424",
+  "active": "a39ccf379e6fc3e7",
   "lastOpenFiles": [
-    "UNI/Niemiecki/Lec1.md",
-    "Daily notes/2022-09-09 code idea.md",
-    "UNI/Niemiecki/Lec3.md",
-    "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec2.md",
-    "zettelkasten/Heap.md",
-    "zettelkasten/Priotity Queue.md",
-    "attachments/Pasted image 20221026205640.png",
-    "UNI/Digital circuits/Lec3.md",
-    "UNI/Circuits and signals/Summary of what we learned.md"
+    "zettelkasten/Eulerian cycle.md",
+    "zettelkasten/Counting the numebr of in and out edges in a graph.md",
+    "zettelkasten/Eulerian Path.md",
+    "zettelkasten/Minimum Spaning Tree (MST).md",
+    "zettelkasten/Bipartite Graph.md",
+    "zettelkasten/Max Flow on a graph.md",
+    "zettelkasten/Directed Acyclic Graphs (DAG).md",
+    "zettelkasten/Traveling Salesman Problem (TSP).md",
+    "zettelkasten/Strongly Connected Component (SCC).md",
+    "zettelkasten/Finding Articulation points in the graph.md"
   ]
 }

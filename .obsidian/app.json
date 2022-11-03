@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "attachmentFolderPath": "IMGS"
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten"
 }
