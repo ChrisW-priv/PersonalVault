@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(Tutorial)
+project(Labs)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Tutorial main.cpp)
+add_executable(Labs main.cpp labs.hpp)
