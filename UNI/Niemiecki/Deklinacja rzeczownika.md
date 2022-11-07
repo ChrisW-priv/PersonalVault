@@ -9,7 +9,9 @@ W języku niemieckim rzeczownik może być w jednym z czterech przypadków. W j�
 |Genitiv |**czyj?**|
 |Dativ |**komu? czemu?**|
 |Akkusativ |**kogo? co?**|
-
+Tabelka:
+![[Pasted image 20221107104627.png]]
+Przykłady:
 |Przypadek/rodzaj|męski|żeński|nijaki|mnoga|
 |:-|:-|:-|:-|:-|
 |Nominativ|der Vater/ein Vater|die Mutter/eine Mutter|das Kind/ein Kind|die Sterne|
