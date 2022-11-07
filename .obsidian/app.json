@@ -3,5 +3,8 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten"
+  "newFileFolderPath": "zettelkasten",
+  "showLineNumber": true,
+  "autoConvertHtml": false,
+  "showUnsupportedFiles": true
 }
