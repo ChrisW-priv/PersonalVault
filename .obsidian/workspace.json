@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Bit Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Bit Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Bit Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md"
+                "file": "zettelkasten/Bit Field.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "248af70af7906218",
+  "active": "8124ec5a9699183d",
   "lastOpenFiles": [
+    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/facebook-like-thumb.svg",
+    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/iterator-hierarchy.png",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Zaimki dzerżawcze.md",
     "UNI/Niemiecki/zaimki osobowe.md",
     "UNI/Niemiecki/Czas przeszły.md",
     "UNI/Niemiecki/Czasowniki.md",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Circuits and signals/Summary of what we learned.md",
     "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec3.md",
-    "UNI/Niemiecki/Lec1.md",
-    "Daily notes/2022-09-09 code idea.md"
+    "UNI/Niemiecki/Lec3.md"
   ]
 }
