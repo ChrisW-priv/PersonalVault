@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Bit Field.md",
+                "file": "UNI/Niemiecki/Linkers.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1264cb91e4689178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Derivative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14ade67c0fbfec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Iterators in c++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "120792bacc8ca94d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Bit Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Bit Field.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Bit Field.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8124ec5a9699183d",
+  "active": "120792bacc8ca94d",
   "lastOpenFiles": [
-    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/facebook-like-thumb.svg",
+    "zettelkasten/Iterators in c++.md",
+    "zettelkasten/Derivative.md",
     "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/iterator-hierarchy.png",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
-    "UNI/Niemiecki/Zaimki dzerżawcze.md",
-    "UNI/Niemiecki/zaimki osobowe.md",
-    "UNI/Niemiecki/Czas przeszły.md",
-    "UNI/Niemiecki/Czasowniki.md",
+    "zettelkasten/Integral.md",
+    "UNI/Differential maths/IntegrationFormulas.pdf",
+    "UNI/Niemiecki/Linkers.md",
     "UNI/Circuits and signals/Summary of what we learned.md",
-    "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec3.md"
+    "zettelkasten/Bit Field.md",
+    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/facebook-like-thumb.svg",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md"
   ]
 }
