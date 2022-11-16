@@ -29,3 +29,23 @@ O tym, jaki przypadek wybierzesz, decyduje czasownik i przyimek w zdaniu:
 Z tymi pytaniami kontrolnymi jest tak, że bardzo często zadając  pytanie danego przypadku (patrz wyżej) , można już ustalić jaki przypadek trzeba zastosować. Na przykład w przypadku „anrufen” (dzwonić). Dzwonię do **kogo? – to pytanie Akkusativ.** Niestety, nie zawsze się to sprawdza. Trzeba generalnie nauczyć się po jakich czasownikach i przyimkach jest jaki przypadek.
 
 Ale dopóki się nauczysz rekcji czasownika czy przyimków – warto wspomagać się pytaniami kontrolnymi.
+
+## Intuicja
+Dativ:
+Serr von und zu Snambeg
+seit
+nach
+dus
+mit
+bei
+entgegen
+gegenuber
+
+Akkusativ:
+Fudoge: (F U DOGE)
+Fur
+um
+durch
+ohne
+gegen
+entlang
