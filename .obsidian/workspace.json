@@ -4,55 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "c73f3932fb19e6d3",
+        "id": "ffe8db78f8717c45",
         "type": "tabs",
         "children": [
           {
-            "id": "248af70af7906218",
+            "id": "ace88c8be246c295",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI/Niemiecki/Linkers.md",
+                "file": "zettelkasten/JK FlipFlop.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1264cb91e4689178",
+            "id": "a874e450d42b46fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Derivative.md",
+                "file": "zettelkasten/D Latch.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14ade67c0fbfec1b",
+            "id": "d818176f295491f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "zettelkasten/Iterators in c++.md",
-                "mode": "source",
-                "source": false
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
               }
-            }
-          },
-          {
-            "id": "120792bacc8ca94d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+              }
             }
           }
         ]
@@ -165,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "120792bacc8ca94d",
+  "active": "d818176f295491f9",
   "lastOpenFiles": [
-    "zettelkasten/Iterators in c++.md",
-    "zettelkasten/Derivative.md",
-    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/iterator-hierarchy.png",
-    "zettelkasten/Integral.md",
-    "UNI/Differential maths/IntegrationFormulas.pdf",
-    "UNI/Niemiecki/Linkers.md",
-    "UNI/Circuits and signals/Summary of what we learned.md",
-    "zettelkasten/Bit Field.md",
-    "zettelkasten/Writing a custom iterator in modern C++ - Internal Pointers_files/facebook-like-thumb.svg",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md"
+    "UNI/Digital circuits/EDC1 lecture4.pdf",
+    "UNI/Digital circuits/Lec4.md",
+    "zettelkasten/D FlipFlop.md",
+    "zettelkasten/D Latch.md",
+    "zettelkasten/D Flipflop.md",
+    "zettelkasten/JK FlipFlop.md",
+    "zettelkasten/SR Latch.md",
+    "zettelkasten/SR FlipFlop.md",
+    "UNI/Niemiecki/Zaimki dzerżawcze.md",
+    "UNI/Niemiecki/słowniczek.md"
   ]
 }
