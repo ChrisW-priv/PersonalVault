@@ -1,3 +1,4 @@
+# Solving ODE
 ## Step 1:
 Turn equation into a form: $f(x,y) := P(x,y) dx + Q(x,y) dy = 0$
 
@@ -10,6 +11,7 @@ if equal to 0: follow to step 4, else follow the [[Integrating factor for exact 
 
 ## Step 4:
 Remember: $f_x = P, f_y = Q$
+
 so to get a function $f$ we need to integrate $P$ over $x$ or $Q$ over $y$. 
 $$f(x,y) = \int{P dx} = \int{Q dy}$$
 
@@ -17,3 +19,6 @@ $$f(x,y) = \int{P dx} = \int{Q dy}$$
 Use one of $f_x = P, f_y = Q$ properies.
 Just differentiate the $f$ over $dy$ (or $dx$ if we integrated $Q$)
 Result of that is the result for entire function
+
+# Examples
+Examples are provided in [[edde04.pdf]]

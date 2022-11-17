@@ -4,21 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe8db78f8717c45",
+        "id": "c73f3932fb19e6d3",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "8e415ee2e8b76cf0",
-=======
-            "id": "ace88c8be246c295",
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+            "id": "03947fb01e1a99ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "zettelkasten/Exact method for solving ODEs.md",
+                "file": "Bernoulli equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aa90ecf46813aee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homogenous equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,48 +34,22 @@
         ]
       },
       {
-        "id": "230222ae47d0a36e",
+        "id": "b46c9dae42d92237",
         "type": "tabs",
         "children": [
           {
-            "id": "298760841001e312",
+            "id": "8e415ee2e8b76cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Integrating factor for exact method.md",
-=======
-                "file": "zettelkasten/JK FlipFlop.md",
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+                "file": "zettelkasten/Linear differential equations.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a874e450d42b46fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/D Latch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d818176f295491f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "498c71dafec750bb",
@@ -134,11 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "zettelkasten/Integrating factor for exact method.md",
-=======
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+                "file": "zettelkasten/Linear differential equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "zettelkasten/Integrating factor for exact method.md",
-=======
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+                "file": "zettelkasten/Linear differential equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "zettelkasten/Integrating factor for exact method.md"
-=======
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+                "file": "zettelkasten/Linear differential equations.md"
               }
             }
           }
@@ -197,32 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "298760841001e312",
+  "active": "8e415ee2e8b76cf0",
   "lastOpenFiles": [
-    "zettelkasten/Exact method for solving ODEs.md",
+    "zettelkasten/Differential equations.md",
+    "Bernoulli equations.md",
+    "Homogenous equations.md",
+    "zettelkasten/Linear differential equations.md",
     "zettelkasten/Integrating factor for exact method.md",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
-    "UNI/Niemiecki/Zaimki dzerżawcze.md",
-    "UNI/Niemiecki/zaimki osobowe.md",
-    "UNI/Niemiecki/Czas przeszły.md",
-    "UNI/Niemiecki/Czasowniki.md",
-    "UNI/Circuits and signals/Summary of what we learned.md",
-    "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec3.md"
-=======
-  "active": "d818176f295491f9",
-  "lastOpenFiles": [
-    "UNI/Digital circuits/EDC1 lecture4.pdf",
-    "UNI/Digital circuits/Lec4.md",
-    "zettelkasten/D FlipFlop.md",
-    "zettelkasten/D Latch.md",
-    "zettelkasten/D Flipflop.md",
-    "zettelkasten/JK FlipFlop.md",
-    "zettelkasten/SR Latch.md",
-    "zettelkasten/SR FlipFlop.md",
-    "UNI/Niemiecki/Zaimki dzerżawcze.md",
-    "UNI/Niemiecki/słowniczek.md"
->>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
+    "zettelkasten/Exact method for solving ODEs.md",
+    "zettelkasten/Examples of PDEs.md",
+    "zettelkasten/Examples of ODEs.md",
+    "Separation of Variables.md",
+    "Ordinary Differential Equations.md"
   ]
 }
