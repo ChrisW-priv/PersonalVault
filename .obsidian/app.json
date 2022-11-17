@@ -3,5 +3,6 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten"
+  "newFileFolderPath": "zettelkasten",
+  "showUnsupportedFiles": true
 }

@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "248af70af7906218",
+            "id": "8e415ee2e8b76cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Exact method for solving ODEs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "230222ae47d0a36e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298760841001e312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Integrating factor for exact method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Integrating factor for exact method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "zettelkasten/Integrating factor for exact method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md"
+                "file": "zettelkasten/Integrating factor for exact method.md"
               }
             }
           }
@@ -136,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "248af70af7906218",
+  "active": "298760841001e312",
   "lastOpenFiles": [
+    "zettelkasten/Exact method for solving ODEs.md",
+    "zettelkasten/Integrating factor for exact method.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Zaimki dzerżawcze.md",
     "UNI/Niemiecki/zaimki osobowe.md",
     "UNI/Niemiecki/Czas przeszły.md",
     "UNI/Niemiecki/Czasowniki.md",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Circuits and signals/Summary of what we learned.md",
     "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec3.md",
-    "UNI/Niemiecki/Lec1.md",
-    "Daily notes/2022-09-09 code idea.md"
+    "UNI/Niemiecki/Lec3.md"
   ]
 }
