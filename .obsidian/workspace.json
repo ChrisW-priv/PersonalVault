@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bernoulli equations.md",
+                "file": "zettelkasten/Bernoulli equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,31 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homogenous equations.md",
+                "file": "zettelkasten/Homogenous equations.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "b46c9dae42d92237",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8e415ee2e8b76cf0",
+            "id": "7733511b1bdebc2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Linear differential equations.md",
+                "file": "zettelkasten/Homogenous equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "498c71dafec750bb",
@@ -116,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Linear differential equations.md",
+                "file": "zettelkasten/Homogenous equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Linear differential equations.md",
+                "file": "zettelkasten/Homogenous equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Linear differential equations.md"
+                "file": "zettelkasten/Homogenous equations.md"
               }
             }
           }
@@ -167,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8e415ee2e8b76cf0",
+  "active": "8124ec5a9699183d",
   "lastOpenFiles": [
-    "zettelkasten/Differential equations.md",
-    "Bernoulli equations.md",
-    "Homogenous equations.md",
+    "zettelkasten/Homogenous equations.md",
+    "zettelkasten/Bernoulli equations.md",
     "zettelkasten/Linear differential equations.md",
+    "zettelkasten/Differential equations.md",
     "zettelkasten/Integrating factor for exact method.md",
     "zettelkasten/Exact method for solving ODEs.md",
     "zettelkasten/Examples of PDEs.md",
     "zettelkasten/Examples of ODEs.md",
-    "Separation of Variables.md",
+    "zettelkasten/Separation of Variables.md",
     "Ordinary Differential Equations.md"
   ]
 }
