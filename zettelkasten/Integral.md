@@ -1,1 +1,1 @@
-#TODO 
+Table for the integrals : [[IntegrationFormulas.pdf]]

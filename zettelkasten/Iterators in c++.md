@@ -1,0 +1,1 @@
+Topic is very well explained on the website downloaded here: [[Writing a custom iterator in modern C++ - Internal Pointers.html]]

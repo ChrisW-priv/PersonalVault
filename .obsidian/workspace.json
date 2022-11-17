@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c73f3932fb19e6d3",
+        "id": "ffe8db78f8717c45",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "8e415ee2e8b76cf0",
+=======
+            "id": "ace88c8be246c295",
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "zettelkasten/Exact method for solving ODEs.md",
                 "mode": "source",
                 "source": false
@@ -32,12 +37,38 @@
               "type": "markdown",
               "state": {
                 "file": "zettelkasten/Integrating factor for exact method.md",
+=======
+                "file": "zettelkasten/JK FlipFlop.md",
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a874e450d42b46fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/D Latch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d818176f295491f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +134,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "zettelkasten/Integrating factor for exact method.md",
+=======
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "zettelkasten/Integrating factor for exact method.md",
+=======
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +182,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "zettelkasten/Integrating factor for exact method.md"
+=======
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
               }
             }
           }
@@ -154,6 +197,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "298760841001e312",
   "lastOpenFiles": [
     "zettelkasten/Exact method for solving ODEs.md",
@@ -166,5 +210,19 @@
     "UNI/Circuits and signals/Summary of what we learned.md",
     "UNI/Niemiecki/słowniczek.md",
     "UNI/Niemiecki/Lec3.md"
+=======
+  "active": "d818176f295491f9",
+  "lastOpenFiles": [
+    "UNI/Digital circuits/EDC1 lecture4.pdf",
+    "UNI/Digital circuits/Lec4.md",
+    "zettelkasten/D FlipFlop.md",
+    "zettelkasten/D Latch.md",
+    "zettelkasten/D Flipflop.md",
+    "zettelkasten/JK FlipFlop.md",
+    "zettelkasten/SR Latch.md",
+    "zettelkasten/SR FlipFlop.md",
+    "UNI/Niemiecki/Zaimki dzerżawcze.md",
+    "UNI/Niemiecki/słowniczek.md"
+>>>>>>> a33a9583795dda21a4dd92c114bcad00623434cd
   ]
 }
