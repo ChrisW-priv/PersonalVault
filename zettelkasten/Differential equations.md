@@ -12,3 +12,13 @@ Example: $y'' - 6y' + 9y = 0$ is a second order differential equation.
 ## Solutions of differential equations
 **General solution** of n-th order differential equation is a family of functions dependent on n constants.
 **The particular solution** is a function which satisfies the differentail equation. 
+
+## Solving differential equations
+There is large number of methods to solve differential equations. Mainly we can solve ODEs in an analitical way and PDEs in numerical way
+
+Methods to solve ODEs:
+1.  [[Separation of Variables]]
+2.  [[Homogenous equations]]
+3.  [[Linear differential equations]]
+4.  [[Bernoulli equations]]
+5.  [[Exact method for solving ODEs|Exact method]] with [[Integrating factor for exact method|integrating factor]]

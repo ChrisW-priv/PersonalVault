@@ -1,6 +1,6 @@
 First steps are the same as in [[Exact method for solving ODEs]]
 
-if $Q_x-P_y \neq 0$ then we have to calculate the **intehrating factor** that will change our equation into form that will allow us to calculate the result with exact method.
+if $Q_x-P_y \neq 0$ then we have to calculate the **integrating factor** that will change our equation into form that will allow us to calculate the result with exact method.
 
 This integrating factor is $\mu$ and we use it like this:
 For a original function $f(x,y) := P(x,y) dx + Q(x,y) dy = 0$ 
