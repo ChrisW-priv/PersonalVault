@@ -1,0 +1,9 @@
+.data
+
+buf .space 8
+
+.text
+	ld a7 5
+	ld a0 buf
+	ld a1 8
+	

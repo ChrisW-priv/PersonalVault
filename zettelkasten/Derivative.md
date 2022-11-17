@@ -19,8 +19,13 @@ $$\frac{df}{dx}(x) = \lim_{dx \rightarrow 0}  \frac{f(x+dx) - f(x)}{dx}$$
 | $\mathbb{c}^{x}$ |$\mathbb{c}^{x} = ln(\mathbb{c})\cdot \mathbb{c}^{x}$ | [[Derivative of exponential functions]]|
 | sin(x) | cos(x) | #TODO |
 | cos(x) | -sin(x) | #TODO |
+| tan(x) |$\frac1{cos^2(x)}$|#TODO|
 |$(fg)'$|$f'g + fg'$|Imagine a rectangle. nudges to it's side are most visible as 2 lines of specific length|
 |$\frac{f}{g}$|$\frac{f'g - fg'}{g^2}$|Just ntational shorthand for a $(f\cdot \frac1g)$|
+|$arcsin(x)$|$\frac1{\sqrt{1-x^2}}$| #TODO |
+|$arccos(x)$|$\frac{-1}{\sqrt{1-x^2}}$| #TODO |
+|$arctan(x)$|$\frac1{1-x^2}$| #TODO |
+
 
 ## Additional materials
 [[Higher order derivatives]] 
