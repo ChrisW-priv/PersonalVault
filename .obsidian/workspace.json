@@ -4,16 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe8db78f8717c45",
+        "id": "c73f3932fb19e6d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ace88c8be246c295",
+            "id": "03947fb01e1a99ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Niemiecki/słowniczek.md",
+=======
+                "file": "zettelkasten/Bernoulli equations.md",
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "mode": "source",
                 "source": false
               }
@@ -26,16 +30,39 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "262ecc9d37e8d9b6",
+=======
+            "id": "0aa90ecf46813aee",
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Niemiecki/Linkers.md",
+=======
+                "file": "zettelkasten/Homogenous equations.md",
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "7733511b1bdebc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Homogenous equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
           }
         ]
       }
@@ -66,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +130,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Niemiecki/Linkers.md",
+=======
+                "file": "zettelkasten/Homogenous equations.md",
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Niemiecki/Linkers.md",
+=======
+                "file": "zettelkasten/Homogenous equations.md",
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +178,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "UNI/Niemiecki/Linkers.md"
+=======
+                "file": "zettelkasten/Homogenous equations.md"
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
               }
             }
           }
@@ -154,6 +193,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "262ecc9d37e8d9b6",
   "lastOpenFiles": [
     "UNI/Niemiecki/słowniczek.md",
@@ -166,5 +206,19 @@
     "zettelkasten/SR Latch.md",
     "zettelkasten/SR FlipFlop.md",
     "UNI/Niemiecki/Zaimki dzerżawcze.md"
+=======
+  "active": "8124ec5a9699183d",
+  "lastOpenFiles": [
+    "zettelkasten/Homogenous equations.md",
+    "zettelkasten/Bernoulli equations.md",
+    "zettelkasten/Linear differential equations.md",
+    "zettelkasten/Differential equations.md",
+    "zettelkasten/Integrating factor for exact method.md",
+    "zettelkasten/Exact method for solving ODEs.md",
+    "zettelkasten/Examples of PDEs.md",
+    "zettelkasten/Examples of ODEs.md",
+    "zettelkasten/Separation of Variables.md",
+    "Ordinary Differential Equations.md"
+>>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
   ]
 }

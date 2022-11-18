@@ -1,17 +1,5 @@
 {
-  "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
-  "attachmentFolderPath": "attachments",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten",
-  "showLineNumber": true,
-  "autoConvertHtml": false,
   "showUnsupportedFiles": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
