@@ -1,4 +1,5 @@
-data = """| Function | Derivative | Why? |
+## Table of derivatives
+| Function | Derivative | Why? |
 | :-: | :-: | :- |
 | scalars | 0 | Scalars can be seen as a flat line on the number line, and so there is no rate of change |
 | $x^n,\ n\in \mathbb{N}-\set{0}$ | $n\cdot x^{n-1}$ | This is the result of calculating the derivative directly (substitute $\rightarrow$ expand $\rightarrow$ shorten the result) |
@@ -14,10 +15,3 @@ data = """| Function | Derivative | Why? |
 |$arcsin(x)$|$\frac1{\sqrt{1-x^2}}$| #TODO |
 |$arccos(x)$|$\frac{-1}{\sqrt{1-x^2}}$| #TODO |
 |$arctan(x)$|$\frac1{1-x^2}$| #TODO |
-"""
-
-for line in data.split("\n"):
-    split_l = line.split("|")
-    a = "|"+("|".join(split_l[1:-2]))+"|"
-    a = a.replace("\f", "\\f")
-    print(a)
