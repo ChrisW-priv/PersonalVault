@@ -167,3 +167,13 @@ $I_1 = I_{in} \frac{G_1}{G_1+G_2+G_3}$
 
 Note: we HAVE TO change it into conductance, there is no easier/better way to do this!
 
+# Power
+![[Pasted image 20221127220449.png]]
+
+# Energy
+![[Pasted image 20221127221325.png]]
+![[Pasted image 20221127221305.png]]
+![[Pasted image 20221127221925.png]]
+![[Pasted image 20221127221840.png]]
+![[Pasted image 20221127221910.png]]
+![[Pasted image 20221127224133.png]]

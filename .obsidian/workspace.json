@@ -1,68 +1,19 @@
 {
   "main": {
-    "id": "419b6d0a500be354",
+    "id": "aa87288f78c843d8",
     "type": "split",
     "children": [
       {
-        "id": "c73f3932fb19e6d3",
+        "id": "f321535aa9355e98",
         "type": "tabs",
         "children": [
           {
-            "id": "03947fb01e1a99ee",
+            "id": "645d9b91600eb968",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "UNI/Niemiecki/słowniczek.md",
-=======
-                "file": "zettelkasten/Bernoulli equations.md",
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "86ee2eac96975622",
-        "type": "tabs",
-        "children": [
-          {
-<<<<<<< HEAD
-            "id": "262ecc9d37e8d9b6",
-=======
-            "id": "0aa90ecf46813aee",
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "UNI/Niemiecki/Linkers.md",
-=======
-                "file": "zettelkasten/Homogenous equations.md",
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
-                "mode": "source",
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "7733511b1bdebc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Homogenous equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
           }
         ]
       }
@@ -70,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4aefbd782c47eed",
+    "id": "1e932a5fa8549497",
     "type": "split",
     "children": [
       {
-        "id": "eed0d943415c7d68",
+        "id": "309b7cfabce12fef",
         "type": "tabs",
         "children": [
           {
-            "id": "8124ec5a9699183d",
+            "id": "4b3029f4567d3c4b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -88,7 +39,7 @@
             }
           },
           {
-            "id": "12814090f78f2309",
+            "id": "df8976430d07086b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +54,7 @@
             }
           },
           {
-            "id": "2f4b8d45311dca3b",
+            "id": "c31d02d612150d72",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -117,24 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "498c71dafec750bb",
+    "id": "6973928033a48752",
     "type": "split",
     "children": [
       {
-        "id": "94957579d21ff04e",
+        "id": "b94d9c6b84453eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f28b785e0839df29",
+            "id": "b6c16456322b09e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "UNI/Niemiecki/Linkers.md",
-=======
-                "file": "zettelkasten/Homogenous equations.md",
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,23 +92,18 @@
             }
           },
           {
-            "id": "bc2cb7ff4c0c79ee",
+            "id": "d9a8e1d88d4ba97a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "UNI/Niemiecki/Linkers.md",
-=======
-                "file": "zettelkasten/Homogenous equations.md",
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d82ae62ebe8e6bfa",
+            "id": "44c20b347caf34a8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,17 +114,11 @@
             }
           },
           {
-            "id": "d5e26a8d0d6a90f4",
+            "id": "36133c322898d963",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "UNI/Niemiecki/Linkers.md"
-=======
-                "file": "zettelkasten/Homogenous equations.md"
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
-              }
+              "state": {}
             }
           }
         ]
@@ -193,32 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "262ecc9d37e8d9b6",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
-    "UNI/Niemiecki/słowniczek.md",
-    "zettelkasten/JK FlipFlop.md",
-    "UNI/Digital circuits/EDC1 lecture4.pdf",
-    "UNI/Digital circuits/Lec4.md",
-    "zettelkasten/D FlipFlop.md",
-    "zettelkasten/D Latch.md",
-    "zettelkasten/D Flipflop.md",
-    "zettelkasten/SR Latch.md",
-    "zettelkasten/SR FlipFlop.md",
-    "UNI/Niemiecki/Zaimki dzerżawcze.md"
-=======
-  "active": "8124ec5a9699183d",
-  "lastOpenFiles": [
-    "zettelkasten/Homogenous equations.md",
-    "zettelkasten/Bernoulli equations.md",
-    "zettelkasten/Linear differential equations.md",
-    "zettelkasten/Differential equations.md",
-    "zettelkasten/Integrating factor for exact method.md",
-    "zettelkasten/Exact method for solving ODEs.md",
-    "zettelkasten/Examples of PDEs.md",
-    "zettelkasten/Examples of ODEs.md",
-    "zettelkasten/Separation of Variables.md",
-    "Ordinary Differential Equations.md"
->>>>>>> b88f41c4824935bb3c590203552ce047d3a87de8
+    "Pasted image 20221127221305.png",
+    "Pasted image 20221127220449.png",
+    "zettelkasten/Reservoir Sampling, Algorithm R.md",
+    "UNI/Algo+DS/EADS_Regulations.pdf",
+    "UNI/Circuits and signals/Lecture/lec09-nonlin_comp.pdf",
+    "UNI/Circuits and signals/Lecture/lec08-period_comp.pdf",
+    "UNI/Circuits and signals/Lecture/lec07-reson_comp.pdf",
+    "UNI/Circuits and signals/Lecture/lec06-acpow_comp.pdf",
+    "UNI/Circuits and signals/Lecture/lec05-acana_comp.pdf",
+    "UNI/Circuits and signals/Tutorial/tut05.pdf"
   ]
 }
