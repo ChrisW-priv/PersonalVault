@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f321535aa9355e98",
+        "id": "133e5deec8031609",
         "type": "tabs",
         "children": [
           {
-            "id": "645d9b91600eb968",
+            "id": "58d08e51b3328208",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Note:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,25 +121,33 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "f5248425035bba20",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "4b3029f4567d3c4b",
+  "active": "36133c322898d963",
   "lastOpenFiles": [
-    "Pasted image 20221127221305.png",
-    "Pasted image 20221127220449.png",
-    "zettelkasten/Reservoir Sampling, Algorithm R.md",
-    "UNI/Algo+DS/EADS_Regulations.pdf",
-    "UNI/Circuits and signals/Lecture/lec09-nonlin_comp.pdf",
-    "UNI/Circuits and signals/Lecture/lec08-period_comp.pdf",
-    "UNI/Circuits and signals/Lecture/lec07-reson_comp.pdf",
-    "UNI/Circuits and signals/Lecture/lec06-acpow_comp.pdf",
-    "UNI/Circuits and signals/Lecture/lec05-acana_comp.pdf",
-    "UNI/Circuits and signals/Tutorial/tut05.pdf"
+    "zettelkasten/Dot product.md",
+    "zettelkasten/Cross product.md",
+    "zettelkasten/Complex numbers.md",
+    "zettelkasten/Complex multiplication as a rotation.md",
+    "zettelkasten/Combining probability with OR.md",
+    "zettelkasten/Calculating probability by counting events.md",
+    "zettelkasten/Binary Search Tree (BST).md",
+    "zettelkasten/Bellman-Ford algorithm.md",
+    "zettelkasten/Matrix multiplication.md",
+    "zettelkasten/Matrix.md"
   ]
 }
