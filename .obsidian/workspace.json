@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "133e5deec8031609",
+        "id": "39a4b572ebbf094f",
         "type": "tabs",
         "children": [
           {
-            "id": "58d08e51b3328208",
+            "id": "d7d035914fa9a274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Differential maths/Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Differential maths/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Differential maths/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNI/Differential maths/Intro.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "58d08e51b3328208",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
+    "UNI/Differential maths/Intro.md",
     "zettelkasten/Dot product.md",
     "zettelkasten/Cross product.md",
     "zettelkasten/Complex numbers.md",
@@ -154,7 +147,6 @@
     "zettelkasten/Calculating probability by counting events.md",
     "zettelkasten/Binary Search Tree (BST).md",
     "zettelkasten/Bellman-Ford algorithm.md",
-    "zettelkasten/Matrix multiplication.md",
-    "zettelkasten/Matrix.md"
+    "zettelkasten/Matrix multiplication.md"
   ]
 }
