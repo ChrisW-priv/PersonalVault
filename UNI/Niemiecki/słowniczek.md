@@ -55,3 +55,9 @@ Denn oznacza to samo co weil/da ale nie zmienia szyku zdania + nie może być na
 Warum kommst du zum Baden nicht mit?
 Ich komme zum Baden nicht mit, weil...
 
+Die Flaache - powieżchnia
+Die Gewaaser - wody
+Das Klima - klimat
+Die Landschaft - krajobraz
+Die Nachbalaander - kraje sąsiedzkie
+

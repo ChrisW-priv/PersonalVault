@@ -27,5 +27,3 @@ function dfs(at):
 start_node = 0
 dfs(start_node)
 ```
-
-Note: this approach works but I don't like it because of recursion and so #TODO is to rewrite it as an iterative solution.

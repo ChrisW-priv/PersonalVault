@@ -13,7 +13,8 @@ If we visualise it we can see that the cross product for 3d is a vector that def
 [video explaining this fenomena more clearly and with animations](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
 
 ## Computation
-Note: only possible if vectors are of dimensions 2 and 3, so only possible for R2 and R3 (and for R7 somehow but this I don't understand)
+> [!Note] 
+> Only possible if vectors are of dimensions 2 and 3, so only possible for R2 and R3 (and for R7 somehow but this I don't understand)
 
 ### For 2d:
 For two 2d vectors $\vec{v}, \vec{w}$ we can build a matrix and compute it's determinant.

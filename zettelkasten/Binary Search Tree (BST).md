@@ -37,7 +37,8 @@ Needed methods:
 - copy
 - get elements
 
-Note: while the naive implementation is easy to do, to make the methods efficient is really hard! Problem will allways lie in making and keeping the tree balanced to maintain optimal $O(log(n))$ time!
+> [!Note] 
+> While the naive implementation is easy to do, to make the methods efficient is really hard! Problem will allways lie in making and keeping the tree balanced to maintain optimal $O(log(n))$ time!
 
 ## Intuition
 Search for any element in the tree is done in $O(log(n))$ time IF THE TREE IS BALANCED. In the worst case the search time can be $O(n)$!
