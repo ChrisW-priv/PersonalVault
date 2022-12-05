@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "36133c322898d963",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
     "zettelkasten/Dot product.md",
     "zettelkasten/Cross product.md",
