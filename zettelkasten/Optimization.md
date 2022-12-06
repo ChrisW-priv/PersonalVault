@@ -1,15 +1,15 @@
-# Optimisation
+# Optimization
 
-## Steps to optimise your code
+## Steps to optimize your code
 
-1. Determine if your code needs optimistion
-The most important step in optimising your code is to know if you need to. Remember: code optimisation often makes it harder to read or develop your code. Also: Know what you are optimising for!
+1. Determine if your code needs optimization
+The most important step in optimizing your code is to know if you need to. Remember: code optimization often makes it harder to read or develop your code. Also: Know what you are optimizing for!
 
-2. Make sure that optimisation is worth the trouble!
-When you determined that optimisations is needed make sure it is worth it! Sometimes the effort is so big you might just as well suffer a bit and wait just a bit longer
+2. Make sure that optimization is worth the trouble!
+When you determined that optimizations is needed make sure it is worth it! Sometimes the effort is so big you might just as well suffer a bit and wait just a bit longer
 
 3. Before you start: do code profiling!!! 
-It's perhaps the most important part of this whole article. You cannot optimise what you don't understand! Without proper profiling you will just guess what is faster and what should be done better.
+It's perhaps the most important part of this whole article. You cannot optimize what you don't understand! Without proper profiling you will just guess what is faster and what should be done better.
 
 4. Do extensive tests for your code!
 When you optimise code it's very important you don't break it in the process! Fast code is useless if it doesn't do what it should!
