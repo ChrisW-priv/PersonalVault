@@ -5,12 +5,12 @@ Ważne z wykładu:
 - Memory is a vector of numbered cells 
 As a result:
 - PC - Program counter: what instruction number do we execute
-- We store date of programs in consecutivecells so we can fetch larger blocks of data
+- We store date of programs in consecutive cells so we can fetch larger blocks of data
 
 Harvard architecture:
 - Computer not programmable
 - easy and fast 
 Princeton architecture:
-- single memmory
+- single memory
 - Slower and more complex cuz we need an extra hardware to switch between types of memory
 

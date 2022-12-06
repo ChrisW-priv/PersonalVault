@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
+                "file": "zettelkasten/Priotity Queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
+                "file": "zettelkasten/Priotity Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
+                "file": "zettelkasten/Priotity Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Maximum Cardinality Mathcing.md"
+                "file": "zettelkasten/Priotity Queue.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "d7d035914fa9a274",
   "lastOpenFiles": [
-    "zettelkasten/Integral.md",
-    "zettelkasten/Unit Vector.md",
-    "zettelkasten/probability density function (PDF).md",
-    "zettelkasten/Exact method for solving ODEs.md",
-    "UNI/Niemiecki/Linkers.md",
-    "UNI/Computer Architecture/Notki z playlisty ARKO.md",
-    "zettelkasten/NAND gate.md",
-    "zettelkasten/Floyd Warshall algorithm.md",
-    "UNI/Niemiecki/Czas przeszły.md",
-    "zettelkasten/Minimum Spanning Tree (MST).md"
+    "zettelkasten/Divergence.md",
+    "zettelkasten/Matrix multiplication.md",
+    "zettelkasten/Matrix.md",
+    "zettelkasten/Proportional form of Bayes Rule.md",
+    "zettelkasten/Maximum Cardinality Mathcing.md",
+    "zettelkasten/Parallelism.md",
+    "zettelkasten/Complex multiplication as a rotation.md",
+    "zettelkasten/Big O notation.md",
+    "zettelkasten/Vector.md",
+    "zettelkasten/Edge List.md"
   ]
 }
