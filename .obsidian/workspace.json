@@ -11,12 +11,8 @@
             "id": "d7d035914fa9a274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Structure of Arrays (SoA).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Structure of Arrays (SoA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Structure of Arrays (SoA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Structure of Arrays (SoA).md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,15 +139,15 @@
   },
   "active": "d7d035914fa9a274",
   "lastOpenFiles": [
-    "UNI/Circuits and signals/Intro.md",
-    "zettelkasten/Reflexive Relation.md",
-    "zettelkasten/Topological ordering.md",
-    "zettelkasten/Adjacency Matrix.md",
-    "zettelkasten/OR gate.md",
-    "zettelkasten/Linear dependence.md",
-    "zettelkasten/Identity Relation.md",
-    "zettelkasten/Gamma function.md",
-    "Templates/Algorithm note.md",
-    "zettelkasten/Calculating probability by counting events.md"
+    "zettelkasten/Max Flow on a graph.md",
+    "zettelkasten/Chain rule.md",
+    "zettelkasten/Tree.md",
+    "zettelkasten/NAND gate.md",
+    "zettelkasten/Unit Vector.md",
+    "zettelkasten/Strongly Connected Component (SCC).md",
+    "Templates/Math Notes.md",
+    "zettelkasten/Proportional form of Bayes Rule.md",
+    "UNI/Critical thinking lectures/Intro.md",
+    "zettelkasten/Reservoir Sampling, Algorithm R.md"
   ]
 }
