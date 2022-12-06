@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Double Buffer method.md",
+                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Double Buffer method.md",
+                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Double Buffer method.md",
+                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Double Buffer method.md"
+                "file": "zettelkasten/Minimum Spaning Tree (MST).md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "d7d035914fa9a274",
   "lastOpenFiles": [
+    "zettelkasten/Double Buffer method.md",
     "zettelkasten/Factorial function.md",
     "zettelkasten/Intro Sort.md",
     "zettelkasten/Complex Fourier Series.md",
@@ -156,7 +157,6 @@
     "zettelkasten/Dot product.md",
     "zettelkasten/Cross product.md",
     "zettelkasten/Complex numbers.md",
-    "zettelkasten/Complex multiplication as a rotation.md",
-    "zettelkasten/Combining probability with OR.md"
+    "zettelkasten/Complex multiplication as a rotation.md"
   ]
 }
