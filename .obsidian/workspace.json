@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "007d7916b8611288",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Binary Search.md"
+                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
               }
             }
           },
@@ -154,11 +164,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b1598e7ba7ce8b7",
+  "active": "007d7916b8611288",
   "lastOpenFiles": [
+    "zettelkasten/Untitled.md",
     "zettelkasten/Binary Search.md",
     "zettelkasten/Optimization.md",
-    "zettelkasten/Untitled.md",
     "zettelkasten/Max Flow on a graph.md",
     "zettelkasten/Chain rule.md",
     "zettelkasten/Tree.md",
