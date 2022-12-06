@@ -21,16 +21,15 @@ Only when we went through those points can we proceed to actually optimize!
 It may be tempting to make your current solution more efficient, integrate workflow into larger context or make production more specialised. However, what if you are solving wrong problem?
 What often halps is drawing entire hotpath of your code with all it's paths and branches. Often it's immediately obvious what is not needed or what is to be refactored. By remember that sometimes you may need to start all over again. Maybe there is solution so different that in order to be "better" you need to start over and do work in complete different way? 🤔
 
-2. Some problems are structural but sometimes it's algorithms and datastructures that are to blame.
-You may find that your general solution is correct but base components are doing work in an inefficient manner. Follow Data Driven Development techniques to optimize it and look for algorithms that work better ie. reduce time/space complexity and data structures allow for efficient read/write/updates.
+2. Some problems are structural but sometimes it's algorithms and data structures that are to blame.
+You may find that your general solution is correct but base components are doing work in an inefficient manner. Follow Data Driven Development techniques to optimize it and look for algorithms that work better i.e. reduce time/space complexity and data structures allow for efficient read/write/updates.
 
 3. Data flow of your program is perhaps the most crucial part of the performance focused design.
-In today's world you will often find that utilizing better cashe is the way to go. Because we have much memory instead of doing same work twice we can just remember what we did previously. Also, try to limit the size of the structures you are iterating trough as it'll allow for more cashe hits and overall faster programs.
+In today's world you will often find that utilizing better cache is the way to go. Because we have much memory instead of doing same work twice we can just remember what we did previously. Also, try to limit the size of the structures you are iterating trough as it'll allow for more cashe hits and overall faster programs.
 
 4. Is your problem easily solved by adding more compute power/memory?
-Often problem is easily solved by just throwing more compute power into the problem. Specially when you deal with "black box" subprograms or aplications (like games), then you simply cannot make it work faster besides giving it faster CPU or more RAM. Maybe try to overclock the processors or allow them to enter longer boost phases.
-Side note: this point also highlights that best algorithms are the ones that can laverage more power rather that be able to do without them.
-TLDR: some problems are already on the bleading edge of what can be done with given hardware. It's often way faster (and so cheaper) to just replace current hardware with faster one.
+Often problem is easily solved by just throwing more compute power into the problem. Specially when you deal with "black box" subprograms or applications (like games), then you simply cannot make it work faster besides giving it faster CPU or more RAM. Maybe try to overclock the processors or allow them to enter longer boost phases.
+Side note: this point also highlights that best algorithms are the ones that can leverage more power rather that be able to do without them.
 
 5. When you are desperate - limit number of other processes running on the same machine.
 
