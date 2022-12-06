@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "zettelkasten/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "zettelkasten/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "zettelkasten/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Optimization.md"
+                "file": "zettelkasten/Binary Search.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "7b1598e7ba7ce8b7",
   "lastOpenFiles": [
+    "zettelkasten/Binary Search.md",
+    "zettelkasten/Optimization.md",
     "zettelkasten/Untitled.md",
     "zettelkasten/Max Flow on a graph.md",
     "zettelkasten/Chain rule.md",
@@ -163,8 +165,6 @@
     "zettelkasten/NAND gate.md",
     "zettelkasten/Unit Vector.md",
     "zettelkasten/Strongly Connected Component (SCC).md",
-    "Templates/Math Notes.md",
-    "zettelkasten/Proportional form of Bayes Rule.md",
-    "UNI/Critical thinking lectures/Intro.md"
+    "Templates/Math Notes.md"
   ]
 }
