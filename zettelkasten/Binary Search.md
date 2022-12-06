@@ -16,6 +16,10 @@ To get element one bigger that the element we look for we should use [std::upper
 To do binary search in python we can use `bisect` module:
 
 ```Python
-from bisect import 
+from bisect import bisect_left, bisect_right
+
+l = [1,2,3,4,4,4,4,5,6,7,8]
+first_four = bisect_left(l,4)
+last_four = bisect_four(l,4)
 ```
 
