@@ -18,9 +18,10 @@ If you already were using Test Driven Development (TDD) to develop code then it'
 Only when we went through those points can we proceed to actually optimize!
 1. Is the work you are currently doing actually needed/ the right way to solve problem
 `There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker`
-It may be tempting to make your current solution more efficient, integrate workflow into larger context or make production more specialised. However, what if you are solving wrong problem?
+It may be tempting to make your current solution more efficient, integrate workflow into larger context or make production more specialized. However, what if you are solving wrong problem?
 What often helps is drawing entire hot-path of your code with all it's paths and branches. Often it's immediately obvious what is not needed or what is to be refactored. By remember that sometimes you may need to start all over again. Maybe there is solution so different that in order to be "better" you need to start over and do work in complete different way? 🤔
-As an example: in optimising search function that compa
+> [!Example]
+> In optimizing search function that compares two elements we should allways ask ourself "Do I compare "
 
 2. Some problems are structural but sometimes it's algorithms and data structures that are to blame.
 You may find that your general solution is correct but base components are doing work in an inefficient manner. Follow Data Driven Development techniques to optimize it and look for algorithms that work better i.e. reduce time/space complexity and data structures allow for efficient read/write/updates.
