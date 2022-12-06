@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Priotity Queue.md",
+                "file": "zettelkasten/Structure of Arrays (SoA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Priotity Queue.md",
+                "file": "zettelkasten/Structure of Arrays (SoA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Priotity Queue.md",
+                "file": "zettelkasten/Structure of Arrays (SoA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Priotity Queue.md"
+                "file": "zettelkasten/Structure of Arrays (SoA).md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "d7d035914fa9a274",
   "lastOpenFiles": [
-    "zettelkasten/Divergence.md",
-    "zettelkasten/Matrix multiplication.md",
-    "zettelkasten/Matrix.md",
-    "zettelkasten/Proportional form of Bayes Rule.md",
-    "zettelkasten/Maximum Cardinality Mathcing.md",
-    "zettelkasten/Parallelism.md",
-    "zettelkasten/Complex multiplication as a rotation.md",
-    "zettelkasten/Big O notation.md",
-    "zettelkasten/Vector.md",
-    "zettelkasten/Edge List.md"
+    "UNI/Circuits and signals/Intro.md",
+    "zettelkasten/Reflexive Relation.md",
+    "zettelkasten/Topological ordering.md",
+    "zettelkasten/Adjacency Matrix.md",
+    "zettelkasten/OR gate.md",
+    "zettelkasten/Linear dependence.md",
+    "zettelkasten/Identity Relation.md",
+    "zettelkasten/Gamma function.md",
+    "Templates/Algorithm note.md",
+    "zettelkasten/Calculating probability by counting events.md"
   ]
 }
