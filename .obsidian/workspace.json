@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
+                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
+                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Minimum Spaning Tree (MST).md",
+                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Minimum Spaning Tree (MST).md"
+                "file": "zettelkasten/Minimum Spanning Tree (MST).md"
               }
             }
           },
@@ -146,9 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7d035914fa9a274",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
-    "zettelkasten/Minimum Spaning Tree (MST).md",
+    "zettelkasten/Minimum Spanning Tree (MST).md",
     "zettelkasten/Double Buffer method.md",
     "zettelkasten/Factorial function.md",
     "zettelkasten/Intro Sort.md",
