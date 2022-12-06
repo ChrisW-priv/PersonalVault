@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Minimum Spanning Tree (MST).md",
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Minimum Spanning Tree (MST).md"
+                "file": "zettelkasten/Maximum Cardinality Mathcing.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b3029f4567d3c4b",
+  "active": "d7d035914fa9a274",
   "lastOpenFiles": [
-    "zettelkasten/Minimum Spanning Tree (MST).md",
-    "zettelkasten/Double Buffer method.md",
-    "zettelkasten/Factorial function.md",
-    "zettelkasten/Intro Sort.md",
-    "zettelkasten/Complex Fourier Series.md",
-    "zettelkasten/Solution of Differential equations.md",
-    "UNI/Differential maths/Intro.md",
-    "zettelkasten/Dot product.md",
-    "zettelkasten/Cross product.md",
-    "zettelkasten/Complex numbers.md"
+    "zettelkasten/Integral.md",
+    "zettelkasten/Unit Vector.md",
+    "zettelkasten/probability density function (PDF).md",
+    "zettelkasten/Exact method for solving ODEs.md",
+    "UNI/Niemiecki/Linkers.md",
+    "UNI/Computer Architecture/Notki z playlisty ARKO.md",
+    "zettelkasten/NAND gate.md",
+    "zettelkasten/Floyd Warshall algorithm.md",
+    "UNI/Niemiecki/Czas przeszły.md",
+    "zettelkasten/Minimum Spanning Tree (MST).md"
   ]
 }
