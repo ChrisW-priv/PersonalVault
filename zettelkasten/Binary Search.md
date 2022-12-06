@@ -1,5 +1,6 @@
 # Binary Search
 ## Definition
-Search done on a [[Sorted Array]]. it searches the 
+Search done on a [[Sorted Array]]. It searches for the element in $
+
 ## Code
 
