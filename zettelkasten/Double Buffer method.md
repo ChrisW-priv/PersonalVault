@@ -19,4 +19,4 @@ This makes sense because in sims we often work with "based on state check if sta
 Therefore we can rewrite this such that is no chage of state is detected we still write current state to "next". This does not impact performance much (we even can get rid of branch prediction part)
 
 ## Code
-Code d
+Code done unofficialy as part of bigger project but is not yet ready to be available here.
