@@ -13,7 +13,6 @@ def binary_search(arr, x):
     mid = 0
  
     while low <= high:
- 
         mid = (high + low) // 2
  
         # If x is greater, ignore left half
@@ -24,7 +23,7 @@ def binary_search(arr, x):
         elif arr[mid] > x:
             high = mid - 1
  
-        # means x is present at mid
+        # if we got here it means mid = x
         else:
             return mid
  
