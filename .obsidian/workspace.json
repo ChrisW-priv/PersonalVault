@@ -28,17 +28,19 @@
             }
           },
           {
-            "id": "007d7916b8611288",
+            "id": "5b38b30b8cc89596",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+                "file": "zettelkasten/Iterators in c++.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
+                "file": "zettelkasten/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf",
+                "file": "zettelkasten/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture2p.pdf"
+                "file": "zettelkasten/Binary Search.md"
               }
             }
           },
@@ -164,8 +166,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "007d7916b8611288",
+  "active": "7b1598e7ba7ce8b7",
   "lastOpenFiles": [
+    "UNI/Digital circuits/EDC1 lecture2p.pdf",
+    "zettelkasten/Iterators in c++.md",
     "zettelkasten/Untitled.md",
     "zettelkasten/Binary Search.md",
     "zettelkasten/Optimization.md",
@@ -173,8 +177,6 @@
     "zettelkasten/Chain rule.md",
     "zettelkasten/Tree.md",
     "zettelkasten/NAND gate.md",
-    "zettelkasten/Unit Vector.md",
-    "zettelkasten/Strongly Connected Component (SCC).md",
-    "Templates/Math Notes.md"
+    "zettelkasten/Unit Vector.md"
   ]
 }

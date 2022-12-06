@@ -6,7 +6,31 @@ Search done on a [[Sorted Array]]. It searches for the element in $O(log(n))$ co
 > What we need is an index of an element in range or boolean info if element is in the range we look for. 
 
 ## Code
-
+```pseudo
+def binary_search(arr, x):
+    low = 0
+    high = len(arr) - 1
+    mid = 0
+ 
+    while low <= high:
+ 
+        mid = (high + low) // 2
+ 
+        # If x is greater, ignore left half
+        if arr[mid] < x:
+            low = mid + 1
+ 
+        # If x is smaller, ignore right half
+        elif arr[mid] > x:
+            high = mid - 1
+ 
+        # means x is present at mid
+        else:
+            return mid
+ 
+    # If we reach here, then the element was not present
+    return -1
+```
 ### C++ 
 In c++ we have a `std::binary_search` but it returns only boolean if it was found or not. That can sometimes be useful but if we need an index of the value then we need to use [std::lower_bound](https://en.cppreference.com/w/cpp/algorithm/lower_bound) which returns iterator to first element that does not satisfy `element < value` (so equal or greater).
 
