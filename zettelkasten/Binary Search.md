@@ -5,4 +5,4 @@ Search done on a [[Sorted Array]]. It searches for the element in $O(log(n))$ co
 ## Code
 
 ### C++ 
-in c++ we have a `std::binary_search` but it returns only boolean if it was found or not
+in c++ we have a `std::binary_search` but it returns only boolean if it was found or not. If we need an index of the value then we need to 
