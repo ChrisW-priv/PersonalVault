@@ -1,6 +1,6 @@
 # Complex Fourier Series
 ## Definition
-
+#TODO 
 ## Notation
 
 ## Intuition
