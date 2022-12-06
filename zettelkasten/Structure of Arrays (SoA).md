@@ -1,2 +1,2 @@
 #TODO 
-SIMD based optimisation method. Insanely efficient!
+SIMD based optimization method. Insanely efficient!
