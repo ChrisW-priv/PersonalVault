@@ -4,5 +4,5 @@ Search done on a [[Sorted Array]]. It searches for the element in $O(log(n))$ co
 
 ## Code
 
-
-```
+### C++ 
+in c++ we have a 
