@@ -2,6 +2,13 @@
 ## Definition
 An extension of [[Singly Linked List]]. Difference is that each node holds `data`, `next` pointer AND `prev` pointer. This makes any algorithm modifying the doubly linked list MUCH easier than in singly linked list.
 
+## Notation
+```mermaid
+flowchart LR
+    A -->|next| B -->|next| C
+    
+```
+
 ## Code
 ### C
 Code copied from [here](https://www.programiz.com/dsa/doubly-linked-list)
