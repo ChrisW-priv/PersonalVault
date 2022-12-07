@@ -57,14 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Depth First Search (DFS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md"
+                "file": "zettelkasten/Binary Search.md"
               }
             }
           },
@@ -190,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b5c9f57937cd2e8",
+  "active": "7b1598e7ba7ce8b7",
   "lastOpenFiles": [
-    "zettelkasten/Singly Linked List.md",
+    "zettelkasten/Iterators in c++.md",
+    "zettelkasten/Depth First Search (DFS).md",
+    "zettelkasten/Data Structure.md",
     "zettelkasten/Doubly Linked List.md",
+    "zettelkasten/Singly Linked List.md",
     "zettelkasten/Binary Search.md",
     "UNI/Digital circuits/EDC1 lecture2p.pdf",
-    "zettelkasten/Iterators in c++.md",
     "zettelkasten/Untitled.md",
     "zettelkasten/Optimization.md",
-    "zettelkasten/Max Flow on a graph.md",
-    "zettelkasten/Chain rule.md",
-    "zettelkasten/Tree.md"
+    "zettelkasten/Max Flow on a graph.md"
   ]
 }
