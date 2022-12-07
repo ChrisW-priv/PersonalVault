@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Singly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Singly Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md"
+                "file": "zettelkasten/Singly Linked List.md"
               }
             }
           },
@@ -157,10 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8377b8163099e7d",
+  "active": "f0fe6ffe17fc9e5d",
   "lastOpenFiles": [
-    "zettelkasten/Singly Linked List.md",
     "zettelkasten/Doubly Linked List.md",
+    "zettelkasten/Singly Linked List.md",
     "UNI/Algo+DS/EADS_Regulations.pdf",
     "zettelkasten/Depth First Search (DFS).md",
     "zettelkasten/Iterators in c++.md",
