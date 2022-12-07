@@ -11,9 +11,23 @@
             "id": "f8377b8163099e7d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "UNI/Algo+DS/EADS_Regulations.pdf"
+                "file": "zettelkasten/Doubly Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0fe6ffe17fc9e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Singly Linked List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Algo+DS/EADS_Regulations.pdf",
+                "file": "zettelkasten/Doubly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Algo+DS/EADS_Regulations.pdf",
+                "file": "zettelkasten/Doubly Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Algo+DS/EADS_Regulations.pdf"
+                "file": "zettelkasten/Doubly Linked List.md"
               }
             }
           },
@@ -145,15 +159,15 @@
   },
   "active": "f8377b8163099e7d",
   "lastOpenFiles": [
-    "zettelkasten/Depth First Search (DFS).md",
     "zettelkasten/Singly Linked List.md",
+    "zettelkasten/Doubly Linked List.md",
+    "UNI/Algo+DS/EADS_Regulations.pdf",
+    "zettelkasten/Depth First Search (DFS).md",
     "zettelkasten/Iterators in c++.md",
     "zettelkasten/Binary Search.md",
     "zettelkasten/Data Structure.md",
-    "zettelkasten/Doubly Linked List.md",
     "UNI/Digital circuits/EDC1 lecture2p.pdf",
     "zettelkasten/Untitled.md",
-    "zettelkasten/Optimization.md",
-    "zettelkasten/Max Flow on a graph.md"
+    "zettelkasten/Optimization.md"
   ]
 }
