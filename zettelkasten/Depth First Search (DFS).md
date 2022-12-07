@@ -1,14 +1,15 @@
 The DFS is the most fundamental search algorithm used to explore nodes and edges of a [[Graph]]. It runs with time complexity of $O(V+E)$ and is often used as a building block in other algorithms. 
 
-By itself DFS isn't that useful, nut when augmented to perform other tasks such as count connected components, determine connectivity or find bridges/articulation points then DFS really shines.
+By itself DFS isn't that useful, but when augmented to perform other tasks such as count connected components, determine connectivity or find bridges/articulation points then DFS really shines.
 
 To code DFS you can either use recursion (it's always depth first) or use [[Stack]] to build iterative solution
 
 As name suggests a DFS plunges into a graph without regard for which edge it takes next until it cannot go further at which point it backtracks and continues.
 
-We backtrack either when there are no out-coming edges or if the neighbouring node has already been visited.
+We backtrack either when there are no out-coming edges or if the neighboring node has already been visited.
 
 ## Code
+In general you will most often use recursion for dfs because although not as efficient it is much easier to read and therefore maintain.
 ```pseudo
 # Gloal or class scope variables
 n = number of nodes in the graph
