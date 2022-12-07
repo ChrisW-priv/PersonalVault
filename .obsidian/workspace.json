@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "39a4b572ebbf094f",
+        "id": "9547eda1a61bd91d",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d035914fa9a274",
+            "id": "f8377b8163099e7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b1598e7ba7ce8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b38b30b8cc89596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Iterators in c++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baac172797de5891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Singly Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b5c9f57937cd2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Depth First Search (DFS).md",
-                "mode": "source",
-                "source": false
+                "file": "UNI/Algo+DS/EADS_Regulations.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "UNI/Algo+DS/EADS_Regulations.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "UNI/Algo+DS/EADS_Regulations.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Binary Search.md"
+                "file": "UNI/Algo+DS/EADS_Regulations.pdf"
               }
             }
           },
@@ -190,14 +143,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b1598e7ba7ce8b7",
+  "active": "f8377b8163099e7d",
   "lastOpenFiles": [
-    "zettelkasten/Iterators in c++.md",
     "zettelkasten/Depth First Search (DFS).md",
+    "zettelkasten/Singly Linked List.md",
+    "zettelkasten/Iterators in c++.md",
+    "zettelkasten/Binary Search.md",
     "zettelkasten/Data Structure.md",
     "zettelkasten/Doubly Linked List.md",
-    "zettelkasten/Singly Linked List.md",
-    "zettelkasten/Binary Search.md",
     "UNI/Digital circuits/EDC1 lecture2p.pdf",
     "zettelkasten/Untitled.md",
     "zettelkasten/Optimization.md",
