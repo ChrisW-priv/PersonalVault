@@ -33,6 +33,6 @@ int main()
 }
 ```
 
-This program creates a [[Vulkan instance]], which is the starting point for any [[Vulkan ]], and then prints a "hello world" message to the console. The program also includes some basic error checking to ensure that the Vulkan instance was created successfully.
+This program creates a [[Vulkan instance]], which is the starting point for any [[Vulkan]], and then prints a "hello world" message to the console. The program also includes some basic error checking to ensure that the Vulkan instance was created successfully.
 
 Note that this is just a simple example to illustrate the basics of [[Vulkan]] programming. A real-world Vulkan application would typically include additional code to create a logical device, allocate memory and resources, create pipelines and shaders, and submit commands to a queue. These concepts are covered in more detail in the official Vulkan tutorials and other resources.
