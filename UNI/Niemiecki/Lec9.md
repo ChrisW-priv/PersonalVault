@@ -5,5 +5,12 @@ Lernziele:
 
 11/1  1b
 R
-
 F
+F
+F
+
+1. 30
+2. 25
+3. leht 24 28 regnerish
+4. 
+22 25
