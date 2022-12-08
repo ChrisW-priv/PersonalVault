@@ -5,7 +5,7 @@ An extension of [[Singly Linked List]]. Difference is that each node holds `data
 ## Notation
 ```mermaid
 graph LR
-    head --> A -->|next| B -->|next| C -->|next| D
+    head --> A{{A}} -->|next| B{{B}} -->|next| C{{C}} -->|next| D{{D}}
 	D -->|prev| C -->|prev| B -->|prev| A
 ```
 
