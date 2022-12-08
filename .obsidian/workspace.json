@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Doubly Linked List.md",
+                "file": "zettelkasten/Singly Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0977e04970a2805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Circular Doubly Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Circular Singly Linked List.md",
+                "file": "zettelkasten/Circular Doubly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Circular Singly Linked List.md",
+                "file": "zettelkasten/Circular Doubly Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Circular Singly Linked List.md"
+                "file": "zettelkasten/Circular Doubly Linked List.md"
               }
             }
           },
@@ -158,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c827c9bcb6d944c6",
+  "active": "a0977e04970a2805",
   "lastOpenFiles": [
-    "zettelkasten/Doubly Linked List.md",
     "zettelkasten/Singly Linked List.md",
+    "zettelkasten/Doubly Linked List.md",
+    "zettelkasten/Circular Singly Linked List.md",
     "UNI/Algo+DS/EADS_Regulations.pdf",
     "zettelkasten/Depth First Search (DFS).md",
     "zettelkasten/Iterators in c++.md",
     "zettelkasten/Binary Search.md",
     "zettelkasten/Data Structure.md",
     "UNI/Digital circuits/EDC1 lecture2p.pdf",
-    "zettelkasten/Untitled.md",
-    "zettelkasten/Optimization.md"
+    "zettelkasten/Untitled.md"
   ]
 }
