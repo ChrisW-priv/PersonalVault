@@ -71,12 +71,8 @@
             "id": "5744dff0383fc00e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Vulkan hello world.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -148,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Vulkan hello world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Vulkan hello world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Vulkan hello world.md"
-              }
+              "state": {}
             }
           },
           {
@@ -208,8 +200,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df8976430d07086b",
+  "active": "5744dff0383fc00e",
   "lastOpenFiles": [
+    "zettelkasten/Vulkan hello world.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
     "zettelkasten/Physically-based rendering.md",
     "zettelkasten/Requirements to develop app with Vulkan.md",
@@ -218,7 +211,6 @@
     "zettelkasten/Network switch.md",
     "zettelkasten/Open Systems Interconnection (OSI) model.md",
     "zettelkasten/Network devices.md",
-    "zettelkasten/Counting the number of in and out edges in a graph.md",
-    "zettelkasten/Counting the numer of in and out edges in a graph.md"
+    "zettelkasten/Counting the number of in and out edges in a graph.md"
   ]
 }
