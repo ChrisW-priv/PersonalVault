@@ -4,9 +4,9 @@ An extension od [[Doubly Linked List]] also called Doubly Linked Ring.
 
 ## Notation
 ```mermaid
-flowchart LR
+graph LR
     start --> A 
-    A -->|next| B -->|next| C -->|next| D-->|next| A
+    A{{A}} -->|next| B{{B}} -->|next| C{{C}} -->|next| D{{D}}-->|next| A
 	D -->|prev| C -->|prev| B -->|prev| A-->|prev| D
 ```
 
@@ -14,7 +14,7 @@ flowchart LR
 > [!note]
 > In general it'll be easier to implement this using iterators + one extra node that will not be treated as Read-Write node. Instead it'll be used to define begin() and end() iterators.
 ```mermaid
-flowchart LR
+graph LR
     start --> A -->|next| A-->|prev| A
 ```
 Such that iterator `end` will be equal to `A` and `begin` will be `A->next`.
