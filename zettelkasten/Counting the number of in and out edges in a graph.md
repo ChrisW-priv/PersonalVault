@@ -1,6 +1,6 @@
-# Counting the numebr of in and out edges in a graph
+# Counting the number of in and out edges in a graph
 ## Definition
-To know the degree of each edge can be really useful when trying to find [[Eulerian Path]] of even [[Eulerian cycle]]. This is very easily done in linear time for [[Undirected Graph]] however can be quite hard to be done efficiently for [[Directed Graph]]. Code below is a sudjestion on how to do it quickly.
+To know the degree of each edge can be really useful when trying to find [[Eulerian Path]] of even [[Eulerian cycle]]. This is very easily done in linear time for [[Undirected Graph]] however can be quite hard to be done efficiently for [[Directed Graph]]. Code below is a suggestion on how to do it quickly.
 
 ## Code
 ```pseudo
@@ -17,4 +17,4 @@ function countInOutEdges(graph, N):
 ```
 
 ## Intuition
-In this solution no work is done unnecessairly so it's best solution so far.
+In this solution no work is done unnecessarily so it's best solution so far.

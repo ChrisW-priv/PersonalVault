@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5a001750bf17ad8",
+            "id": "c3dfc0ced2a0f23a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md"
+              }
             }
           },
           {
@@ -138,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f5a001750bf17ad8",
+  "active": "c3dfc0ced2a0f23a",
   "lastOpenFiles": [
+    "zettelkasten/Counting the numer of in and out edges in a graph.md",
     "Templates/Math Notes.md",
     "UNI/Niemiecki/Lec8.md",
     "UNI/Niemiecki/słowniczek.md",
@@ -148,7 +157,6 @@
     "Templates/Algorithm note.md",
     "zettelkasten/Circular Doubly Linked List.md",
     "zettelkasten/Doubly Linked List.md",
-    "zettelkasten/Circular Singly Linked List.md",
-    "zettelkasten/Singly Linked List.md"
+    "zettelkasten/Circular Singly Linked List.md"
   ]
 }
