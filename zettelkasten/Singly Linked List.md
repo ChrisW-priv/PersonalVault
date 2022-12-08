@@ -16,8 +16,8 @@ flowchart LR
 If you REALLY need to use it then consider built-in data structure for your language.
 Table that of names for those in different languages
 
-| Language | Name                                    | library/module                                                                                               |
-| -------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| C        | Lol, yes, you will build it by yourself | or use [this repo solution](or use [this repo solution](https://github.com/mkirchner/linked-list-good-taste) |
-| C++      | `std::forward_list`                     | `#include<forward_list>`                                                                                     |
-| Other    | ?                                       | ?                                                                                                             |
+| Language | Name                                    | library/module                                                                                                  |
+| -------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| C        | Lol, yes, you will build it by yourself | or use solution in [this repo](or use [this repo solution](https://github.com/mkirchner/linked-list-good-taste) |
+| C++      | `std::forward_list`                     | `#include<forward_list>`                                                                                        |
+| Other    | ?                                       | ?                                                                                                               |
