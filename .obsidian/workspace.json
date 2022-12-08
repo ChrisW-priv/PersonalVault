@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "13ea6e325413fa43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/OpenCL simple program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/OpenCL simple program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/OpenCL simple program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/OpenCL simple program.md"
+              }
             }
           },
           {
@@ -139,7 +156,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd50f7f141649cb3",
+  "active": "13ea6e325413fa43",
   "lastOpenFiles": [
     "zettelkasten/Vulkan hello world.md",
     "zettelkasten/Requirements to develop app with Vulkan.md",
