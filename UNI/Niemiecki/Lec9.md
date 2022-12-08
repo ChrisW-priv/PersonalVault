@@ -12,5 +12,5 @@ F
 1. 30
 2. 25
 3. leht 24 28 regnerish
-4. 
-22 25
+4. 29 sonnish wolkish
+5. 32 35
