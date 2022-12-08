@@ -1,4 +1,4 @@
-Donnestag, den 1. December 2022
+Donnestag, den 8. December 2022
 Lernziele: 
-- Deutchland
 - Das Wetter
+- TE-KA-MO-LO
