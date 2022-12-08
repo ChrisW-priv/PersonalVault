@@ -4,65 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7c6d6713c627fc",
+        "id": "5f4cbb37f746df56",
         "type": "tabs",
         "children": [
           {
-            "id": "e542e622e1c24afd",
+            "id": "f5a001750bf17ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/Lec9.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "22dbd07cccc1d643",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a45d5fe4b5aee4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Math Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c616d01be6db370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/Lec8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10788e12c031c2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/słowniczek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/Lec9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/Lec9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNI/Niemiecki/Lec9.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,13 +138,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e542e622e1c24afd",
+  "active": "f5a001750bf17ad8",
   "lastOpenFiles": [
+    "Templates/Math Notes.md",
+    "UNI/Niemiecki/Lec8.md",
     "UNI/Niemiecki/słowniczek.md",
     "UNI/Niemiecki/Lec9.md",
     "UNI/Niemiecki/Deklinacja rzeczownika.md",
-    "UNI/Niemiecki/Lec8.md",
-    "Templates/Math Notes.md",
     "Templates/Algorithm note.md",
     "zettelkasten/Circular Doubly Linked List.md",
     "zettelkasten/Doubly Linked List.md",
