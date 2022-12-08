@@ -9,7 +9,7 @@ A linked list is a [[Data Structure]] that is based on nodes. Each node holds so
 Example of Single Linked List:
 ```mermaid
 graph LR
-    head --> A -->|next| B -->|next| C -->|next| D
+    head --> A{{A}} -->|next|B{{B}} -->|next|C{{C}} -->|next|D{{D}}
 ```
 
 ## Code

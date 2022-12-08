@@ -4,8 +4,8 @@ An extension of [[Singly Linked List]]. Difference is that each node holds `data
 
 ## Notation
 ```mermaid
-flowchart LR
-    A -->|next| B -->|next| C -->|next| D
+graph LR
+    head --> A -->|next| B -->|next| C -->|next| D
 	D -->|prev| C -->|prev| B -->|prev| A
 ```
 

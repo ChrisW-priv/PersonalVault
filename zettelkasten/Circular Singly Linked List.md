@@ -5,7 +5,7 @@ An extension of [[Singly Linked List]] that allows for insertions at the beginni
 ## Notation
 ```mermaid
 graph LR
-    last-->B[node Z] -->|next| C[node p] -->|next| D[node] -->|next| E[node] -->|next| B
+    last-->B{{node Z}} -->|next| C{{node p}} -->|next| D{{node}} -->|next| E{{node}} -->|next| B
 ```
 
 ## Code
