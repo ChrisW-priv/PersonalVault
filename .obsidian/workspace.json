@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3dfc0ced2a0f23a",
+            "id": "d81ccfcf7cba5fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "file": "zettelkasten/Network switch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26be0ea93212cdda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Creating local server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd8c3c26a394577e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Create local network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "file": "zettelkasten/Create local network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "file": "zettelkasten/Create local network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md"
+                "file": "zettelkasten/Create local network.md"
               }
             }
           },
@@ -146,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c3dfc0ced2a0f23a",
+  "active": "dd8c3c26a394577e",
   "lastOpenFiles": [
+    "zettelkasten/Creating local server.md",
+    "zettelkasten/Network switch.md",
+    "zettelkasten/Open Systems Interconnection (OSI) model.md",
+    "zettelkasten/Network devices.md",
+    "zettelkasten/Counting the number of in and out edges in a graph.md",
     "zettelkasten/Counting the numer of in and out edges in a graph.md",
     "Templates/Math Notes.md",
     "UNI/Niemiecki/Lec8.md",
     "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec9.md",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
-    "Templates/Algorithm note.md",
-    "zettelkasten/Circular Doubly Linked List.md",
-    "zettelkasten/Doubly Linked List.md",
-    "zettelkasten/Circular Singly Linked List.md"
+    "UNI/Niemiecki/Lec9.md"
   ]
 }
