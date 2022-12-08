@@ -11,8 +11,12 @@
             "id": "7a45d5fe4b5aee4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Math Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Math Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Math Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Math Notes.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "7a45d5fe4b5aee4f",
   "lastOpenFiles": [
-    "zettelkasten/Circular Singly Linked List.md",
-    "zettelkasten/Singly Linked List.md",
+    "Templates/Algorithm note.md",
     "zettelkasten/Circular Doubly Linked List.md",
     "zettelkasten/Doubly Linked List.md",
+    "zettelkasten/Circular Singly Linked List.md",
+    "zettelkasten/Singly Linked List.md",
     "UNI/Algo+DS/EADS_Regulations.pdf",
     "zettelkasten/Depth First Search (DFS).md",
     "zettelkasten/Iterators in c++.md",
     "zettelkasten/Binary Search.md",
-    "zettelkasten/Data Structure.md",
-    "UNI/Digital circuits/EDC1 lecture2p.pdf"
+    "zettelkasten/Data Structure.md"
   ]
 }
