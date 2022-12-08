@@ -4,8 +4,8 @@ An extension of [[Singly Linked List]] that allows for insertions at the beginni
 
 ## Notation
 ```mermaid
-flowchart LR
-    A[last] --> B[node Z] -->|next| C[node p] -->|next| D[node] -->|next| B
+graph LR
+    last-->B[node Z] -->|next| C[node p] -->|next| D[node] -->|next| E[node] -->|next| B
 ```
 
 ## Code

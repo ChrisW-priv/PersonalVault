@@ -15,7 +15,8 @@ flowchart LR
 > In general it'll be easier to implement this using iterators + one extra node that will not be treated as Read-Write node. Instead it'll be used to define begin() and end() iterators.
 ```mermaid
 flowchart LR
-    start --> A -->|next| A
+    start --> A -->|next| A-->|prev| A
 ```
+Such that iterator `end` will be equal to `A` and `begin` will be `A->next`.
 
 #TODO  create this class and add it to github + add link here
