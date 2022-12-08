@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Requirements to develop app with Vulkan.md",
+                "file": "zettelkasten/Physically-based rendering.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Requirements to develop app with Vulkan.md",
+                "file": "zettelkasten/Physically-based rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Requirements to develop app with Vulkan.md",
+                "file": "zettelkasten/Physically-based rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Requirements to develop app with Vulkan.md"
+                "file": "zettelkasten/Physically-based rendering.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "d4b3991d4e80d609",
   "lastOpenFiles": [
+    "zettelkasten/Requirements to develop app with Vulkan.md",
     "zettelkasten/Create local network.md",
     "zettelkasten/Creating local server.md",
     "zettelkasten/Network switch.md",
@@ -193,7 +194,6 @@
     "zettelkasten/Counting the number of in and out edges in a graph.md",
     "zettelkasten/Counting the numer of in and out edges in a graph.md",
     "Templates/Math Notes.md",
-    "UNI/Niemiecki/Lec8.md",
-    "UNI/Niemiecki/słowniczek.md"
+    "UNI/Niemiecki/Lec8.md"
   ]
 }
