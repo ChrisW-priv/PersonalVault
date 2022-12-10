@@ -33,14 +33,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Quantum computing.md",
+                "file": "zettelkasten/Digital circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2d5badc1a8b5c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Logic Gates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Quantum computing.md",
+                "file": "zettelkasten/Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Quantum computing.md",
+                "file": "zettelkasten/Logic Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Quantum computing.md"
+                "file": "zettelkasten/Logic Gates.md"
               }
             }
           },
@@ -168,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e4cddd61627ce68",
+  "active": "c2d5badc1a8b5c76",
   "lastOpenFiles": [
+    "zettelkasten/Digital circuits.md",
+    "zettelkasten/Logic Gates.md",
+    "zettelkasten/Electronic circuit.md",
+    "UNI/Digital circuits/Lec4.md",
+    "zettelkasten/Quantum computing.md",
     "zettelkasten/OpenCL simple program.md",
     "zettelkasten/Vulkan hello world.md",
     "zettelkasten/Requirements to develop app with Vulkan.md",
     "zettelkasten/OpenGL Hello World.md",
-    "zettelkasten/graphics card.md",
-    "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
-    "zettelkasten/Physically-based rendering.md",
-    "zettelkasten/Create local network.md",
-    "zettelkasten/Creating local server.md",
-    "zettelkasten/Network switch.md"
+    "zettelkasten/graphics card.md"
   ]
 }
