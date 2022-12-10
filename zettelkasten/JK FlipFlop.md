@@ -1,6 +1,6 @@
 # JK FlipFlop
 ## Definition
-A [[State based circuit]] build from [[SR FlipFlop]] and [[AND gate]] with 3 inputs.
+A [[State based circuit]] build from [[SR Flip-Flop]] and [[AND gate]] with 3 inputs.
 ## Notation
 ### Implementation with [[NAND gate]]
 ![[Pasted image 20221116205154.png|300]]
