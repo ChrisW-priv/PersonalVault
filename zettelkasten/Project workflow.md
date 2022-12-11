@@ -26,3 +26,7 @@ VC system should have:
 
 Examples:
 1. Git -> github/gitlab
+
+## Extra:
+Good idea is to create linters for the project to keep the code in a standardized way. 
+
