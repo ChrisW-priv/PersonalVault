@@ -127,12 +127,71 @@
             "id": "e5e8a3d198fb448c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "mode": "source",
+                "source": false
+              }
             }
+          },
+          {
+            "id": "f71eb61b18987264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "205ad8df333830e6"
           }
         ],
         "currentTab": 10
+      },
+      {
+        "id": "20ba1755bbd5d4c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c01b9a8642ced4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "205ad8df333830e6"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +276,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +298,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/Counting the number of in and out edges in a graph.md"
+              }
             }
           },
           {
@@ -258,15 +321,15 @@
   },
   "active": "e5e8a3d198fb448c",
   "lastOpenFiles": [
+    "zettelkasten/Eulerian Path.md",
+    "zettelkasten/Eulerian cycle.md",
+    "zettelkasten/Counting the number of in and out edges in a graph.md",
     "zettelkasten/Bit Field.md",
     "zettelkasten/The Marsenne Twister.md",
     "zettelkasten/Pulay's algorithm.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
     "zettelkasten/Fock matrix.md",
     "zettelkasten/self-consistent field (SCF).md",
-    "zettelkasten/Linters.md",
-    "zettelkasten/Project workflow.md",
-    "zettelkasten/AI workflow.md",
-    "zettelkasten/Logic Gates.md"
+    "zettelkasten/Linters.md"
   ]
 }
