@@ -98,9 +98,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cfed709838f5aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Fock matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fbff35a529e7154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Pulay's algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -168,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Linters.md",
+                "file": "zettelkasten/Pulay's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Linters.md",
+                "file": "zettelkasten/Pulay's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Linters.md"
+                "file": "zettelkasten/Pulay's algorithm.md"
               }
             }
           },
@@ -228,17 +252,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7db51bf5acf849e",
+  "active": "2fbff35a529e7154",
   "lastOpenFiles": [
-    "zettelkasten/Project workflow.md",
+    "zettelkasten/Fock matrix.md",
     "zettelkasten/Linters.md",
+    "zettelkasten/Project workflow.md",
     "zettelkasten/AI workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Digital circuits.md",
     "zettelkasten/Electronic circuit.md",
     "zettelkasten/SR Flip-Flop.md",
-    "UNI/Digital circuits/Lec4.md",
-    "zettelkasten/Quantum computing.md"
+    "UNI/Digital circuits/Lec4.md"
   ]
 }
