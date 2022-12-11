@@ -22,6 +22,7 @@ Examples:
 
 VC system should have:
 1. outside server hosting the project versions
-2. 
+2. be able to indicate issues and handle git merges and alike
+
 Examples:
 1. Git -> github/gitlab

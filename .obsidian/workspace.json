@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Project workflow.md",
+                "file": "zettelkasten/AI workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Project workflow.md",
+                "file": "zettelkasten/AI workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Project workflow.md"
+                "file": "zettelkasten/AI workflow.md"
               }
             }
           },
@@ -216,10 +216,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2101b6cb8f148963",
+  "active": "6ecc7a93a5d061bc",
   "lastOpenFiles": [
-    "zettelkasten/AI workflow.md",
     "zettelkasten/Project workflow.md",
+    "zettelkasten/AI workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Digital circuits.md",
