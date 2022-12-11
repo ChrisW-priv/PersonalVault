@@ -40,7 +40,15 @@
             }
           },
           {
-            "id": "c2d5badc1a8b5c76",
+            "id": "879c0315c6670cbf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0be32d221395c2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "879c0315c6670cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/SR Flip-Flop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/SR Flip-Flop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/SR Flip-Flop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/SR Flip-Flop.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,15 +186,15 @@
   },
   "active": "879c0315c6670cbf",
   "lastOpenFiles": [
-    "zettelkasten/Digital circuits.md",
+    "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Logic Gates.md",
-    "zettelkasten/SR Flip-Flop.md",
+    "zettelkasten/Digital circuits.md",
     "zettelkasten/Electronic circuit.md",
+    "zettelkasten/SR Flip-Flop.md",
     "UNI/Digital circuits/Lec4.md",
     "zettelkasten/Quantum computing.md",
     "zettelkasten/OpenCL simple program.md",
     "zettelkasten/Vulkan hello world.md",
-    "zettelkasten/Requirements to develop app with Vulkan.md",
-    "zettelkasten/OpenGL Hello World.md"
+    "zettelkasten/Requirements to develop app with Vulkan.md"
   ]
 }
