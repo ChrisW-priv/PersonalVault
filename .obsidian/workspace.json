@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ecc7a93a5d061bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/AI workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Logic Gates.md",
+                "file": "zettelkasten/AI workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Logic Gates.md",
+                "file": "zettelkasten/AI workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Logic Gates.md"
+                "file": "zettelkasten/AI workflow.md"
               }
             }
           },
@@ -192,10 +204,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "879c0315c6670cbf",
+  "active": "6ecc7a93a5d061bc",
   "lastOpenFiles": [
-    "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Logic Gates.md",
+    "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Digital circuits.md",
     "zettelkasten/Electronic circuit.md",
     "zettelkasten/SR Flip-Flop.md",
