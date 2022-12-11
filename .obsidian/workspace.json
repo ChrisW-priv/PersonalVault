@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2101b6cb8f148963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Project workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/AI workflow.md",
+                "file": "zettelkasten/Project workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/AI workflow.md",
+                "file": "zettelkasten/Project workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/AI workflow.md"
+                "file": "zettelkasten/Project workflow.md"
               }
             }
           },
@@ -204,8 +216,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ecc7a93a5d061bc",
+  "active": "2101b6cb8f148963",
   "lastOpenFiles": [
+    "zettelkasten/AI workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Digital circuits.md",
@@ -214,7 +227,6 @@
     "UNI/Digital circuits/Lec4.md",
     "zettelkasten/Quantum computing.md",
     "zettelkasten/OpenCL simple program.md",
-    "zettelkasten/Vulkan hello world.md",
-    "zettelkasten/Requirements to develop app with Vulkan.md"
+    "zettelkasten/Vulkan hello world.md"
   ]
 }

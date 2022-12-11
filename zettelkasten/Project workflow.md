@@ -1,0 +1,3 @@
+1. Define what problem 
+
+When conducting research it's of utmost importance to make it clear what you are doing and why. Setup your project to follow what->why->how. this will make it clear to any new person what to expect and not be lost in a maze of your repo. If you are in a team, have clear indication of who does what and how. Ideally workflow of each member should be documented and automated. W
