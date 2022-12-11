@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7db51bf5acf849e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Linters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/AI workflow.md",
+                "file": "zettelkasten/Linters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/AI workflow.md",
+                "file": "zettelkasten/Linters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/AI workflow.md"
+                "file": "zettelkasten/Linters.md"
               }
             }
           },
@@ -216,9 +228,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ecc7a93a5d061bc",
+  "active": "f7db51bf5acf849e",
   "lastOpenFiles": [
     "zettelkasten/Project workflow.md",
+    "zettelkasten/Linters.md",
     "zettelkasten/AI workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
@@ -226,7 +239,6 @@
     "zettelkasten/Electronic circuit.md",
     "zettelkasten/SR Flip-Flop.md",
     "UNI/Digital circuits/Lec4.md",
-    "zettelkasten/Quantum computing.md",
-    "zettelkasten/OpenCL simple program.md"
+    "zettelkasten/Quantum computing.md"
   ]
 }
