@@ -122,9 +122,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5e8a3d198fb448c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Pulay's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +216,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Pulay's algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,9 +237,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Pulay's algorithm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,17 +256,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2fbff35a529e7154",
+  "active": "e5e8a3d198fb448c",
   "lastOpenFiles": [
+    "zettelkasten/Bit Field.md",
+    "zettelkasten/The Marsenne Twister.md",
+    "zettelkasten/Pulay's algorithm.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
     "zettelkasten/Fock matrix.md",
-    "zettelkasten/Pulay's algorithm.md",
     "zettelkasten/self-consistent field (SCF).md",
     "zettelkasten/Linters.md",
     "zettelkasten/Project workflow.md",
     "zettelkasten/AI workflow.md",
-    "zettelkasten/Logic Gates.md",
-    "zettelkasten/JK FlipFlop.md",
-    "zettelkasten/Digital circuits.md"
+    "zettelkasten/Logic Gates.md"
   ]
 }
