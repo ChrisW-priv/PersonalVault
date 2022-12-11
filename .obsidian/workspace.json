@@ -219,6 +219,7 @@
   "active": "2101b6cb8f148963",
   "lastOpenFiles": [
     "zettelkasten/AI workflow.md",
+    "zettelkasten/Project workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
     "zettelkasten/Digital circuits.md",
@@ -226,7 +227,6 @@
     "zettelkasten/SR Flip-Flop.md",
     "UNI/Digital circuits/Lec4.md",
     "zettelkasten/Quantum computing.md",
-    "zettelkasten/OpenCL simple program.md",
-    "zettelkasten/Vulkan hello world.md"
+    "zettelkasten/OpenCL simple program.md"
   ]
 }
