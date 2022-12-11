@@ -4,192 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4cbb37f746df56",
+        "id": "01bfd8f43c633fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "fd50f7f141649cb3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "13ea6e325413fa43",
+            "id": "f5c6193363697ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/OpenCL simple program.md",
+                "file": "zettelkasten/Reservoir Sampling, Algorithm R.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e4cddd61627ce68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Digital circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "879c0315c6670cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Logic Gates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be32d221395c2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Logic Gates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ecc7a93a5d061bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/AI workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2101b6cb8f148963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Project workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7db51bf5acf849e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Linters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cfed709838f5aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fbff35a529e7154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Pulay's algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5e8a3d198fb448c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f71eb61b18987264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "205ad8df333830e6"
-          }
-        ],
-        "currentTab": 10
-      },
-      {
-        "id": "20ba1755bbd5d4c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08c01b9a8642ced4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "205ad8df333830e6"
           }
         ]
       }
@@ -259,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "file": "zettelkasten/Reservoir Sampling, Algorithm R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md",
+                "file": "zettelkasten/Reservoir Sampling, Algorithm R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Counting the number of in and out edges in a graph.md"
+                "file": "zettelkasten/Reservoir Sampling, Algorithm R.md"
               }
             }
           },
@@ -319,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5e8a3d198fb448c",
+  "active": "f5c6193363697ed2",
   "lastOpenFiles": [
-    "zettelkasten/Eulerian Path.md",
-    "zettelkasten/Eulerian cycle.md",
     "zettelkasten/Counting the number of in and out edges in a graph.md",
-    "zettelkasten/Bit Field.md",
-    "zettelkasten/The Marsenne Twister.md",
-    "zettelkasten/Pulay's algorithm.md",
+    "zettelkasten/OpenCL simple program.md",
+    "zettelkasten/Digital circuits.md",
+    "zettelkasten/Logic Gates.md",
+    "zettelkasten/AI workflow.md",
+    "zettelkasten/Project workflow.md",
+    "zettelkasten/Linters.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
-    "zettelkasten/Fock matrix.md",
-    "zettelkasten/self-consistent field (SCF).md",
-    "zettelkasten/Linters.md"
+    "zettelkasten/Pulay's algorithm.md",
+    "zettelkasten/Eulerian Path.md"
   ]
 }
