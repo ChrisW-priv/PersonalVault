@@ -37,7 +37,10 @@ int* reservoir_sampling(int* stream, int k, int cut_off)
 {
 	int* result = (int*) malloc(k*sizeof(int));
 	int i=0, rand_index;
-	while (i<k) result[i] = stream[i++];
+	while (i<k){
+		result[i] = stream[i];
+		++i;
+	} 
 
 	while (i < cut_off) {
 		rand_index = random_bounded(i);
@@ -57,22 +60,20 @@ In C++ w can easily generalise this function to any type
 /// \param k number of elements chosen  
 /// \return pointer to first element chosen  
 template<typename T, typename Iter>  
-std::unique_ptr<T[]> reservoir_sampling(T* stream, size_t k, std::mt19937 generator)  
+std::unique_ptr<T[]> reservoir_sampling(T* stream, size_t cutoff, size_t k, std::mt19937 generator)  
 {  
     std::unique_ptr<T[]> result{ new T[k] };  
   
     size_t i=0, rand_index;  
-    Iter curr = begin;  
-    while (i<k) {  
-        result[i] = *curr;  
-        ++i; ++curr;  
-    }  
-    while (curr!=end){  
-        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // I want it <0-i) not <1,i>  
-        if (rand_index < k) result[rand_index] = *curr;  
-        ++i; ++curr;  
-    }  
-  
+    while (i<k){
+		result[i] = stream[i];
+		++i;
+	} 
+	while (i < cut_off) {
+        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // We want it <0-i) not <1,i>
+		if (rand_index < k) 
+			result[rand_index] = stream[i++];
+	}  
     return result;  
 }
 ```
@@ -95,7 +96,7 @@ std::unique_ptr<T[]> reservoir_sampling(Iter begin, Iter end, size_t k, std::mt1
         ++i; ++curr;  
     }  
     while (curr!=end){  
-        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // I want it <0-i) not <1,i>  
+        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // We want it <0-i) not <1,i>  
         if (rand_index < k) result[rand_index] = *curr;  
         ++i; ++curr;  
     }  
