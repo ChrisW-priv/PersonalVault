@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Fock matrix.md",
+                "file": "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,15 +254,15 @@
   },
   "active": "2fbff35a529e7154",
   "lastOpenFiles": [
+    "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
     "zettelkasten/Fock matrix.md",
+    "zettelkasten/Pulay's algorithm.md",
+    "zettelkasten/self-consistent field (SCF).md",
     "zettelkasten/Linters.md",
     "zettelkasten/Project workflow.md",
     "zettelkasten/AI workflow.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/JK FlipFlop.md",
-    "zettelkasten/Digital circuits.md",
-    "zettelkasten/Electronic circuit.md",
-    "zettelkasten/SR Flip-Flop.md",
-    "UNI/Digital circuits/Lec4.md"
+    "zettelkasten/Digital circuits.md"
   ]
 }
