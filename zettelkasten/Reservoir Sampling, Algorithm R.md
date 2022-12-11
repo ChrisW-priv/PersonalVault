@@ -51,44 +51,53 @@ int* reservoir_sampling(int* stream, int k, int cut_off)
 ## C++
 In C++ w can easily generalise this function to any type
 ```c++
-/// Allocates memmory on the heap of size k
-/// \param stream pointer to first element  
-/// \param k number of elements chosen  
-/// \param cut_off limits number of elements taken from stream  
-/// \return pointer to first element chosen  
-template<typename T>  
-T* reservoir_sampling(const T* stream, size_t k, size_t cut_off)  
-{  
-    T* result = (T*) malloc(k*sizeof(T));  
-  
-    size_t i=0, rand_index;  
-    while (i<k) result[i] = stream[i++];  
-  
-    while (i < cut_off) {  
-        rand_index = random_bounded(i);  
-        if (rand_index < k) result[rand_index] = stream[i++];  
-    }  
-    return result;  
-}
-```
-Or if we support the containers:
-```c++
-/// Allocates memmory on the heap of size k
+/// uses R algorithm for reservoir sampling given a pointer to stream of data  
 /// \param begin Iterator of container  
 /// \param end Iterator of container  
 /// \param k number of elements chosen  
 /// \return pointer to first element chosen  
 template<typename T, typename Iter>  
-T* fast_reservoir_sampling(Iter begin, Iter end, size_t k)  
+std::unique_ptr<T[]> reservoir_sampling(T* stream, size_t k, std::mt19937 generator)  
 {  
-    T* result = (T*) malloc(k*sizeof(T));  
+    std::unique_ptr<T[]> result{ new T[k] };  
   
     size_t i=0, rand_index;  
-    for (Iter curr = begin; curr!=end; ++curr){  
-        if (i<k) result[i] = *curr;  
-        rand_index = random_bounded(i);  
+    Iter curr = begin;  
+    while (i<k) {  
+        result[i] = *curr;  
+        ++i; ++curr;  
+    }  
+    while (curr!=end){  
+        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // I want it <0-i) not <1,i>  
         if (rand_index < k) result[rand_index] = *curr;  
-        ++i;  
+        ++i; ++curr;  
+    }  
+  
+    return result;  
+}
+```
+Or if we support the containers:
+```c++
+/// uses R algorithm for reservoir sampling given a pointer to stream of data  
+/// \param begin Iterator of container  
+/// \param end Iterator of container  
+/// \param k number of elements chosen  
+/// \return pointer to first element chosen  
+template<typename T, typename Iter>  
+std::unique_ptr<T[]> reservoir_sampling(Iter begin, Iter end, size_t k, std::mt19937 generator)  
+{  
+    std::unique_ptr<T[]> result{ new T[k] };  
+  
+    size_t i=0, rand_index;  
+    Iter curr = begin;  
+    while (i<k) {  
+        result[i] = *curr;  
+        ++i; ++curr;  
+    }  
+    while (curr!=end){  
+        rand_index = std::uniform_int_distribution<uint32_t>{1,static_cast<uint32_t>(i)}(generator) - 1; // I want it <0-i) not <1,i>  
+        if (rand_index < k) result[rand_index] = *curr;  
+        ++i; ++curr;  
     }  
   
     return result;  
