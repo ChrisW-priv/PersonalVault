@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48581c523d466a76",
+        "id": "61b0b465eb4cf55f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3a564f314433b6d",
+            "id": "0346e9ec559c86dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/PriorityQueue.md",
+                "file": "Parallel computation in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/PriorityQueue.md",
+                "file": "Parallel computation in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/PriorityQueue.md",
+                "file": "Parallel computation in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/PriorityQueue.md"
+                "file": "Parallel computation in Python.md"
               }
             }
           },
@@ -145,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3a564f314433b6d",
+  "active": "0346e9ec559c86dc",
   "lastOpenFiles": [
-    "zettelkasten/Queue.md",
     "zettelkasten/PriorityQueue.md",
+    "zettelkasten/Queue.md",
     "zettelkasten/Complex Fourier Series.md",
     "zettelkasten/Parallelism.md",
     "zettelkasten/Binary Search.md",
