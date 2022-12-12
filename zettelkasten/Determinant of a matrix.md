@@ -11,7 +11,9 @@ Special cases:
 - If the determinant of a matrix is negative then a transformation "flips" the space as in flipping a sheet of paper.
 
 ### Computation
-Note: only possible if square matrixes!!
+> [!Warning] 
+> Only possible if square matrixes!!
+
 #### For 2d
 $Let\ M = \begin{bmatrix} a & b \\ c & d \end{bmatrix}$, $det(M) = ad-bc$ 
 
@@ -28,7 +30,9 @@ Notice: first 3 components are products of components of diagonals from one side
 In general if is possible to calcualte a determinant of any matrix recursively similarly to the way shown in 3d example. It is important to remember that the signs of components switches between + and -. 
 However, if we want to start from different collumn you can! Remember that + and - sign follow chess board pattern like the one below:
 $$\begin{bmatrix} + & - & + & - \\ - & + & - & + \\ + & - & + & - \\ - & + & - & + \\ \end{bmatrix}$$
-sidenote: for each index sign of the index will be determined by equation: $-1^{i+j}$. 
+> [!sidenote]
+>  For each index sign of the index will be determined by equation: $-1^{i+j}$. 
+
 For example for 4d matrix:
 $$M=\begin{bmatrix} 1 & 2 & 3 & 4 \\ 1 & 0 & 2 & 0 \\ 0 & 1 & 2 & 3 \\ 2 & 3 & 0 & 0 \\ \end{bmatrix}$$
 $$det(M) = 

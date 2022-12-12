@@ -2,7 +2,7 @@
 ICs in short
 
 ## Definition
-Logic circuits are electronic circuits processing twovalued signals. Their operation is described by logic functions ([[Boolean Algebra]])
+Logic circuits are electronic circuits processing two valued signals. Their operation is described by logic functions ([[Boolean Algebra]])
 
 ## Notation
 

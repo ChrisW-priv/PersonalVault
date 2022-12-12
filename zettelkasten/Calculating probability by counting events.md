@@ -11,7 +11,8 @@ $$P(X) = \frac{\text{Number of elements in X}}{\text{Number of elements in}\ \Om
 ## Intuition
 Set $\Omega$ doesn't have to contain only singular elements. Instead it can hold ordered pairs of elements. For example if we roll the dice two times our $\Omega$ set would look like this: $${(1,1), (1,2), (1,3), ..., (2,1),...(6,4),(6,5),(6,6)}$$
 if we want to ask "How many times do we roll 1 if we roll dice two times" our $X$ is gonna be $$(1,1), (1,2), (1,3), (1,4), (1,5), (1,6), (2,1), (3,1), (4,1), (5,1), (6,1)$$
-Note: here we don't care about the order! 
+> [!note] 
+> Here we don't care about the order! 
 
 In this example $P(X) = \frac{11}{36}$. 
 
