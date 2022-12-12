@@ -8,12 +8,12 @@ The most important step in optimizing your code is to know if you need to. Remem
 2. Make sure that optimization is worth the trouble!
 When you determined that optimizations is needed make sure it is worth it! Sometimes the effort is so big you might just as well suffer a bit and wait just a bit longer
 
-3. Before you start: do code profiling!!! 
-It's perhaps the most important part of this whole article. You cannot optimize what you don't understand! Without proper profiling you will just guess what is faster and what should be done better.
-
-4. Do extensive tests for your code!
+3. Do extensive tests for your code!
 When you optimize code it's very important you don't break it in the process! Fast code is useless if it doesn't do what it should!
 If you already were using Test Driven Development (TDD) to develop code then it's easy. If not then tests should be implemented long-term anyway so it's good practice to start now.
+
+4. Before you start: do code profiling!!! 
+It's perhaps the most important part of this whole article. You cannot optimize what you don't understand! Without proper profiling you will just guess what is faster and what should be done better.
 
 Only when we went through those points can we proceed to actually optimize!
 1. Is the work you are currently doing actually needed/ the right way to solve problem
