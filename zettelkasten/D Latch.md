@@ -1,6 +1,6 @@
 # D Latch
 ## Definition
-[[State based circuit]]
+
 ## Implementation
 ![[Pasted image 20221116211748.png]]
 
