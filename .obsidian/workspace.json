@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d9d0b3217b23204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parallel computation in Python.md",
+                "file": "zettelkasten/Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parallel computation in Python.md",
+                "file": "zettelkasten/Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parallel computation in Python.md"
+                "file": "zettelkasten/Optimization.md"
               }
             }
           },
@@ -145,8 +158,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0346e9ec559c86dc",
+  "active": "1d9d0b3217b23204",
   "lastOpenFiles": [
+    "Parallel computation in Python.md",
     "zettelkasten/PriorityQueue.md",
     "zettelkasten/Queue.md",
     "zettelkasten/Complex Fourier Series.md",
@@ -155,7 +169,6 @@
     "zettelkasten/Logic Gates.md",
     "zettelkasten/Logic circuits.md",
     "zettelkasten/Boolean Algebra.md",
-    "UNI/Digital circuits/EDC1 lecture3p.pdf",
-    "zettelkasten/Registers.md"
+    "UNI/Digital circuits/EDC1 lecture3p.pdf"
   ]
 }
