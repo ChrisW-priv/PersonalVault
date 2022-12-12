@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a8cb7539a57fea",
+        "id": "cd55905d88b7e5c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6a17975df12e5524",
+            "id": "fcf0eb2704f7d842",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
