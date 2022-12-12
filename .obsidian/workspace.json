@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd55905d88b7e5c6",
+        "id": "48581c523d466a76",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf0eb2704f7d842",
+            "id": "a3a564f314433b6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/PriorityQueue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "zettelkasten/PriorityQueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Binary Search.md",
+                "file": "zettelkasten/PriorityQueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Binary Search.md"
+                "file": "zettelkasten/PriorityQueue.md"
               }
             }
           },
@@ -141,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b3029f4567d3c4b",
+  "active": "a3a564f314433b6d",
   "lastOpenFiles": [
+    "zettelkasten/Queue.md",
+    "zettelkasten/PriorityQueue.md",
+    "zettelkasten/Complex Fourier Series.md",
+    "zettelkasten/Parallelism.md",
+    "zettelkasten/Binary Search.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/Logic circuits.md",
     "zettelkasten/Boolean Algebra.md",
     "UNI/Digital circuits/EDC1 lecture3p.pdf",
-    "zettelkasten/Registers.md",
-    "UNI/Digital circuits/EDC1 lecture2p.pdf",
-    "zettelkasten/Reservoir Sampling, Algorithm R.md",
-    "zettelkasten/Counting the number of in and out edges in a graph.md",
-    "zettelkasten/OpenCL simple program.md",
-    "zettelkasten/Digital circuits.md"
+    "zettelkasten/Registers.md"
   ]
 }
