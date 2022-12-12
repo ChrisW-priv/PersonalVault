@@ -16,7 +16,8 @@ Addition, subtraction and multiplication of complex numbers can be naturally def
 for eg. 
 - addition: $1+2i + 3 + 5i = 4 + 7i$ 
 - [[Complex multiplication as a rotation|multiplication]]: $(1+2i) + (3 + 5i) = 4+5i+6i+10i^2 = 4-10+11i = -6+11i$ 
-Note: although complex numbers can be seen as vectors multiplication is either matrix multiplication or normal multiplication with rule $i^2 = −1$ defined.
+> [!Note] 
+> Although complex numbers can be seen as vectors multiplication is either matrix multiplication or normal multiplication with rule $i^2 = −1$ defined.
 
 ### Complex conjugate
 [[Complex conjugation]]
@@ -36,10 +37,17 @@ exponentation can be represented by reapeated multiplication and therefore rotat
 Complex numbers can be represented by 2d [[Vector|vector]] with ordered pair $(Re\{z\}, Im\{z\})$ as basis. We can then visualise them with [[Complex plane]].
 
 ### Polar complex plane
-[[Polar coordinate system]] that uses the distance of the point z from the origin, and the angle between the positive real axis in a counterclockwise sense. This leads to the **polar form** $r(cos(\theta) + i\cdot sin(\theta)$ where $r$ is absolute distance from origin $r=|z|=\sqrt{a^2+b^2}$. Note: there is no polar form for zero number!
+[[Polar coordinate system]] that uses the distance of the point z from the origin, and the angle between the positive real axis in a counterclockwise sense. This leads to the **polar form** $r(cos(\theta) + i\cdot sin(\theta)$ where $r$ is absolute distance from origin $r=|z|=\sqrt{a^2+b^2}$. 
+
+> [!Note]
+> There is no polar form for zero number!
+
 #### Multiplication in polar form
 Using the geometric representation we can see that $[r_1(cos(\theta_1) + i\cdot sin(\theta_1)]\cdot[r_2(cos(\theta_2) + i\cdot sin(\theta_2)] = r1r2(cos(\theta_1+\theta_2) + i sin(\theta_1+\theta_2))$
 
 ### Using Euler formula
-Uses [[Exp(x) function]] as definition: $z = re^{i \theta} = r\cdot exp(i\theta)$. Note: here for fixed $r$ function is cyclic! Also: $\theta$ is in radians!!!
+Uses [[Exp(x) function]] as definition: $z = re^{i \theta} = r\cdot exp(i\theta)$. 
+> [!Note] 
+> Here for fixed $r$ function is cyclic! Also: $\theta$ is in radians!!!
+
 Famous formula: $e^{i\pi} = -1$

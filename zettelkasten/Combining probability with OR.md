@@ -9,7 +9,8 @@ If we have two events $A,B$ then probability of EITHER of them happening will be
 We can calculate it by multiplying the probabilities of both $\text{P(A) OR P(B)} = P(A) + P(B) - P(A,B)$
 Where $P(A,B)$ is a result of [[Combining probability with AND]].
 
-Note: for events that are mutually exclusive $P(A,B) = 0$ and so we can simplify equation to $\text{P(A) OR P(B)} = P(A) + P(B)$
+> [!Note] 
+> For events that are mutually exclusive $P(A,B) = 0$ and so we can simplify equation to $\text{P(A) OR P(B)} = P(A) + P(B)$
 
 ## Intuition
 First part of the equation is rather intuitive. If we say "What is the probability of rolling 1 or 2" then we intuitively know that it's $\frac16 +\frac16$. This works for any mutually exclusive events! However when we consider "What is the probability of rolling 6 or tossing heads" then when you actually list all possibilities:

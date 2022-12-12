@@ -1,10 +1,10 @@
 # Boolean Algebra
 ## Definition
-Set of rules defining behaviour of [[Logic Gates]] and [[Logic circuits]].
+Set of rules defining behavior of [[Logic Gates]] and [[Logic circuits]]. Operates on [[boolean]] data.
 
 ## Notation
 ### Variables
-For variable $x$ it's value allways belong to set $\{{0,1}\}$ 
+For variable $x$ it's value always belong to set $\{{0,1}\}$ 
 
 ### Operators
 #### Not
