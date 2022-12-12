@@ -4,74 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "01bfd8f43c633fd8",
+        "id": "c9a8cb7539a57fea",
         "type": "tabs",
         "children": [
           {
-            "id": "f5c6193363697ed2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI/Digital circuits/EDC1 lecture3p.pdf"
-              }
-            }
-          },
-          {
-            "id": "1ece48906e3eb0d4",
+            "id": "6a17975df12e5524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Registers.md",
+                "file": "zettelkasten/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "e52d52ca4e7418b0"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1c8c213b46e2b2e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7efbc0879b2818ae",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "zettelkasten/Registers.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "e52d52ca4e7418b0"
+            }
           }
         ]
       }
@@ -139,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Registers.md",
+                "file": "zettelkasten/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Registers.md",
+                "file": "zettelkasten/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Registers.md"
+                "file": "zettelkasten/Binary Search.md"
               }
             }
           },
@@ -199,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7efbc0879b2818ae",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
+    "zettelkasten/Logic Gates.md",
+    "zettelkasten/Logic circuits.md",
+    "zettelkasten/Boolean Algebra.md",
     "UNI/Digital circuits/EDC1 lecture3p.pdf",
+    "zettelkasten/Registers.md",
     "UNI/Digital circuits/EDC1 lecture2p.pdf",
     "zettelkasten/Reservoir Sampling, Algorithm R.md",
     "zettelkasten/Counting the number of in and out edges in a graph.md",
     "zettelkasten/OpenCL simple program.md",
-    "zettelkasten/Digital circuits.md",
-    "zettelkasten/Logic Gates.md",
-    "zettelkasten/AI workflow.md",
-    "zettelkasten/Project workflow.md",
-    "zettelkasten/Linters.md"
+    "zettelkasten/Digital circuits.md"
   ]
 }
