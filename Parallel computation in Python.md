@@ -1,0 +1,1 @@
+There are a couple of ways to speed python up. One of them is to use parallel computing. This also splits into multiple branches. Primarily: are you compute or IO bound? If IO bound then `asyncio` might be a solution. However if you are compute bound then:
