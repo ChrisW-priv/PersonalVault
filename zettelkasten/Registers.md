@@ -1,0 +1,1 @@
+Register is just an [[electronic circuit]] build from multiple [[Flip-Flops]] in one block
