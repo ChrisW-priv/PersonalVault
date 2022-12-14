@@ -5,7 +5,7 @@ Common way of interpreting the vector is to associate it with a force or movemen
 1. In Physics we often visualize a vector with an arrow in space
 2. In Computer Science we can represent vectors with an ordered list of numbers
 
-Mathematics tries to generalise the idea of a vector and use it whenever it makes sence to use functions like addition or multiplication of vectors
+Mathematics tries to generalise the idea of a vector and use it whenever it makes sense to use functions like addition or multiplication of vectors
 
 Later on, in maths it is common to treat vectors as a [[Matrix|matrix]] of size $m \times 1$ where m is the number of dimensions a vector has and m is a number of columns a matrix would have.
 
@@ -23,3 +23,5 @@ In 3d space: {x, y, z} or $\begin{bmatrix} a \\ b \\ c\end{bmatrix}$
 [[Linear combination]]
 [[Dot product]]
 [[Cross product]]
+[[Complex number#Magnitude|Magnitude]]
+[[Complex number#Argument|Argument]]
