@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "61b0b465eb4cf55f",
+        "id": "32464b9799d6d500",
         "type": "tabs",
         "children": [
           {
-            "id": "0346e9ec559c86dc",
+            "id": "60076a50598325b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parallel computation in Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d9d0b3217b23204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "Phasor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sssp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "Phasor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Optimization.md",
+                "file": "Phasor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Optimization.md"
+                "file": "Phasor.md"
               }
             }
           },
@@ -158,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d9d0b3217b23204",
+  "active": "60076a50598325b7",
   "lastOpenFiles": [
-    "Parallel computation in Python.md",
-    "zettelkasten/PriorityQueue.md",
-    "zettelkasten/Queue.md",
-    "zettelkasten/Complex Fourier Series.md",
-    "zettelkasten/Parallelism.md",
-    "zettelkasten/Binary Search.md",
-    "zettelkasten/Logic Gates.md",
-    "zettelkasten/Logic circuits.md",
-    "zettelkasten/Boolean Algebra.md",
-    "UNI/Digital circuits/EDC1 lecture3p.pdf"
+    "zettelkasten/Optimization workflow.md",
+    "zettelkasten/Parallel computation in Python.md",
+    "zettelkasten/Maximum Cardinality Mathcing.md",
+    "electronic circuit.md",
+    "Phasor.md",
+    "zettelkasten/Complex number.md",
+    "zettelkasten/Complex conjugate.md",
+    "zettelkasten/Bellman-Ford algorithm.md",
+    "zettelkasten/Project workflow.md",
+    "zettelkasten/AI workflow.md"
   ]
 }
