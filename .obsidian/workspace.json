@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21080d5629039e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resonance in electronic circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Impedance.md",
+                "file": "Resonance in electronic circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Impedance.md",
+                "file": "Resonance in electronic circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Impedance.md"
+                "file": "Resonance in electronic circuit.md"
               }
             }
           },
@@ -159,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6fb6cce218d8d88",
+  "active": "21080d5629039e7c",
   "lastOpenFiles": [
+    "Impedance.md",
     "Phasor.md",
     "zettelkasten/Complex number.md",
     "zettelkasten/Vector.md",
@@ -169,7 +182,6 @@
     "zettelkasten/Matrix.md",
     "zettelkasten/Determinant of a matrix.md",
     "zettelkasten/Linear transformation.md",
-    "zettelkasten/Linear dependence.md",
-    "zettelkasten/Parallel computation in Python.md"
+    "zettelkasten/Linear dependence.md"
   ]
 }
