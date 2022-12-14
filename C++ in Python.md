@@ -36,6 +36,4 @@ import my_function
 my_function.my_cpp_function()
 ```
 
-You can find more detailed instructions for using Cython to create Python extensions in the Cython documentation: [https://cython.org/docs/tutorial/clibraries.html](https://cython.org/docs/tutorial/clibraries.html).
-
-I hope this helps! Let me know if you have any other questions.
+You can find more detailed instructions for using Cython to create Python extensions in the Cython documentation: [Cython documentation](https://cython.readthedocs.io/en/latest/src/userguide/wrapping_CPlusPlus.html)
