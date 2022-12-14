@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phasor.md",
+                "file": "zettelkasten/Phasor.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impedance.md",
+                "file": "zettelkasten/Impedance.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resonance in electronic circuit.md",
+                "file": "zettelkasten/Resonance in electronic circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maximum power transfer theorem.md",
+                "file": "zettelkasten/Maximum power transfer theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fourier series.md",
+                "file": "zettelkasten/Resonance in electronic circuit.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe15a22d3ed894ed",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20221214211842.png"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fourier series.md",
+                "file": "attachments/Pasted image 20221214211842.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fourier series.md",
+                "file": "attachments/Pasted image 20221214211842.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fourier series.md"
+                "file": "attachments/Pasted image 20221214211842.png"
               }
             }
           },
@@ -195,17 +204,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "924d1726f2c53b3c",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
-    "Maximum power transfer theorem.md",
-    "Resonance in electronic circuit.md",
-    "C++ in Python.md",
-    "Impedance.md",
-    "Phasor.md",
+    "zettelkasten/Phasor.md",
+    "zettelkasten/Resonance in electronic circuit.md",
+    "zettelkasten/Fourier series.md",
+    "zettelkasten/Maximum power transfer theorem.md",
+    "zettelkasten/C++ in Python.md",
+    "zettelkasten/Impedance.md",
     "zettelkasten/Complex number.md",
     "zettelkasten/Vector.md",
     "zettelkasten/Optimization workflow.md",
-    "zettelkasten/Complex multiplication as a rotation.md",
-    "zettelkasten/Matrix.md"
+    "zettelkasten/Complex multiplication as a rotation.md"
   ]
 }
