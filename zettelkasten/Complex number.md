@@ -11,7 +11,8 @@ Imaginary part can be noted as $Im\{z\} = b$
 ## Properties
 Despite being called "imaginary" have many useful applications. Often used to describe rotations on 2d plane and solutions to polynomial equations.
 
-### MAgni
+### Magnitude
+Defined as length of a vector, calculated using: $\sqrt{a^2+b^2}$.
 
 ### Argument
 The argument of a complex number is the angle that the complex number makes with the real axis in the complex plane. It is often denoted by the symbol "arg" or "$\phi$" and is typically measured in radians.

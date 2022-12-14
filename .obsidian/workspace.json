@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b0f67a6809f2ffe2",
+            "id": "c6fb6cce218d8d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Complex number.md",
+                "file": "Impedance.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Complex number.md",
+                "file": "Impedance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Complex number.md",
+                "file": "Impedance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Complex number.md"
+                "file": "Impedance.md"
               }
             }
           },
@@ -159,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0f67a6809f2ffe2",
+  "active": "c6fb6cce218d8d88",
   "lastOpenFiles": [
     "Phasor.md",
     "zettelkasten/Complex number.md",
+    "zettelkasten/Vector.md",
     "zettelkasten/Optimization workflow.md",
     "zettelkasten/Complex multiplication as a rotation.md",
     "zettelkasten/Matrix.md",
     "zettelkasten/Determinant of a matrix.md",
     "zettelkasten/Linear transformation.md",
     "zettelkasten/Linear dependence.md",
-    "zettelkasten/Parallel computation in Python.md",
-    "zettelkasten/Maximum Cardinality Mathcing.md"
+    "zettelkasten/Parallel computation in Python.md"
   ]
 }

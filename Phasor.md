@@ -16,4 +16,4 @@ $$X = X_me^{j\psi_x} = X_m cos\psi_x + jX_m sin\psi_x$$
 This transformation is a [[Linear isomorphism]]. Because of this we can reconstruct the signal using property below:
 $$x(t) = ∣X∣ cos(\omega t + arg X) = Re(Xe^j\omega t)$$
 ![[Complex number#Argument|Argument of complex number]]
-[[Complex number]]
+![[Complex number#Magnitude|Magnitude]]
