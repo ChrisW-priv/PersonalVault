@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "9426eeaef099dfb3",
+            "id": "acd6820e03627647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ in Python.md",
+                "file": "Maximum power transfer theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ in Python.md",
+                "file": "Maximum power transfer theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ in Python.md",
+                "file": "Maximum power transfer theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ in Python.md"
+                "file": "Maximum power transfer theorem.md"
               }
             }
           },
@@ -183,9 +183,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9426eeaef099dfb3",
+  "active": "acd6820e03627647",
   "lastOpenFiles": [
     "Resonance in electronic circuit.md",
+    "C++ in Python.md",
     "Impedance.md",
     "Phasor.md",
     "zettelkasten/Complex number.md",
@@ -193,7 +194,6 @@
     "zettelkasten/Optimization workflow.md",
     "zettelkasten/Complex multiplication as a rotation.md",
     "zettelkasten/Matrix.md",
-    "zettelkasten/Determinant of a matrix.md",
-    "zettelkasten/Linear transformation.md"
+    "zettelkasten/Determinant of a matrix.md"
   ]
 }
