@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32464b9799d6d500",
+        "id": "2983e27a3f59ab33",
         "type": "tabs",
         "children": [
           {
-            "id": "60076a50598325b7",
+            "id": "b37d2cdb0b4da3c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Phasor.md",
+                "file": "zettelkasten/Inner product matrix.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c6fb6cce218d8d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Impedance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21080d5629039e7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Resonance in electronic circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acd6820e03627647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Maximum power transfer theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "924d1726f2c53b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Resonance in electronic circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe15a22d3ed894ed",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20221214211842.png"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/Pasted image 20221214211842.png",
+                "file": "zettelkasten/Inner product matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/Pasted image 20221214211842.png",
+                "file": "zettelkasten/Inner product matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Pasted image 20221214211842.png"
+                "file": "zettelkasten/Inner product matrix.md"
               }
             }
           },
@@ -204,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4b3029f4567d3c4b",
+  "active": "b37d2cdb0b4da3c2",
   "lastOpenFiles": [
-    "zettelkasten/Phasor.md",
+    "attachments/Pasted image 20221214211842.png",
     "zettelkasten/Resonance in electronic circuit.md",
-    "zettelkasten/Fourier series.md",
     "zettelkasten/Maximum power transfer theorem.md",
-    "zettelkasten/C++ in Python.md",
     "zettelkasten/Impedance.md",
+    "zettelkasten/Phasor.md",
+    "zettelkasten/Fourier series.md",
+    "zettelkasten/C++ in Python.md",
     "zettelkasten/Complex number.md",
     "zettelkasten/Vector.md",
-    "zettelkasten/Optimization workflow.md",
-    "zettelkasten/Complex multiplication as a rotation.md"
+    "zettelkasten/Optimization workflow.md"
   ]
 }
