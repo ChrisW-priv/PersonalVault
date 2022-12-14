@@ -9,7 +9,7 @@ Real part can be noted as $Re\{z\} = a$
 Imaginary part can be noted as $Im\{z\} = b$
 
 ## Properties
-Despite being called "imaginary" have many usefull aplications. Often used to describe rotations on 2d plane and solutions to polynomial equations.
+Despite being called "imaginary" have many useful applications. Often used to describe rotations on 2d plane and solutions to polynomial equations.
 
 ### Addition and multiplication
 Addition, subtraction and multiplication of complex numbers can be naturally defined by using the rule $i^2 = −1$ combined with the [[Associative binary property|associative]], [[Communicative binary property|comunicative]] and [[Distributive binary property|distributive]] laws. 
@@ -20,7 +20,7 @@ for eg.
 > Although complex numbers can be seen as vectors multiplication is either matrix multiplication or normal multiplication with rule $i^2 = −1$ defined.
 
 ### Complex conjugate
-[[Complex conjugation]]
+[[Complex conjugate]]
 
 ### Reciprocal
 $\frac{1}{z}=\frac{\bar{z}}{z\bar{z}} = \frac{\bar{z}}{|z|^2} = \frac{a-bi}{a^2+b^2}$
@@ -29,15 +29,15 @@ $\frac{1}{z}=\frac{\bar{z}}{z\bar{z}} = \frac{\bar{z}}{|z|^2} = \frac{a-bi}{a^2+
 using property $\frac{w}{z} = w\cdot \frac{1}{z}$
 after that we use shortened form of multiplication $\frac{(ac+bd) + (ad-bc)i}{a^2+b^2}$
 
-### Exponentation
-exponentation can be represented by reapeated multiplication and therefore rotation.
+### Exponentiation
+exponentiation can be represented by repeated multiplication and therefore rotation.
 
 ## Alternative representation
 ### Cartesian complex plane
 Complex numbers can be represented by 2d [[Vector|vector]] with ordered pair $(Re\{z\}, Im\{z\})$ as basis. We can then visualise them with [[Complex plane]].
 
 ### Polar complex plane
-[[Polar coordinate system]] that uses the distance of the point z from the origin, and the angle between the positive real axis in a counterclockwise sense. This leads to the **polar form** $r(cos(\theta) + i\cdot sin(\theta)$ where $r$ is absolute distance from origin $r=|z|=\sqrt{a^2+b^2}$. 
+[[Polar coordinate system]] that uses the distance of the point z from the origin, and the angle between the positive real axis in a counter clockwise sense. This leads to the **polar form** $r(cos(\theta) + i\cdot sin(\theta)$ where $r$ is absolute distance from origin $r=|z|=\sqrt{a^2+b^2}$. 
 
 > [!Note]
 > There is no polar form for zero number!
