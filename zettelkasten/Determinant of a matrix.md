@@ -7,7 +7,7 @@ We denote a determinant of a matrix $M$ as:
 Determinant is a factor by which a space is scaled by the matrix after a [[Linear transformation]].
 
 Special cases: 
-- If the determinant of a matrix is 0 then a transformation reduses a dimentionality of space. In other words makes the basis vectors linearly dependent. For example turns a 2d space into a 1d line.
+- If the determinant of a matrix is 0 then a transformation reduces a dimensionality of space. In other words makes the basis vectors [[Linear dependence|linearly dependent]]. For example turns a 2d space into a 1d line.
 - If the determinant of a matrix is negative then a transformation "flips" the space as in flipping a sheet of paper.
 
 ### Computation
@@ -27,8 +27,8 @@ aei + bfg + cdh - ath - bdi - ceg$$
 Notice: first 3 components are products of components of diagonals from one side. Other three are products of components of diagonals from the other side.
 
 #### For general n $\times$ n matrix
-In general if is possible to calcualte a determinant of any matrix recursively similarly to the way shown in 3d example. It is important to remember that the signs of components switches between + and -. 
-However, if we want to start from different collumn you can! Remember that + and - sign follow chess board pattern like the one below:
+In general if is possible to calculate a determinant of any matrix recursively similarly to the way shown in 3d example. It is important to remember that the signs of components switches between + and -. 
+However, if we want to start from different column you can! Remember that + and - sign follow chess board pattern like the one below:
 $$\begin{bmatrix} + & - & + & - \\ - & + & - & + \\ + & - & + & - \\ - & + & - & + \\ \end{bmatrix}$$
 > [!sidenote]
 >  For each index sign of the index will be determined by equation: $-1^{i+j}$. 
