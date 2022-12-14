@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "924d1726f2c53b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fourier series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maximum power transfer theorem.md",
+                "file": "Fourier series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maximum power transfer theorem.md",
+                "file": "Fourier series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maximum power transfer theorem.md"
+                "file": "Fourier series.md"
               }
             }
           },
@@ -183,8 +195,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acd6820e03627647",
+  "active": "924d1726f2c53b3c",
   "lastOpenFiles": [
+    "Maximum power transfer theorem.md",
     "Resonance in electronic circuit.md",
     "C++ in Python.md",
     "Impedance.md",
@@ -193,7 +206,6 @@
     "zettelkasten/Vector.md",
     "zettelkasten/Optimization workflow.md",
     "zettelkasten/Complex multiplication as a rotation.md",
-    "zettelkasten/Matrix.md",
-    "zettelkasten/Determinant of a matrix.md"
+    "zettelkasten/Matrix.md"
   ]
 }
