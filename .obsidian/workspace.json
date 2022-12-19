@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2983e27a3f59ab33",
+        "id": "8ea99481b8ad9026",
         "type": "tabs",
         "children": [
           {
-            "id": "b37d2cdb0b4da3c2",
+            "id": "e41a27b0fb34b687",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/C++ in Python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/C++ in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/C++ in Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/C++ in Python.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,16 +138,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b37d2cdb0b4da3c2",
+  "active": "e41a27b0fb34b687",
   "lastOpenFiles": [
     "zettelkasten/Inner product matrix.md",
+    "zettelkasten/C++ in Python.md",
     "attachments/Pasted image 20221214211842.png",
     "zettelkasten/Resonance in electronic circuit.md",
     "zettelkasten/Maximum power transfer theorem.md",
     "zettelkasten/Impedance.md",
     "zettelkasten/Phasor.md",
     "zettelkasten/Fourier series.md",
-    "zettelkasten/C++ in Python.md",
     "zettelkasten/Complex number.md",
     "zettelkasten/Vector.md"
   ]
