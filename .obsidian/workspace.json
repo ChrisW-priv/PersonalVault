@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c581e8d855e5b52b",
+        "id": "81eb535f7644372c",
         "type": "tabs",
         "children": [
           {
-            "id": "f84ea51b168b9373",
+            "id": "3422da32cf58e40f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f84ea51b168b9373",
+  "active": "4b3029f4567d3c4b",
   "lastOpenFiles": [
+    "zettelkasten/Fock matrix.md",
+    "zettelkasten/Pulay's algorithm.md",
+    "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
     "zettelkasten/Project workflow.md",
     "zettelkasten/Binary Search.md",
     "zettelkasten/Logic Gates.md",
     "zettelkasten/Logic circuits.md",
     "zettelkasten/Boolean Algebra.md",
     "UNI/Digital circuits/EDC1 lecture3p.pdf",
-    "zettelkasten/Registers.md",
-    "UNI/Digital circuits/EDC1 lecture2p.pdf",
-    "zettelkasten/Reservoir Sampling, Algorithm R.md",
-    "zettelkasten/Counting the number of in and out edges in a graph.md"
+    "zettelkasten/Registers.md"
   ]
 }
