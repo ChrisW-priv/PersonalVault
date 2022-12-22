@@ -18,10 +18,10 @@ seite 40/1.4c:
 
 zdanie po "dass" ma szyk końcowy!
 
-1. Ich wette, dass es keinen regenfall gibt 
+1. Ich wette, dass weihnahtsmann kommt  
 2. Ich hoffe, dass ich gute notte von die Prufung bekomme
 3. Ich habe gedacht, dass 
-4. Ich glaube, dass
+4. Ich glaube, dass es keinen regenfall gibt 
 5. Ich finde, dass grau ein besser Farbe als dunkelgrau ist.
 6. Ich schlage vor, dass wir die Lektion Fruher enden.
 7. Ich bin sicher, dass Ich das Wienachten war heute wunsche
@@ -32,3 +32,5 @@ Geld Sparen - oszczędność pieniędzy
 Hohe Verfugbarkeit - duża dostępność
 Hauslieferung - dowóz do domu
 Meinungen der Benutzer - opinie użytkowników
+
+12 sty. kartkówka
