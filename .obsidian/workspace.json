@@ -20,37 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2c0fb15378ab0551",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4cb070f263d44c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7910c850886871c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNI/Niemiecki/słowniczek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "6973928033a48752",
@@ -190,10 +160,10 @@
   },
   "active": "dfb66071d3169e96",
   "lastOpenFiles": [
-    "UNI/Niemiecki/słowniczek.md",
-    "UNI/Niemiecki/Lec10.md",
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Lec9.md",
+    "UNI/Niemiecki/Lec10.md",
+    "UNI/Niemiecki/słowniczek.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Odmiana sein.md",
     "zettelkasten/Parallel computation in Python.md",
     "UNI/Differential maths/edde08_new.pdf",
