@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81eb535f7644372c",
+        "id": "2c0fb15378ab0551",
         "type": "tabs",
         "children": [
           {
-            "id": "3422da32cf58e40f",
+            "id": "c4cb070f263d44c5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNI/Differential maths/edde08_new.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Differential maths/edde08_new.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Differential maths/edde08_new.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNI/Differential maths/edde08_new.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -143,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3422da32cf58e40f",
+  "active": "c4cb070f263d44c5",
   "lastOpenFiles": [
+    "UNI/Differential maths/edde08_new.pdf",
     "zettelkasten/Fock matrix.md",
     "zettelkasten/Pulay's algorithm.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
@@ -153,7 +148,6 @@
     "zettelkasten/Logic Gates.md",
     "zettelkasten/Logic circuits.md",
     "zettelkasten/Boolean Algebra.md",
-    "UNI/Digital circuits/EDC1 lecture3p.pdf",
-    "zettelkasten/Registers.md"
+    "UNI/Digital circuits/EDC1 lecture3p.pdf"
   ]
 }
