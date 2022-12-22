@@ -18,7 +18,7 @@ seite 40/1.4c:
 
 zdanie po "dass" ma szyk końcowy!
 
-1. Ich wette, dass weihnahtsmann kommt  
+1. Ich wette, dass weihnahtsmann viele Geschenke bringt. 
 2. Ich hoffe, dass ich gute notte von die Prufung bekomme
 3. Ich habe gedacht, dass 
 4. Ich glaube, dass es keinen regenfall gibt 
