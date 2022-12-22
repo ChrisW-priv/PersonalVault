@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/słowniczek.md",
+                "file": "UNI/Niemiecki/Lec10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/słowniczek.md",
+                "file": "UNI/Niemiecki/Lec10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Niemiecki/słowniczek.md"
+                "file": "UNI/Niemiecki/Lec10.md"
               }
             }
           },
@@ -176,11 +176,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5b6b27c606e8f642",
+  "active": "dfb66071d3169e96",
   "lastOpenFiles": [
+    "UNI/Niemiecki/słowniczek.md",
     "UNI/Niemiecki/Lec10.md",
     "UNI/Niemiecki/Lec9.md",
-    "UNI/Niemiecki/słowniczek.md",
     "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Odmiana sein.md",
     "zettelkasten/Parallel computation in Python.md",
