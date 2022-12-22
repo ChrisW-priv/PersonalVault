@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "c14c325772690e90",
+            "id": "a7910c850886871c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "UNI/Niemiecki/Lec10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "6973928033a48752",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "UNI/Niemiecki/Lec10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md",
+                "file": "UNI/Niemiecki/Lec10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI/Niemiecki/Deklinacja rzeczownika.md"
+                "file": "UNI/Niemiecki/Lec10.md"
               }
             }
           },
@@ -168,17 +170,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c14c325772690e90",
+  "active": "a7910c850886871c",
   "lastOpenFiles": [
-    "UNI/Niemiecki/Odmiana sein.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
+    "UNI/Niemiecki/Lec10.md",
     "UNI/Niemiecki/Lec9.md",
+    "UNI/Niemiecki/Odmiana sein.md",
     "zettelkasten/Parallel computation in Python.md",
     "UNI/Differential maths/edde08_new.pdf",
     "zettelkasten/Fock matrix.md",
     "zettelkasten/Pulay's algorithm.md",
     "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
-    "zettelkasten/Project workflow.md",
-    "zettelkasten/Binary Search.md",
-    "zettelkasten/Logic Gates.md"
+    "zettelkasten/Project workflow.md"
   ]
 }
