@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "ce70f2ddc6955379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb66071d3169e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNI/Niemiecki/Lec10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "2c0fb15378ab0551",
         "type": "tabs",
         "children": [
@@ -25,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI/Niemiecki/Lec10.md",
+                "file": "UNI/Niemiecki/słowniczek.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,17 +188,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a7910c850886871c",
+  "active": "dfb66071d3169e96",
   "lastOpenFiles": [
-    "UNI/Niemiecki/Deklinacja rzeczownika.md",
+    "UNI/Niemiecki/słowniczek.md",
     "UNI/Niemiecki/Lec10.md",
+    "UNI/Niemiecki/Deklinacja rzeczownika.md",
     "UNI/Niemiecki/Lec9.md",
     "UNI/Niemiecki/Odmiana sein.md",
     "zettelkasten/Parallel computation in Python.md",
     "UNI/Differential maths/edde08_new.pdf",
     "zettelkasten/Fock matrix.md",
     "zettelkasten/Pulay's algorithm.md",
-    "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md",
-    "zettelkasten/Project workflow.md"
+    "zettelkasten/Self-consistent field in Kohn-Sham density functional theory.md"
   ]
 }

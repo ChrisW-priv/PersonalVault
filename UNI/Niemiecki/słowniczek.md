@@ -61,3 +61,8 @@ Das Klima - klimat
 Die Landschaft - krajobraz
 Die Nachbalaander - kraje sąsiedzkie
 
+die Ware - towar/ die Waren towary
+die Versand - przesyłka
+die lieferzeit - czas dostawy
+der Betruger - oszust
+
