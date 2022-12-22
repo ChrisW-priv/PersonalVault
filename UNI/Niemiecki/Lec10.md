@@ -29,4 +29,6 @@ zdanie po "dass" ma szyk końcowy!
 Eine Grose Auswahl an Produkten - szeroki wybór
 Zeitersparnis - oszczędność czasu
 Geld Sparen - oszczędność pieniędzy
-Hohe Verfugbarkeit - ?
+Hohe Verfugbarkeit - duża dostępność
+Hauslieferung - dowóz do domu
+Meinungen der Benutzer - opinie użytkowników
