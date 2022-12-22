@@ -18,5 +18,11 @@ seite 40/1.4c:
 
 zdanie po "dass" ma szyk końcowy!
 
-Ich wette,
-Ich hoffe, dass ich gute notte bekomme
+1. Ich wette, dass es keinen regenfall gibt 
+2. Ich hoffe, dass ich gute notte von die Prufung bekomme
+3. Ich habe gedacht, dass 
+4. Ich glaube, dass
+5. Ich finde, dass grau ein besser Farbe als dunkelgrau ist.
+6. Ich schlage vor, dass wir die Lektion Fruher ende.
+7. Ich bin sicher, dass Ich wunsche das Wienachten war heute
+
