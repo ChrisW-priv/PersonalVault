@@ -23,6 +23,10 @@ zdanie po "dass" ma szyk końcowy!
 3. Ich habe gedacht, dass 
 4. Ich glaube, dass
 5. Ich finde, dass grau ein besser Farbe als dunkelgrau ist.
-6. Ich schlage vor, dass wir die Lektion Fruher ende.
-7. Ich bin sicher, dass Ich wunsche das Wienachten war heute
+6. Ich schlage vor, dass wir die Lektion Fruher enden.
+7. Ich bin sicher, dass Ich das Wienachten war heute wunsche
 
+Eine Grose Auswahl an Produkten - szeroki wybór
+Zeitersparnis - oszczędność czasu
+Geld Sparen - oszczędność pieniędzy
+Hohe Verfugbarkeit - ?
