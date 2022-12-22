@@ -67,3 +67,8 @@ die lieferzeit - czas dostawy
 der Betruger - oszust
 
 dass - że
+
+Ochotnik - Freiwillige/Volontar
+gedacht - myśl
+vorschalg - propozycja
+

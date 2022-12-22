@@ -16,3 +16,7 @@ seite 40/1.4c:
 3. Susi, fahrst du im Sommer zu deiner Mutter?
 4. Mein Bruder hat seine Frau latztes Jahr in Rom kennengelernt. 
 
+zdanie po "dass" ma szyk końcowy!
+
+Ich wette,
+Ich hoffe, dass ich gute notte bekomme
