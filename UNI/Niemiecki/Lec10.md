@@ -11,7 +11,8 @@ der Betruger - oszust
 nachteile von online-shopping - 
 
 seite 40/1.4c:
-1. Peter besucht am Donnerstagseinen seinen Freund in Franfurkt
-2. Ich habe vorgestern ihn ohne seine Freundin im Kino gesehen.
-3. Fahrst Susi im Sommer zu deiner Mutter?
-4. Mein Bruder latztes Jahr 
+1. Peter besucht seinen Freund am Donnerstagseinen in Franfurkt
+2. Ich habe ihn ohne seine Freundin vorgestern im Kino gesehen.
+3. Susi, fahrst du im Sommer zu deiner Mutter?
+4. Mein Bruder hat seine Frau latztes Jahr in Rom kennengelernt. 
+

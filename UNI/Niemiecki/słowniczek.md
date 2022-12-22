@@ -66,3 +66,4 @@ die Versand - przesyłka
 die lieferzeit - czas dostawy
 der Betruger - oszust
 
+dass - że
