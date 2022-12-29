@@ -3,3 +3,6 @@ In Kohn–Sham [[density functional theory (DFT)]], the [[self-consistent field 
 The SCF method is an iterative process in which an initial guess is made for the electronic wave function (the solution to the Schrödinger equation) and the corresponding electron density is calculated. This density is used to solve the Schrödinger equation again, yielding a new wave function and density. This process is repeated until the wave function and density converge to a stable solution, at which point the SCF calculation is considered to be complete.
 
 Computing the SCF is a critical step in DFT calculations, as it allows the electronic structure of a system to be determined from its density. This is important for many applications in chemistry and materials science, where the electronic structure of a system is directly related to its properties and behavior. The accuracy and efficiency of the SCF calculation can greatly affect the accuracy and efficiency of the overall DFT calculation, so much research has been done to improve the SCF method and make it more robust and efficient.
+
+# Inductor
+![[Pasted image 20221027204249.png]]
