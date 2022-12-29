@@ -39,6 +39,6 @@ Midterms:
 [[edde_midterm_2.pdf]]
 
 ## Extra books
-1. A first course in diffrerential equations - Dennis G. Zill
+1. A first course in differential equations - Dennis G. Zill
 2. Fundamentals of Differential Equations - Nagle Saff Snider
 3. Ordinary Differential Equations for Engineers - Ali Knit Keskin
