@@ -11,7 +11,7 @@ This is often not satisfied, and even on a secure web where we trust each machin
 
 ### Content of the [[Ciphertext]] should not be deducible
 Very often with weak encryption we can see that original message can be deduced without knowing the decryption key or even the decryption algorithm altogether. 
-On the other hand even with primitive encryption we often can get away with sending short messages if the decryption key stays unknown. 
+On the other hand even with primitive encryption we often can get away with sending short messages if the decryption key stays unknown. This is because attacker has to know when he cracked the encryption and in short enough texts there may be more than one logical answer to the ciphertext representation.
 
 ### The [[Encryption System]] should stay unknown to attackers
 This is important to keep the communication standards closed. That being said the encryption should not be based solely on this rule. Systems that are truly secure base their strength on the [[Encryption System]] itself.

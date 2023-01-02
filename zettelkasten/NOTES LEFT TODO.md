@@ -15,3 +15,10 @@ Gaussian elimination
 
 Collision detection article:
 https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
+
+Encryption:
+CFB (Cypher feedback)
+CBC (Cypher block chaining)
+Block vs stream algorithms
+
+Modulo arithmetic
