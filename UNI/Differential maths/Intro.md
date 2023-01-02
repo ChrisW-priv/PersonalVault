@@ -9,9 +9,9 @@ email: mariusz.zając@pw.edu.pl
 6-8 pts for activity
 Final exam is 60 pts
 
-90.5 i wiecej na 5!
+90.5 i więcej na 5!
 
-32 pts -> no final exam (short path)
+32 pts -> no final exam (short path for 4)
 32-36 -> 4.5
 36-40 -> 5
 
