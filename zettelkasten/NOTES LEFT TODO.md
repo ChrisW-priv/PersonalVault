@@ -1,5 +1,8 @@
 easily find needed notes with #TODO tag!
 
+SOA
+	Sorting SOA in particular but need to do SOA first
+
 pairwise - isomorphism
 
 Graph theory
@@ -22,3 +25,10 @@ CBC (Cypher block chaining)
 Block vs stream algorithms
 
 Modulo arithmetic
+
+Books on File systems:
+"File Systems: a practical Approach to Design, Implementation and Management" by Timothy Wood
+"Operating Systems: a systematic View" by Williams Stallings
+"Introduction to File Systems" by Michael Palmer
+"File systems" on Khan Academy
+
