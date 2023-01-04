@@ -1,5 +1,8 @@
 easily find needed notes with #TODO tag!
 
+Matma, przerobić na notatkę:
+https://www.youtube.com/watch?v=uI2xt8nTOlQ
+
 SOA
 	Sorting SOA in particular but need to do SOA first
 
