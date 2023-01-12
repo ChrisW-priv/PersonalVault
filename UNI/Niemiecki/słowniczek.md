@@ -72,3 +72,21 @@ Ochotnik - Freiwillige/Volontar
 gedacht - myśl
 vorschalg - propozycja
 
+Pogoda:
+- Chmury
+	- die Wolke
+	- wolkig
+	- bewolkt
+	- bedeckt
+- Burza
+	- das Gewitter
+	- der Sturm
+	- der Blitz
+	- der Donner
+- Deszcz
+	- der Niederschlag
+	- der Schauer
+	- regnerisch
+- Mgła
+	- der Nebel
+	- nieblig
