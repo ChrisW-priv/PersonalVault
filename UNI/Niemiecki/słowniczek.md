@@ -90,3 +90,38 @@ Pogoda:
 - Mgła
 	- der Nebel
 	- nieblig
+
+Test:
+- słuchanie
+- czytanie
+- wstaw wyraz w lukę
+
+
+Geografische Lage von Deutchland
+Nachbarn - sądziedzi
+Physikalische Karte
+- See:
+	- Ostsee - bałtyk
+	- Nordsee
+
+Schweizer Mittelland - Wyżyna Szwajcarska
+Hochland - wyżyna
+Tiefland - nizina
+Seenplaten - pojezierze
+die Woidwoschaft - województwo
+
+Wszystkie państwa mają rodzajnik das;
+Wyjątki:
+die niederlanden 
+die tchechiche Republik
+die schweiz
+
+Deutschland grentz **an** 9 Landern
+
+im Osten
+im Suden
+im Norden
+im Westen
+
+die Flesche - powierzchnia
+Binnenland
