@@ -1,4 +1,5 @@
 # Linear differential equations
+## Definition
 Given a function:
 $$y' + P(x)y = Q(x)$$
 Step 1: Calculate an integrating factor

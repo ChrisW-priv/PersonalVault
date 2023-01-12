@@ -11,6 +11,9 @@ This guaranties that $P(x,y)\mu_y, Q(x,y)\mu_x$ will be equal to each other.
 Note: $P(x,y)\mu_y, Q(x,y)\mu_x$ will be later refered to as $\widetilde{P}, \widetilde{Q}$ as it makes it more compact
 
 ## Calculating $\mu$
+For an original function $f(x,y):=P(x,y)dx+Q(x,y)dy = 0$
+We want to transfor it to $f(x,y):=P(x,y)\mu dx+Q(x,y)\mu dy = 0$
+
 1. $$\frac{\mu'}{\mu} = \frac{P_y-Q_x}{Q}\text{ and dx in the integral}$$
 or, if that is dependant on both x and y:
 2. $$\frac{\mu'}{\mu} = \frac{Q_x-P_y}{P}\text{ and dy in the integral}$$
