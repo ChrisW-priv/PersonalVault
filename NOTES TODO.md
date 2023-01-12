@@ -1,5 +1,6 @@
 easily find needed notes with #TODO tag!
 
+Impedance and admitance for Electrical circuits (!)
 Matma, przerobić na notatkę:
 https://www.youtube.com/watch?v=uI2xt8nTOlQ
 
