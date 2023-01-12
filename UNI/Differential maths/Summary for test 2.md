@@ -1,7 +1,5 @@
-# [[Separation of Variables]]
 ![[Separation of Variables]]
 
-# [[Homogenous equations]]
 ![[Homogenous equations]]
 
 # [[Linear differential equations]]
