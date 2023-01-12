@@ -1,3 +1,4 @@
+## Definition
 For a function in a form
 $$y + P(x)y' = Q(x)\cdot y^n$$
 
