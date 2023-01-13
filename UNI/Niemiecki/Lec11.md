@@ -25,3 +25,15 @@ ohne zu:
 - modalne
 - czasowniki ruchu (eg. Ich gehe schwinnen, er fahrt duschen, er kommt Wein drinken)
 - sehen, horen
+- bleiben
+- lassen
+
+Genitiv:
+Czyje coś jest 
+Wesssen ?
+Wessen ist das?
+Der kugelschreiber von Olgierd
+Das Blatt von Katerina
+
+des Kindes
+meines Kindes 
