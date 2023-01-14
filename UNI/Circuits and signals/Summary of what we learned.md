@@ -31,12 +31,7 @@
 # Norton's equivalent
 ![[Pasted image 20221030191513.png]]
 
-# 3 terminal device transformations
-![[Pasted image 20221030191710.png]]
-Example:
-![[Pasted image 20221030191734.png]]
-Becomes:
-![[Pasted image 20221030191748.png]]
+![[3 terminal device transformations]]
 
 # Table of linear DC one-port equivalence
 
