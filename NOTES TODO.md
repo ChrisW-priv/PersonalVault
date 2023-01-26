@@ -36,3 +36,5 @@ Books on File systems:
 "Introduction to File Systems" by Michael Palmer
 "File systems" on Khan Academy
 
+digital Circuits:
+Petri net for describing the flow of data in concurrent circuit.
