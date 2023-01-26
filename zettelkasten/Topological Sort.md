@@ -2,6 +2,9 @@ Topological sort (or top sort for short) is an algorighm that work on [[Directed
 
 Topological sort works with $O(V+E)$ complexity.
 
+> [!Warning]
+> Remember that this works ONLY for DAG. Any graph with cycles in it will not work!
+
 ## Algorithm
 1. Pick an unvisided node
 2. Beggining with the selected node, do a [[Depth First Search (DFS)]] exploring only unvisited nodes.
