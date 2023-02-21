@@ -13,6 +13,8 @@ office hours:
 [[EDC1 lecture2p.pdf]]
 [[EDC1 lecture3p.pdf]]
 [[EDC1 lecture4.pdf]]
+[[Microprogramming_ver2.pdf]]
+[[Some notes from net.pdf]]
 
 ### Books
 1. D. M. Harris, S. L. Harris, Digital Design and Computer Architecture, Elsevier, 2013, (721 pages) 
