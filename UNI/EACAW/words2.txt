@@ -1,4 +1,0 @@
-a
-cross and down <- rows and columns in a crossword
-
-
