@@ -20,10 +20,10 @@ Testy:
 17.01.23 - midterm2
 
 ## Files
-Sylabus:
+### Sylabus:
 [[edde_syllabus.pdf]]
 
-Tutorials:
+### Tutorials:
 [[edde01.pdf]]
 [[edde02.pdf]]
 [[edde03.pdf]]
@@ -33,12 +33,10 @@ Tutorials:
 [[edde07.pdf]]
 [[edde08_new.pdf]] | [[edde08_new_answers.pdf]]
 [[edde09.pdf]]
+[[tut1.md]]
+[[Tutorial guy.md]]
 
-Midterms:
+### Midterms:
 [[edde_midterm_1.pdf]]
 [[edde_midterm_2.pdf]]
 
-## Extra books
-1. A first course in differential equations - Dennis G. Zill
-2. Fundamentals of Differential Equations - Nagle Saff Snider
-3. Ordinary Differential Equations for Engineers - Ali Knit Keskin

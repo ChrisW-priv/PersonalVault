@@ -38,4 +38,4 @@ Only total counts!
 [[tut02.pdf]]
 
 ### Laby:
-...
+[[lab_manual.pdf]]

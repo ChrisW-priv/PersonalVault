@@ -1,5 +1,4 @@
 # Intro
-#Todo Patrycja Krankowska na pewno ma piękne notateczki z tego co jest ważne i co trzeba umieć
 
 ## Tutor:
 name:
