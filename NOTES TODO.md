@@ -39,7 +39,9 @@ Books on File systems:
 digital Circuits:
 Petri net for describing the flow of data in concurrent circuit.
 
-Maths:
-markov chains
+Math:
+Markov chains
 eigenvalues
 Symbolic Dynamics
+
+Impedance and Admittance

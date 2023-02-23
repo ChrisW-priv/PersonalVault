@@ -1,5 +1,6 @@
 # {{title}}
-## Definition
+> [[!Definition]]
+
 
 ## Notation
 
