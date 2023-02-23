@@ -1,2 +1,3 @@
-### Basis of vector space
-The basis of a vector space is a set of [[Linear dependence|linearly independent]] vectors that [[Span of vector space|span]] the full space.
+# Basis of vector space
+> [!Definition]
+A set of [[Linear dependence|linearly independent]] vectors that [[Span of vector space|span]] full space.
