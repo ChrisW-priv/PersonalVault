@@ -1,3 +1,15 @@
+# Fourier series
+## Definition
+
+## Notation
+$$
+\hat g(t) = \int_{t_{1}}^{t_{2}}g(t)\cdot e^{-2\pi ift} dt
+$$
+Where limit of $t_{1}, t_{2}$ is $\infty$. 
+## Intuition
+Fourier series is a method that can be used to decompose functions into it's harmonics. This allows us to solve the problem for those simple harmonics and then sum them up, rather than solve one complex system
+
+### Lab manual explanation for Electrical circuits
 A signal $x(t)$ is called periodic if there exists a number $T > 0$, called a period of the signal, such that for every time instant t the following equality holds
 $$x(t+T)=x(t)$$
 In the remaining part of this chapter, we assume that $T$ is a fundamental period, i.e., it is the smallest period of the given signal. If a series
