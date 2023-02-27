@@ -4,7 +4,7 @@
 In [[Probability]] and [[Statistics]], the beta distribution function is a family of continuous probability distributions defined on the closed interval from 0 to 1.
 It is defined by two parameters: alpha $\alpha$ and beta $\beta$, that control the shape of the function
 
-The [[probability density function (PDF)]] of the beta distribution, for 0 ≤ x ≤ 1, and shape parameters α, β > 0, is a power function of the variable x and of its reflection (1 − x).
+The [[Probability density function (PDF)]] of the beta distribution, for 0 ≤ x ≤ 1, and shape parameters α, β > 0, is a power function of the variable x and of its reflection (1 − x).
 
 ## Notation
 $$f(x,\alpha,\beta)=const. \times x^{\alpha-1} (1-x)^{\beta-1}$$

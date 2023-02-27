@@ -1,5 +1,5 @@
 # {{title}}
-> [[!Definition]]
+> [!Definition]
 
 
 ## Notation
