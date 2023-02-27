@@ -10,7 +10,7 @@ This way, after some transformations we obtain:
 $$(A-\lambda I)\vec{v} = \vec{0}$$
 To solve this we could say that $\vec{v}=0$ but that does not get us closer to finding true solution. 
 Rather, we will focus on $A-\lambda I$ part. In practice it's just subtracting $\lambda$ from diagonal axis.
-Now, we should know that to make vector times matrix result in 0 vector we can make matrix have determinant equal to 0.
+Now, we can exploit that [[Eigenvector]] is on a null space (kernel) of the new matrix. This way if we have a transformation that "squishes" space to smaller dimension. This of course only happens when we have determinant equal to 0.
 Equation to make it more visual:
 $$det(A-\lambda I) = 0$$
 Now, if we don't remember what determinant is we may be tempted to just try all possible lambdas and see what happens. 

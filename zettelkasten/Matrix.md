@@ -1,9 +1,7 @@
-### What is a matrix
-Matrix is a table of rows and columns containing data.
-Matrix is commonly used to describe information about changes to space called linear transformations. 
-Alongside [[Vector]] used in computer graphics and maths. 
+> [!Definition]
+Matrix is a table of rows and columns containing data. Matrix is commonly used to describe linear transformations. We often build matrix with [[Vector]] as it's column.
 
-### Notation
+## Notation
 Dimensions of matrix are often described with letters **m** and **n**. We often note matrix of size m, n.
 - m stands for number of rows
 - n stands for number of columns
@@ -15,24 +13,24 @@ In general: $M_{i,j} = x$
 Example:
 For matrix $M$ above $M_{1,1} = 3$ and $M _{3,2} = 5$ . Notice it is 3,2 not 2,3. order of arguments matters.
 
-#### Identity transformation
+## Identity transformation
 Identity transformations a transformation that does nothing - result is the same as if we didn't apply it at all.
 
-### Related ideas
+## Related ideas
 [[Matrix multiplication]]
 [[Determinant of a matrix]]
 [[Inverse matrix]]
 
-### Rank of matrix
+## Rank of matrix
 Rank of a matrix is a number of dimensions in the output of the transformation. 
 
-#### Full rank
+### Full rank
 When the matrix has maximum rank as it can have ($n^{th}$ rank for $n \times n$ matrix)
 
-### Null space (kernel)
+## Null space (kernel)
 A set of vectors that fall into origin point after linear transformation is applied.
 Also known as kernel
 
-### Column space
+## Column space
 A span of basis vectors
 

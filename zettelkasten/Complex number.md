@@ -27,7 +27,7 @@ $\frac{1}{z}=\frac{\bar{z}}{z\bar{z}} = \frac{\bar{z}}{|z|^2} = \frac{a-bi}{a^2+
 Addition, subtraction and multiplication of complex numbers can be naturally defined by using the rule $i^2 = −1$ combined with the [[Associative binary property|associative]], [[Communicative binary property|comunicative]] and [[Distributive binary property|distributive]] laws. 
 for eg. 
 - addition: $1+2i + 3 + 5i = 4 + 7i$ 
-- [[Complex multiplication as a rotation|multiplication]]: $(1+2i) + (3 + 5i) = 4+5i+6i+10i^2 = 4-10+11i = -6+11i$ 
+- [[Complex multiplication as a rotation|multiplication]]: $(1+2i) \cdot (3 + 5i) = 3+5i+6i+10i^2 = 3-10+11i = -7+11i$ 
 > [!Note] 
 > Although complex numbers can be seen as vectors multiplication is either matrix multiplication or normal multiplication with rule $i^2 = −1$ defined.
 

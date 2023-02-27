@@ -1,5 +1,5 @@
 We use Cramer's rule to calculate a [[System of linear equations]]. 
-For a square matrix $M_{n \times n}$ of any size defining the [[Linear transformation]]. and a vector $\vec{v}$ of the same size result vector can be calculated using following algorithm:
+For a square matrix $M_{n \times n}$ of any size defining the [[Linear transformation]], and a vector $\vec{v}$ of size $n$ result vector can be calculated using following algorithm:
 
 1. calculate a $det(M)$
 2. for each column in the matrix $M$ create new matrix with that column substituted with vector $\vec{v}$ 

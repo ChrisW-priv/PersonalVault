@@ -10,7 +10,7 @@ $$P(A\mid B)= \frac{P(A)\times P(B\mid A)}{P(B)}$$
 - $P(A)$ and $P(B)$ are the probabilities of observing $A$ and $B$ respectively without any conditions; They are known as the marginal probability or prior probability.
 
 ## Intuition
-As it can be difficult to just *remember* the theorem there are multiple ways of how we can get this equation from visualising problem and then generalising.
+As it can be difficult to just *remember* the theorem there are multiple ways of how we can get this equation from visualizing problem and then generalizing.
 
 It can also help to change the names of the variables to reflect true use of the theorem:
 $$P(H\mid D)= \frac{P(H)\times P(D\mid H)}{P(D)}$$
