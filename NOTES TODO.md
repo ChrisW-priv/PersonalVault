@@ -1,7 +1,7 @@
-easily find needed notes with #TODO tag!
+epsilon calculus and error propagation
 
-Impedance and admitance for Electrical circuits (!)
-Matma, przerobić na notatkę:
+Impedance and admittance for Electrical circuits (!)
+Matma, przerobić na notatkę: (Differential equations)
 https://www.youtube.com/watch?v=uI2xt8nTOlQ
 
 SOA
@@ -24,8 +24,8 @@ Collision detection article:
 https://www.toptal.com/game/video-game-physics-part-ii-collision-detection-for-solid-objects
 
 Encryption:
-CFB (Cypher feedback)
-CBC (Cypher block chaining)
+CFB (Cipher feedback)
+CBC (Cipher block chaining)
 Block vs stream algorithms
 
 Modulo arithmetic
@@ -41,7 +41,4 @@ Petri net for describing the flow of data in concurrent circuit.
 
 Math:
 Markov chains
-eigenvalues
 Symbolic Dynamics
-
-Impedance and Admittance
