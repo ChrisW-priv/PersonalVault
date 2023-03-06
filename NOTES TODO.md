@@ -1,4 +1,6 @@
 epsilon calculus and error propagation
+https://www.youtube.com/results?search_query=epsilon+calculus
+https://www.youtube.com/results?search_query=error+propagation+in+numerical+methods
 
 Impedance and admittance for Electrical circuits (!)
 Matma, przerobić na notatkę: (Differential equations)
