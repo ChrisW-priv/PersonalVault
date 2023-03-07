@@ -4,7 +4,7 @@ Bayes Rule describes the probability of an event, based on prior knowledge of 
 With Bayesian probability interpretation, the theorem expresses how a degree of belief, expressed as a probability, should rationally change to account for the availability of related evidence. Bayesian inference is fundamental to Bayesian statistics, being considered "to the theory of probability what Pythagoras's theorem is to geometry."
 
 ## Notation
-$$P(A\mid B)= \frac{P(A)\times P(B\mid A)}{P(B)}$$
+$$P(A\mid B)= \frac{P(A)\times P(B\mid A)}{P(B)} = \frac{P(A \cap B)}{P(B)}$$
 - $P(A\mid B)$ is a conditional probability: the probability of event $A$ occurring given that $B$ is true. It is also called the posterior probability of $A$ given $B$.
 - $P(B\mid A)$ is also a conditional probability: the probability of event $B$ occurring given that $A$ is true.
 - $P(A)$ and $P(B)$ are the probabilities of observing $A$ and $B$ respectively without any conditions; They are known as the marginal probability or prior probability.
