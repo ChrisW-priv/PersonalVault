@@ -1,6 +1,7 @@
 \documentclass[11pt]{article}
 \usepackage{graphicx} % Required for inserting images
 \usepackage{amsmath}
+\usepackage{listings}
 \graphicspath{ {./lab1} }
 
 \begin{document}
@@ -44,7 +45,7 @@ Therefore we obtain:
 \begin{align*}
     \tilde{v_1} &= \cos(x(1+\epsilon_1)) \\ 
     \tilde{v_2} &= (x(1+\epsilon))^3 = x^3 (1+3\epsilon_2) \\ 
-    \tilde{v_3} &= \frac{\tilde{v_1}}{\tilde{v_2}}(1+\epsilon_3) \\ 
+    \tilde{v_3} &= \frac{\tilde{v_1}}{\tilde{v_2}} \\ 
     \tilde{v_4} &= (x(1+\epsilon))^2 = x^2 (1+2\epsilon_4) \\
     \tilde{y} &= \tilde{v_3} - \tilde{v_4} \\ 
 \end{align*}
@@ -61,41 +62,70 @@ Using those properties:
 \end{align*}
 Now solve $v_3$:
 \begin{align*}
-    \tilde{v_3} &= \displaystyle\frac{\cos(x) \cdot (1 - x\tan(x) \epsilon_1)}{x^3 (1+3\epsilon_2)} (1+\epsilon_3)\\
-    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1)\cdot (1+3\epsilon_2)^{-1}(1+\epsilon_3)\\
-    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1)\cdot (1-3\epsilon_2)(1+\epsilon_3)\\
-    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1 - 3\epsilon_2)(1+\epsilon_3)\\
-    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1 - 3\epsilon_2+\epsilon_3)\\
+    \tilde{v_3} &= \displaystyle\frac{\cos(x) \cdot (1 - x\tan(x) \epsilon_1)}{x^3 (1+3\epsilon_2)}\\
+    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1)\cdot (1+3\epsilon_2)^{-1}\\
+    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1)\cdot (1-3\epsilon_2)\\
+    &= \frac{\cos(x)}{x^3} (1 - x\tan(x) \epsilon_1 - 3\epsilon_2)\\
 \end{align*}
 Finally, we get:
 \begin{align*}
-\tilde{y}&=\frac{\cos(x)}{x^3}(1 - x\tan(x) \epsilon_1 - 3\epsilon_2 + \epsilon_3)-x^2(1+2\epsilon_4)\\
-    &=\frac{\cos(x)}{x^3}-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2 - \epsilon_3)-x^2-2x^2\epsilon_4 \\
-    &=y-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2 - \epsilon_3)-2x^2\epsilon_4\\
-    &=y(1 + (-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2 - \epsilon_3)-2x^2\epsilon_4)\frac1y)\\
-    &=y(1 + (-\frac{\sin(x)}{x^2}\epsilon_1 - 3\frac{\cos(x)}{x^3}\epsilon_2 -\frac{\cos(x)}{x^3}\epsilon_3-2x^2\epsilon_4)\frac1y)\\
+\tilde{y}&=\frac{\cos(x)}{x^3}(1 - x\tan(x) \epsilon_1 - 3\epsilon_2)-x^2(1+2\epsilon_4)\\
+    &=\frac{\cos(x)}{x^3}-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2)-x^2-2x^2\epsilon_4 \\
+    &=y-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2)-2x^2\epsilon_4\\
+    &=y(1 + (-\frac{\cos(x)}{x^3}(x\tan(x) \epsilon_1 + 3\epsilon_2)-2x^2\epsilon_4)\frac1y)\\
+    &=y(1 + (-\frac{\sin(x)}{x^2}\epsilon_1 - 3\frac{\cos(x)}{x^3}\epsilon_2 - 2x^2\epsilon_4)\frac1y)\\
 \end{align*}
 Therefore, 
-$$T(x) = \displaystyle\frac{\left|-\frac{\sin(x)}{x^2}\right| + \left|- 3\frac{\cos(x)}{x^3}\right| +\left|-\frac{\cos(x)}{x^3}\right| + \left|-2x^2\right|}{\frac{\cos(x)}{x^3} + x^2}$$
+$$T(x) = \displaystyle\frac{
+\left|-\frac{\sin(x)}{x^2}\right| +
+\left|- 3\frac{\cos(x)}{x^3}\right| +
+\left|-2x^2\right|
+}
+{\frac{\cos(x)}{x^3} - x^2}$$
 
-This yields results different from the ones we got via calculating the error numerically.
+This yields results simmilar to the ones we got via calculating the error numerically.
 Function $$T(x) = \frac{1}{\epsilon_{sim}}\left| \displaystyle\frac{y(\tilde{x}) - y(x)}{y(x)} \right|$$
-Differs significantly from the one we got from analitical solution.\\
-Graph that visualises the difference:\\
+Does not differ significantly from the one we got from analitical solution.\\
+Graph that visualises both:\\
 \includegraphics[width=\textwidth]{Task1.jpg}
 
 \pagebreak
-\section{Task 2}
-\Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi
-anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est
-aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud
-officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat
-reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia
-voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt
-duis officia eiusmod. Aliqua reprehenderit commodo ex non excepteur duis sunt
-velit enim. Voluptate laboris sint cupidatat ullamco ut ea consectetur et est
-culpa et culpa duis.
+Code I used to obtain such graph:
+\begin{lstlisting}[language=matlab]
+% clear previous experiment results
+clc, clearvars, close all
 
+% define domain and function
+x = linspace(0,3,100);
+y = @(x) cos(x)./x.^3 - x.^2;
+% define erronous domain
+esim = 1.0e-8;
+x_eps = x.*(1+esim);
+% calculate true y and epsilon y
+ydot = y(x);
+yeps = y(x_eps);
+% calculate T numerically
+numerator = yeps - ydot;
+abs_error = abs(numerator ./ ydot);
+tx = 1/esim * abs_error;
+
+% calculate T analiticaly (formula calculated in the report)
+T1 = -sin(x)./(x.^2);
+T2 = -3*cos(x)./(x.^3);
+T3 = 2*x.^2;
+
+Tn = (abs(T1) + abs(T2) + abs(T3));
+tx_analitical = Tn./abs(ydot);
+
+% plot results to validate both methods result in simmilar results
+semilogy(x,tx, '*');
+hold on 
+semilogy(x,tx_analitical, '*');
+title("Plot of T(x)"), xlabel("x"), ylabel("y = T(x)"),
+legend("Numerical", "Analitical")
+\end{lstlisting}
+
+\pagebreak
+\section{Task 2}
 \end{document}
 
