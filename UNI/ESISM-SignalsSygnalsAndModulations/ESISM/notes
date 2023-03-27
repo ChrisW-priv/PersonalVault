@@ -1,0 +1,103 @@
+test 1
+params:
+    file: violin
+    sampling freq: 40
+    sine freq: 20
+    (both in kHz)
+    method: ideal
+results and thoughts:
+    sample signal to wielokrotność tej samej fali
+    input signal ma długi, ciągły "ogon"
+    reconstructed jest przerwany koło +-badnwidth of the files (20)
+    perdiod T = 1/fs = 1/40kHz
+    input and reconstructed signals look similar when samplig freq is high but not when we choose lower sampling freq.
+    SNRdb = 50 db for input signal
+    SNRdb = 35 for reconstructed signal
+2. 
+    in ideal sampling spectrum sampled signal jest periodic but not in sample and hold,
+    reconstructed signal is 10dB higher in sample and hold 
+    in ideal sampling, values got back to zero whereas in sample and hold they dont
+    in ideal sampling, the spectrum of the sampled signal is a piece of the full 200kHz sample repeated with a period of 1/sample freq. but in sample and hold the spectrum of the sampled signal is the entire 200kHz spectrum (not repeated parts), it is not periodic.
+
+3.
+   8kHz for ALL audio files 
+    for violin:
+        the spectrum of input signal is visible from -20 to 20 kHz with noise further out
+        the spectrum of the reconstructed signal is visible from -4 to 4 kHz
+        8 kHz is not enough to capture the entire spectrum of input signal wchich results in inacurately recuntructed signal
+        SNRdb = 12.7951
+    for piano:
+        for piano we got the same observations
+        SNRdb = 32.0683
+    for song:
+        same for the song
+        SNRdb = 30.4768
+    for wideband speech
+        same as in violin
+        SNRdb = 28.1310
+    for narowband speech
+        because the input signal spectrum is within the sampling frequency, the reconstucted signals error is minimal
+        SNRdb = 40.4582
+
+    why signal quality different?
+        because of the different signal spactrum
+    why are there distortions
+        because intput signal spectrum in not in sampling range
+
+4. 
+    ideal sampling, 6kHz sine freq. for ALL sampling frequency
+    file : violin
+
+    sampling freq: 100kHz
+        spectrum of reconstructed signal contains some noise because sampling frequency is bigger than the bandwidth of the recording
+        input SNRdb = 49.66
+        reconstructed SNRdb = 43.64
+        frequency = same
+    sampling freq: 50kHz
+        spectrum of reconstructed signal contains some noise because sampling frequency is bigger than the bandwidth of the recording
+        input SNRdb = 49.66
+        reconstructed SNRdb = 37.62
+        frequency = same
+    sampling freq: 40kHz
+        spectrum of reconstructed signal is the same as the bandwidth of the recording
+        input SNRdb = 49.66
+        reconstructed SNRdb = 35.68
+        frequency = same
+    sampling freq: 25kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 31.6
+        frequency = not the same (visible differences)
+    sampling freq: 20kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 29.66
+        frequency = not the same (visible differences)
+    sampling freq: 12.5kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 25.58
+        frequency = not the same (visible differences)
+    sampling freq: 10kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 23.62
+        frequency = not the same (visible differences)
+    sampling freq: 8kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 21.69
+        frequency = not the same (visible differences)
+    sampling freq: 5kHz
+        spectrum of reconstructed signal is smaller than the bandwidth of the recording, this introduces errors to reconstructed signal
+        input SNRdb = 49.66
+        reconstructed SNRdb = 17.57
+        frequency = not the same (visible differences)
+        
+    summary:
+        frequency of the reconstructed signal is not he same when sampling frequency is lower that sampling frequency of input signal
+        when sampling frequency is lower we loose some information to random variations.
+    
+
+
+        
