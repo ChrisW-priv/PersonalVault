@@ -4,12 +4,15 @@ clc, clearvars, close all
 % define domain and function
 x = linspace(0,3,100);
 y = @(x) cos(x)./x.^3 - x.^2;
+
 % define erronous domain
 esim = 1.0e-8;
 x_eps = x.*(1+esim);
+
 % calculate true y and epsilon y
 ydot = y(x);
 yeps = y(x_eps);
+
 % calculate T numerically
 numerator = yeps - ydot;
 abs_error = abs(numerator ./ ydot);
