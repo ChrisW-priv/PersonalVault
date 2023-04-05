@@ -1,0 +1,158 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\begin{document}
+
+\begin{titlepage}
+   \begin{center}
+       \vspace*{1cm}
+
+       \textbf{\Huge Signals, Systems and Modulations} \\
+        \vspace{2.0cm}
+        \huge{Laboratory no. 1}
+         \vspace{.7cm}
+       \huge{\\ \today}
+
+        \vspace{3.0cm}
+        \textsc{Laboratory group members:}
+        
+        \vspace{0.4cm}
+        Jan Chorąży\\
+         \vspace{0.4cm}
+        Krzysztof Watras\\
+
+     
+      % \includegraphics[width=1.0\textwidth]{uniwersytet.jpg}
+         
+        \vspace{2 cm}   
+       \small{Computer Science} \\  
+       \vspace{0.2cm}       
+       \small{Politechnika Warszawska} 
+       \date{\today}
+            
+   \end{center}
+\end{titlepage} 
+
+\begin{center}
+\textbf{\Large  Documentation of laboratory work results }\\ 
+\end{center}
+
+\section*{Task 1}
+\begin{table}[h!]
+  \begin{center}
+    \caption{}
+    \label{tab:task1tab}
+    \begin{tabular}{c|c|c|c} 
+      \textbf{N} & \textbf{transition band} & \textbf{passband ripple} 
+      & \textbf{stopband attenuation} \\
+      \hline
+        16 & 0.0938 & 0.1577 & -15.16 \\
+        32 & 0.043  & 0.186  & -16.21 \\
+        64 & 0.0234 & 0.1999 & -16.65 \\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\subsection*{Design of lowpass FIR filter by sampling in frequency domain}
+Influence of N on transition band \\
+As N increases, the transition band gets smaller.
+
+Does passband depend much on N? What is the difference between
+the minimum and maximum values of passband ripple that we have
+observed? \\
+Ans2
+
+Does the stopband attenuation depend much on N? What is the difference between 
+the minimum and maximum values of stopband attenuation that we have observed? \\
+Ans3
+
+Number of DFT points needed to be used to obtain transition band < 0.05 \\
+Ans4
+
+How do zeros of the transfer function influence frequency response of the filter \\
+Ans5
+
+\subsection*{Design of a lowpass FIR filter by windowing in time domain}
+
+\subsection*{What is the period?}
+The period of the spectrum is the inverse of the sampling frequency (1/40kHz),
+which is equal to 25 microseconds
+
+\section*{Task 2}
+\begin{table}[h!]
+  \begin{center}
+    \caption{}
+    \label{tab:task1tab}
+    \begin{tabular}{c|c|c|c} 
+      \textbf{N} & \textbf{transition band} & \textbf{passband ripple} 
+      & \textbf{stopband attenuation} \\
+      \hline
+        16 & 0.0938 & 0.1577 & -15.16 \\
+        32 & 0.043  & 0.186  & -16.21 \\
+        64 & 0.0234 & 0.1999 & -16.65 \\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\subsection*{Comparison of results with results of sampling in frequency domain}
+
+Is it possible to obtain the stopband attenuation > 30dB?
+Ans6
+
+\begin{table}[h!]
+  \begin{center}
+    \caption{}
+    \label{tab:task1tab}
+    \begin{tabular}{c|c|c} 
+      \textbf{window} & \textbf{transition band} & \textbf{stopband attenuation} \\
+      \hline
+        rectangular & 0.0312 & -21.46 \\
+        Hamming     & 0.1094 & -52.66 \\
+        Blackman    & 0.1445 & -76.66 \\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+What is the influence of window shape on transition band?
+Ans7
+
+What is the influence of window shape on stopband attenuation
+Ans8
+
+Window and its lenght N to obtain the stopband attenuation > 70 dB and 
+transition band < 0.05.
+Ans9
+
+\section*{Task3}
+\subsection*{Observation of a lowpass IIR Butterworth filter}
+
+Are there ripples in passband and in stopband? \\
+Ans10
+
+Where are zeros ot the transfer function? \\
+Ans11
+
+Where are the poles? \\
+Ans12
+
+What is the influence of the cutoff frequency on zeros and poles? \\
+Ans13
+
+\section*{Task4}
+\subsection*{Design of a lowpass IIR Butterworth filter}
+\begin{table}[h!]
+  \begin{center}
+    \caption{Simulation of Butterworth filter}
+    \label{tab:Frequency vs SNRbd}
+    \begin{tabular}{c|c} 
+      \textbf{Number of zeros and poles} & \textbf{transition band} \\
+      \hline
+      8 &  0.289 \\
+      16 & 0.1582 \\
+      32 & 0.084 \\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+\end{document}
+

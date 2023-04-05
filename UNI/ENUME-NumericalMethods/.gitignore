@@ -1,3 +1,8 @@
 # latex created:
 *.log
 *.aux
+*.toc
+
+# Private Directory for the materials used
+CourseMaterials*
+
