@@ -37,7 +37,6 @@
 \textbf{\Large  Documentation of laboratory work results }\\ 
 \end{center}
 
-\section*{Task 1}
 \begin{table}[h!]
   \begin{center}
     \caption{}
@@ -74,11 +73,6 @@ Ans5
 
 \subsection*{Design of a lowpass FIR filter by windowing in time domain}
 
-\subsection*{What is the period?}
-The period of the spectrum is the inverse of the sampling frequency (1/40kHz),
-which is equal to 25 microseconds
-
-\section*{Task 2}
 \begin{table}[h!]
   \begin{center}
     \caption{}
@@ -96,7 +90,7 @@ which is equal to 25 microseconds
 
 \subsection*{Comparison of results with results of sampling in frequency domain}
 
-Is it possible to obtain the stopband attenuation > 30dB?
+Is it possible to obtain the stopband attenuation $>$ 30dB? \\
 Ans6
 
 \begin{table}[h!]
@@ -113,17 +107,16 @@ Ans6
   \end{center}
 \end{table}
 
-What is the influence of window shape on transition band?
+What is the influence of window shape on transition band? \\
 Ans7
 
-What is the influence of window shape on stopband attenuation
+What is the influence of window shape on stopband attenuation \\
 Ans8
 
 Window and its lenght N to obtain the stopband attenuation > 70 dB and 
-transition band < 0.05.
+transition band < 0.05. \\
 Ans9
 
-\section*{Task3}
 \subsection*{Observation of a lowpass IIR Butterworth filter}
 
 Are there ripples in passband and in stopband? \\
@@ -138,7 +131,6 @@ Ans12
 What is the influence of the cutoff frequency on zeros and poles? \\
 Ans13
 
-\section*{Task4}
 \subsection*{Design of a lowpass IIR Butterworth filter}
 \begin{table}[h!]
   \begin{center}
@@ -153,6 +145,34 @@ Ans13
     \end{tabular}
   \end{center}
 \end{table}
+
+\subsection*{Design of a lowpass IIR eliptic filter}
+
+Do we observe ripples in passband and in stopband?\\
+Ans13
+
+Where are zeros of transfer function? \\
+Ans14
+
+Where are the poles? \\
+Ans15
+
+\begin{table}[h!]
+  \begin{center}
+    \caption{}
+    \label{tab:task1tab}
+    \begin{tabular}{c|c|c} 
+      \textbf{requred transition band} & \textbf{0.05} & \textbf{0.005} \\
+      \hline
+        obtained filter order & 13 & 20 \\
+        observed transition band     & 0.1094 & -52.66 \\
+        observed passband ripple    & 0.1445 & -76.66 \\
+    \end{tabular}
+  \end{center}
+\end{table}
+
+Are all requirements fulfield? \\
+Ans16
 
 \end{document}
 

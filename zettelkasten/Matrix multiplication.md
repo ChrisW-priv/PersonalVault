@@ -32,16 +32,18 @@ ax + by + cz \\ dx + ey + fz \\ gx + hy+iz
 \end{bmatrix}$$
 
 ### Multiplication with matrix of the same shape
-For square matrixes result is equivalent to applying 2 linear tranformations one after the other. 
+For square matrices result is equivalent to applying 2 linear transformations one after the other. 
 Order of matrix multiplication matters!!!
-- We can split hard ploblem into smaller ones.
-- Resulting matrix is created by a vector of vectors that are results of multiplication of coresponding columns by a matrix on the left.
+- We can split hard problem into smaller ones.
+- Resulting matrix is created by a vector of vectors that are results of multiplication of corresponding columns by a matrix on the left.
 Eg. 
-Let $M _1, M _2$ be a 2d square matrixes: 
-$$M_1 = 
-\begin{bmatrix} e & f \\ g & h \end{bmatrix} \
-M_2 = 
-\begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
+Let $M _1, M _2$ be a 2d square matrices: 
+$$M_1 = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+M_2 = \begin{bmatrix} e & f \\ g & h \end{bmatrix} \ 
+$$
+$$R = M_1*M_2 = \begin{bmatrix} 
+ae + bg & af+bh \\ ce+dg & cf+dh
+\end{bmatrix}$$
 Result matrix $R$ can be computed as follows:
 $$R = M_2 * M_1 = 
 \begin{bmatrix} a & b \\ c & d \end{bmatrix} * 
