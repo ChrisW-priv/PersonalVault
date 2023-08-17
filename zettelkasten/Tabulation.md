@@ -1,0 +1,1 @@
+Similar to [[Memoization]] as it is also saving the result of the function, this time in a table. This time you try to work "bottom-up". This is usually done 
