@@ -38,10 +38,11 @@ function fib(i){
 
 ### Coin change
 coin(coins, n) = min # of coins in `coins` needed to make 'n'
+we solve it by checking each result of using one coin.
 ```js
 var MEMO = {}
 
-function fib(coins, total){
+function coin_change(coins, total){
 	const key = "" + i;
 	if (key in MEMO){
 		return MEMO[key];
@@ -59,5 +60,48 @@ function fib(coins, total){
 	MEMO[key] = result;
 	return result;
 }
-
 ```
+### Knapsack
+knapsack(items, capacity) = max value $\leq$ capacity "n".
+Where items is a list of 2-valued items: weight and value.
+we solve it by creating a branches "include i-th item" and "don't include i-th item"
+```js
+var MEMO = {}
+
+function knapsack_rec(items, capacity, i){
+	const key = capacity + "." + i;
+	if (key in MEMO){
+		return MEMO[key];
+	}
+
+	if (capacity == 0) return 0;
+	if (total < 0) return -10_000; // some small number
+	if (i == items.length) return 0;
+	
+	const result = Math.max(
+		knapsack_rec(items, capacity - items[i][0], i+1) + items[i][1]; // 
+		knapsack_rec(items, capacity, i+1),
+	);
+	MEMO[key] = result;
+	return result;
+}
+```
+### Staircase Problem
+Stair(n) = # ways to climb stairs with "n" steps. can take 1 or 2 steps at a time. we create a tree with "steps left after 1 step" and "steps left after 2 steps".
+```js
+var MEMO = {}
+
+function staircase(n_stairs){
+	const key = "" + n_stairs;
+	if (key in MEMO){
+		return MEMO[key];
+	}
+
+	if (n_stair == 0) return 0;
+	if (n_stair == 1) return 1; 
+	if (n_stair == 2) return 2; // 11, 2
+	
+	const result = staircase(n_stairs-1) + staircase(n_stairs-2);
+	MEMO[key] = result;
+	return result;
+}
