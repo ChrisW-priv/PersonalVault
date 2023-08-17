@@ -10,9 +10,9 @@ IMPORTANT: you have to be able to differentiate a function at a certain point to
 The Taylor series of a real or complex-valued function f (x) that is infinitely differentiable at a real or complex number a is the power series
 
 $$f(a)+\frac{df(a)}{1!}(x-a)+\frac{d^2f(a)}{2!}(x-a)^{2}+\frac{d^3f(a)}{3!}(x-a)^{3}+\cdots$$
-where n! denotes the factorial of n. In the more compact sigma notation, this can be written as
-
+where n! denotes the factorial of n. In the more compact [[Sigma notation]], this can be written as
 $$\sum_{n=0}^{\infty}{\frac{f^{(n)}(a)}{n!}(x-a)^{n}}$$
+This uses [[Derivative]] and [[Factorial function]].
 ## Intuition
 Each component of this sum gives you more information about the point and it's surroundings. First gives you a value at that point, second it's general slope, third gives you curve around that point etc.
 
