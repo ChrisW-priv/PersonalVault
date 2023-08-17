@@ -1,5 +1,5 @@
 Part of [[Code quality]]
-code nesting is adding more blocks or depth to your code. for example following code has 4 nested blocks:
+Code nesting is adding more blocks or depth to your code. for example following code has 4 nested blocks:
 ```c
 int calculate(int bottom, int top){
 	if (top > bottom){
