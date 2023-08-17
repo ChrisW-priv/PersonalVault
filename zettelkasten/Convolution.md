@@ -1,7 +1,7 @@
 ## Notation
 Formally we denote result $r$ of convolving functions $g,h$ like so:
 $$r(t) = (g*h)(t) = \int_{-\infty}^{\infty}g(x)\cdot h(t-x)dx$$
-Where $\cdot$ is pointwise multiplication
+Where $\cdot$ is point-wise multiplication
 ## Intuition
 We can imagine this as a function that first creates some mirror image of one of the functions, then multiplies it point wise then shifts is to the right and repeats the process infinitely many times. 
 After that, it just sums all the results we got.
