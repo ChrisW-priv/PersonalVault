@@ -15,6 +15,6 @@ $$\sum_{n=0}^{\infty}{\frac{f^{(n)}(a)}{n!}(x-a)^{n}}$$
 This uses [[Derivative]] and [[Factorial function]].
 ## Intuition
 Each component of this sum gives you more information about the point and it's surroundings. First gives you a value at that point, second it's general slope, third gives you curve around that point etc.
-
+**
 ## Additional materials
 [3b1b video](https://www.youtube.com/watch?v=3d6DsjIBzJ4)
