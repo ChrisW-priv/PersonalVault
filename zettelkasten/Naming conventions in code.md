@@ -1,3 +1,4 @@
+Part of [[Code quality]]
 This note is inspired by video by CodeAesthetic![here](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 
 He begins with a quote:

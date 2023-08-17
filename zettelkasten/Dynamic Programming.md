@@ -43,7 +43,7 @@ we solve it by checking each result of using one coin.
 var MEMO = {}
 
 function coin_change(coins, total){
-	const key = "" + i;
+	const key = "" + total;
 	if (key in MEMO){
 		return MEMO[key];
 	}
