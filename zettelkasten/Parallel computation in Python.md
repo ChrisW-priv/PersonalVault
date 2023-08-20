@@ -1,5 +1,6 @@
 [[Python]]
 [[Parallel computing]]
+[[Steps to multiprocessing in Python]]
 
 There are a couple of ways to speed python up. One of them is to use parallel computing. This also splits into multiple branches. Primarily: are you compute or IO bound? If IO bound then `asyncio` or threading might be a solution. However if you are compute bound then use code like below.
 
@@ -21,8 +22,5 @@ with Pool() as pool:
 > [!Remember]
 > If you do parallelization of your code you should first do tests for correct results as well as profile your code. Lookup [[Optimization workflow]] for more detail.
 
-
 > [!Warning]
 > As with every [[Parallel]] program you need to make the overhead of creating the instances as well as communication of data small enough such that it's actually worth it. Your program CAN run slower if you just blindly use multiprocessing.
-
-
