@@ -18,4 +18,4 @@ function curry (fn, arity = fn.length){
 	})([]);
 }
 ```
-In this code we cole
+In this code we collect arguments into a list and then we call function with those arguments spread when number of arguments is enough.
