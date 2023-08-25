@@ -7,16 +7,16 @@ Commonly use in graphics rendering and state-based simulations.
 ## Common problems
 ### Rotating buffers
 #### When this happens?
-In a case that we write to "next" buffer **only** if condition is met we can get to a point where condition was true on last iteration but is never true after. Then we gat continously swiching 2 state cell.
+In a case that we write to "next" buffer **only** if condition is met we can get to a point where condition was true on last iteration but is never true after. Then we get continuously swiching 2 state cell.
 
 #### Solution:
 There are couple of solutions:
-1. We allways call "match buffers" method at the end of iteration.
-To ensure that all data of "next" and "current" is syncronised we can use "match buffers" method. This however is stupid - we throw all efficiency we gained out of the window and add more work to the runtime. resort to this only when desperate!
+1. We always call "match buffers" method at the end of iteration.
+To ensure that all data of "next" and "current" is synchronised we can use "match buffers" method. This however is stupid - we throw all efficiency we gained out of the window and add more work to the runtime. resort to this only when desperate!
 
-2. Allways write the current state to "next" array. 
+2. Always write the current state to "next" array. 
 This makes sense because in sims we often work with "based on state check if state changes" logic. Then we write to "next" if we indeed need to change the state of the cell.
-Therefore we can rewrite this such that is no chage of state is detected we still write current state to "next". This does not impact performance much (we even can get rid of branch prediction part)
+Therefore we can rewrite this such that is no change of state is detected we still write current state to "next". This does not impact performance much (we even can get rid of branch prediction part)
 
 ## Code
-Code done unofficialy as part of bigger project but is not yet ready to be available here.
+Code done unofficially as part of bigger project but is not yet ready to be available here.
