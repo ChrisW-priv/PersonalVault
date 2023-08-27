@@ -13,7 +13,7 @@ Main patterns to avoid:
 - Forcing future readers to know the context code has been built in
 - Don't put a type in the name, use types for it
 - Don't put type to a type ("I" prefix in C##)
-- Do not use "Base" or "Abstract" to name classes. If you need good name for parent class but cant find it, rename the child instead and "over-specify" (examle: if you have a truck and want to generalise it, use "Truck" and "TrailerTruck" instead of "BaseTruck" and "Truck")
+- Do not use "Base" or "Abstract" to name classes. If you need good name for parent class but cant find it, rename the child instead and "over-specify" (example: if you have a truck and want to generalise it, use "Truck" and "TrailerTruck" instead of "BaseTruck" and "Truck")
 - Don't create "Utils" or "Helper" code bundles. It maybe helpful to use create a specific classes and move functions to operate on that class.
 
 Use:

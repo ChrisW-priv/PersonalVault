@@ -1,0 +1,20 @@
+# Closure
+> [!Definition]
+> Record storing a function together with an environment. In practice, closure is an option to reference variables from outside the scope of function. 
+
+Closure is actually really closely related to [[Object oriented programming]], and in languages that do not support oop, is used as a supplement for it.
+
+## Code
+Let's create a function that implements memoisation to some unary function:
+```python
+def memoize(unaryFn):
+	memo = {}
+	def memoisedFn(x):
+		if x in memo:
+			return memo[x]
+		result = unaryFn(x)
+		memo[x] = result
+		return result
+	return memoisedFn
+```
+This code starts by initialising the `memo` dictionary and returning function handle to a function that wraps `unaryFn` execution with some checks to `memo` dictionary from outside scope.
