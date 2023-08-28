@@ -132,4 +132,43 @@ while (true) {
 ```
 This allows us to use constant step for each update and only render after certain ammount of time has passed.
 
-Notice however that it is vulnerable to "in between update rendering". 
+Notice however that it is vulnerable to "in between update rendering". If the rendering happens between the updates then there is a problem. Say that there is a bullet on screen. Update will move it to the right. On the second render we would assume the bullet to be in the middle since it is in between updates. But it will still be on the left making the game feel jittery. We can fix this by using the fact that we know exactly how much time has passed since update. Thus, we need:
+```c++
+render(lag/MS_PER_UPDATE)
+```
+We use `MS_PER_UPDATE` to normalise values to 0.0-1.0 range. this way, we can do simple "in between state" calculations. 
+> [!Notice]
+> This is prone to error due to fact that object could have been stopped or slowed down. In that case we need to make corrections. Those corrections are less visible than the tearing however, so we are mostly fine.
+
+## Design decisions
+Note that we have skipped much of the details. Mainly, we did not account for:
+- vsync with monitor
+- multiprocessing
+- GPU workloads
+Thus, when we finally do decide on putting them in our game loop things will get far more complex.
+
+Main design decisions factors to consider:
+### Who is the owner of the loop: we or the platform?
+This is often decided for us. If we build a wed browser game then writing the game loop on our own is practically out of the question. Same goes for game engines.
+- We use platforms game loop:
+	- It is easy. Game loop is handled for us. We just focus on the game.
+	- It plays well with host platform. If host needs to do something else or handle some errors, we do not need to do it manually.
+	- We loose control of time. Platform calls our code when it decides it is time. It is a problem because many platforms were not build with games in mind.
+- We use game engine: (2 sides of the coin)
+	- Don't need to write it.
+	- Don't get to write it.
+- We build our own:
+	- Full control
+	- Need to handle the platform interface
+
+### How do we handle energy use?
+Not an issue 15 years ago when everything was plugged to the wall socket. But now there are mobile devices and laptops to consider.
+- Go as fast as possible:
+	- Good for us if energy use is not a concern. Then, we get best graphic and performance we ever could. 
+	- Will turn mobile devices into heaters and will drain the battery.
+- Limit frames per second
+	- Whenever the state has been updated and there are some spare cycles to use, we just do nothing for that time.
+	- User gets "good enough" experience and battery life will be better.
+
+### How do we control game speed?
+Basically, what approach to we choose from all presented in the note so far.
