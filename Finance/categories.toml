@@ -1,0 +1,32 @@
+- income
+    - gifts
+    - job
+    - sidehustle
+    - investment returns
+- cost
+    - fixed
+        - health
+            - payment: monthly
+        - transport
+            - payment: every quater of a year
+        - food
+            - payment: monthly
+        - home
+            - payment: monthly
+        - debt
+            - payment: monthly
+        - insurance
+            - payment: start of the year
+        - taxes
+            - payment: start of the year
+        - education
+            - payment: every half of a year
+        - retirement
+            - payment: start of the year
+    - fun
+        - trips
+            - payment: every half of a year
+        - subscriptions
+            - payment: monthly
+        - computers
+            - payment: when needed

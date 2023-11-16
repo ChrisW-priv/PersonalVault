@@ -44,3 +44,6 @@ Petri net for describing the flow of data in concurrent circuit.
 Math:
 Markov chains
 Symbolic Dynamics
+
+TIKZ - latex package for better graphs
+
