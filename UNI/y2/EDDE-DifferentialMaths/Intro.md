@@ -33,8 +33,8 @@ Testy:
 [[edde07.pdf]]
 [[edde08_new.pdf]] | [[edde08_new_answers.pdf]]
 [[edde09.pdf]]
-[[tut1.md]]
-[[Tutorial guy.md]]
+[[tut1]]
+[[Tutorial guy]]
 
 ### Midterms:
 [[edde_midterm_1.pdf]]
