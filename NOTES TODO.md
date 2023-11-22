@@ -11,7 +11,7 @@ SOA
 
 pairwise - isomorphism
 
-Graph theory
+Graph theory -> add graph represented as transition table as a possible represtentation
 algorithms and DS
 Computer architecture
 
