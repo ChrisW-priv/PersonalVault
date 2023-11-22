@@ -4,6 +4,6 @@
 
 Reduce function accepts a function, an array and starting value. If starting value is not provided, it assumes `arr[0]` to be a start and `arr[1:]` to be the array to execute given function.
 
-Thus, a signature for it will be `reduce(callback, initial`
+Thus, a signature for it will be `reduce(callback, initial_value, array) -> accumulated_result`
 
 Every function that is used in this pattern must have signature equivalent to `foo(accumulated, next_value) -> new_result` and the final result will be the last `new_result` returned by the function. 
