@@ -8,7 +8,7 @@
 \newcommand{\stateInitial}[1]{\node[initial,state] (#1) {#1};}
 \newcommand{\state}[3][right]{\node[state] (#3) [#1 of=#2] {#3};}
 \newcommand{\stateAccepting}[3][right]{\node[state,accepting] (#2) [#1 of=#3] {#2};}
-\newcommand{\arrowFromTo}[3]{\draw[->] (#1) to node [above, align=center] {#3} (#2);}
+\newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
 \newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
 
 \begin{document}
