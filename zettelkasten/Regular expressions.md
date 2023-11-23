@@ -2,15 +2,24 @@ Regular expressions are algebraic way to describe language. They describe regula
 
 If $E$ is a regex, then $L(E)$ is the language it defines.
 
-Basis 1:
+Basis 1
 Let $a$ be any symbol. Then $a$ is a regex and $L(a) = \{a\}$
-Basis 2:
+
+Basis 2
 $\epsilon$ is a regex and $L(\epsilon) = \{\epsilon\}$
-Basis 3:
+
+Basis 3
 $\emptyset$ is a regex and $L(\emptyset) = \emptyset$
 
-Induction 1:
-if $E_1 \wedge E_2$ are regexthen 
+Induction 1
+if $E_1 \wedge E_2$ are regex then ($E_1 | E_2$) is regex and $L(E_1 | E_2) = L(E_1) \cup L(E_2)$
+
+Induction 2
+if $E_1 \wedge E_2$ are regex then ($E_1E_2$) is regex and $L(E_1E_2) = L(E_1)L(E_2)$
+
+Induction 3
+if $E$ is regex then ($E^*$) is regex and $L(E^*) = (L(E))^*$
+
 
 ```tikz
 \usetikzlibrary{automata,arrows}
@@ -33,3 +42,4 @@ if $E_1 \wedge E_2$ are regexthen
 }
 \end{document}
 ```
+
