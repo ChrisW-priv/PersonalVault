@@ -1,6 +1,6 @@
 ```tikz
 \usetikzlibrary{automata,arrows}
-\newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=1, transform shape]{
+\newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
 \begin{tikzpicture}[#1]
 #2
 \end{tikzpicture}
