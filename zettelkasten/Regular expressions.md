@@ -220,3 +220,10 @@ $E^+$ (one or more)
 Order of precedence is * (highest), then concatenation . , then |, + (lowest)
 
 Parentheses may be used wherever needed to influence the grouping of operators.
+
+### Identities and Annihilators
+∅ is the identity for +. R | ∅ = R. 
+
+ε is the identity for concatenation. εR = Rε = R. 
+
+∅ is the annihilator for concatenation. ∅R = R∅ = ∅
