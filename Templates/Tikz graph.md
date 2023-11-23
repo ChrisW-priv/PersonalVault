@@ -1,7 +1,3 @@
-Regular expressions are algebraic way to describe language. They describe regular languages.
-
-If $E$ is a regex, then $L(E)$ is the language it defines.
-
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=1, transform shape]{
@@ -17,10 +13,8 @@ If $E$ is a regex, then $L(E)$ is the language it defines.
 
 \begin{document}
 \drawGraph{
-	\stateInitial{0}
-	\state{0}{1}
-	\state{1}{2}
-	\arrowFromTo{0}
+	# Graph here
 }
+
 \end{document}
 ```
