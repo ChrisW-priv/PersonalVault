@@ -1,4 +1,3 @@
-
 ## What is closure
 Closure property is a statement that a certain operation on languages when applied to languages in a class (e.g. RE languages), produces a result that is also in that class
 
@@ -79,9 +78,9 @@ Make the final states of C be pairs consisting final states of both $A$ and $B$
 \newcommand{\stateAcceptingWithCaption}[4][right]{\node[state,accepting] (#3) [#1 of=#2] {#4};}
 \newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
 \newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
-\newcommand{\arrowBelow}[4][above]{\draw[->] (#2) .. controls +(270:10mm) and +(270:10mm) .. node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowBelow}[4][above]{\draw[->] (#2) .. controls +(0:10mm) and +(270:10mm) .. node [#1, align=center] {#4} (#3);}
 \newcommand{\arrowAbove}[4][above]{\draw[->] (#2) .. controls +(90:10mm) and +(90:10mm) .. node [#1, align=center] {#4} (#3);}
-\newcommand{\arrowSide}[4][above]{\draw[->] (#2) .. controls +(180:10mm) and +(180:10mm) .. node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowLeft}[4][above]{\draw[->] (#2) .. controls +(180:10mm) and +(180:10mm) .. node [#1, align=center] {#4} (#3);}
 
 \begin{document}
 \drawGraph[>=stealth',shorten >=1pt,auto,node distance=3cm, scale=2, transform shape]{
@@ -91,13 +90,23 @@ Make the final states of C be pairs consisting final states of both $A$ and $B$
 	\stateAcceptingWithCaption[below]{0}{3}{$[B,C]$}
 	\arrowFromTo{0}{1}{0}
 	\arrowFromTo{0}{3}{1}
-	\arrow{3}{0}{1}
+	\arrowFromTo{1}{3}{1}
+	\arrowLeft{3}{0}{1}
+	\arrowBelow{3}{1}{0}
+	\draw[->] (2) .. controls +(180:10mm) and +(270:10mm) .. node [below, align=center] {1} (0);
 	\arrowFromTo{2}{1}{0}
+	\arrowLoop[above]{1}{0}
 }
 \end{document}
 ```
 
 ## Difference
+If $L$ and $M$ are regular languages, so is $L - M$  = strings in $L$ but not in $M$.
+
+Construct $C$ as a product of automaton $A$ and $B$ that are DFA's of languages $L$ and $M$, respectively
+
+Make the final states of C be the pairs where A-state is final but B-state
+
 ## Concatenation
 If $RS$ are regex whose language is $LM$
 ## Kleene Closure
