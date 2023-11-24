@@ -159,8 +159,27 @@ If $R^*$ are regex whose language is $L^*$
 Given language L, L R is the set of strings whose reversal is in L.
 Example: L = {0, 01, 100}; L R = {0, 10, 001}.
 
-Basis: If $E$ is a symbol $a, \epsilon, \emptyset$, then $E^R = E$.
+Basis: If $E = a, \epsilon, \emptyset$, then $E^R = E$.
+Induction:
+If $E = F|G$, then $E^R = F^R | G^R$
+If $E = FG$, then $E^R = G^RF^R$
+If $E = F^*$, then $E^R = (F^R)^*$
 
+Example:
+$E = 01^* | 10^*$
+$$
+\begin{equation}
+\begin{split}
+E^R &= (01^* | 10^*)^R  \\
+&= (01^*)^R | (10^*)^R \\
+&= (1^*)^R0^R | (0^*)^R1^R \\
+&= (1^R)^*0 | (0^R)^*1 \\
+&= 1^*0 | 0^*1 
+\end{split}
+\end{equation}
+$$
 ## Homomorphism
+A *homomorphism* on an alphabet is a function that gives a string for each symbol in that alphabet
 
+Example: $h(0) = ab$; $h(1) = \epsilon$
 ## Inverse Homomorphism
