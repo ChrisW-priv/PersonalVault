@@ -181,5 +181,13 @@ $$
 ## Homomorphism
 A *homomorphism* on an alphabet is a function that gives a string for each symbol in that alphabet
 
+If $L$ is a regular language, and $h$ is a homomorphism on its alphabet, then $h(L) = \{h(w) | w \in L\}$ is also a regular language
+
 Example: $h(0) = ab$; $h(1) = \epsilon$
+Extend to strings by $h(a1…an ) = h(a1 )…h(an )$
+Example: $h(01010) = ababab$.
+
 ## Inverse Homomorphism
+Let h be a homomorphism and L a language whose alphabet is the output language of h.
+
+$h^{-1}(L) = \{w | h(w) \in L\}$
