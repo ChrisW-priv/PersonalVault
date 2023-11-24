@@ -10,6 +10,86 @@ $R|S$ is a regex whose language is $L \cup M$
 ## Intersection
 If $L$ and $M$ are regular languages, so is $L \cap M$ 
 
+Construct $C$ as a product of automaton $A$ and $B$ that are DFA's of languages $L$ and $M$, respectively
+
+Make the final states of C be pairs consisting final states of both $A$ and $B$
+```tikz
+\usetikzlibrary{automata,arrows}
+\newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
+\begin{tikzpicture}[#1]
+#2
+\end{tikzpicture}
+}
+\newcommand{\stateInitial}[1]{\node[initial,state] (#1) {#1};}
+\newcommand{\state}[3][right]{\node[state] (#3) [#1 of=#2] {#3};}
+\newcommand{\stateAccepting}[3][right]{\node[state,accepting] (#3) [#1 of=#2] {#3};}
+\newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
+\newcommand{\arrowBelow}[4][above]{\draw[->] (#2) .. controls +(270:10mm) and +(270:10mm) .. node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowAbove}[4][above]{\draw[->] (#2) .. controls +(90:10mm) and +(90:10mm) .. node [#1, align=center] {#4} (#3);}
+
+\begin{document}
+\drawGraph{
+	\stateInitial{A}
+	\state{A}{B}
+	\arrowFromTo{A}{B}{1}
+	\arrowAbove{B}{A}{0,1}
+	\arrowLoop{A}{0}
+}
+\end{document}
+```
+```tikz
+\usetikzlibrary{automata,arrows}
+\newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
+\begin{tikzpicture}[#1]
+#2
+\end{tikzpicture}
+}
+\newcommand{\stateInitial}[1]{\node[initial,state] (#1) {#1};}
+\newcommand{\state}[3][right]{\node[state] (#3) [#1 of=#2] {#3};}
+\newcommand{\stateAccepting}[3][right]{\node[state,accepting] (#3) [#1 of=#2] {#3};}
+\newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
+\newcommand{\arrowBelow}[4][above]{\draw[->] (#2) .. controls +(270:10mm) and +(270:10mm) .. node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowAbove}[4][above]{\draw[->] (#2) .. controls +(90:10mm) and +(90:10mm) .. node [#1, align=center] {#4} (#3);}
+
+\begin{document}
+\drawGraph{
+	\stateInitial{C}
+	\state{C}{D}
+	\arrowFromTo{C}{D}{0}
+	\arrowAbove{D}{C}{1}
+	\arrowLoop{D}{0}
+	\arrowLoop{C}{1}
+}
+\end{document}
+```
+```tikz
+\usetikzlibrary{automata,arrows}
+\newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
+\begin{tikzpicture}[#1]
+#2
+\end{tikzpicture}
+}
+\newcommand{\stateInitial}[1]{\node[initial,state] (#1) {#1};}
+\newcommand{\state}[3][right]{\node[state] (#3) [#1 of=#2] {#3};}
+\newcommand{\stateAccepting}[3][right]{\node[state,accepting] (#3) [#1 of=#2] {#3};}
+\newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
+\newcommand{\arrowBelow}[4][above]{\draw[->] (#2) .. controls +(270:10mm) and +(270:10mm) .. node [#1, align=center] {#4} (#3);}
+\newcommand{\arrowAbove}[4][above]{\draw[->] (#2) .. controls +(90:10mm) and +(90:10mm) .. node [#1, align=center] {#4} (#3);}
+
+\begin{document}
+\drawGraph{
+	\stateInitial{C}
+	\state{C}{D}
+	\arrowFromTo{C}{D}{0}
+	\arrowAbove{D}{C}{1}
+	\arrowLoop{D}{0}
+	\arrowLoop{C}{1}
+}
+\end{document}
+```
 ## Difference
 ## Concatenation
 If $RS$ are regex whose language is $LM$
