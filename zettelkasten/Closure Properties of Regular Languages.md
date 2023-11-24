@@ -73,6 +73,7 @@ Make the final states of C be pairs consisting final states of both $A$ and $B$
 }
 \newcommand{\stateInitial}[1]{\node[initial,state] (#1) {#1};}
 \newcommand{\state}[3][right]{\node[state] (#3) [#1 of=#2] {#3};}
+\newcommand{\stateWithCaption}[4][right]{\node[state] (#3) [#1 of=#2] {#3};}
 \newcommand{\stateAccepting}[3][right]{\node[state,accepting] (#3) [#1 of=#2] {#3};}
 \newcommand{\arrowFromTo}[4][above]{\draw[->] (#2) to node [#1, align=center] {#4} (#3);}
 \newcommand{\arrowLoop}[3][below]{\draw[->] (#2) edge [loop #1] node [align=center] {#3} (#2);}
@@ -81,15 +82,15 @@ Make the final states of C be pairs consisting final states of both $A$ and $B$
 
 \begin{document}
 \drawGraph{
-	\stateInitial{C}
-	\state{C}{D}
-	\arrowFromTo{C}{D}{0}
-	\arrowAbove{D}{C}{1}
-	\arrowLoop{D}{0}
-	\arrowLoop{C}{1}
+	\stateInitial{q_0}
+	\state{q_0}{q_1}
+	\state[below]{q_1}{q_2}
+	\stateAccepting[below]{q_0}{q_3}
+	\arrowFromTo{q_0}{q_1}{0}
 }
 \end{document}
 ```
+
 ## Difference
 ## Concatenation
 If $RS$ are regex whose language is $LM$
