@@ -33,8 +33,8 @@ Example strings: $011$, $1011$, $01111$
 	\stateAccepting{1}{2}
 	\arrowLoop{0}{0}
 	\arrowLoop{2}{1}
-	\arrowAbove{0}{1}{1}
-	\arrowBelow{1}{0}{0}
+	\arrowFromTo{0}{1}{1}
+	\arrowAbove{1}{0}{0}
 	\arrowBelow[below]{2}{0}{0}
 	\arrowFromTo{1}{2}{1}	
 }
