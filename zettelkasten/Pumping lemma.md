@@ -12,6 +12,7 @@ If A is regular language, then there is a number p (the pumging length) where if
 3. $|xy| \leq p$
 
 Intuitively: we cannot pump empty string and the pumping part must be within first p symbols.
+
 ## Example
 Let us have a language $A = \{w | w \text{ ends with } 11 \}$ 
 ```tikz
@@ -52,3 +53,16 @@ Example:
 $011$ -> 000000011
 $1011$ -> 101010101011
 $01111$ -> 000000001111
+
+## Proving language is nonregular
+Every regular language can be represented by DFA or NFA or regex. Every language that is regular will follow pumping lemma.
+
+Non regular languages cannot be represented by graphs or regex and do not follow P.L.
+
+### Proof my contradiction
+
+Let us define a language $B = \{ 0^n1^n | n \geq 0 \}$
+
+Since we prove by contradiction we will say: assume that $B$ is regular, then it has to follow the P.L. if it does not then it is not regular. 
+
+Start by finding p. Because it is general case we choose $B = \{ 0^p1^p | n \geq 0 \}$
