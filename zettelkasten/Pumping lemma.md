@@ -2,15 +2,18 @@ The word lemma in mathematics refers to "mini theorem"
 
 Pumping lemma states that if a language is regular then every string in that language has a substring that can be repeated (pumped) however many times and still be in the language.
 
-Exact phrase: 
+More formally
 All strings in the language can be repeated (pumped) if they are at least as long as a certain length (pumping length p, usually number of states in DFA)
 
+Exact:
+If A is regular language, then there is a number p (the pumging length) where if s is any string A that is at least length p then s may be divided into 3 pieces, s = xyz, satisfying the following conditions:
+1. for each $i \geq 0, xy^iz \in A$
+2. $|y| > 0$
+3. $|xy| \leq p$
+
+Intuitively: we cannot pump empty string and the pumping part must be within first p symbols.
 ## Example
 Let us have a language $A = \{w | w \text{ ends with } 11 \}$ 
-
-$p = 3$
-Example strings: $011$, $1011$, $01111$ 
-
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -40,3 +43,12 @@ Example strings: $011$, $1011$, $01111$
 }
 \end{document}
 ```
+
+$p = 3$
+Example strings: $011$, $1011$, $01111$ 
+
+P.L states that we can find such substrings such that we can pump it however many times we like and language is still in the language.
+Example:
+$011$ -> 000000011
+$1011$ -> 101010101011
+$01111$ -> 000000001111
