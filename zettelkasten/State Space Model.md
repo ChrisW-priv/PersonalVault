@@ -18,6 +18,7 @@ $D$ is a matrix of real numbers with size $p\times m$ = zeros
 if $\text{eig}(A) < 0$ then model is stable
 
 ## Example
+### Ex1
 $T_p\frac{dy}{dt} = -y + K_pu$
 Can be transformed into
 $$
@@ -31,3 +32,5 @@ $A = -\frac{1}{T_p}$
 $B = \frac{K_p}{T_p}$
 $C = 1$
 $D = 0$
+
+### Ex2
