@@ -34,3 +34,13 @@ $C = 1$
 $D = 0$
 
 ### Ex2
+$T_{p1}\frac{dx}{dt} = -x_1 + K_pu$
+$T_{p2}\frac{dx}{dt} = -x_2 + x_1$
+$y = x_2$
+$$
+\begin{split}
+\begin{bmatrix} x_1 \\ x_2\end{bmatrix} 
+&= \begin{bmatrix} -\frac{1}{T_{p1}} & 0 \\ \frac{1}{T_{p2}} & -\frac{1}{T_{p1}}\end{bmatrix}\begin{bmatrix} x_1 \\ x_2\end{bmatrix} + \begin{bmatrix} \frac{K_p}{T_{p2}} \\ 0 \end{bmatrix} u \\
+y &= x_2
+\end{split}
+$$
