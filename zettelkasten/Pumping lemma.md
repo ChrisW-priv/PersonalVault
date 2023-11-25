@@ -6,7 +6,7 @@ More formally
 All strings in the language can be repeated (pumped) if they are at least as long as a certain length (pumping length p, usually number of states in DFA)
 
 Exact:
-If A is regular language, then there is a number p (the pumging length) where if s is any string A that is at least length p then s may be divided into 3 pieces, s = xyz, satisfying the following conditions:
+If A is regular language, then there is a number $p$ (the pumping length) where if $s$ is any string $A$ that is at least length $p$ then $s$ may be divided into 3 pieces, $s = xyz$, satisfying the following conditions:
 1. for each $i \geq 0, xy^iz \in A$
 2. $|y| > 0$
 3. $|xy| \leq p$
