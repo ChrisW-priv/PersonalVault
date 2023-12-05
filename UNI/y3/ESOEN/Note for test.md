@@ -4,3 +4,7 @@
 
 ![[essential attributes.png]]
 
+![[Pasted image 20231205161108.png]]
+
+![[Pasted image 20231205161135.png]]
+
