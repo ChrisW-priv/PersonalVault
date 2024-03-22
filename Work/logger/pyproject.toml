@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "AxpoLogger"
+version = "0.0.1"
+authors = [
+  { name="Krzysztof Watras", email="krzysztof.watras@axpo.pl" },
+]
+description = "Python packaged logger for debugging and reporting the status of projects"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = ["dependencies"]
+
+[project.urls]
+Homepage = "None"
+Issues = "None"
