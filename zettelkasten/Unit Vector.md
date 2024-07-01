@@ -1,6 +1,6 @@
-[[Vector]] that defines space. 
-Unit vectors are allways of length 1 and by [[Linear combination]] of them we can represent all vectors in space. 
-Unit vectors should be [[Linear dependence|Linearly independent]] to maximise a [[Span of vector space]].
+[Vector](Vector.md) that defines space. 
+Unit vectors are allways of length 1 and by [Linear combination](Linear%20combination.md) of them we can represent all vectors in space. 
+Unit vectors should be [Linearly independent](Linear%20dependence.md) to maximise a [Span of vector space](Span%20of%20vector%20space.md).
 
 ### Notation
 For 2d it is customary to use $\vec{i}, \vec{j}$ for x and y axis respectively.

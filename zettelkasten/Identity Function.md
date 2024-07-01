@@ -1,6 +1,6 @@
 # Identity function
 > [!Definition]
-> Function accepting single argument and returning it as is. Part of [[Function programming]] theory 
+> Function accepting single argument and returning it as is. Part of [Function programming](Function%20programming) theory 
 
 ## Code
 In JavaScript we note it as:
@@ -11,7 +11,7 @@ function identity(v){
 ```
 
 ## Example
-This is so simple, but surprisingly useful. Say we want to filter an array to not contain an empty quotes. Using [[Filter pattern]] we may do:
+This is so simple, but surprisingly useful. Say we want to filter an array to not contain an empty quotes. Using [Filter pattern](Filter%20pattern.md) we may do:
 ```js
 ["", "Now", "is", "the", "time", "!", "", ""].filter(identity)
 // ["Now", "is", "the", "time", "!"]

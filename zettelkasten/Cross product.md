@@ -1,6 +1,6 @@
 # Cross product
 ## Definition
-[[Function in Mathematics]] taking two [[Vector|vectors]] as input and returning a real number. Order of vectors matters (impacts the sign of the result).
+[Function in Mathematics](Function%20in%20Mathematics.md) taking two [vectors](Vector.md) as input and returning a real number. Order of vectors matters (impacts the sign of the result).
 
 ## Notation
 For given vectors $\vec{u}, \vec{v}$ dot product between then will be noted as $$\vec{u} \times \vec{v}$$ 

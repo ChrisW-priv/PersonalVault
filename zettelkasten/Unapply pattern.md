@@ -1,6 +1,6 @@
 # Unapply pattern
 > [!Definition]
-> Pattern that gathers the arguments into a list of arguments for a function. Part of a [[Function programming]] theory.
+> Pattern that gathers the arguments into a list of arguments for a function. Part of a [Function programming](Function%20programming) theory.
 
 ## Code
 ```js

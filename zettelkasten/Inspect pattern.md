@@ -1,6 +1,6 @@
 # Inspect pattern
 > [!Definition]
-> We use inspect pattern to make [[Debugging]] [[Pipe pattern]] easy.
+> We use inspect pattern to make [Debugging](Debugging) [Pipe pattern](Pipe%20pattern.md) easy.
 
 ## Code
 Very basic program that prints consecutive variables to console.
@@ -42,7 +42,7 @@ const priceCalculator = (
   )(price)
 }
 ```
-Basically, just some easy calculations of a price split into [[Pure function|pure functions]] and piped together.
+Basically, just some easy calculations of a price split into [pure functions](Pure%20function.md) and piped together.
 
 Using the code defined in Code section we get:
 

@@ -1,4 +1,4 @@
-AI workflow is an extension of [[Project workflow]].
+AI workflow is an extension of [Project workflow](Project%20workflow.md).
 Steps you can follow for conducting AI research:
 
 1.  Start by defining a clear research question or problem that you want to address. This will help you stay focused and ensure that your research is relevant and useful.

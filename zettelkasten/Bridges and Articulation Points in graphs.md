@@ -1,2 +1,2 @@
-[[Graph]]
+[Graph](Graph.md)
 #TODO 

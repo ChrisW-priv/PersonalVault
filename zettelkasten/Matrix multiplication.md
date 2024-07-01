@@ -1,4 +1,4 @@
-[[Function in Mathematics]], commonly a [[Linear transformation]]
+[Function in Mathematics](Function%20in%20Mathematics.md), commonly a [Linear transformation](Linear%20transformation.md)
 
 ### When is it possible?
 Let $M_1, M_2$ be matrixes. Matrix multiplication $M_1 * M_2$ is only possible when number of **columns (n) in $M_1$**  is equal to number of **rows (m) in $M_2$**. Result is a matrix of size $M_{1_m} \times M_{2_n}$

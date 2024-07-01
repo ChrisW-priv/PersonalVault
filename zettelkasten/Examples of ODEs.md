@@ -9,7 +9,7 @@ Note: we couldn't do this if the acceleration of the body was dependent on other
 
 ### Example2 - pendulum
 An image visualising forces acting on a body in a pendulum system (screenshot of the animation by 3blue1brown video on the topic)
-![[pendulum forces visualised.png|300x300]] 
+![300x300](../attachments/pendulum%20forces%20visualised.png) 
 
 We will measure the distance from the center as $x=L \theta$ ($\theta$ in radians) 
 

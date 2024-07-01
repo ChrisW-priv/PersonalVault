@@ -1,6 +1,6 @@
 # Derivative
 ## Definition
-Derivative if a [[Function in Mathematics]]. It creates a new function that checks how big of a change small "nudges" to the input change the output of original function.
+Derivative if a [Function in Mathematics](Function%20in%20Mathematics.md). It creates a new function that checks how big of a change small "nudges" to the input change the output of original function.
 
 ## Notation
 For single input function $f$ 
@@ -13,10 +13,10 @@ $$\frac{df}{dx}(x) = \lim_{dx \rightarrow 0}  \frac{f(x+dx) - f(x)}{dx}$$
 | :-: | :-: | :- |
 | scalars | 0 | Scalars can be seen as a flat line on the number line, and so there is no rate of change |
 | $x^n,\ n\in \mathbb{N}-\set{0}$ | $n\cdot x^{n-1}$ | This is the result of calculating the derivative directly (substitute $\rightarrow$ expand $\rightarrow$ shorten the result) |
-| $ln(x)$ | $\frac{1}{x}$ | [[Why derivative of ln(x) equals 1 over x]] |
+| $ln(x)$ | $\frac{1}{x}$ | [Why derivative of ln(x) equals 1 over x](Why%20derivative%20of%20ln(x)%20equals%201%20over%20x.md) |
 | $e^x$ | $e^x$ | It really is a special property it uses the fact that $\lim_{x \rightarrow 0}\frac{e^{x}-1}{x} = 1$|
 | $e^{c\cdot x}$ | $c\cdot e^{cx}$ | Chain rule and previous derivative |
-| $\mathbb{c}^{x}$ |$\mathbb{c}^{x} = ln(\mathbb{c})\cdot \mathbb{c}^{x}$ | [[Derivative of exponential functions]]|
+| $\mathbb{c}^{x}$ |$\mathbb{c}^{x} = ln(\mathbb{c})\cdot \mathbb{c}^{x}$ | [Derivative of exponential functions](Derivative%20of%20exponential%20functions.md)|
 | sin(x) | cos(x) | #TODO |
 | cos(x) | -sin(x) | #TODO |
 | tan(x) |$\frac1{cos^2(x)}$|#TODO|
@@ -28,6 +28,6 @@ $$\frac{df}{dx}(x) = \lim_{dx \rightarrow 0}  \frac{f(x+dx) - f(x)}{dx}$$
 
 
 ## Additional materials
-[[Higher order derivatives]] 
-[[Implicit differentiation]]
-[[Chain rule]]
+[Higher order derivatives](Higher%20order%20derivatives.md) 
+[Implicit differentiation](Implicit%20differentiation.md)
+[Chain rule](Chain%20rule.md)

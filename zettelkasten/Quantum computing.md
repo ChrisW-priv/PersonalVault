@@ -4,13 +4,13 @@ video.
 # Representing classical bits as a vector
 From now on, a classical bit will be written as cbit or 'regular bit'
 
-One bit with value 0, also written as $|0\rangle$ ([[Dirac vector notation]])
+One bit with value 0, also written as $|0\rangle$ ([Dirac vector notation](Dirac%20vector%20notation))
 $$1\choose 0$$
 
 One bit with value 1, also written as $|1\rangle$
 $$0\choose 1$$
 
-When we have this defined, we can use [[Matrix multiplication]] rules to
+When we have this defined, we can use [Matrix multiplication](Matrix%20multiplication.md) rules to
 manipulate the bits. Those transformations will take form of Functions. 
 
 Reminder: 4 operations on one cbit 
@@ -21,7 +21,7 @@ set1
 
 To represent these in vector notation we will take matrix $A$ and some vector
 $\vec{v}$. Then our general function will be defined as $f(A, \vec{v})$.
-We can use [[Partial pattern]] to build the operations with some matrix $A$.
+We can use [Partial pattern](Partial%20pattern.md) to build the operations with some matrix $A$.
 
 Identity 
 $$A = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$

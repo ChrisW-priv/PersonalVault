@@ -1,6 +1,6 @@
 Instantaneous power delivered to a one-port:
 $$p(t) = i(t)u(t)$$
-If this one-port is an element of [[Alternating current (AC)]] circuit then.
+If this one-port is an element of [Alternating current (AC)](Alternating%20current%20(AC)) circuit then.
 $$i(t) = I_mcos(\omega t+\phi_i)$$
 $$u(t) = U_mcos(\omega t+\phi_u)$$
 

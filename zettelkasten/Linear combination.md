@@ -1,4 +1,4 @@
-Result of addition of [[Vector|vectors]] multiplied by scalars.
+Result of addition of [vectors](Vector.md) multiplied by scalars.
 
 For example for 3 vectors: $\vec{v},\vec{w},\vec{u}$ and scalars $a,b,c$:
 $\vec{R} = a * \vec{v} + b * \vec{w} + c * \vec{u}$

@@ -1,6 +1,6 @@
 # Queue
 ## Definition
-Queue is an insanely powerful [[Data Structure]]. It operates on basis of FIFO meaning that element that was pushed last will be used last.
+Queue is an insanely powerful [Data Structure](Data%20Structure). It operates on basis of FIFO meaning that element that was pushed last will be used last.
 
 ## Associated Functions
 - enqueue - add element to queue

@@ -4,10 +4,10 @@ We denote a determinant of a matrix $M$ as:
 - $\vert M \vert$
 
 ## Intuition
-Determinant is a factor by which a space is scaled by the matrix after a [[Linear transformation]].
+Determinant is a factor by which a space is scaled by the matrix after a [Linear transformation](Linear%20transformation.md).
 
 Special cases: 
-- If the determinant of a matrix is 0 then a transformation reduces a dimensionality of space. In other words makes the basis vectors [[Linear dependence|linearly dependent]]. For example turns a 2d space into a 1d line.
+- If the determinant of a matrix is 0 then a transformation reduces a dimensionality of space. In other words makes the basis vectors [linearly dependent](Linear%20dependence.md). For example turns a 2d space into a 1d line.
 - If the determinant of a matrix is negative then a transformation "flips" the space as in flipping a sheet of paper.
 
 ## Computation

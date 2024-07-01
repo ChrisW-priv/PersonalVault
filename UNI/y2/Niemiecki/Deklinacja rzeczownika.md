@@ -10,7 +10,7 @@ W języku niemieckim rzeczownik może być w jednym z czterech przypadków. W j�
 |Dativ |**komu? czemu?**|
 |Akkusativ |**kogo? co?**|
 Tabelka:
-![[Pasted image 20221107104627.png]]
+![Pasted image 20221107104627](../../../attachments/Pasted%20image%2020221107104627.png)
 Przykłady:
 |Przypadek/rodzaj|męski|żeński|nijaki|mnoga|
 |:-|:-|:-|:-|:-|
@@ -23,7 +23,7 @@ Przykłady:
 
 O tym, jaki przypadek wybierzesz, decyduje czasownik i przyimek w zdaniu:
 
--   „Ich spreche mit meiner Schwester.” (po przyimku „mit” jest zawsze Dativ, stąd [[Zaimki dzerżawcze|zaimek dzierżawczy]] „meiner”)
+-   „Ich spreche mit meiner Schwester.” (po przyimku „mit” jest zawsze Dativ, stąd [zaimek dzierżawczy](Zaimki%20dzerżawcze.md) „meiner”)
 -   „Er ruft mich an.” (po czasowniku „anrufen”, jest zawsze Akkusativ, stąd zaimek osobowy „mich”)
 
 Z tymi pytaniami kontrolnymi jest tak, że bardzo często zadając  pytanie danego przypadku (patrz wyżej) , można już ustalić jaki przypadek trzeba zastosować. Na przykład w przypadku „anrufen” (dzwonić). Dzwonię do **kogo? – to pytanie Akkusativ.** Niestety, nie zawsze się to sprawdza. Trzeba generalnie nauczyć się po jakich czasownikach i przyimkach jest jaki przypadek.

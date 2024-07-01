@@ -1,3 +1,3 @@
 # Basis of vector space
 > [!Definition]
-A set of [[Linear dependence|linearly independent]] vectors that [[Span of vector space|span]] full space.
+A set of [linearly independent](Linear%20dependence.md) vectors that [span](Span%20of%20vector%20space.md) full space.

@@ -1,6 +1,6 @@
 # Constant Function
 > [!Definition]
-> Function that always returns the same value. Part of [[Function programming]] theory.
+> Function that always returns the same value. Part of [Function programming](Function%20programming) theory.
 
 ## Code
 ```js

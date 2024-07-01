@@ -1,4 +1,4 @@
-Problem related to [[Examples of PDEs]]
+Problem related to [Examples of PDEs](Examples%20of%20PDEs.md)
 Constrains that $T(x,t)$ need to satisfy:
 1. The PDE equation $$\frac{\partial T}{\partial t}(x,t) = \alpha\cdot\frac{\partial^2T}{\partial x^2}(x,t)$$
 2. Boundary condition

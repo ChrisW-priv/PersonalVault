@@ -1,6 +1,6 @@
 # Dot product
 ## Definition
-[[Function in Mathematics]] taking two [[Vector|vectors]] as input and returning a real number. Order of vectors doesn't matter.
+[Function in Mathematics](Function%20in%20Mathematics.md) taking two [vectors](Vector.md) as input and returning a real number. Order of vectors doesn't matter.
 The same as multiplication of $1 \times m$ matrix and a vector of size m.
 So in fact it's a linear transformation mapping a vector of arbitrary size to number line.
 
@@ -15,7 +15,7 @@ For two vectors $\vec{w}, \vec{v}$ imagine projecting $\vec{w}$ onto $\vec{v}$. 
 - If vectors point in the opposite directions result is negative
 - If they are perpendicular result is equal to 0
 
-Notice: dot product of 2 vectors is equivalent to [[Matrix multiplication]]
+Notice: dot product of 2 vectors is equivalent to [Matrix multiplication](Matrix%20multiplication.md)
 
 Notice those are the same as:
 

@@ -3,7 +3,7 @@
 An Eulerian Path is a path of edges that visits all edges in a graph exactly once.
 
 ## Notation
-[[Counting the number of in and out edges in a graph]]
+[Counting the number of in and out edges in a graph](Counting%20the%20number%20of%20in%20and%20out%20edges%20in%20a%20graph.md)
 
 ### Undirected Graph
 Either every vertex has even degree or exactly two vertices have odd degree.

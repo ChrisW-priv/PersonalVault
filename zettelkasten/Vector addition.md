@@ -1,9 +1,9 @@
-Vector addition is a [[Function in Mathematics|function]] that uses 2 [[Vector|vectors]] and results in a new vector where each component is a result of sum of corresponding components of both vectors.
+Vector addition is a [function](Function%20in%20Mathematics.md) that uses 2 [vectors](Vector.md) and results in a new vector where each component is a result of sum of corresponding components of both vectors.
 
 ### Properties
-[[Communicative binary property]]
-[[Associative binary property]]
-[[Distributive binary property]] with respect to [[Vector scaling]] and [[Linear transformation]]
+[Communicative binary property](Communicative%20binary%20property.md)
+[Associative binary property](Associative%20binary%20property.md)
+[Distributive binary property](Distributive%20binary%20property.md) with respect to [Vector scaling](Vector%20scaling.md) and [Linear transformation](Linear%20transformation.md)
 
 ### Example
 $$A = \begin{bmatrix} 1\\2\\3 \end{bmatrix}, 

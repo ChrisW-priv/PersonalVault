@@ -1,6 +1,6 @@
 # Filter pattern
 > [!Definition]
-> Pattern of excluding some values from an [[Array]] given some condition. Common part of [[Function programming]].
+> Pattern of excluding some values from an [Array](Array) given some condition. Common part of [Function programming](Function%20programming).
 
 Often, implementation is to create new array given some predicate function.
 Technically it is not needed but often it is. 

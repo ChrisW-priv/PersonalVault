@@ -1,7 +1,7 @@
 # NOT gate ( $\lnot$ )
-[[Logic Gates]]
+[Logic Gates](Logic%20Gates.md)
 ### Truth Table
-[[Truth Tables]]
+[Truth Tables](Truth%20Tables.md)
 | P | Result |
 | :-: | :-: |
 |0|1|
@@ -11,4 +11,4 @@
 r = 1-p
 
 ### Symbol Representation
-![[NOT_GATE.png|400x200]]
+![400x200](../attachments/NOT_GATE.png)

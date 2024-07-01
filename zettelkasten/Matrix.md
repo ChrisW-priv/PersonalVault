@@ -1,5 +1,5 @@
 > [!Definition]
-Matrix is a table of rows and columns containing data. Matrix is commonly used to describe linear transformations. We often build matrix with [[Vector]] as it's column.
+Matrix is a table of rows and columns containing data. Matrix is commonly used to describe linear transformations. We often build matrix with [Vector](Vector.md) as it's column.
 
 ## Notation
 Dimensions of matrix are often described with letters **m** and **n**. We often note matrix of size m, n.
@@ -17,9 +17,9 @@ For matrix $M$ above $M_{1,1} = 3$ and $M _{3,2} = 5$ . Notice it is 3,2 not 2,3
 Identity transformations a transformation that does nothing - result is the same as if we didn't apply it at all.
 
 ## Related ideas
-[[Matrix multiplication]]
-[[Determinant of a matrix]]
-[[Inverse matrix]]
+[Matrix multiplication](Matrix%20multiplication.md)
+[Determinant of a matrix](Determinant%20of%20a%20matrix.md)
+[Inverse matrix](Inverse%20matrix.md)
 
 ## Rank of matrix
 Rank of a matrix is a number of dimensions in the output of the transformation. 

@@ -1,6 +1,6 @@
-The Marsenne Twister is a [[Pseudo-random number generator (PRNG)]] algorithm that is widely used due to its high-performance and long period. It was developed in 1997 by Makoto Matsumoto and Takuji Nishimura as an improvement on existing PRNG algorithms.
+The Marsenne Twister is a [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG)) algorithm that is widely used due to its high-performance and long period. It was developed in 1997 by Makoto Matsumoto and Takuji Nishimura as an improvement on existing PRNG algorithms.
 
-The algorithm works by using a large [[Mersenne prime]] number (a prime number that is one less than a power of two) to generate a sequence of numbers that appear to be random. These numbers are then used in applications that require randomness, such as in computer simulations, games, and cryptography.
+The algorithm works by using a large [Mersenne prime](Mersenne%20prime) number (a prime number that is one less than a power of two) to generate a sequence of numbers that appear to be random. These numbers are then used in applications that require randomness, such as in computer simulations, games, and cryptography.
 
 One of the key advantages of the Marsenne Twister algorithm is its ability to generate a very long sequence of random numbers without repeating. This makes it well-suited for applications that require a large number of random numbers, such as in Monte Carlo simulations. Additionally, the algorithm has a relatively simple implementation, making it easy to use in a wide range of applications.
 

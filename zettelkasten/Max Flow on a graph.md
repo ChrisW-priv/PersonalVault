@@ -4,7 +4,7 @@ Max flow problem can be defined by a question:
 `With an infinite input source, how much "flow" can we push through the network given that each edge has a certain capacity?`
 
 ## Notation
-To have a Max Flow chart you need to have a [[Graph]] that has a Start (S) and Sink (T)
+To have a Max Flow chart you need to have a [Graph](Graph.md) that has a Start (S) and Sink (T)
 
 ## Solution
 To find the maximum flow (and min-cut as a by product), the Ford-Fulkerson method repeatedly finds augmenting paths through the residual graph and augments the flow until no more augmenting can be found. 
@@ -15,7 +15,7 @@ This method can be done in $O(fE)$ where f is the maximum flow.
 Implementation is under #TODO 
 
 Alternatives:
-![[Pasted image 20221102235228.png]]
+![Pasted image 20221102235228](../attachments/Pasted%20image%2020221102235228.png)
 Note: here we use very pesimistic notation and in practice those algorithms will be much faster which in turn make it very difficult to compare solely based on complexities.
 ## Intuition
 Imagine the graph as an abstract representation of a road network or water pipes. 

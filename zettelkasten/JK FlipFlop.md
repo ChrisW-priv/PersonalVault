@@ -1,7 +1,7 @@
-[[Flip-Flops]]
+[Flip-Flops](Flip-Flops)
 # JK FlipFlop
 ## Definition
-A JK flip-flop (Jack-Kilby flip-flop) is a type of [[electronic circuit]] that is used to store and manipulate [[binary information]]. It is a type of [[bistable circuit]], which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
+A JK flip-flop (Jack-Kilby flip-flop) is a type of [electronic circuit](electronic%20circuit) that is used to store and manipulate [binary information](binary%20information). It is a type of [bistable circuit](bistable%20circuit), which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
 
 A JK flip-flop is made up of two logic gates, typically an AND gate and an OR gate, and a pair of inverters. The inputs to the circuit are a J (set) input, a K (reset) input, and a clock (CLK) input, and the outputs are the Q and Q' (not Q) outputs. The Q and Q' outputs are the complements of each other, meaning that one is always the opposite of the other.
 
@@ -14,8 +14,8 @@ The JK flip-flop has the following truth table, which shows the outputs for all 
 The JK flip-flop can be used to store binary information, and can be easily switched between the set and reset states in response to external inputs. It is commonly used in digital circuits to store and manipulate binary data, and is a fundamental building block of many digital devices.
 
 ## Notation
-### Implementation with [[NAND gate]]
-![[Pasted image 20221116205154.png|300]]
+### Implementation with [NAND gate](NAND%20gate.md)
+![300](../attachments/Pasted%20image%2020221116205154.png)
 
 #### Truth Table
 For clk = 1:

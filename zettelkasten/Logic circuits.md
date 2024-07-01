@@ -2,7 +2,7 @@
 ICs in short
 
 ## Definition
-Logic circuits are electronic circuits processing two valued signals. Their operation is described by logic functions ([[Boolean Algebra]])
+Logic circuits are electronic circuits processing two valued signals. Their operation is described by logic functions ([Boolean Algebra](Boolean%20Algebra.md))
 
 ## Notation
 
@@ -24,4 +24,4 @@ $\sim$ - Mealy pseudocompatible
 
 
 ## Intuition
-Basicaly logic circuits are systems of [[Logic Gates]] that are connected together in order to get specyfic output based on input. Therefore logic circuits are really [[Function in Mathematics]]
+Basicaly logic circuits are systems of [Logic Gates](Logic%20Gates.md) that are connected together in order to get specyfic output based on input. Therefore logic circuits are really [Function in Mathematics](Function%20in%20Mathematics.md)

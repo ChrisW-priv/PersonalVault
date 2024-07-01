@@ -7,7 +7,7 @@ A monad is just a monoid in the category of endofunctors, what's the problem?
 - James Iry
 ```
 Following note is based on video by 'Studying with Alex' [here](https://www.youtube.com/watch?v=C2w45qRc3aU)
-Current state of the note is heavily based on practical application of the pattern rather than mathematical basis in [[Category theory]]
+Current state of the note is heavily based on practical application of the pattern rather than mathematical basis in [Category theory](Category%20theory)
 ## General properties
 Any Monad system has to have following structures implemented:
 - Wrapper Type 
@@ -37,7 +37,7 @@ And then use it like so:
 ```python
 addOne(square(2)) # 5
 ```
-Then he wants to add logging to the code. Here it is worth noting we already know [[Inspect pattern]] to test nested function calls but here we want to give sound example to use Monad structure. Anyway, we want end example to produce something like this:
+Then he wants to add logging to the code. Here it is worth noting we already know [Inspect pattern](Inspect%20pattern.md) to test nested function calls but here we want to give sound example to use Monad structure. Anyway, we want end example to produce something like this:
 ```python
 addOne(square(2)) -> {
 					  result: 5,

@@ -1,6 +1,6 @@
 # Asymmetric encryption
 ## Definition
-It's a kind of [[Encryption]] where it's practically impossible to know the [[Decryption Key]] based on the [[Encryption Key]]. 
+It's a kind of [Encryption](Encryption.md) where it's practically impossible to know the [Decryption Key](Decryption%20Key) based on the [Encryption Key](Encryption%20Key). 
 
 ## Intuition
 Also known as system with public key.

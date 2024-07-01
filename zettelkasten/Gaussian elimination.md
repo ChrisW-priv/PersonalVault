@@ -1,4 +1,4 @@
-A method of calculating an [[Inverse matrix]] of a matrix.
+A method of calculating an [Inverse matrix](Inverse%20matrix.md) of a matrix.
 
 ### Computation
 #TODO!! computation part needed

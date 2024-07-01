@@ -1,6 +1,6 @@
 # Finding bridges in the graph
 ## Desription
-Algorithm used for finding [[Bridges]] in a [[Graph]].
+Algorithm used for finding [Bridges](Bridges.md) in a [Graph](Graph.md).
 
 ## Code
 

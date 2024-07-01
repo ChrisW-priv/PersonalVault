@@ -6,12 +6,12 @@ TSP is a famous problem in Computer Science. It is very difficult to provide goo
 `Given a list of cities and the distances between each pair of cities what is the shortest possible route that visits each city exactly once and returns to the origin city`
 
 In other words:
-Given a complete [[Weighted Graph]] what is the Hamiltonian cycle of minimum cost.
+Given a complete [Weighted Graph](Weighted%20Graph.md) what is the Hamiltonian cycle of minimum cost.
 
 Note: there might be many optimal solutions with lowest cost!
 ## Solution
 ### $O(n!)$
-Easiest (brute-force), solution is to simply calculate all [[Permutation|permutations]] of the route, calculate cost and select th fastest.
+Easiest (brute-force), solution is to simply calculate all [permutations](Permutation) of the route, calculate cost and select th fastest.
 
 ### $O(N^2\cdot 2^n)$
 Using dynamic programming we can do slightly better than $O(n!)$. The idea is to compute best path for $N$ nodes by knowing the best path for $N-1$ nodes.

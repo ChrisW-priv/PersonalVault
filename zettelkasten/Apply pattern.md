@@ -1,6 +1,6 @@
 # Apply pattern
 > [!Definition]
-> Pattern that spreads the arguments from a list into separate arguments of a function. Part of a [[Function programming]] theory.
+> Pattern that spreads the arguments from a list into separate arguments of a function. Part of a [Function programming](Function%20programming) theory.
 
 ## Code
 ```js

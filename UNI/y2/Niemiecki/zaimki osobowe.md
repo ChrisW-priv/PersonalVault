@@ -20,4 +20,4 @@
 |ihr|euch|
 |sie|sie|
 Pomoc na poczátek cd akk.:
-![[Pasted image 20221022125536.png]]
+![Pasted image 20221022125536](../../../attachments/Pasted%20image%2020221022125536.png)

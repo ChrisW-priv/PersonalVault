@@ -2,7 +2,7 @@
 ## Definition
 
 ## Implementation
-![[Pasted image 20221116211748.png]]
+![Pasted image 20221116211748](../attachments/Pasted%20image%2020221116211748.png)
 
 ### Truth table
 |E|D|Q|

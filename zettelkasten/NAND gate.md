@@ -1,10 +1,10 @@
 # NAND Logic gate
-[[Logic Gates]]
+[Logic Gates](Logic%20Gates.md)
 
 In math known as Shafer Stroke ( $\uparrow$ )
 
 ### Truth Table
-[[Truth Tables]]
+[Truth Tables](Truth%20Tables.md)
 | P | Q | Result |
 | :-: | :-: | :-: |
 |0|0|1|
@@ -13,4 +13,4 @@ In math known as Shafer Stroke ( $\uparrow$ )
 |1|1|0|
 
 ### Symbol Representation
-![[NAND_GATE.png|400x200]]
+![400x200](../attachments/NAND_GATE.png)

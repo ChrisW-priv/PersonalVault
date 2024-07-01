@@ -1,6 +1,6 @@
 # Circular Doubly Linked List
 ## Definition
-An extension od [[Doubly Linked List]] also called Doubly Linked Ring.
+An extension od [Doubly Linked List](Doubly%20Linked%20List.md) also called Doubly Linked Ring.
 
 ## Notation
 ```mermaid

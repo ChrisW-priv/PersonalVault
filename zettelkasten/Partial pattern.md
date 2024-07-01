@@ -1,6 +1,6 @@
 # Apply pattern
 > [!Definition]
-> Pattern that allows us to supply fewer arguments then necessary to the function. Part of a [[Function programming]] theory.
+> Pattern that allows us to supply fewer arguments then necessary to the function. Part of a [Function programming](Function%20programming) theory.
 
 ## Code
 ```js

@@ -1,8 +1,8 @@
 # Curry pattern
 > [!Definition]
-> Creating new functions with subsequent calls providing more and more arguments. Part of [[Function programming]] theory.
+> Creating new functions with subsequent calls providing more and more arguments. Part of [Function programming](Function%20programming) theory.
 
-Instead of taking all arguments at once, or some number of arguments like in [[Partial pattern]] we only pass a single argument in each function call.
+Instead of taking all arguments at once, or some number of arguments like in [Partial pattern](Partial%20pattern.md) we only pass a single argument in each function call.
 
 ## Code
 ```js

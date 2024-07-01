@@ -1,5 +1,5 @@
-A property of a [[Vector]]. 
-Two vectors are linearly dependent if one sits at the [[Span of vector space|span]] of the other. 
+A property of a [Vector](Vector.md). 
+Two vectors are linearly dependent if one sits at the [span](Span%20of%20vector%20space.md) of the other. 
 
 Vectors that are linearly dependent are mutually redundant.
 
