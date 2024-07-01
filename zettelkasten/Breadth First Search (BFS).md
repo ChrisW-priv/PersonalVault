@@ -2,7 +2,7 @@ The BFS is another fundamental search algorithm used to explore nodes and edges 
 
 The BFS algorithm is particularly useful for one thing: finding shortest path on unweighted graphs.
 
-To build a BFS it is easiest to build a [[Queue]] to track which node to visit next.
+To build a BFS it is easiest to build a [Queue](Queue.md) to track which node to visit next.
 
 ## Code
 ```pseudo
@@ -58,5 +58,5 @@ start = 0, end = n-1
 bfs(start, end)
 ```
 ## Connected to
-[[Graph]]
+[Graph](Graph.md)
 

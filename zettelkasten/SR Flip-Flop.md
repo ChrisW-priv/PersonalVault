@@ -1,7 +1,7 @@
-[[Flip-Flops]]
+[Flip-Flops](Flip-Flops)
 # SR Flip-Flop
 ## Definition
-A SR flip-flop (Set-Reset flip-flop) is a type of [[Electronic circuit]] that is used to store and manipulate [[binary information]]. It is a type of bistable circuit, which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
+A SR flip-flop (Set-Reset flip-flop) is a type of [Electronic circuit](Electronic%20circuit) that is used to store and manipulate [binary information](binary%20information). It is a type of bistable circuit, which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
 
 A SR flip-flop is made up of two logic gates, typically an AND gate and an OR gate, and a pair of inverters. The inputs to the circuit are a set (S) input and a reset (R) input, and the outputs are the Q and Q' (not Q) outputs. The Q and Q' outputs are the complements of each other, meaning that one is always the opposite of the other.
 
@@ -13,13 +13,13 @@ The SR flip-flop can be used to store binary information, and can be easily swit
 
 ## Notation
 ### Implementation
-Based on [[SR Latch]] and [[AND gate]]. we use an extra signal from clock combined with and gates to extend the SR latch. 
+Based on [SR Latch](SR%20Latch.md) and [AND gate](AND%20gate.md). we use an extra signal from clock combined with and gates to extend the SR latch. 
 
-Using [[AND gate]] and [[NOR gate]]:
-![[Pasted image 20221116203152.png]]
+Using [AND gate](AND%20gate.md) and [NOR gate](NOR%20gate.md):
+![Pasted image 20221116203152](../attachments/Pasted%20image%2020221116203152.png)
 
 ### Truth table
-The same as [[SR Latch#Truth Table|here]] if clock value is 1
+The same as [](SR%20Latch.md#Truth%20Table|here) if clock value is 1
 else: there is no change
 
 ## Intuition

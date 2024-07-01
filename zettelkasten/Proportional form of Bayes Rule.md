@@ -1,6 +1,6 @@
 # Proportional form of Bayes Rule
 ## Definition
-Simplified form of [[Bayes rule]]. It leaves out the proportionality factor of $\frac1{P(D)}$. Therefore the values of this form are not normalised between 0-1.
+Simplified form of [Bayes rule](Bayes%20rule.md). It leaves out the proportionality factor of $\frac1{P(D)}$. Therefore the values of this form are not normalised between 0-1.
 
 ## Notation
 $$P(H|D)\propto P(H)\times P(D|H)$$

@@ -1,7 +1,7 @@
 # OR gate ( $\lor$ )
-[[Logic Gates]]
+[Logic Gates](Logic%20Gates.md)
 ### Truth Table
-[[Truth Tables]]
+[Truth Tables](Truth%20Tables.md)
 | P | Q | Result |
 | :-: | :-: | :-: |
 |0|0|0|
@@ -13,10 +13,10 @@
 r =  p+q-pq
 
 ### Symbol Representation
-![[OR_GATE.png | 400x200]]
+![ 400x200](OR_GATE.png%20)
 
 ### Properties
-1. [[Associative binary property]]
-2. [[Communicative binary property]]
-3. [[Distributive binary property]] with [[AND gate]]
-4. [[Absorptive property]] with [[AND gate]]
+1. [Associative binary property](Associative%20binary%20property.md)
+2. [Communicative binary property](Communicative%20binary%20property.md)
+3. [Distributive binary property](Distributive%20binary%20property.md) with [AND gate](AND%20gate.md)
+4. [Absorptive property](Absorptive%20property.md) with [AND gate](AND%20gate.md)

@@ -1,5 +1,5 @@
 > [!Definition]
-> An inner product matrix is a type of [[Matrix]] that is used to represent the inner product ([[Dot product]]) of two vectors. 
+> An inner product matrix is a type of [Matrix](Matrix.md) that is used to represent the inner product ([Dot product](Dot%20product.md)) of two vectors. 
 
 ## Computation
 For a matrix $A$ and a result $B$ we calculate result using formula:

@@ -13,6 +13,6 @@ $$A = \begin{bmatrix} 2 & 5 & 3 \\ 4 & 0 & 8 \\ 1 & 3 & 0 \end{bmatrix},\
 \vec{x} = \begin{bmatrix} x \\ y \\ z \end{bmatrix},\ 
 \vec{v} = \begin{bmatrix} -3 \\ 0 \\ 2 \end{bmatrix}$$
 To solve this system:
-- we have to find an inverse of $A$ matrix and compute $A^{-1} \times \vec{v}$. Calculating the $A^{-1}$ is commonly done using [[Gaussian elimination]]
+- we have to find an inverse of $A$ matrix and compute $A^{-1} \times \vec{v}$. Calculating the $A^{-1}$ is commonly done using [Gaussian elimination](Gaussian%20elimination.md)
 or 
-- we can use [[Cramer's Rule]]. Note: Cramer's rule is slower but is a good way to try to solve the equation as it can be explained simply with geometry. [video with explenation](https://www.youtube.com/watch?v=jBsC34PxzoM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)
+- we can use [Cramer's Rule](Cramer's%20Rule.md). Note: Cramer's rule is slower but is a good way to try to solve the equation as it can be explained simply with geometry. [video with explenation](https://www.youtube.com/watch?v=jBsC34PxzoM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=12)

@@ -1,4 +1,4 @@
-[[Probability]]
+[Probability](Probability.md)
 # Combining probability with OR
 ## Definition
 We use OR logic operator when we want to know what is the probability of either of two (or more) events happening.
@@ -7,7 +7,7 @@ We use OR logic operator when we want to know what is the probability of either 
 If we have two events $A,B$ then probability of EITHER of them happening will be noted as $\text{P(A) OR P(B)}$.
 
 We can calculate it by multiplying the probabilities of both $\text{P(A) OR P(B)} = P(A) + P(B) - P(A,B)$
-Where $P(A,B)$ is a result of [[Combining probability with AND]].
+Where $P(A,B)$ is a result of [Combining probability with AND](Combining%20probability%20with%20AND.md).
 
 > [!Note] 
 > For events that are mutually exclusive $P(A,B) = 0$ and so we can simplify equation to $\text{P(A) OR P(B)} = P(A) + P(B)$

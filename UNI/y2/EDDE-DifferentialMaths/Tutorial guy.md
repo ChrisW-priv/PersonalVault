@@ -1,4 +1,4 @@
-[[Differential maths/Intro]]
+[Differential maths/Intro](Differential%20maths/Intro)
 
 # Tutorial guy
 

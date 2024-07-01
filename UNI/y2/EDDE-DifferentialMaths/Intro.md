@@ -21,22 +21,22 @@ Testy:
 
 ## Files
 ### Sylabus:
-[[edde_syllabus.pdf]]
+[edde_syllabus](Lectures/edde_syllabus.pdf)
 
 ### Tutorials:
-[[edde01.pdf]]
-[[edde02.pdf]]
-[[edde03.pdf]]
-[[edde04.pdf]] | [[edde04_review.pdf]]
-[[edde05.pdf]]
-[[edde06.pdf]]
-[[edde07.pdf]]
-[[edde08_new.pdf]] | [[edde08_new_answers.pdf]]
-[[edde09.pdf]]
-[[tut1]]
-[[Tutorial guy]]
+[edde01](Lectures/edde01.pdf)
+[edde02](Lectures/edde02.pdf)
+[edde03](Lectures/edde03.pdf)
+[edde04](Lectures/edde04.pdf) | [edde04_review](Lectures/edde04_review.pdf)
+[edde05](Lectures/edde05.pdf)
+[edde06](Lectures/edde06.pdf)
+[edde07](Lectures/edde07.pdf)
+[edde08_new](Lectures/edde08_new.pdf) | [edde08_new_answers](Lectures/edde08_new_answers.pdf)
+[edde09](Lectures/edde09.pdf)
+[tut1](tut1.md)
+[Tutorial guy](Tutorial%20guy.md)
 
 ### Midterms:
-[[edde_midterm_1.pdf]]
-[[edde_midterm_2.pdf]]
+[edde_midterm_1](Lectures/edde_midterm_1.pdf)
+[edde_midterm_2](Lectures/edde_midterm_2.pdf)
 

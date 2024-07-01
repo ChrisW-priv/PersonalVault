@@ -1,8 +1,8 @@
 # XOR gate ( ^ )
-[[Logic Gates]]
+[Logic Gates](Logic%20Gates.md)
 
 ### Truth Table 
-[[Truth Tables]]
+[Truth Tables](Truth%20Tables.md)
 | P | Q | Result |
 | :-: | :-: | :-: |
 |0|0|0|
@@ -12,4 +12,4 @@
 Can be represented as: $\lnot (p \Leftrightarrow q)$
 
 ### Symbol Representation
-![[XOR_GATE.png | 400x200]]
+![ 400x200](XOR_GATE.png%20)

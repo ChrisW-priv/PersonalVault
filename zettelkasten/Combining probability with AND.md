@@ -1,4 +1,4 @@
-[[Probability]]
+[Probability](Probability.md)
 # Combining probability with AND
 ## Definition
 We use AND logic operator when we want to know what is the probability of two (or more) events happening.

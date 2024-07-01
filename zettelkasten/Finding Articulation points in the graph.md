@@ -1,6 +1,6 @@
 # Finding articulation points in the graph
 ## Desription
-Algorithm used for finding [[Articulation points]] in a [[Graph]].
+Algorithm used for finding [Articulation points](Articulation%20points.md) in a [Graph](Graph.md).
 
 Note: here we will use the idea of cycles!
 

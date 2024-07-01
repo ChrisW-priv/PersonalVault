@@ -9,9 +9,9 @@ Key thing to get right is "optimal substructure". The idea is that if you solve 
 Another thing is having "overlapping sub-problems". Problems you solve are the same problems done in the same way. They also have to be deterministic. Otherwise you will not be able to reuse the result of previous computation.
 
 ## Main tools
-[[Memoization]]
-[[Tabulation]]
-[[Recursion]]
+[Memoization](Memoization.md)
+[Tabulation](Tabulation.md)
+[Recursion](Recursion.md)
 
 ## Intuition
 Good intuition provided by Simon is to think of the problem as one having sub-problems and which combination is a solution to main-problem. Somewhere in that tree of recursive function calls you have a memoization table to avoid redoing the job

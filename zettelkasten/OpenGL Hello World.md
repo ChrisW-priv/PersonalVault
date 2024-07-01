@@ -28,4 +28,4 @@ int main(int argc, char** argv) {
 }
 ```
 
-This code can be used as a hello world example for [[OpenGL]] app. [[graphics programming]]
+This code can be used as a hello world example for [OpenGL](OpenGL) app. [graphics programming](graphics%20programming)

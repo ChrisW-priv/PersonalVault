@@ -1,5 +1,5 @@
 # Problem
-Given a steam of size $N$ which is too large to fit into memory, randomly select $K$ elements such that each element has an equal probability of being chosen. Assume access to [[Pseudo-random number generator (PRNG)]]
+Given a steam of size $N$ which is too large to fit into memory, randomly select $K$ elements such that each element has an equal probability of being chosen. Assume access to [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG))
 
 # Code
 ```pseudo code

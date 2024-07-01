@@ -55,4 +55,4 @@ int main() {
 }
 ```
 
-This program creates a buffer and does some computation on it. In general [[OpenCL]] is used as a high level API for [[graphics programming]].
+This program creates a buffer and does some computation on it. In general [OpenCL](OpenCL) is used as a high level API for [graphics programming](graphics%20programming).

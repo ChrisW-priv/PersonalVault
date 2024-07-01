@@ -1,9 +1,9 @@
 # Compose pattern
 > [!Definition]
-> Function composition is process of creating big functions from small ones to solve more complex tasks. Part of a [[Function programming]] theory. 
+> Function composition is process of creating big functions from small ones to solve more complex tasks. Part of a [Function programming](Function%20programming) theory. 
 
-Similar to [[Pipe pattern]], main difference is in function order passing.
-Similar to [[Composed function]] in mathematics
+Similar to [Pipe pattern](Pipe%20pattern.md), main difference is in function order passing.
+Similar to [Composed function](Composed%20function.md) in mathematics
 
 ## Code
 

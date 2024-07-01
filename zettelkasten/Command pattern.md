@@ -1,17 +1,17 @@
 # Command pattern
 > [!Definition]
->  Behavioral [[Design pattern]] used to encapsulate all information needed to perform an action or trigger an event at a later time. 
+>  Behavioral [Design pattern](Design%20pattern) used to encapsulate all information needed to perform an action or trigger an event at a later time. 
 
 Note based on "Programowanie gier Wzorce" by Robert Nystrom
 
 > [!Note]
 > Following note assumes we write our code in c++. Therefore we choose the
 > object oriented approach to solve this. However, it can also be done in
-> languages with no oop support via [[Closure]]. Here, we stick with oop
+> languages with no oop support via [Closure](Closure.md). Here, we stick with oop
 > because of poor nested function support in c++.
 
 ## Input to command mapping
-In [[Game design]] we need a way to map user input into actual commands. We could hard-code those inputs like this:
+In [Game design](Game%20design) we need a way to map user input into actual commands. We could hard-code those inputs like this:
 ```c++
 void InputHandler::handleInput(){
 	if (isPressed(BUTTON_X)) jump();

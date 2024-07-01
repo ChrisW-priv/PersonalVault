@@ -1,12 +1,12 @@
 # SR Latch
 ## Definition
-SR latch is a sequential cirtuit that acts not only on the input but is [[State based circuit]].
-SR latch is commonly used to define [[memory blocks]]
+SR latch is a sequential cirtuit that acts not only on the input but is [State based circuit](State%20based%20circuit).
+SR latch is commonly used to define [memory blocks](memory%20blocks)
 
-REMEMBER: implementation with [[NOR gate]] and [[NAND gate]] have different outputs for the same input! 
+REMEMBER: implementation with [NOR gate](NOR%20gate.md) and [NAND gate](NAND%20gate.md) have different outputs for the same input! 
 ## Notation
-### Implementation with [[NOR gate]]
-![[Pasted image 20221116195210.png|300]]
+### Implementation with [NOR gate](NOR%20gate.md)
+![300](../attachments/Pasted%20image%2020221116195210.png)
 
 #### Truth Table
 |S|R|Impact|
@@ -17,8 +17,8 @@ REMEMBER: implementation with [[NOR gate]] and [[NAND gate]] have different outp
 |1|1|Not allowed|
 
 
-### Implementation with [[NAND gate]]
-![[Pasted image 20221116204616.png|300]]
+### Implementation with [NAND gate](NAND%20gate.md)
+![300](../attachments/Pasted%20image%2020221116204616.png)
 
 #### Truth Table
 |S|R|Impact|

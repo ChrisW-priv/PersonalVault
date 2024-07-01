@@ -16,4 +16,4 @@ In the remaining part of this chapter, we assume that $T$ is a fundamental perio
 $$X_{0} + X_{1m}\cos(\omega t + \phi_{1}) + X_{2m}\cos(2\omega t + \phi_{2}) + \dots$$
 is point-wise convergent to $x(t)$ at every continuity point of x then it is called a Fourier series of signal $x$. 
 If series above is the Fourier series of signal $x$, then its coefficients are given by following formulas
-![[Pasted image 20221214211842.png]] #TODO  - rewrite this
+![Pasted image 20221214211842](../attachments/Pasted%20image%2020221214211842.png) #TODO  - rewrite this

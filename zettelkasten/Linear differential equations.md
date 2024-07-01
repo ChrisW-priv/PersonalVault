@@ -8,4 +8,4 @@ Step 2: calculate general solution
 $$y = \frac1{I(x)}\left[\int Q(x)I(x)dx\right]$$
 
 ## Examples
-Examples with no solutions attached are in [[edde03.pdf]] in part 2
+Examples with no solutions attached are in [edde03](../UNI/y2/EDDE-DifferentialMaths/Lectures/edde03.pdf) in part 2

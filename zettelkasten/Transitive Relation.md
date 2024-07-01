@@ -1,4 +1,4 @@
-One of [[Relation in Mathematics]]
+One of [Relation in Mathematics](Relation%20in%20Mathematics.md)
 
 ### If relation is transitive
 $\forall a, b, c \in A$

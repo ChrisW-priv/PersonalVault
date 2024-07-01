@@ -1,9 +1,9 @@
-Special case of [[Exponential functions]]. Also known as Euler Number.
+Special case of [Exponential functions](Exponential%20functions.md). Also known as Euler Number.
 
 number $e$ is a special number for which $\lim_{dx \rightarrow 0}\frac{e^{dx}-1}{dx} = 1$
-also defined by [[Exp(x) function]] and $\lim_{n\rightarrow \infty} (1 + \frac{1}{n})^n$
+also defined by [Exp(x) function](Exp(x)%20function.md) and $\lim_{n\rightarrow \infty} (1 + \frac{1}{n})^n$
 
-Often used in [[Differential equations]] where **rate of change (derivative) is proportional to the value at that point**
+Often used in [Differential equations](Differential%20equations.md) where **rate of change (derivative) is proportional to the value at that point**
 
 ## Properties
 1. Any number $n$ can be written as $e^{ln(n)}$ 

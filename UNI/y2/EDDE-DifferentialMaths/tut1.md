@@ -1,4 +1,4 @@
-[[edde01.pdf]]
+[edde01](Lectures/edde01.pdf)
 Miałem problem z pytaniem w zadaniu:
 "Find ODE satisfied by any function of the form: *some form of function*"
 

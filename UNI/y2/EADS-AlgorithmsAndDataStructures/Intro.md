@@ -24,4 +24,4 @@ At least 14 points from midterm and 16 from labs and 36 pts in total qualify:
 ## Files and books
 Data Structures using c++ - D.S. Malik
 
-[[EADS_Regulations.pdf|Regulations]]
+[Regulations](EADS_Regulations.pdf)

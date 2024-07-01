@@ -4,4 +4,4 @@ eg.
 $3n+1 \rightarrow O(n)$
 $n^2 + n \rightarrow O(n^2)$
 
-Often used with [[Omega notation]]
+Often used with [Omega notation](Omega%20notation.md)

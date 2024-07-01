@@ -1,8 +1,8 @@
 # Binomial distribution
 ## Definition
-Binomial distribution is used to calculate [[Probability]] of certain number of successes given certain number of tries and probability of them happening. 
+Binomial distribution is used to calculate [Probability](Probability.md) of certain number of successes given certain number of tries and probability of them happening. 
 
-Bi in binomial stands for certain outcome either happening or not. If situation does not have just 2 outcomes then we should use [[Polynomial distribution]].
+Bi in binomial stands for certain outcome either happening or not. If situation does not have just 2 outcomes then we should use [Polynomial distribution](Polynomial%20distribution).
 
 ## Notation
 We have three parameters:
@@ -16,7 +16,7 @@ $$B(k;n,p) = {{n}\choose{k}} \times p^k \times p^{n-k}$$
 Note that $k$ is separated from $n$ and $p$ by $;$ sign. That is because in general we will use Binomial Distribution simply as $B(n,p)$. 
 
 ## Intuition
-We will often use Binomial Distribution formula as a substitute for [[Calculating probability by counting events]]. We do that because it's often easier to calculate all possibilities given parameters instead of calculating all possibilities separately (doing the same computation over and over with slightly different data).
+We will often use Binomial Distribution formula as a substitute for [Calculating probability by counting events](Calculating%20probability%20by%20counting%20events.md). We do that because it's often easier to calculate all possibilities given parameters instead of calculating all possibilities separately (doing the same computation over and over with slightly different data).
 
 ### Example
 #### Setup
@@ -32,11 +32,11 @@ We might be tempted to create set $\Omega$ and $X$ and do it classic way. Howeve
 What we will do here is we will start with this setup and generalize it as much as we can. 
 
 #### Generalize number of successes
-First observation is that probability of each [[Permutation]] of each case where we got exactly one face. In other words 
+First observation is that probability of each [Permutation](Permutation) of each case where we got exactly one face. In other words 
 $$P(HHF) = P(HFH) = P(FHH)$$
 What we could say is that it's really number of cases times probability of one of them happening. 
 $$B(k;n,p) = N_{success} \times P(success)$$
-To calculate $N$ we can use [[Newton Symbol]]. We then get
+To calculate $N$ we can use [Newton Symbol](Newton%20Symbol.md). We then get
 $$B(k;n,p) = {{n}\choose{k}}\times P(success)$$
 #### Generalize probability of success
 We know that for each toss we can either get what we want or not. For example if we want to get $FFHHH$ we calculate it 

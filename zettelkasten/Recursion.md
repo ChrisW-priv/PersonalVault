@@ -14,9 +14,9 @@ F(x) = 1 \text{, if x is equal to 1 or 0 else F(x-1)*x}
 $$
 This way we cut the calls to the function and give us proper anwser (for arguments that are integers)
 
-We can also visualise the process with [[Stack]] and 
+We can also visualise the process with [Stack](Stack.md) and 
 
 ## Intuition
-Recursion can ALLWAYS be rewritten with an iterative implementation while using some sort of [[Stack]] that holds some data. 
+Recursion can ALLWAYS be rewritten with an iterative implementation while using some sort of [Stack](Stack.md) that holds some data. 
 
 Sometimes, it's ok only for arguments to be pushed to the stack but sometimes entire callstack need to be implemented.

@@ -1,6 +1,6 @@
 # Heap
 ## Definition
-A Heap is a special [[Data Structure]].
+A Heap is a special [Data Structure](Data%20Structure).
 
 Heap can hold:
 - values
@@ -20,4 +20,4 @@ Heap can hold:
 - **isEmpty**: checks if size property is equal to zero
 
 ## Implementation
-It is often implemented as an [[Array]] and visualised using a [[Tree]].
+It is often implemented as an [Array](Array) and visualised using a [Tree](Tree.md).

@@ -1,6 +1,6 @@
 # Calculating probability by counting events
 ## Definition
-One easy way of calculating [[Probability]] of events is to calculate number of all situations we care about and divide it by number of all situations that can happen.
+One easy way of calculating [Probability](Probability.md) of events is to calculate number of all situations we care about and divide it by number of all situations that can happen.
 
 ## Notation
 A set of events we care about is often noted as $X$

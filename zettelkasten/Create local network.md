@@ -11,4 +11,4 @@ Generally, the steps for creating a local network are as follows:
 Once the local network has been created, you should be able to see the wireless network on any device with Wi-Fi capabilities, such as a laptop, smartphone, or tablet. You can connect to the network by entering the network name and password on your device. Once connected, you should be able to access the internet and any other devices on the local network.
 
 > [!Note] 
-> Creating a local network does not automatically allow devices on the network to access each other's files or resources. In order to share files and other resources on the network, you will need to set up a [[Creating local server|server]] and configure the appropriate sharing settings on your devices.
+> Creating a local network does not automatically allow devices on the network to access each other's files or resources. In order to share files and other resources on the network, you will need to set up a [server](Creating%20local%20server.md) and configure the appropriate sharing settings on your devices.

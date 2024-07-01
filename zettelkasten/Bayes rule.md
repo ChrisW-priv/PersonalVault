@@ -22,6 +22,6 @@ $$P(H\mid D)= \frac{P(H)\times P(D\mid H)}{P(D)}$$
 Now we get something we can read as "How probable is our hypothesis given data if we know the probability of data occurring under our hypothesis and probability of our hypothesis ever occurring"
 
 ## Related to
-[[Probability]]
-[[Statistics]]
-[[Conditional probability]]
+[Probability](Probability.md)
+[Statistics](Statistics.md)
+[Conditional probability](Conditional%20probability.md)

@@ -1,6 +1,6 @@
 # Unary function
 > [!Definition]
-> Function accepting single argument. Part of [[Function programming]] theory 
+> Function accepting single argument. Part of [Function programming](Function%20programming) theory 
 
 ## Code
 In JavaScript we may do a simple adapter for any function to accept only a single argument.
@@ -15,7 +15,7 @@ function unary(fn){
 This way, is function `fn` accepts only one argument. This is useful to ensure that when we pass it to another function it truly is only unary function.
 
 ## Example
-It is common to explain a usefulness of unary adapter with tool like [[Map Pattern]]. Say we have a function `parseInt` that accepts `value` that is string representation of an int and `radix` that is the system that number has been coded as.
+It is common to explain a usefulness of unary adapter with tool like [Map Pattern](Map%20Pattern.md). Say we have a function `parseInt` that accepts `value` that is string representation of an int and `radix` that is the system that number has been coded as.
 
 **Map** commonly provides not just value but also index and array reference if it detects that function accepts more than one argument. Thus, in code below:
 ```js

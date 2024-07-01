@@ -1,4 +1,4 @@
-[[Exponential functions]]
+[Exponential functions](Exponential%20functions.md)
 
 ## Intro
 Using definition of derivatives:
@@ -8,7 +8,7 @@ So the derivative of this function is itself times some constant $\lim_{dx \righ
 
 Question: "Is there a special number for which this constant equals 1?" 
 Answer: "YES, there is, it's a special number $e$". In a sense it is what defines $e$.
-Properties of this number e can be found [[Number e|here]].
+Properties of this number e can be found [here](Number%20e.md).
 
 ## Steps to calculate the derivative:
 1. Write $\mathbb{c}$ as $e^{ln(\mathbb{c})}$ and $\mathbb{c}^{x} = e^{ln(\mathbb{c})\cdot x}$

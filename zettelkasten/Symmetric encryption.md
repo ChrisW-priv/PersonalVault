@@ -1,6 +1,6 @@
 # Symmetric encryption
 ## Definition
-It's a kind of [[Encryption]] where [[Encryption Key]] and [[Decryption Key]] are easily deducible if you know one or the other. Therefore both key have to be kept in a secure way.
+It's a kind of [Encryption](Encryption.md) where [Encryption Key](Encryption%20Key) and [Decryption Key](Decryption%20Key) are easily deducible if you know one or the other. Therefore both key have to be kept in a secure way.
 
 ## Intuition
 It's very common for keys in question to be identical!

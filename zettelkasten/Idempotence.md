@@ -1,6 +1,6 @@
 # Idempotence
 > [!Definition]
-> Property of [[Function in Mathematics]] and Computer Science that describes situation where multiple application is not changing result of initial one.
+> Property of [Function in Mathematics](Function%20in%20Mathematics.md) and Computer Science that describes situation where multiple application is not changing result of initial one.
 
 ## Notation
 Given a function $f$, and $x$ as a member of set $s$. Function f is idempotent if
