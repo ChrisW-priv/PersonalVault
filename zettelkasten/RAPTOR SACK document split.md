@@ -1,5 +1,6 @@
-# RAPTOR SACK document split 
-Split And ChunK generator based on RAPTOR idea for RAG.
+# RAPTOR TILE document split 
+Text Indexing for Language Extraction
+generator based on RAPTOR idea for RAG.
 
 [RAPTOR indexing](RAPTOR%20indexing.md)
 [RAG](RAG.md)
