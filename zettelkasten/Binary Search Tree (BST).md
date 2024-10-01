@@ -18,10 +18,10 @@ Three different traversals:
 Printing the elements in an order
 
 - Preorder (NLR) 
-When searching the tree, we allways compare the node first after descending to sub-trees
+When searching the tree, we always compare the node first after descending to sub-trees
 
 - Postorder (LRN)
-In a destructor, we allways want to destroy the tree "bottoms-up"
+In a destructor, we always want to destroy the tree "bottoms-up"
 
 ## Code
 The binary tree should be done for a specific application as it done for optimisation reasons. However a basic BST will be available here in the future: #TODO 
@@ -38,7 +38,7 @@ Needed methods:
 - get elements
 
 > [!Note] 
-> While the naive implementation is easy to do, to make the methods efficient is really hard! Problem will allways lie in making and keeping the tree balanced to maintain optimal $O(log(n))$ time!
+> While the naive implementation is easy to do, to make the methods efficient is really hard! Problem will always lie in making and keeping the tree balanced to maintain optimal $O(log(n))$ time!
 
 ## Intuition
 Search for any element in the tree is done in $O(log(n))$ time IF THE TREE IS BALANCED. In the worst case the search time can be $O(n)$!
