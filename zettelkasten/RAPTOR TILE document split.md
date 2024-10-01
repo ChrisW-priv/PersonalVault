@@ -32,7 +32,7 @@ It would also be good to be able to be able to iterate through the KB directly.
 
 - Max tokens that we can embed (max chunk and summary size).
 - Max tokens that we can use for the document summary.
-- Max iteration stages of the summary creation. default is 2
+- Max iteration stages of the summary creation. default is not given (do full summary)
 - Max chunk size - default is 1/3 of LLM context window. But can be smaller.
 - Max summary size - default is the min between max embed token and 1/3 of LLM context, but can be set to smaller.
 
@@ -47,6 +47,12 @@ Chunk size actually cannot be bigger than 1/2 of (LLM context window - summary s
 Max iteration must be > 0. if not given then just run until one summary is left.
 
 ## Considerations 
+
+Firstly, we want to always store the files that are given in as raw of a format as possible.
+In case there is text that we can use we want to store it in plain text files.
+In case where the pictures are added, we want to store them as PNG or other easy to view format.
+
+This is mostly due to the fact that storing raw files is easy and cheap as well allows for easy data recovery in case the project is abandoned or feature extension as pure files are fundamental to the CS environment.
 
 We may or may not store the files provided. 
 
@@ -118,8 +124,93 @@ In version 1 of the server there shall be no update function. If there is need f
 
 ### Internal representation
 
-Due to time constraint during time of write I leave it as #TODO but in general:
-
 - we need file store for the files that need copy as well as resulting splits and chunks of the files. Source files and the internal repr should be separated as much as possible to avoid loss of data or unnecessary compute.
 - vector store that will allow the storage of embeddings in a separated form 
 - actual server that will accept the input and do stuff that is expected.
+- file chunks and summaries will store additional tags and metadata 
+- original doc chunks and chunk summaries shall be easy to differentiate between.
+	- while the restoration of the original file may from chunks may not be possible nor is it required it will allow us to build the "parsed file" artefact by pure concatenation.
+
+#### File storage tree 
+
+Because we want to store as much of the data in plain files this is considered to be sufficient:
+```bash
+file_index
+├── source
+│   ├── foo.pdf
+│   ├── bar.docx
+│   ├── baz.pptx
+│   ├── README.md
+│   ├── index.html
+│   ├── main.py
+│   └── ...
+└── chunked
+    ├── foo.pdf
+    |   ├── meta.json
+    |   ├── chunk1.md
+    |   ├── chunk2.md
+    |   ├── summary1.md
+    |   └── ...
+    ├── bar.docx
+    |   ├── meta.json
+    |   ├── chunk1.md
+    |   ├── chunk2.md
+    |   ├── summary1.md
+    |   └── ...
+    ├── baz.pptx
+    |   ├── meta.json
+    |   ├── chunk1.md
+    |   ├── chunk2.md
+    |   ├── summary1.md
+    |   └── ...
+	└── ...
+```
+
+In here, the summary is easy to differ from the chunks by the name it self. File
+wide metadata is shared in the `meta.json` file. 
+
+#### File chunk / summary structure
+It is nice to store the metadata inside the file in case we want to future-proof
+the design. We will use the YAML-formatted metadata standard. This means that the
+metadata will be at the top of the file and will be a key-value pair. To get the 
+file content one has to find the start and end `---` blocks and then skip one empty line.
+
+Matter of fact, the entire thing can be a rather simple regex:
+```perl
+/(?:---\s*\n(.*?)---\s*\n)?(.*)/s
+```
+
+Explanation:
+
+- `(?: ... )`: This is a non-capturing group that wraps the optional metadata section.
+- `---\s*\n`: Matches the --- followed by any optional spaces and a newline (\n), which indicates the start of the metadata.
+- `(.*?)`: Capturing group 1. This matches the metadata section lazily (.*?), ensuring that it captures everything between the two --- lines.
+- `---\s*\n`: Matches the second --- with optional spaces and a newline, marking the end of the metadata section.
+- `?`: Makes the whole metadata block optional.
+- `(.*)`: Capturing group 2. This matches the rest of the file content after the metadata section (or from the start if metadata is absent). The s flag ensures that this captures across multiple lines.
+
+##### Example of file with metadata:
+
+Some metadata at the top and "foo bar baz" as the content of the file
+```notepad
+# ./file_index/chunked/foo.txt
+---
+Title: foo.txt
+Author: Krzysztof Watras
+Comment: >
+     This is a multiline comment.
+
+     I do not know if this is exactly what I want but is certainly easiest to
+     implement and is a solid default.
+---
+
+foo bar baz
+```
+
+##### Example of file with no metadata:
+
+No metadata at the top and "foo bar baz" as the content of the file.
+```notepad
+# ./file_index/chunked/foo.txt
+foo bar baz
+```
