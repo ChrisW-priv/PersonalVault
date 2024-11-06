@@ -7,7 +7,7 @@ Commonly use in graphics rendering and state-based simulations.
 ## Common problems
 ### Rotating buffers
 #### When this happens?
-In a case that we write to "next" buffer **only** if condition is met we can get to a point where condition was true on last iteration but is never true after. Then we get continuously swiching 2 state cell.
+In a case that we write to "next" buffer **only** if condition is met we can get to a point where condition was true on last iteration but is never true after. Then we get continuously switching 2 state cell.
 
 #### Solution:
 There are couple of solutions:

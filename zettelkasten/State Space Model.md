@@ -1,3 +1,4 @@
+[[math model]]
 Each model will have variables like:
 $$
 \begin{split}

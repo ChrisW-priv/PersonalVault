@@ -35,13 +35,14 @@ be seen a compression algorithm. This, while sounds simple is actually really
 powerfull as it forces the algorithm to "learn" a lot about the world.
 
 ### How does it work?
-In practice, little is known about the acutal "how" it works. All types of architectures for LLM are well understood, as
-well as the mathematical operations on each stage. We also undertand how to make iterative adjustements to the model 
-parameters in training phase. However, because the model is so large and the parameters are scattered across so many 
-parts, the direct impact of each parameter is not known. We can of course directly measure the behaviour, it's just that
-we are not sure how all parameters colaborate to yield the result that was returned. 
 
-Imperically, we see that the models build a certain knowledge of the world. Yet, this model is not perfect. In a viral 
+In practice, little is known about the actual "how" it works. All types of architectures for LLM are well understood, as
+well as the mathematical operations on each stage. We also understand how to make iterative adjustments to the model 
+parameters in training phase. However, because the model is so large and the parameters are scattered across so many 
+parts, the direct impact of each parameter is not known. We can of course directly measure the behavior, it's just that
+we are not sure how all parameters collaborate to yield the result that was returned. 
+
+Empirically, we see that the models build a certain knowledge of the world. Yet, this model is not perfect. In a viral 
 example when LLM is queried "Who is Tom Cruise's mother" the model correctly returns information "Mary Lee Pfeiffer". 
 However, when we ask "Who is Mary Lee Pfeiffer's son" then the model will either return anwser that is incorrect or say 
 it does not know. This example indicates that model holds the information in some kind of directional way where
@@ -53,6 +54,7 @@ other fields of engineering where each part is well understood and can be replac
 made to do so.
 
 ## Training the assistant
+
 In the first phase, the model is trained on the large amount of text data most commonly being a result of an internet
 scrape. This is a phase where the model gets to learn general model of the world. It is a result of high volume but
 potentially a low quality input. At this stage we have a model that has a good level of understanding of the words and
@@ -66,6 +68,7 @@ example by consulting the field experts. This stage is often refered to as RLHF 
 Feedback.
 
 ## Current AI landscape
+
 As in other fields of software there is a divide into companies that decide not to share their models and the open
 source ones. Two champions of each approach at the time of writing are OpenAI and Meta companies. One way of qualitative
 comparision is to create an LLM leaderboard much like in chess. There is an elo rating that determins strength of the
@@ -95,6 +98,7 @@ With such a big interest in the field there comes many security concerns to the 
 [TODO: describe datapoisoning]
 
 ## TODO:
+
 Aside from all todos above there are also the following:
 
 - llava topic -> explore learn what it is etc.

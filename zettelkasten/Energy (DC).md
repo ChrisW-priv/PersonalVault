@@ -1,3 +1,4 @@
+[electronic circuit](electronic%20circuit)
 # Energy
 ![Pasted image 20221127221325](../attachments/Pasted%20image%2020221127221325.png)
 ![Pasted image 20221127221305](../attachments/Pasted%20image%2020221127221305.png)

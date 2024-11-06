@@ -1,3 +1,4 @@
+[[ELAC]]
 ## What is closure
 Closure property is a statement that a certain operation on languages when applied to languages in a class (e.g. RE languages), produces a result that is also in that class
 
