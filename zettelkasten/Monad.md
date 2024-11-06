@@ -40,11 +40,11 @@ addOne(square(2)) # 5
 Then he wants to add logging to the code. Here it is worth noting we already know [Inspect pattern](Inspect%20pattern.md) to test nested function calls but here we want to give sound example to use Monad structure. Anyway, we want end example to produce something like this:
 ```python
 addOne(square(2)) -> {
-					  result: 5,
-					  logs: [
-							"Squared 2 to get 4.",
-							"Added 1 to 4 to get 5."
-							]
+	result: 5,
+	logs: [
+		"Squared 2 to get 4.",
+		"Added 1 to 4 to get 5.",
+	]
 }
 ```
 He proceeds to built an interface `NumberWithLogs`. Here it will be simple class.

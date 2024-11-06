@@ -1,4 +1,6 @@
-# Closure
+[Closure Properties of Regular Languages](zettelkasten/Closure%20Properties%20of%20Regular%20Languages.md)
+
+# Closure in code
 > [!Definition]
 > Record storing a function together with an environment. In practice, closure is an option to reference variables from outside the scope of function. 
 

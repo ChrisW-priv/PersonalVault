@@ -1,3 +1,5 @@
+[RAG](zettelkasten/RAG.md)
+
 # Building knowledge base from Documents
 
 Text Indexing for Language Extraction
@@ -6,10 +8,10 @@ Great link to paper I should take examples from [here](https://arxiv.org/html/24
 
 ## Problem
 
-We have some knowledge that is stored in documents that have undefined structure
-and file extensions. This includes markup file extensions like PDF, HTML or
-Microsoft Office associated files, but also pictures or video which come in a
-wide variety of file formats. 
+We have some knowledge stored in documents. Those documents may have different
+structure and file extensions. This includes markup file extensions like PDF,
+HTML, Markdown or Microsoft Office associated files, but also pictures or video
+which come in a wide variety of file formats. 
 
 We want to convert all of them into a structure that allows to easily find content that
 is relevant to answering the question about some part. This question can be done
@@ -304,28 +306,38 @@ making it harder to interpret how and why certain documents are ranked highly.
 
 In an embedding-based retrieval system, both the query and documents are transformed into dense vector representations in a high-dimensional space. The goal is to retrieve documents that are "close" to the query in this vector space, typically measured using distance or similarity metrics like cosine similarity or Euclidean distance. However, this process can be computationally expensive, especially when the dataset is large. To optimize search performance, several techniques have been developed to speed up vector retrieval while maintaining accuracy.
 
-#### Multivector Stores
+##### Query optimization
 
-##### What Are Multivector Stores?
+Because single use user query may miss out on relevant information, available
+only through multiple prompt, alternative phrasing or different perspectives on
+the same topic.
+
+Generating some more queries from the original makes sense because searching the
+database with rewritten query may return a document that would normally be
+missed.
+
+##### Multivector Stores
+
+###### What Are Multivector Stores?
 
 A multivector store is an advanced technique that enhances the efficiency of embedding-based retrieval systems by splitting documents into multiple vectors, rather than representing the entire document with a single vector. This approach leverages the fact that documents often contain diverse topics or multiple semantic themes, which may not be captured well by a single vector.
 
 Instead of embedding an entire document into one vector, a multivector store breaks the document into smaller semantic chunks (e.g., paragraphs, sentences, or even smaller n-grams) and represents each chunk with its own vector. These vectors are then stored in the search index. At query time, the system searches across all vectors representing a document and retrieves the most relevant vector chunks rather than relying on a single document-level vector.
 
-##### Why Multivector Stores Work
+###### Why Multivector Stores Work
 
 - **Finer Granularity**: By splitting documents into smaller chunks and storing multiple vectors, multivector stores allow for more granular retrieval. This means that even if only a small section of a document is relevant to the query, it can still be found and retrieved, which improves recall.
     
 - **Increased Coverage**: Documents often contain multiple topics, and a single vector might not represent all of them adequately. By using multiple vectors, the system can capture the diversity of topics within a document, leading to better matching with varied queries.
     
 
-##### Challenges and Considerations
+###### Challenges and Considerations
 
 While multivector stores improve recall and relevance, they come with trade-offs in terms of storage and computational cost. Storing multiple vectors for each document increases the size of the search index, and retrieving relevant vectors from a larger index can require more processing power. To mitigate these costs, efficient indexing structures and approximate nearest neighbor (ANN) techniques are often used.
 
-#### Hypothetical Question Method
+##### Hypothetical Question Method
 
-##### What Is the Hypothetical Question Method?
+###### What Is the Hypothetical Question Method?
 
 The **hypothetical question method** is an advanced optimization technique that
 enhances query understanding by generating synthetic queries or hypothetical
@@ -342,13 +354,13 @@ system also matches the query with these hypothetical question vectors, which
 increases the chances of retrieving relevant documents even if the user's query
 does not directly align with the document's original content.
 
-##### Why the Hypothetical Question Method Works
+###### Why the Hypothetical Question Method Works
 
 - **Improves Generalization**: Real-world user queries are often highly varied and may not perfectly align with the language used in the documents. By generating synthetic queries, the system can better match the user's intent even if the exact wording is different from the document content.
 
 - **Enhances Semantic Understanding**: Pre-generated hypothetical questions help the system understand different ways a concept might be queried. This increases the likelihood that documents relevant to the query will be retrieved, improving both recall and precision.
 
-##### Challenges and Considerations
+###### Challenges and Considerations
 
 The hypothetical question method is computationally expensive because it
 requires generating, embedding, and storing many synthetic queries for each
@@ -357,7 +369,7 @@ Additionally, generating high-quality hypothetical queries requires
 sophisticated natural language processing (NLP) techniques, which may not always
 generate the most useful or relevant questions.
 
-#### RAPTOR Indexing
+##### RAPTOR Indexing
 
 **RAPTOR (Recursive Abstractive Processing for Tree-Organized Retrieval)** is an
 advanced approach to optimizing search and retrieval in large-scale,
@@ -369,7 +381,7 @@ to describe aside from retrieve information from. Questions like "what kind of i
 easy with this schema because there already exists a tree of summaries done 
 during indexing.
 
-##### Overview of RAPTOR Indexing
+###### Overview of RAPTOR Indexing
 
 The primary goal of RAPTOR is to enable faster and more accurate search in
 embedding-based systems by structuring the document into a tree-like structure.
@@ -379,7 +391,7 @@ where each node in the tree represents an abstraction or summary of the nodes
 recursive searches that progressively zoom in on the most relevant parts of the
 index.
 
-##### Key Components of RAPTOR
+###### Key Components of RAPTOR
 
 - Recursive Processing: Queries are processed recursively, starting from the
 leaf-level abstractions and moving up the tree structure, refining the search at
@@ -647,10 +659,11 @@ approach.
 Once the text indexing is done, finding most relevant information is quite
 straight forward. It can be done by following algorithm:
 
-1. Embed the user query
-2. Perform distance search to find closest vectors in the vector space
-3. Sort result and limit to N closest vectors 
-4. Return N relevant documents
+1. Generate N new queries from original query (context will help)
+2. Embed all queries
+3. Perform distance search to find closest vectors in the vector space
+4. Sort result and limit to N closest vectors 
+5. Return N relevant documents
 
 (here, it is possible that there is more than one question that is close enough
 pointing to the same document, in this case just ignore it such that we return N
