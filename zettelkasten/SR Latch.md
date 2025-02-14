@@ -14,7 +14,7 @@ SR latch is commonly used to define [memory blocks](memory%20blocks)
 REMEMBER: implementation with [NOR gate](NOR%20gate.md) and [NAND gate](NAND%20gate.md) have different outputs for the same input! 
 ## Notation
 ### Implementation with [NOR gate](NOR%20gate.md)
-![300](../attachments/Pasted%20image%2020221116195210.png)
+![300](attachments/Pasted%20image%2020221116195210.png)
 
 #### Truth Table
 |S|R|Impact|
@@ -26,7 +26,7 @@ REMEMBER: implementation with [NOR gate](NOR%20gate.md) and [NAND gate](NAND%20g
 
 
 ### Implementation with [NAND gate](NAND%20gate.md)
-![300](../attachments/Pasted%20image%2020221116204616.png)
+![300](attachments/Pasted%20image%2020221116204616.png)
 
 #### Truth Table
 |S|R|Impact|

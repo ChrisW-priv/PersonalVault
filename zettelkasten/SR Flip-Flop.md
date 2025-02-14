@@ -24,7 +24,7 @@ The SR flip-flop can be used to store binary information, and can be easily swit
 Based on [SR Latch](SR%20Latch.md) and [AND gate](AND%20gate.md). we use an extra signal from clock combined with and gates to extend the SR latch. 
 
 Using [AND gate](AND%20gate.md) and [NOR gate](NOR%20gate.md):
-![Pasted image 20221116203152](../attachments/Pasted%20image%2020221116203152.png)
+![Pasted image 20221116203152](attachments/Pasted%20image%2020221116203152.png)
 
 ### Truth table
 The same as [](SR%20Latch.md#Truth%20Table|here) if clock value is 1

@@ -22,7 +22,7 @@ categories: []
 r = pq
 
 ### Symbol Representation
-![400x200](../attachments/AND_GATE.png)
+![400x200](attachments/AND_GATE.png)
 
 ### Properies
 1. [Associative binary property](Associative%20binary%20property.md)

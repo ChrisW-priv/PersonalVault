@@ -23,7 +23,7 @@ This method can be done in $O(fE)$ where f is the maximum flow.
 Implementation is under #TODO 
 
 Alternatives:
-![Pasted image 20221102235228](../attachments/Pasted%20image%2020221102235228.png)
+![Pasted image 20221102235228](attachments/Pasted%20image%2020221102235228.png)
 Note: here we use very pesimistic notation and in practice those algorithms will be much faster which in turn make it very difficult to compare solely based on complexities.
 ## Intuition
 Imagine the graph as an abstract representation of a road network or water pipes. 

@@ -23,7 +23,7 @@ The JK flip-flop can be used to store binary information, and can be easily swit
 
 ## Notation
 ### Implementation with [NAND gate](NAND%20gate.md)
-![300](../attachments/Pasted%20image%2020221116205154.png)
+![300](attachments/Pasted%20image%2020221116205154.png)
 
 #### Truth Table
 For clk = 1:
