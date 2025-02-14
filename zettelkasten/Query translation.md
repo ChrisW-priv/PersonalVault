@@ -1,3 +1,12 @@
+---
+title: "Query translation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Query translation
 Simply put, sometimes the queries to LLM may be incomplete, miss context or
 detail. One way of improving the [Prompt engineering](zettelkasten/Prompt%20engineering.md) is

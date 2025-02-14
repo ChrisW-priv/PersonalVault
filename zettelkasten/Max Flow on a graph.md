@@ -1,3 +1,12 @@
+---
+title: "Max Flow on a graph"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Max Flow on a graph
 ## Definition
 Max flow problem can be defined by a question:

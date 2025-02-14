@@ -1,3 +1,12 @@
+---
+title: "Dot product"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Dot product
 ## Definition
 [Function in Mathematics](Function%20in%20Mathematics.md) taking two [vectors](Vector.md) as input and returning a real number. Order of vectors doesn't matter.

@@ -1,3 +1,12 @@
+---
+title: "Google search options"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 
 ## Searching exact phrases
 by default google looks for synonyms and uses fuzzy search to match query.

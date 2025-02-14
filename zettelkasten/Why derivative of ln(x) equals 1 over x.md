@@ -1,3 +1,12 @@
+---
+title: "Why derivative of ln(x) equals 1 over x"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Steps to get a derivative of $ln(x)$:
 1. write it as $y = ln(x)$
 2. rewrite it as $e^y = x$ (using definition of a $log$)

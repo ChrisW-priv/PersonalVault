@@ -1,3 +1,12 @@
+---
+title: "Eigenvalue"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 Factor by which [Eigenvector](Eigenvector.md) are scaled during [Linear transformation](Linear%20transformation.md).
 

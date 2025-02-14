@@ -1,3 +1,12 @@
+---
+title: "Examples of ODEs"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Examples of ODEs
 ### Example1 - freefalling body
 Gravitational acceleration near surface of air: $\frac{-9.8 \ m/s}{s}$.

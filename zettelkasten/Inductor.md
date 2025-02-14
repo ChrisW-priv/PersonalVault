@@ -1,3 +1,12 @@
+---
+title: "Inductor"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [electronic circuit](electronic%20circuit)
 
 # Inductor

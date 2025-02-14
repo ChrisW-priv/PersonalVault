@@ -1,3 +1,12 @@
+---
+title: "Pure function"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Pure function
 > [!Definition]
 > Function with no side-effects. 

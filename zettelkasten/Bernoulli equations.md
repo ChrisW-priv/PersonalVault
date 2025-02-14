@@ -1,3 +1,12 @@
+---
+title: "Bernoulli equations"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Definition
 For a function in a form
 $$y + P(x)y' = Q(x)\cdot y^n$$

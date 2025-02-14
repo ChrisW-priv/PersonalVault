@@ -1,3 +1,12 @@
+---
+title: "Identity Function"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Identity function
 > [!Definition]
 > Function accepting single argument and returning it as is. Part of [Function programming](Function%20programming) theory 

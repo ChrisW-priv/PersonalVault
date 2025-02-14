@@ -1,3 +1,12 @@
+---
+title: "Differential equations"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Differential equations arise when it's easier to describe change rather that absolute amounts. For example system of 3 bodies in space pulled by gravitational forces is such system.
 [link to series of video explanations by 3blue1brown](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=1)
 

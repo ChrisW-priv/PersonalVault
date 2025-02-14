@@ -1,3 +1,12 @@
+---
+title: "Quantum computing"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 note taken based on [this](https://www.youtube.com/watch?v=F_Riqjdh2oM) youtube
 video.
 

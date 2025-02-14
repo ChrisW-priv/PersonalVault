@@ -1,3 +1,12 @@
+---
+title: "Travelling Salesman Problem (TSP)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Travelling Salesman Problem (TSP)
 ## Definition
 TSP is a famous problem in Computer Science. It is very difficult to provide good algorithm for TSP for large scale.

@@ -1,3 +1,12 @@
+---
+title: "Dynamic Programming"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 This note is inspired by video by SimonDev![here](https://www.youtube.com/watch?v=6z4ePR7YYa8)
 
 Main idea in his video is: Dynamic programming is a set of patterns that are more "common sense" rather than some complicated or brilliant ideas.

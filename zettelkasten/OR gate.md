@@ -1,3 +1,12 @@
+---
+title: "OR gate"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # OR gate ( $\lor$ )
 [Logic Gates](Logic%20Gates.md)
 ### Truth Table

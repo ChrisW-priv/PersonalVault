@@ -1,3 +1,12 @@
+---
+title: "Statistics"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Statistics
 ## Definition
 The discipline that concerns the collection, interpretation and presentation of data.

@@ -1,3 +1,12 @@
+---
+title: "NAND gate"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # NAND Logic gate
 [Logic Gates](Logic%20Gates.md)
 

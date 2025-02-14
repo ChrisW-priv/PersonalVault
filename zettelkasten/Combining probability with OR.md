@@ -1,3 +1,12 @@
+---
+title: "Combining probability with OR"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Probability](Probability.md)
 # Combining probability with OR
 ## Definition

@@ -1,3 +1,12 @@
+---
+title: "System of linear equations"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ### System of linear equations
 Example system of equations:
 $2x + 5y + 3z = -3$

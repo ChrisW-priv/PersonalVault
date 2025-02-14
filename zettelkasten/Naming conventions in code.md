@@ -1,3 +1,12 @@
+---
+title: "Naming conventions in code"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Part of [Code quality](Code%20quality)
 This note is inspired by video by CodeAesthetic![here](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 

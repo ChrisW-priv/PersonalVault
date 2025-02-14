@@ -1,3 +1,12 @@
+---
+title: "Recursion"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Recursion
 ## Definition
 Recursion occurs when some function calls itself 

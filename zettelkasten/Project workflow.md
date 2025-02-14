@@ -1,3 +1,12 @@
+---
+title: "Project workflow"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 General project workflow that involves multiple contributors:
 
 1. Project leader must first research the topic of the project thoroughly.

@@ -1,3 +1,12 @@
+---
+title: "Current divider formula (CDF)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Current divider formula
 Note: we only consider parrarel connection because current flowing through series elements is ALLWAYS the same (in ideal case).
 

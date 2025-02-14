@@ -1,3 +1,12 @@
+---
+title: "Distributive binary property"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Let X be non-empty set.
 Let $\bigoplus, \bigodot$ be two binary operations defined  $\forall x, y \in X$.
 We say that $\bigoplus$ is **Distributive** in respect to $\bigodot$ when both conditions are satisfied:

@@ -1,3 +1,12 @@
+---
+title: "Filter pattern"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Filter pattern
 > [!Definition]
 > Pattern of excluding some values from an [Array](Array) given some condition. Common part of [Function programming](Function%20programming).

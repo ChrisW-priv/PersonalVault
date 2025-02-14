@@ -1,3 +1,12 @@
+---
+title: "Unary function"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Unary function
 > [!Definition]
 > Function accepting single argument. Part of [Function programming](Function%20programming) theory 

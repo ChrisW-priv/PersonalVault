@@ -1,3 +1,12 @@
+---
+title: "Physically-based rendering"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Physically-based rendering (PBR) is a rendering technique that aims to simulate the physical interactions of light and materials in a scene as accurately as possible. This is achieved by using realistic models of light transport and material properties, based on the laws of physics, to calculate how light should behave when it hits different surfaces in the scene.
 
 PBR simulates the behavior of light in the real world, including how it reflects off different surfaces, how it scatters through the air, and how it is absorbed and emitted by materials. This allows PBR to create more realistic and believable images than traditional rendering techniques, which often use simplifications and approximations to make the rendering process more efficient.

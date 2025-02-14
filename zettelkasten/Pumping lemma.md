@@ -1,3 +1,12 @@
+---
+title: "Pumping lemma"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [[ELAC]]
 # Pumping lemma
 The word lemma in mathematics refers to "mini theorem"

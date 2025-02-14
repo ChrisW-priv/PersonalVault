@@ -1,3 +1,12 @@
+---
+title: "Stack"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Stack
 ## Definition
 Stack is an insanely powerful [Data Structure](Data%20Structure). It operates on basis of LIFO meaning that element that was pushed last will be used first.

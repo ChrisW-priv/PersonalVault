@@ -1,3 +1,12 @@
+---
+title: "Makefile example"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ```make
 CXX = clang
 CXXFLAGS = -Wall -std=c++20

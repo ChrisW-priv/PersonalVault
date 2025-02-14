@@ -1,3 +1,12 @@
+---
+title: "Double Buffer method"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Double Buffer method
 ## Definition
 In computer science it's a method using 2 buffers of the same size to incorporate easier/more robust read/write methods. In principal, one buffer is used for read and the other for write. After needed computation buffers are swapped and process is repeated.

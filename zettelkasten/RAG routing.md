@@ -1,3 +1,12 @@
+---
+title: "RAG routing"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [RAG](zettelkasten/RAG.md)
 
 # RAG routing

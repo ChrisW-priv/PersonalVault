@@ -1,3 +1,12 @@
+---
+title: "NOR gate"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # NOR gate ( $\land$ ) 
 [Logic Gates](Logic%20Gates.md)
 ### Truth Table

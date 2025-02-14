@@ -1,3 +1,12 @@
+---
+title: "Proportional form of Bayes Rule"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Proportional form of Bayes Rule
 ## Definition
 Simplified form of [Bayes rule](Bayes%20rule.md). It leaves out the proportionality factor of $\frac1{P(D)}$. Therefore the values of this form are not normalised between 0-1.

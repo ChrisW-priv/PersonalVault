@@ -1,3 +1,12 @@
+---
+title: "Asymmetric encryption"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Asymmetric encryption
 ## Definition
 It's a kind of [Encryption](Encryption.md) where it's practically impossible to know the [Decryption Key](Decryption%20Key) based on the [Encryption Key](Encryption%20Key). 

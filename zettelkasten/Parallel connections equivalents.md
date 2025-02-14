@@ -1,3 +1,12 @@
+---
+title: "Parallel connections equivalents"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Parallel connections of one-ports
 ![Pasted image 20221028110121](../attachments/Pasted%20image%2020221028110121.png)
 ![Pasted image 20221028110135](../attachments/Pasted%20image%2020221028110135.png)

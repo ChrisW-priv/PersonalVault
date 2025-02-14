@@ -1,3 +1,12 @@
+---
+title: "Circular Doubly Linked List"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Circular Doubly Linked List
 ## Definition
 An extension od [Doubly Linked List](Doubly%20Linked%20List.md) also called Doubly Linked Ring.

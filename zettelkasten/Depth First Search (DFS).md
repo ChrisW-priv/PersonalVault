@@ -1,3 +1,12 @@
+---
+title: "Depth First Search (DFS)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 The DFS is the most fundamental search algorithm used to explore nodes and edges of a [Graph](Graph.md). It runs with time complexity of $O(V+E)$ and is often used as a building block in other algorithms. 
 
 By itself DFS isn't that useful, but when augmented to perform other tasks such as count connected components, determine connectivity or find bridges/articulation points then DFS really shines.

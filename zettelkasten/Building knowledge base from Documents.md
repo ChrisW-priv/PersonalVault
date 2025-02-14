@@ -1,3 +1,12 @@
+---
+title: "Building knowledge base from Documents"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [RAG](zettelkasten/RAG.md)
 
 # Building knowledge base from Documents
@@ -667,4 +676,4 @@ straight forward. It can be done by following algorithm:
 
 (here, it is possible that there is more than one question that is close enough
 pointing to the same document, in this case just ignore it such that we return N
-unique mappings to return N most relevant documents)
+*unique* mappings to return N most relevant documents)

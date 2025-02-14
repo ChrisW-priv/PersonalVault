@@ -1,3 +1,12 @@
+---
+title: "Implicit differentiation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Implicit differentiation
 For some equations we can't write "simple" derivative equations with $\frac{dy}{dx}$. For example $x^2 + y^2 = 5^2$ describes a circle. We can however take steps that will make sense and will result in $\frac{dy}{dx}$. Those steps are:
 1. Differentiate both sides with respect to both $x$ and $y$

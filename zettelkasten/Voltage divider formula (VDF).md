@@ -1,3 +1,12 @@
+---
+title: "Voltage divider formula (VDF)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Voltage divider formula
 Note: we only consider series connection because voltage flowing through a parrarel elements is ALLWAYS the same (in ideal case).
 

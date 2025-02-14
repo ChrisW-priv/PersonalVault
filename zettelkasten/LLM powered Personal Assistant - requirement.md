@@ -1,3 +1,12 @@
+---
+title: "LLM powered Personal Assistant - requirement"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [LLM](zettelkasten/LLM.md)
 
 # LLM powered Personal Assistant - requirements

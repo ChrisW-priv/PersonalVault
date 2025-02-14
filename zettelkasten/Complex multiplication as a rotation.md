@@ -1,3 +1,12 @@
+---
+title: "Complex multiplication as a rotation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Complex numbers in rotations
 [Complex number](Complex%20number.md) can be seen as a rotation tools. For eg. $i$ rotates 2d plane $90\degree$ counter clock-wise. it does so because real number $5 \cdot i=5i$ and that follows for any number on real axis. As general idea: any complex number we multiply by can be seen as a Matrix that rotates and/or squishes complex plane. Because complex number is a place where vector defining real part lands we can convert it entire computation to [Matrix multiplication](Matrix%20multiplication.md) and for every complex number $z = a+bi$ define matrix $M=\begin{bmatrix}a & -b \\ b & a\end{bmatrix}$. 
 > [!Note] 

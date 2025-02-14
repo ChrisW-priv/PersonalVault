@@ -1,3 +1,12 @@
+---
+title: "Finding bridges in the graph"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Finding bridges in the graph
 ## Desription
 Algorithm used for finding [Bridges](Bridges.md) in a [Graph](Graph.md).

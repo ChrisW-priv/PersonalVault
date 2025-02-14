@@ -1,3 +1,12 @@
+---
+title: "Determinant of a matrix"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Notation
 We denote a determinant of a matrix $M$ as:
 - det($M$) 

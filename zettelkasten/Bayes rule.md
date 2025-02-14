@@ -1,3 +1,12 @@
+---
+title: "Bayes rule"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Bayes theorem
 ## Definition
 Bayes Rule describes the probability of an event, based on prior knowledge of conditions that might be related to the event.

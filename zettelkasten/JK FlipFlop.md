@@ -1,3 +1,12 @@
+---
+title: "JK FlipFlop"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Flip-Flops](Flip-Flops)
 # JK FlipFlop
 ## Definition

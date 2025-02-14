@@ -1,3 +1,12 @@
+---
+title: "Linear combination"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Result of addition of [vectors](Vector.md) multiplied by scalars.
 
 For example for 3 vectors: $\vec{v},\vec{w},\vec{u}$ and scalars $a,b,c$:

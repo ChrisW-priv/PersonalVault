@@ -1,3 +1,12 @@
+---
+title: "Vector Norm"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 For different purposes there are several "norms" of a vector that we care about. 
 In general the norm of the vector is a distance from the origin calculated in some way. 
 Those are called in order:

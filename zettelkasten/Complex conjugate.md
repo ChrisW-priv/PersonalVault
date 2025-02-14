@@ -1,3 +1,12 @@
+---
+title: "Complex conjugate"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 > Complex conjugation is the reflection symmetry with respect to real axis.
 

@@ -1,3 +1,12 @@
+---
+title: "Injective function"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Type of [Function in Mathematics](Function%20in%20Mathematics.md)
 
 Also known as one-to-one function

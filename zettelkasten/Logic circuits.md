@@ -1,3 +1,12 @@
+---
+title: "Logic circuits"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Logic circuits
 ICs in short
 

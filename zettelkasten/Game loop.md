@@ -1,3 +1,12 @@
+---
+title: "Game loop"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Game design](Game%20design)
 # Game loop
 > [!Definition]

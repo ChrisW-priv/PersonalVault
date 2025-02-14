@@ -1,3 +1,12 @@
+---
+title: "Transitive Relation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 One of [Relation in Mathematics](Relation%20in%20Mathematics.md)
 
 ### If relation is transitive

@@ -1,3 +1,12 @@
+---
+title: "Calculating probability by counting events"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Calculating probability by counting events
 ## Definition
 One easy way of calculating [Probability](Probability.md) of events is to calculate number of all situations we care about and divide it by number of all situations that can happen.

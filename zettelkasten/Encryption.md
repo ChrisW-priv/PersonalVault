@@ -1,3 +1,12 @@
+---
+title: "Encryption"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Encryption
 ## Definition
 Way of encoding an information in a way that prevent unauthorized people from access its content.

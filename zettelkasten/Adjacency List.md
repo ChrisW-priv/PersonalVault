@@ -1,3 +1,12 @@
+---
+title: "Adjacency List"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Graph representation](Graph%20representation.md)
 
 An adjacency list is a way to represent a graph as a map from nodes to lists of edges.

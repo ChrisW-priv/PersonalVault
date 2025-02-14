@@ -1,3 +1,12 @@
+---
+title: "Matrix multiplication"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Function in Mathematics](Function%20in%20Mathematics.md), commonly a [Linear transformation](Linear%20transformation.md)
 
 ### When is it possible?
