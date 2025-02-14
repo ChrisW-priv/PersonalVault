@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Eulerian Path
 ## Definition
 An Eulerian Path is a path of edges that visits all edges in a graph exactly once.
 
@@ -54,7 +53,6 @@ function findStartNode():
 		if out[i] > 0: start=i
 	return start
 
-# Modified DFS here:
 function dfs(at):
 	path = []
 	while out[at] != 0:

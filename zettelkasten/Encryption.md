@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Encryption
 ## Definition
 Way of encoding an information in a way that prevent unauthorized people from access its content.
 Examples include:

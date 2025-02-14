@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Change of basis
 > [!Definition]
 > Method to translate one coordinate system to another
 

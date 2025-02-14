@@ -41,7 +41,6 @@ This will create a file called `my_function.so` (or `my_function.pyd` on Windows
 ```python
 import my_function
 
-# Now you can call the function defined in my_function.cpp
 my_function.my_cpp_function()
 ```
 

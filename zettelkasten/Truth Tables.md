@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Truth Tables
 Truth tables allow us to see results of aplying different inputs to specified logic gates
 
 ## Examples of most common:

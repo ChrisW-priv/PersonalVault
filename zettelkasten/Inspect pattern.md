@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Inspect pattern
 > [!Definition]
 > We use inspect pattern to make [Debugging](Debugging) [Pipe pattern](Pipe%20pattern.md) easy.
 

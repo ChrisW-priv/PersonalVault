@@ -9,7 +9,6 @@ categories: []
 
 [LLM](zettelkasten/LLM.md)
 
-# Chunking methods
 
 ## Chunk Size
 

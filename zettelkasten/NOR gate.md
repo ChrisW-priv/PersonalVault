@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# NOR gate ( $\land$ ) 
 [Logic Gates](Logic%20Gates.md)
 ### Truth Table
 [Truth Tables](Truth%20Tables.md)

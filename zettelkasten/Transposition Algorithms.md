@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Encryption](Encryption.md)
-# Transposition Algorithms
 ## Definition
 To create [Ciphertext](Ciphertext.md) they do specific **reordering** of the signs in the [Plain text](Plain%20text.md).
 

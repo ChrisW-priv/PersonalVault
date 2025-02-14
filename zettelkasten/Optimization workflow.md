@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Optimization
 
 ## Steps to optimize your code
 

@@ -8,7 +8,6 @@ categories: []
 ---
 
 #TODO 
-# Curl
 ## Definition
 
 ## Notation

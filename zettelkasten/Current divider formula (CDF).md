@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Current divider formula
 Note: we only consider parrarel connection because current flowing through series elements is ALLWAYS the same (in ideal case).
 
 ## For a pair resistors 

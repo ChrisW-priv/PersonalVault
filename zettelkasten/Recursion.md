@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Recursion
 ## Definition
 Recursion occurs when some function calls itself 
 

@@ -8,7 +8,6 @@ categories: []
 ---
 
 [[ELAC]]
-# Pumping lemma
 The word lemma in mathematics refers to "mini theorem"
 
 Pumping lemma states that if a language is regular then every string in that language has a substring that can be repeated (pumped) however many times and still be in the language.

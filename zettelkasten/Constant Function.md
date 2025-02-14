@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Constant Function
 > [!Definition]
 > Function that always returns the same value. Part of [Function programming](Function%20programming) theory.
 

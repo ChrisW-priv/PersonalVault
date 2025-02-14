@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Function pointer
 Function pointers in C and C++ have following structure 
 `return_type (*fn_pointer_name) (argument_type, ...)`
 

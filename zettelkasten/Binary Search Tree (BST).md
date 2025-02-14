@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Binary Search Tree (BST)
 ## Definition
 BST is a [Tree](Tree.md) that has special property of being ordered in folowing way:
 - Each node has at most two children called "left" and "right". 

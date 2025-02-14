@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Kirchhoff's Current Law (KCL)
 ## Definition
 Given a node in [electronic circuit](electronic%20circuit) there is equal current flowing in and out of the node. 
 

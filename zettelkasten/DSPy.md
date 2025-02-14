@@ -13,7 +13,6 @@ categories: []
 [Prompt engineering](zettelkasten/Prompt%20engineering.md)
 [LLM](zettelkasten/LLM.md)
 
-# DSPy
 
 DSPy is **an open-source tool created by Stanford University that "compiles declarative language model calls into self-improving pipelines."** Instead of spending time crafting perfect prompts, DSPy lets you program the AI models directly. This makes AI apps more reliable and easier to scale.
 
@@ -49,10 +48,8 @@ Example:
 ```python
 generate_answer_with_chain_of_thought = dspy.ChainOfThought(GenerateAnswer)
 
-# Call the predictor on the same input.
 pred = generate_answer_with_chain_of_thought(question="what is a good reciepie for late lunch? I want something quick")
 
-# Print the input, the chain of thought, and the prediction.
 print(f"Question: {dev_example.question}")
 print(f"Thought: {pred.rationale.split('.', 1)[1].strip()}")
 print(f"Predicted Answer: {pred.answer}")

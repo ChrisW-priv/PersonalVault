@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Pipe pattern
 > [!Definition]
 > Pipe pattern is a way of creating a solution to a complex problem by using already defined, small functions and use their outputs as inputs for next functions.
 

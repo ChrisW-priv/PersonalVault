@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# SR Latch
 ## Definition
 SR latch is a sequential cirtuit that acts not only on the input but is [State based circuit](State%20based%20circuit).
 SR latch is commonly used to define [memory blocks](memory%20blocks)

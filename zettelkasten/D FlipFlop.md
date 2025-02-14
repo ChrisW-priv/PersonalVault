@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# D FlipFlop
 ## Definition
 Based on [D Latch](D%20Latch.md). Instead of taking the raw clock signal as input now we consider only "rising edges" to be our "E" signal on the input. 
 

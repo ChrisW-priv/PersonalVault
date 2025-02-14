@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Parallel connections of one-ports
 ![Pasted image 20221028110121](../attachments/Pasted%20image%2020221028110121.png)
 ![Pasted image 20221028110135](../attachments/Pasted%20image%2020221028110135.png)
 ![Pasted image 20221028110150](../attachments/Pasted%20image%2020221028110150.png)

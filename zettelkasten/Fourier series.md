@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Fourier series
 ## Definition
 
 ## Notation

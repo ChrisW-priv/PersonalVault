@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Statistics
 ## Definition
 The discipline that concerns the collection, interpretation and presentation of data.
 

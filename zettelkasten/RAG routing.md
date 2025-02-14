@@ -9,7 +9,6 @@ categories: []
 
 [RAG](zettelkasten/RAG.md)
 
-# RAG routing
 Given a set of data collection descriptors like \["python docs", "js docs", "go
 docs"\] we hope to first ask the LLM what descriptor will be needed to answer
 the original question. 

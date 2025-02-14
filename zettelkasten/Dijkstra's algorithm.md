@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Dijkstra's algorithm
 ## Definition
 Dijkistra's algorithm is a solution to Single Source Shortest Path ([SSSP](SSSP)) for non-negative [Weighted Graph](Weighted%20Graph.md)
 Typically the efficieny of this algorithm is $O(E+log(V))$ which is really competetive against other algorithms.

@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Encryption](Encryption.md)
-# Checklist for strong Encryption
 - [ ] The [Ciphertext](Ciphertext.md) should not be intercepted. 
 - [ ] Content of the [Ciphertext](Ciphertext.md) should not be deducible
 - [ ] The [Encryption System](Encryption%20System) should stay unknown to attackers

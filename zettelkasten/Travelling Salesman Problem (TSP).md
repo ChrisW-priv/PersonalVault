@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Travelling Salesman Problem (TSP)
 ## Definition
 TSP is a famous problem in Computer Science. It is very difficult to provide good algorithm for TSP for large scale.
 
@@ -66,7 +65,6 @@ function solve(m, memo, S,N):
 				newDistance = memo[e][state] + m[e][next]
 				minDist = min(minDist, newDistance)
 
-# returns true if the ith bit in subset is not set
 function notIn(i, subset):
 	return ((1<<i) & subset) == 0
 

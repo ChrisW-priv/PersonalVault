@@ -22,7 +22,6 @@ Topological sort works with $O(V+E)$ complexity.
 ## Code
 ### Naive
 ```pseudo
-# Gloal or class scope variables
 n = number of nodes in the graph
 graph = adjancy list representing graph
 visited = [false, ..., false] # size n
@@ -41,7 +40,6 @@ function topsort():
 	return ordering
 
 
-# Modified DepthFirstSearch:
 function dfs(at, visitedNodes):
 
 	V[at] = true
@@ -57,7 +55,6 @@ function dfs(at, visitedNodes):
 Optimisation will focus on eliminating the creation and use of `visited_nodes` array as it serves no function other that to make things easier. We will rewrite the code to modify `ordering` array directly.
 
 ```pseudo
-# Gloal or class scope variables
 n = number of nodes in the graph
 graph = adjancy list representing graph
 visited = [false, ..., false] # size n
@@ -70,7 +67,6 @@ function topsort():
 		if V[at] == false:
 			i = dfs(at, i, ordering)
 
-# New DFS that allows us to use it in this new env:
 function dfs(at, i, ordering):
 	V[at] = true
 	edges = graph.getEdgesOutFromNode(at)

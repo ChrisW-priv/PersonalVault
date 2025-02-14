@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Heap
 ## Definition
 A Heap is a special [Data Structure](Data%20Structure).
 

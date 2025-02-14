@@ -13,5 +13,4 @@ The SCF method is an iterative process in which an initial guess is made for the
 
 Computing the SCF is a critical step in DFT calculations, as it allows the electronic structure of a system to be determined from its density. This is important for many applications in chemistry and materials science, where the electronic structure of a system is directly related to its properties and behavior. The accuracy and efficiency of the SCF calculation can greatly affect the accuracy and efficiency of the overall DFT calculation, so much research has been done to improve the SCF method and make it more robust and efficient.
 
-# Inductor
 ![Pasted image 20221027204249](../attachments/Pasted%20image%2020221027204249.png)

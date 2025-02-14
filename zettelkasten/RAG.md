@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# RAG
 ## Introduction
 
 **RAG** stands for **Retrieval Augmented Generation**.

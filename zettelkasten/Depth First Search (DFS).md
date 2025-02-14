@@ -20,7 +20,6 @@ We backtrack either when there are no out-coming edges or if the neighboring nod
 ## Code
 In general you will most often use recursion for DFS because although not as efficient it is much easier to read and therefore maintain.
 ```pseudo
-# Gloal or class scope variables
 n = number of nodes in the graph
 graph = adjancy list representing graph
 visited = [false, ..., false] # size n
@@ -33,7 +32,6 @@ function dfs(at):
 	for next in neighbours:
 		dfs(next)
 
-# Start DFS at node zero
 start_node = 0
 dfs(start_node)
 ```

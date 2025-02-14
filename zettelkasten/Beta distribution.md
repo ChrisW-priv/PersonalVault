@@ -8,7 +8,6 @@ categories: []
 ---
 
 #TODO 
-# Beta distribution
 ## Definition
 In [Probability](Probability.md) and [Statistics](Statistics.md), the beta distribution function is a family of continuous probability distributions defined on the closed interval from 0 to 1.
 It is defined by two parameters: alpha $\alpha$ and beta $\beta$, that control the shape of the function

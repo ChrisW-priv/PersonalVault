@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Flip-Flops](Flip-Flops)
-# JK FlipFlop
 ## Definition
 A JK flip-flop (Jack-Kilby flip-flop) is a type of [electronic circuit](electronic%20circuit) that is used to store and manipulate [binary information](binary%20information). It is a type of [bistable circuit](bistable%20circuit), which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
 

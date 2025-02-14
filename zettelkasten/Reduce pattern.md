@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Reduce pattern
 > [!Definition]
 > A "Swiss knife" of [Function programming](Function%20programming). Executes a function for every element of an [Array](Array) and returns accumulated result. Result can be of any type, but commonly is an int or a list. It can also represent a struct that in turn represents state.
 

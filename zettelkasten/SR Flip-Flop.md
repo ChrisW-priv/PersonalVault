@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Flip-Flops](Flip-Flops)
-# SR Flip-Flop
 ## Definition
 A SR flip-flop (Set-Reset flip-flop) is a type of [Electronic circuit](Electronic%20circuit) that is used to store and manipulate [binary information](binary%20information). It is a type of bistable circuit, which means that it has two stable states that it can assume, and can be easily switched between those states in response to external inputs.
 

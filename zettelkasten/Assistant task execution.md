@@ -9,7 +9,6 @@ categories: []
 
 [[AI assistant]]
 
-# Assistant task execution
 
 ## Introduction
 

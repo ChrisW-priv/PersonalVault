@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Finding articulation points in the graph
 ## Desription
 Algorithm used for finding [Articulation points](Articulation%20points.md) in a [Graph](Graph.md).
 
@@ -21,7 +20,6 @@ g = graph (as adjency list)
 n = size of the graph
 outEdgeCount
 
-# i index represents node i
 ids = [0,0,...,0] # len = n
 low = [0,0,...,0] # len = n
 visited = [false, false,...,false] # len = n
@@ -36,7 +34,6 @@ function findBridges():
 			isArt[i] = outEdgeCount > 1
 	return bridges
 
-# Modified DFS here:
 function dfs(at, parent, bridges):
 	if (parent == root): outEdgeCount++
 	visited[at] = true

@@ -21,7 +21,6 @@ In this case we don't have to worry about negative edge weights as we do in othe
 ## Code
 
 ```pseudo
-# Gloal or class scope variables
 n = number of nodes in the graph
 graph = adjancy list representing graph
 

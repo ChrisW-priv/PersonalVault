@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Circular buffer
 > [!Definition]
 > Method used to reduce memory move operation used for repetitive, cyclic patterns. 
 

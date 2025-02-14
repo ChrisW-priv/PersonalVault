@@ -22,7 +22,6 @@ To do that you can use [Depth First Search (DFS)](Depth%20First%20Search%20(DFS)
 
 ## Code
 ```pseudo
-# Gloal or class scope variables
 n = number of nodes in the graph
 graph = adjancy list representing graph
 count = 0 # counts how many connected components there are
@@ -45,6 +44,5 @@ function findComponents():
 			dfs(i)
 	return count, components
 
-# Start DFS at node zero
 number_of_conected_components, list_of_ids = findComponents()
 ```

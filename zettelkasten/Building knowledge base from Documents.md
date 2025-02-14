@@ -9,7 +9,6 @@ categories: []
 
 [RAG](zettelkasten/RAG.md)
 
-# Building knowledge base from Documents
 
 Text Indexing for Language Extraction
 Text indexing based on RAPTOR idea for RAG.
@@ -567,7 +566,6 @@ Explanation:
 
 Some metadata at the top and "foo bar baz" as the content of the file
 ```notepad
-# ./file_index/chunked/foo.txt
 ---
 Title: foo.txt
 Author: Krzysztof Watras

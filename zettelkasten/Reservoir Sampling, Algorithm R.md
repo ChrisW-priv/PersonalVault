@@ -7,10 +7,8 @@ tags:
 categories: []
 ---
 
-# Problem
 Given a steam of size $N$ which is too large to fit into memory, randomly select $K$ elements such that each element has an equal probability of being chosen. Assume access to [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG))
 
-# Code
 ```pseudo code
 ReservoirSample(stream, k)
 	R = stream[1...k]
@@ -114,7 +112,6 @@ std::unique_ptr<T[]> reservoir_sampling(Iter begin, Iter end, size_t k, std::mt1
 }
 ```
 
-# Mathematical Proof
 We want to proof that $\forall i,j \in {1,2,3,...,N}$ probability of selecting both is equal. In math language: 
  $\forall i,j \in {1,2,3,...,N}$ 
  $P(element _i) = P(element _j)$ 
