@@ -1,3 +1,12 @@
+---
+title: "SR Flip-Flop"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Flip-Flops](Flip-Flops)
 # SR Flip-Flop
 ## Definition

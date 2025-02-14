@@ -1,3 +1,12 @@
+---
+title: "Circular buffer"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Circular buffer
 > [!Definition]
 > Method used to reduce memory move operation used for repetitive, cyclic patterns. 

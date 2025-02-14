@@ -1,3 +1,12 @@
+---
+title: "Proposition indexing"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Proposition [Indexing](Indexing) is used in order to optimise 
 [Retrieval of relevant documents](Retrieval%20of%20relevant%20documents.md).
 Basically, we use [LLM](LLM.md) to summarise the entire document and then embed the

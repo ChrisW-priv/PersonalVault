@@ -1,3 +1,12 @@
+---
+title: "Types of keys in Data Bases"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Types of keys that are present in data bases:
  - Primary
  - Foreign

@@ -1,3 +1,12 @@
+---
+title: "Inverse Element"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Let $X$ be non-empty set.
 Let $\bigoplus$ be a binary operation defined $\forall a \in X$. 
 If $\exists x \in X \land x ^{-1} \in X$, such that $x \bigoplus x ^{-1} = x ^{-1} \bigoplus x = e$, where $e$ is a [Neutral Element](Neutral%20Element.md) and $x^{-1}$ is an inverse element.

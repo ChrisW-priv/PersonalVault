@@ -1,3 +1,12 @@
+---
+title: "3 terminal device transformations"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [electronic circuit](electronic%20circuit)
 # 3 terminal device transformations
 ![Pasted image 20221030191710](../attachments/Pasted%20image%2020221030191710.png)

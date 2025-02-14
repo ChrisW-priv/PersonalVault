@@ -1,3 +1,12 @@
+---
+title: "Kirchhoff's Voltage Law (KVL)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Kirchhoff's Voltage Law (KVL)
 ## Definition
 The voltage drop between any two nodes does not depend on the oriented path along which it is computed.

@@ -1,3 +1,12 @@
+---
+title: "Maximum power transfer theorem"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Instantaneous power delivered to a one-port:
 $$p(t) = i(t)u(t)$$
 If this one-port is an element of [Alternating current (AC)](Alternating%20current%20(AC)) circuit then.

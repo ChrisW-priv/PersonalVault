@@ -1,3 +1,12 @@
+---
+title: "Parallel computation in Python"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Python](Python)
 [Parallel computing](Parallel%20computing)
 [Steps to multiprocessing in Python](Steps%20to%20multiprocessing%20in%20Python.md)

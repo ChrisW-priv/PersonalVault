@@ -1,3 +1,12 @@
+---
+title: "Steps to multiprocessing in Python"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Say you have a code you want to run in parallel. To do that you can follow those steps:
 ## Step 1
 Make code a function. This makes it good for any code as it separates the input and output of the algorithm.

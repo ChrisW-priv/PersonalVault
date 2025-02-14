@@ -1,3 +1,12 @@
+---
+title: "Checklist for strong Encryption"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Encryption](Encryption.md)
 # Checklist for strong Encryption
 - [ ] The [Ciphertext](Ciphertext.md) should not be intercepted. 

@@ -1,3 +1,12 @@
+---
+title: "Eulerian Path"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Eulerian Path
 ## Definition
 An Eulerian Path is a path of edges that visits all edges in a graph exactly once.

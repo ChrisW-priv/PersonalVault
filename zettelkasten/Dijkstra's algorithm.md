@@ -1,3 +1,12 @@
+---
+title: "Dijkstra's algorithm"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Dijkstra's algorithm
 ## Definition
 Dijkistra's algorithm is a solution to Single Source Shortest Path ([SSSP](SSSP)) for non-negative [Weighted Graph](Weighted%20Graph.md)

@@ -1,3 +1,12 @@
+---
+title: "Chunking methods"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [LLM](zettelkasten/LLM.md)
 
 # Chunking methods

@@ -1,3 +1,12 @@
+---
+title: "OpenCL simple program"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ```C++
 #include <CL/cl.h>
 

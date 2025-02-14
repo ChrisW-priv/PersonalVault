@@ -1,3 +1,12 @@
+---
+title: "Vector addition"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Vector addition is a [function](Function%20in%20Mathematics.md) that uses 2 [vectors](Vector.md) and results in a new vector where each component is a result of sum of corresponding components of both vectors.
 
 ### Properties

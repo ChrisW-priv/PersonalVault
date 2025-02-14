@@ -1,3 +1,12 @@
+---
+title: "Substitution Algorithms"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Encryption](Encryption.md)
 # Substitution Algorithms
 ## Definition

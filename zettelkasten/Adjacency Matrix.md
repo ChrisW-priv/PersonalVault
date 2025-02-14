@@ -1,3 +1,12 @@
+---
+title: "Adjacency Matrix"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Graph representation](Graph%20representation.md)
 [Matrix](Matrix.md)
 

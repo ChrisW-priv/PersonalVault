@@ -1,3 +1,12 @@
+---
+title: "Newton Symbol"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Newton Symbol
 ## Notation
 $${n\choose k} = \frac{n!}{k!\times (n-k)!}$$

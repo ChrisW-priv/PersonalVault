@@ -1,6 +1,0 @@
-# {{title}}
-> [!Definition]
-
-
-## Code
-

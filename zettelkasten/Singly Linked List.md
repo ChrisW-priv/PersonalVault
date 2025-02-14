@@ -1,3 +1,12 @@
+---
+title: "Singly Linked List"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Singly Linked List
 ## Definition
 A linked list is a [Data Structure](Data%20Structure) that is based on nodes. Each node holds some `data` and a pointer to `next` node. Each node is stored on a [Heap](Heap.md) and therefore nodes are spread out across memory. 

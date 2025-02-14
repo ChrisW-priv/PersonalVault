@@ -1,3 +1,12 @@
+---
+title: "Optimization workflow"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Optimization
 
 ## Steps to optimize your code

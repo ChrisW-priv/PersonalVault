@@ -1,3 +1,12 @@
+---
+title: "Fourier series"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Fourier series
 ## Definition
 

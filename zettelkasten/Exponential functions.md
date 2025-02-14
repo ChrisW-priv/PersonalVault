@@ -1,3 +1,12 @@
+---
+title: "Exponential functions"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Exponential function is a function that takes in a constant number and returns a certain power of that of that function.
 A constant to the power x can be noted as $\mathbb{c}^x$ and be made a function $f(x) = \mathbb{c}^x$
 

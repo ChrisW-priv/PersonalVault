@@ -1,3 +1,12 @@
+---
+title: "Memoization"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Optimisation technique that aims to speed up computer programs by storing the results of expensive function calls and returning those results when same input occurs.
 
 Functions that use memoization have to be deterministic! This means that same input will always return same output.

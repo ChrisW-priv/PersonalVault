@@ -1,3 +1,12 @@
+---
+title: "Closure in code"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Closure Properties of Regular Languages](zettelkasten/Closure%20Properties%20of%20Regular%20Languages.md)
 
 # Closure in code

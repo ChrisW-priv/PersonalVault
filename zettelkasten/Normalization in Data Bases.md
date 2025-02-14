@@ -1,3 +1,12 @@
+---
+title: "Normalization in Data Bases"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Normalization in Data Bases
 > [!Definition]
 > Process of structuring a relational database in accordance with a series of so-called **normal forms** in order to reduce data redundancy and improve data integrity. 

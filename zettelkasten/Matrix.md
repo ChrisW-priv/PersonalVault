@@ -1,3 +1,12 @@
+---
+title: "Matrix"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 Matrix is a table of rows and columns containing data. Matrix is commonly used to describe linear transformations. We often build matrix with [Vector](Vector.md) as it's column.
 
@@ -19,15 +28,15 @@ Identity transformations a transformation that does nothing - result is the same
 ## Related ideas
 [Matrix multiplication](Matrix%20multiplication.md)
 [Determinant of a matrix](Determinant%20of%20a%20matrix.md)
-[Inverse matrix](Inverse%20matrix.md)
+[[Inverse matrix]]
 
 ## Rank of matrix
 Rank of a matrix is a number of dimensions in the output of the transformation. 
 
 ### Full rank
-When the matrix has maximum rank as it can have ($n^{th}$ rank for $n \times n$ matrix)
+When the matrix has maximum rank as it can have $n^{th}$ rank for $n \times n$ matrix
 
-## Null space (kernel)
+## Null space kernel
 A set of vectors that fall into origin point after linear transformation is applied.
 Also known as kernel
 

@@ -1,3 +1,12 @@
+---
+title: "OpenGL Hello World"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ```c++
 #include <iostream>
 #include <GL/glut.h>

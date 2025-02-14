@@ -1,3 +1,12 @@
+---
+title: "Neutral Element"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Also known as Identity Element
 
 Let X be non-empty set.

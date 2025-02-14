@@ -1,3 +1,12 @@
+---
+title: "Assistant task execution"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [[AI assistant]]
 
 # Assistant task execution

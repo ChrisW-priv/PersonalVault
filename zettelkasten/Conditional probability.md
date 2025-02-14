@@ -1,3 +1,12 @@
+---
+title: "Conditional probability"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Conditional probability
 ## Definition
 Conditional probability is a measure of the probability of an event occurring, given that another event (by assumption, presumption, assertion or evidence) has already occurred.

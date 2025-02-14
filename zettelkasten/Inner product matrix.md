@@ -1,3 +1,12 @@
+---
+title: "Inner product matrix"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 > An inner product matrix is a type of [Matrix](Matrix.md) that is used to represent the inner product ([Dot product](Dot%20product.md)) of two vectors. 
 

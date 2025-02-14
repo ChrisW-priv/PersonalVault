@@ -1,3 +1,12 @@
+---
+title: "Reservoir Sampling, Algorithm R"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Problem
 Given a steam of size $N$ which is too large to fit into memory, randomly select $K$ elements such that each element has an equal probability of being chosen. Assume access to [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG))
 

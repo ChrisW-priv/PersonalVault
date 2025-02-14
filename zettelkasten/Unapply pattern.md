@@ -1,3 +1,12 @@
+---
+title: "Unapply pattern"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Unapply pattern
 > [!Definition]
 > Pattern that gathers the arguments into a list of arguments for a function. Part of a [Function programming](Function%20programming) theory.

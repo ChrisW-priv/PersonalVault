@@ -1,3 +1,12 @@
+---
+title: "Data Base anomalies"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 In general anomalies that we focus on are the ones when data is modified. 
 We have 3 main points of possible error:
  - Insertion 

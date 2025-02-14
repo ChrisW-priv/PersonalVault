@@ -1,3 +1,12 @@
+---
+title: "Worst case analysis in Cryptography"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Worst case analysis in Cryptography
 ## Definition
 In [Cryptography](Cryptography) we often analyse what happens and how secure the system is if the attacker has more and more information. This is divided into levels of knowledge (WC short for Worst Case):

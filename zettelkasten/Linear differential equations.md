@@ -1,3 +1,12 @@
+---
+title: "Linear differential equations"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Linear differential equations
 ## Definition
 Given a function:

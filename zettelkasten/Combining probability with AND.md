@@ -1,3 +1,12 @@
+---
+title: "Combining probability with AND"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Probability](Probability.md)
 # Combining probability with AND
 ## Definition

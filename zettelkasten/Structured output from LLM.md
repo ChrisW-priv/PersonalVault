@@ -1,3 +1,12 @@
+---
+title: "Structured output from LLM"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Structured output from LLM
 Either with
 [Assistant task execution](zettelkasten/Assistant%20task%20execution.md)

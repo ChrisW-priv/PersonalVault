@@ -1,3 +1,12 @@
+---
+title: "Binary Search Tree (BST)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Binary Search Tree (BST)
 ## Definition
 BST is a [Tree](Tree.md) that has special property of being ordered in folowing way:

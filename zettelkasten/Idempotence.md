@@ -1,3 +1,12 @@
+---
+title: "Idempotence"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Idempotence
 > [!Definition]
 > Property of [Function in Mathematics](Function%20in%20Mathematics.md) and Computer Science that describes situation where multiple application is not changing result of initial one.

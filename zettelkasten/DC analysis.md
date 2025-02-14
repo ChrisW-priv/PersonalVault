@@ -1,3 +1,12 @@
+---
+title: "DC analysis"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # DC analysis
 A DC solution to a circuit is a solution consisting entirely of constant signals (all voltages and currents)
 

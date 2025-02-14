@@ -1,3 +1,12 @@
+---
+title: "Linear transformation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Linear transformation
 > [!Definition]
 > Process of exploiting [Linear isomorphism](Linear%20isomorphism). It's a [Function in Mathematics](Function%20in%20Mathematics.md) that takes in a [Vector](Vector.md) and turns it into new vector. 

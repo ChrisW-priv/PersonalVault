@@ -1,3 +1,12 @@
+---
+title: "The Marsenne Twister"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 The Marsenne Twister is a [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG)) algorithm that is widely used due to its high-performance and long period. It was developed in 1997 by Makoto Matsumoto and Takuji Nishimura as an improvement on existing PRNG algorithms.
 
 The algorithm works by using a large [Mersenne prime](Mersenne%20prime) number (a prime number that is one less than a power of two) to generate a sequence of numbers that appear to be random. These numbers are then used in applications that require randomness, such as in computer simulations, games, and cryptography.

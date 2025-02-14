@@ -1,3 +1,12 @@
+---
+title: "NOT gate"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # NOT gate ( $\lnot$ )
 [Logic Gates](Logic%20Gates.md)
 ### Truth Table

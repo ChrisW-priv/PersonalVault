@@ -1,3 +1,12 @@
+---
+title: "Strongly Connected Component (SCC)"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Strongly Connected Component (SCC)
 ## Definition
 Strongly Connected Components (SCC) can be thought of as self-contained cycles within a [Directed Graph](Directed%20Graph.md) where every vertex in a given cycle can reach every other vertex in the same cycle.

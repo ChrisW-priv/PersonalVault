@@ -1,3 +1,12 @@
+---
+title: "Examples of PDEs"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Examples of PDEs
 ### Heat equation
 $\frac{\partial T}{\partial t} = \alpha \nabla^2T$  

@@ -1,3 +1,12 @@
+---
+title: "Eigenvector"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Eigenvector
 > [!Definition]
 A nonzero vector that changes at most by a scalar factor when that [Linear transformation](Linear%20transformation.md) is applied to it. The corresponding [Eigenvalue](Eigenvalue.md), often denoted by $\lambda$ , is the factor by which the eigenvector is scaled.

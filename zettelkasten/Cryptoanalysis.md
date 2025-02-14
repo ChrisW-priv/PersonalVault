@@ -1,3 +1,12 @@
+---
+title: "Cryptoanalysis"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Cryptoanalysis
 ## Definition
 Deducing the content of the [Plain text](Plain%20text.md) based on the [Ciphertext](Ciphertext.md)

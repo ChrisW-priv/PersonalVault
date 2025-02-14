@@ -1,3 +1,12 @@
+---
+title: "Low-link Values in a graph"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Low-link Values in a graph
 ## Definition
 A low-link values of a node is the lowest node id reachable from that node when doing [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) (including itself).

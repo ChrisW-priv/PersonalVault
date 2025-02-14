@@ -1,3 +1,12 @@
+---
+title: "Code nesting resolution"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Part of [Code quality](Code%20quality)
 Code nesting is adding more blocks or depth to your code. for example following code has 4 nested blocks:
 ```c

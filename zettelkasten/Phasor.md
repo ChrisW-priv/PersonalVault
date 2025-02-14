@@ -1,3 +1,12 @@
+---
+title: "Phasor"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 > A phasor is a [Complex number](Complex%20number.md) representing a sinusoidal function. 
 

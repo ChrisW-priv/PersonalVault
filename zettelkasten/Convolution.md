@@ -1,3 +1,12 @@
+---
+title: "Convolution"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Notation
 Formally we denote result $r$ of convolving functions $g,h$ like so:
 $$r(t) = (g*h)(t) = \int_{-\infty}^{\infty}g(x)\cdot h(t-x)dx$$

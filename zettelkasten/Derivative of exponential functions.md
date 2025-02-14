@@ -1,3 +1,12 @@
+---
+title: "Derivative of exponential functions"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [Exponential functions](Exponential%20functions.md)
 
 ## Intro

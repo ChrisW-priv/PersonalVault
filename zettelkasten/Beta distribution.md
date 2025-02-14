@@ -1,3 +1,12 @@
+---
+title: "Beta distribution"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 #TODO 
 # Beta distribution
 ## Definition

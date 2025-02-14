@@ -1,3 +1,12 @@
+---
+title: "Self-consistent field in Kohn-Sham density functional theory"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 In Kohn–Sham [density functional theory (DFT)](density%20functional%20theory%20(DFT)), the [self-consistent field (SCF)](self-consistent%20field%20(SCF)) is a mathematical method used to solve the [Schrödinger equation](Schrödinger%20equation), which describes the behavior of electrons in a system. The Schrödinger equation is a complex and nonlinear equation that cannot be solved exactly in most cases, so the SCF method is used to approximate the solution.
 
 The SCF method is an iterative process in which an initial guess is made for the electronic wave function (the solution to the Schrödinger equation) and the corresponding electron density is calculated. This density is used to solve the Schrödinger equation again, yielding a new wave function and density. This process is repeated until the wave function and density converge to a stable solution, at which point the SCF calculation is considered to be complete.

@@ -1,3 +1,12 @@
+---
+title: "Linear dependence"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 A property of a [Vector](Vector.md). 
 Two vectors are linearly dependent if one sits at the [span](Span%20of%20vector%20space.md) of the other. 
 

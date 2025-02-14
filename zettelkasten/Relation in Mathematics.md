@@ -1,3 +1,12 @@
+---
+title: "Relation in Mathematics"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 In discrete mathematics, the relation can be described as a collection of ordered pairs.
 1. It is used to relate an object from one set to the other set, and the sets must be non-empty. 
 2. Relation is always defined for set $X$.

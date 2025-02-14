@@ -1,3 +1,12 @@
+---
+title: "Constant Function"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Constant Function
 > [!Definition]
 > Function that always returns the same value. Part of [Function programming](Function%20programming) theory.

@@ -1,3 +1,12 @@
+---
+title: "Complex number"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Definition
 A complex number is an element of a number system that extends the real numbers with a specific element denoted $i$, called the imaginary unit and satisfying the equation $i^2 = −1$.
 

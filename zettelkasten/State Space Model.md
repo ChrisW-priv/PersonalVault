@@ -1,3 +1,12 @@
+---
+title: "State Space Model"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 [[math model]]
 Each model will have variables like:
 $$

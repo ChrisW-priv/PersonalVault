@@ -1,3 +1,12 @@
+---
+title: "Plain text"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Plain text
 ## Definition
 Text of a message or information we want to send/preserve.

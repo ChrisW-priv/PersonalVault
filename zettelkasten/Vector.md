@@ -1,3 +1,12 @@
+---
+title: "Vector"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 ## Ways of interpreting vector
 Common way of interpreting the vector is to associate it with a force or movement in certain direction. Also it's common to associate it with a point in space.
 

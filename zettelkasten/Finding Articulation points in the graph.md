@@ -1,3 +1,12 @@
+---
+title: "Finding Articulation points in the graph"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Finding articulation points in the graph
 ## Desription
 Algorithm used for finding [Articulation points](Articulation%20points.md) in a [Graph](Graph.md).

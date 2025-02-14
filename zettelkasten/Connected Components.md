@@ -1,3 +1,12 @@
+---
+title: "Connected Components"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Sometimes a graph is split into multiple components. It's useful to be able to identify and count these components.
 
 To split graph into connected components it's useful to mark each node with an id of the component that it's in. 

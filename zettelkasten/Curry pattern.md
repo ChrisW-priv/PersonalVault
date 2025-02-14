@@ -1,3 +1,12 @@
+---
+title: "Curry pattern"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Curry pattern
 > [!Definition]
 > Creating new functions with subsequent calls providing more and more arguments. Part of [Function programming](Function%20programming) theory.

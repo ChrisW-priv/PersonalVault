@@ -1,3 +1,12 @@
+---
+title: "Inspect pattern"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Inspect pattern
 > [!Definition]
 > We use inspect pattern to make [Debugging](Debugging) [Pipe pattern](Pipe%20pattern.md) easy.

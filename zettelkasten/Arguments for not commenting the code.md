@@ -1,3 +1,12 @@
+---
+title: "Arguments for not commenting the code"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Part of [Code quality](Code%20quality)
 
 - If code needs a comment it is a sign code should be refactored instead.

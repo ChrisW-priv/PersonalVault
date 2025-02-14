@@ -1,3 +1,12 @@
+---
+title: "D Latch"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # D Latch
 ## Definition
 

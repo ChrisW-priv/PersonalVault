@@ -1,3 +1,12 @@
+---
+title: "Series connections equivalents"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Series of connections
 
 ![Pasted image 20221028105911](../attachments/Pasted%20image%2020221028105911.png)

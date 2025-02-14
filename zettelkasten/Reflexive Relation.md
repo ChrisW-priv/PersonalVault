@@ -1,3 +1,12 @@
+---
+title: "Reflexive Relation"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 One of [Relation in Mathematics](Relation%20in%20Mathematics.md)
 
 A relation will be known as reflexive relative if every element of set $A$ is related to itself.

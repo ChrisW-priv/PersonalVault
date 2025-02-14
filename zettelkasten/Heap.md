@@ -1,3 +1,12 @@
+---
+title: "Heap"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Heap
 ## Definition
 A Heap is a special [Data Structure](Data%20Structure).

@@ -1,3 +1,12 @@
+---
+title: "Bit Hacks"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 A note of video by Creel ![this](https://www.youtube.com/watch?v=ZRNO-ewsNcQ)
 
 ## Setting the bit

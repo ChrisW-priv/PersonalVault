@@ -1,3 +1,12 @@
+---
+title: "SR Latch"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # SR Latch
 ## Definition
 SR latch is a sequential cirtuit that acts not only on the input but is [State based circuit](State%20based%20circuit).

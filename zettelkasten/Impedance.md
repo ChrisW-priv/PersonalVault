@@ -1,3 +1,12 @@
+---
+title: "Impedance"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 > [!Definition]
 > Impedance is a measure of the opposition that a circuit presents to the flow of alternating current (AC). It is a complex quantity, meaning that it has both magnitude and phase, and is typically denoted by the symbol "$Z$".
 

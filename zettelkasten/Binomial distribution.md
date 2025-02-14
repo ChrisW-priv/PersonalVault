@@ -1,3 +1,12 @@
+---
+title: "Binomial distribution"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Binomial distribution
 ## Definition
 Binomial distribution is used to calculate [Probability](Probability.md) of certain number of successes given certain number of tries and probability of them happening. 

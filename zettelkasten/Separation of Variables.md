@@ -1,3 +1,12 @@
+---
+title: "Separation of Variables"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 Easiest way of solving ODEs
 
 Step 1: Change the equation to the form

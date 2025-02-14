@@ -1,3 +1,12 @@
+---
+title: "Change of basis"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Change of basis
 > [!Definition]
 > Method to translate one coordinate system to another

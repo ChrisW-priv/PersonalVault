@@ -1,3 +1,12 @@
+---
+title: "Eulerian cycle"
+date: 2025-02-14
+description: ""
+tags: 
+  - "zettlekasten"
+categories: []
+---
+
 # Eulerian circuit
 ## Definition
 An Eulerian circuit is an [Eulerian Path](Eulerian%20Path.md) which starts and ends on the same vertex.
