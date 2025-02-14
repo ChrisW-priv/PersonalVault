@@ -21,4 +21,4 @@ In math known as Shafer Stroke ( $\uparrow$ )
 |1|1|0|
 
 ### Symbol Representation
-![400x200](../attachments/NAND_GATE.png)
+![400x200](attachments/NAND_GATE.png)

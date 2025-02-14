@@ -19,4 +19,4 @@ categories: []
 r = 1-p
 
 ### Symbol Representation
-![400x200](../attachments/NOT_GATE.png)
+![400x200](attachments/NOT_GATE.png)

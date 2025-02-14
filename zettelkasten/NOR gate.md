@@ -18,4 +18,4 @@ categories: []
 |1|1|0|
 
 ### Symbol Representation
-![ 400x200](NOR_GATE.png%20)
+![ 400x200](attachments/NOR_GATE.png)

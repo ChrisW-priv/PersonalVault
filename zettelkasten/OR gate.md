@@ -21,7 +21,7 @@ categories: []
 r =  p+q-pq
 
 ### Symbol Representation
-![ 400x200](OR_GATE.png%20)
+![ 400x200](attachments/OR_GATE.png)
 
 ### Properties
 1. [Associative binary property](Associative%20binary%20property.md)

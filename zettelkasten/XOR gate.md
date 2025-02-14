@@ -22,4 +22,4 @@ categories: []
 Can be represented as: $\lnot (p \Leftrightarrow q)$
 
 ### Symbol Representation
-![ 400x200](XOR_GATE.png%20)
+![ 400x200](attachments/XOR_GATE.png)
