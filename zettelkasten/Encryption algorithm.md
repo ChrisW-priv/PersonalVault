@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Encryption algorithm
 ## Definition
 Set of instructions to turn [Plain text](Plain%20text.md) into [Ciphertext](Ciphertext.md). It's behavior depends on the original message and special [Encryption Key](Encryption%20Key), both of which constitute the input of the algorithm.
 

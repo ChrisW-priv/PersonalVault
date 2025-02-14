@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Derivative
 ## Definition
 Derivative if a [Function in Mathematics](Function%20in%20Mathematics.md). It creates a new function that checks how big of a change small "nudges" to the input change the output of original function.
 

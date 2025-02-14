@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Finding bridges in the graph
 ## Desription
 Algorithm used for finding [Bridges](Bridges.md) in a [Graph](Graph.md).
 
@@ -18,7 +17,6 @@ id = 0
 g = graph (as adjency list)
 n = size of the graph
 
-# i index represents node i
 ids = [0,0,...,0] # len = n
 low = [0,0,...,0] # len = n
 visited = [false, false,...,false] # len = n
@@ -30,7 +28,6 @@ function findBridges():
 			dfs(i, -1, bridges)
 	return bridges
 
-# Modified DFS here:
 function dfs(at, parent, bridges):
 	visited[at] = true
 	id+=1

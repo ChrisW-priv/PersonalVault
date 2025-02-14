@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# HyDE query translation
 Method related to [Query translation](Query%20translation.md) where you try to
 improve the hitrate of [RAG](RAG.md) by generating the **Hy**pothetical
 **D**ocument and then **E**xtracting it.

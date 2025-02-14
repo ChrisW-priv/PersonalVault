@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Vector field
 ## Definition
 Vector field is what you get when you associate each point in space with a [Vector](Vector.md).
 

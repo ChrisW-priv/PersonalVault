@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# NAND Logic gate
 [Logic Gates](Logic%20Gates.md)
 
 In math known as Shafer Stroke ( $\uparrow$ )

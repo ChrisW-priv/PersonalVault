@@ -10,7 +10,6 @@ categories: []
 note taken based on [this](https://www.youtube.com/watch?v=F_Riqjdh2oM) youtube
 video.
 
-# Representing classical bits as a vector
 From now on, a classical bit will be written as cbit or 'regular bit'
 
 One bit with value 0, also written as $|0\rangle$ ([Dirac vector notation](Dirac%20vector%20notation))
@@ -41,7 +40,6 @@ $$A = \begin{bmatrix} 1 & 1 \\ 0 & 0 \end{bmatrix}$$
 Set 1
 $$A = \begin{bmatrix} 0 & 0 \\ 1 & 1 \end{bmatrix}$$
 
-# Reversible computing
 Reversible computing describes a situation when one knows the operation applied
 and the result of the operation, then we can deduce what was an input of the
 operation.
@@ -61,7 +59,6 @@ There is a theory that reversible computing may lead us to break the "Von
 Neuman Landauer limit" which is said to be lowest posible limit of energy of
 computation.
 
-# Tensor product of vectors
 $$ {x_0\choose x_1} \bigotimes {y_0\choose y_1} = 
 \left( 
 \begin{matrix} x_0 {y_0\choose y_1} \\ x_1 {y_0\choose y_1} \end{matrix} 
@@ -84,7 +81,6 @@ $$ {0\choose 1} \bigotimes {0\choose 1} \bigotimes {1\choose 0} =
 \right)
 $$
 
-# Representing multiple cbits
 $$|00\rangle = {1\choose 0} \bigotimes {1\choose 0} = 
 \left( 
 \begin{matrix} 1 \\ 0 \\ 0 \\ 0 \end{matrix} 
@@ -116,7 +112,6 @@ $$|4\rangle = |100\rangle = {0\choose 1} \bigotimes {1\choose 0} \bigotimes {1\c
 \right)
 $$
 
-# Operations on multiple cbits: cnot 
 Operates on pairs of bits. One is "control" bit and the other is "target" bit.
 
 If control bit is 1: target is flipped
@@ -153,7 +148,6 @@ Which behaves as expected
 
 CNOT is like a NAND gate to Quantum Computing
 
-# Qbit and superposition
 Surprise!! We've been using qbits all along! Cbit is just a special case of
 qbit. 
 
@@ -183,7 +177,6 @@ has $\frac12$ probability of becoming a 0 or a 1.
 ${1\choose 0}$ has 100% chance of collapsing to 0.
 ${0\choose 1}$ has 100% chance of collapsing to 1.
 
-# Hadamard gate 
 The Hadamard gate takes a 0 or 1 bit and puts it into exactly equal superposition. We can think of it as a operation with matrix 
 $$H = 
 \left( \begin{matrix}
@@ -209,7 +202,6 @@ $$H|1\rangle =
 \left(\begin{matrix} \frac{1}{\sqrt{2}}\\\frac{-1}{\sqrt{2}} \end{matrix}\right)
 $$
 
-# Geometric interpretation
 As it is common with vectors, we will draw them on unit circle. Then, we can
 think of CNOT Gate as a gate that moves the point from one part of unit circle
 to another with respect to $y=x$ axis and Hadamard gate as a gate that moves

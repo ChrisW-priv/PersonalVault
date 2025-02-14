@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# DC analysis
 A DC solution to a circuit is a solution consisting entirely of constant signals (all voltages and currents)
 
 For DC all complicated ODEs normally ruling the circuits reduce to algebraic equations.

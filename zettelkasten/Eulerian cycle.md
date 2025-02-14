@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Eulerian circuit
 ## Definition
 An Eulerian circuit is an [Eulerian Path](Eulerian%20Path.md) which starts and ends on the same vertex.
 

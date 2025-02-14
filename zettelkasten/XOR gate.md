@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# XOR gate ( ^ )
 [Logic Gates](Logic%20Gates.md)
 
 ### Truth Table 

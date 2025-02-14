@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Chain rule
 > [!Definition]
 > In calculus, the chain rule is a formula that expresses the [Derivative](Derivative.md) of the [Composed function](Composed%20function.md) `h` of two differentiable functions `f` and `g` in terms of the derivatives of `f` and `g` 
 

@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Document loading in RAG
 
 Document loading is first stage of building [RAG](RAG). 
 

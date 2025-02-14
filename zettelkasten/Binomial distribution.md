@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Binomial distribution
 ## Definition
 Binomial distribution is used to calculate [Probability](Probability.md) of certain number of successes given certain number of tries and probability of them happening. 
 

@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Pure function
 > [!Definition]
 > Function with no side-effects. 
 

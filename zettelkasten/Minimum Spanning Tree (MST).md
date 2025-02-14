@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Minimum Spanning Tree (MST)
 ## Definition
 On an [Undirected Graph](Undirected%20Graph.md) and [Weighted Graph](Weighted%20Graph.md), a Minimum Spanning [Tree](Tree.md) is a subset of the edges in the graph which connects all vertices together (without creating any cycles) while minimizing the total cost.
 

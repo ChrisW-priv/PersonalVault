@@ -10,7 +10,6 @@ categories: []
 interesting idea against prompt engineering:
 [link](https://www.removepaywall.com/search?url=https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896)
 
-# Prompt engineering
 
 Prompt engineering is just a way to maximise the efectiveness of the
 [LLM](zettelkasten/LLM.md). Often times, queries from user are short, inacurate, stripped of context.

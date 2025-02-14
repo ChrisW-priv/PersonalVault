@@ -9,7 +9,6 @@ categories: []
 
 [LLM](zettelkasten/LLM.md)
 
-# LLM powered Personal Assistant - requirements
 
 ## Requirements 
 

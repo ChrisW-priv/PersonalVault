@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Eigenbasis
 > [!Definition]
 > Eigenbasis is a [Basis of vector space](Basis%20of%20vector%20space.md), where vectors defining the span are [eigenvectors](Eigenvector.md).
 

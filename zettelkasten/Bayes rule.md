@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Bayes theorem
 ## Definition
 Bayes Rule describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
 With Bayesian probability interpretation, the theorem expresses how a degree of belief, expressed as a probability, should rationally change to account for the availability of related evidence. Bayesian inference is fundamental to Bayesian statistics, being considered "to the theory of probability what Pythagoras's theorem is to geometry."

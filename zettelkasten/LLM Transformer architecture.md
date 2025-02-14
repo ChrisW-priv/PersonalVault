@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# LLM Transformer architecture 
 
 ## What are the parts of a transformer?
 

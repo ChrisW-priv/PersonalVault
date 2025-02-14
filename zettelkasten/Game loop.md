@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Game design](Game%20design)
-# Game loop
 > [!Definition]
 > Removes the dependence of user input and processor speed. Essential part of any program that handles user input.
 

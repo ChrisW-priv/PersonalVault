@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Voltage divider formula
 Note: we only consider series connection because voltage flowing through a parrarel elements is ALLWAYS the same (in ideal case).
 
 Note: knowing the voltage and total resistance we can deduce the current and then calculate the voltage across the resistors in a two step fasion. Below is given the alternative to this method.

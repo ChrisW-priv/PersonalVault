@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Taylor series
 ## Definition
 In mathematics, the Taylor series of a function is an infinite sum of terms that are expressed in terms of the function's derivatives at a single point. The partial sum formed by the first n + 1 terms of a Taylor series is a polynomial of degree n that is called the nth Taylor polynomial of the function. Taylor polynomials are approximations of a function, which become generally better as n increases, however it's not general - sometimes the derivatives don't converge and adding more terms don't add more information.
 

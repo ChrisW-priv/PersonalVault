@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Series of connections
 
 ![Pasted image 20221028105911](../attachments/Pasted%20image%2020221028105911.png)
 ![Pasted image 20221028105922](../attachments/Pasted%20image%2020221028105922.png)

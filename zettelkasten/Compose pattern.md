@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Compose pattern
 > [!Definition]
 > Function composition is process of creating big functions from small ones to solve more complex tasks. Part of a [Function programming](Function%20programming) theory. 
 

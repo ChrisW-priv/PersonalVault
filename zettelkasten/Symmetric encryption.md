@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Symmetric encryption
 ## Definition
 It's a kind of [Encryption](Encryption.md) where [Encryption Key](Encryption%20Key) and [Decryption Key](Decryption%20Key) are easily deducible if you know one or the other. Therefore both key have to be kept in a secure way.
 

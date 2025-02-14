@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Logic circuits
 ICs in short
 
 ## Definition

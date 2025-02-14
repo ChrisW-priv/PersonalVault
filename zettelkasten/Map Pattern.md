@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Map Pattern
 > [!Definition]
 > Also known as projection. Pattern of computation that applies a function to every element of given [Array](Array) to create new array. Often implemented to execute functions in [Parallel](Parallel) to make computation faster. Commonly used with other [Function programming](Function%20programming) patterns
 

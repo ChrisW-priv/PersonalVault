@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Composed function
 > [!Definition]
 > Function that end result is based on an input from an output of another function. For example `f(g(x))` is evaluated as `x -g(x)-> y -f(y)-> result`
 

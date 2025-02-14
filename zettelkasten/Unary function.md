@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Unary function
 > [!Definition]
 > Function accepting single argument. Part of [Function programming](Function%20programming) theory 
 

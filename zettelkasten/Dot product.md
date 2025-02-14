@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Dot product
 ## Definition
 [Function in Mathematics](Function%20in%20Mathematics.md) taking two [vectors](Vector.md) as input and returning a real number. Order of vectors doesn't matter.
 The same as multiplication of $1 \times m$ matrix and a vector of size m.

@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Cross product
 ## Definition
 [Function in Mathematics](Function%20in%20Mathematics.md) taking two [vectors](Vector.md) as input and returning a real number. Order of vectors matters (impacts the sign of the result).
 

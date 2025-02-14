@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Curry pattern
 > [!Definition]
 > Creating new functions with subsequent calls providing more and more arguments. Part of [Function programming](Function%20programming) theory.
 

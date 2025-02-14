@@ -8,7 +8,6 @@ categories: []
 ---
 
 [Probability](Probability.md)
-# Combining probability with OR
 ## Definition
 We use OR logic operator when we want to know what is the probability of either of two (or more) events happening.
 

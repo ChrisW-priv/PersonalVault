@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# D Latch
 ## Definition
 
 ## Implementation

@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# OR gate ( $\lor$ )
 [Logic Gates](Logic%20Gates.md)
 ### Truth Table
 [Truth Tables](Truth%20Tables.md)

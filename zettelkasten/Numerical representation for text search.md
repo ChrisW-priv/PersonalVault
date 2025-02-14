@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Numerical representation for text search
 Normally, the lookup for the text relevant to a question would be done as in
 [Document loading in RAG](Document%20loading%20in%20RAG.md). However, this way
 is slow and we can easily optimise it with [indexing](Indexing.md). To do this, we parse the data inside the documents and represent the content numerical for easier lookup.

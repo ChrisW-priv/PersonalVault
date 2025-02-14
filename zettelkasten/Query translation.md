@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Query translation
 Simply put, sometimes the queries to LLM may be incomplete, miss context or
 detail. One way of improving the [Prompt engineering](zettelkasten/Prompt%20engineering.md) is
 to use LLM to interpret the question and rewrite it in such a way that will be

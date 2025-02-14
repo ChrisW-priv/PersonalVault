@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# LLMs
 
 ## Intro
 This will be based on [this](https://www.youtube.com/watch?v=zjkBMFhNj_g) video. It is a monologe presentation by

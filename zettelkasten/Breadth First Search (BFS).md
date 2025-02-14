@@ -19,7 +19,6 @@ n = number of nodes in the graph
 graph = adjancy list representing graph
 visited = [false, ..., false] # size n
 
-# s = start node, e = end node, 0 =< s,e <n
 function bfs(s, e):
 	prev = solve(s)
 
@@ -62,7 +61,6 @@ function reconstructPath(s,e,prev):
 	return []
 
 
-# Start BFS at node zero, and end at n-1
 start = 0, end = n-1
 bfs(start, end)
 ```

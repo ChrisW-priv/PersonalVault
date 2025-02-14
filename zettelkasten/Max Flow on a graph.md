@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Max Flow on a graph
 ## Definition
 Max flow problem can be defined by a question:
 `With an infinite input source, how much "flow" can we push through the network given that each edge has a certain capacity?`

@@ -41,13 +41,9 @@ clean:
 
 Then to build:
 ```cmd
-# build all
 make
-# just test
 make test
-# just debug
 make debug
-# just perf
 make perf
 
 ```

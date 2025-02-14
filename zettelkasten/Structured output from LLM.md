@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Structured output from LLM
 Either with
 [Assistant task execution](zettelkasten/Assistant%20task%20execution.md)
 or ill-defined user input (not structured commands) we may want to restrict the

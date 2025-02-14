@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Plain text
 ## Definition
 Text of a message or information we want to send/preserve.
 

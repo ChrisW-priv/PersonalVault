@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Command pattern
 > [!Definition]
 >  Behavioral [Design pattern](Design%20pattern) used to encapsulate all information needed to perform an action or trigger an event at a later time. 
 

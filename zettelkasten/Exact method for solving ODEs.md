@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-# Solving ODE
 **Step 1:** Turn equation into a form: $f(x,y) := P(x,y) dx + Q(x,y) dy = 0$
 
 **Step 2:** Calculate $P_y, Q_x$
@@ -22,5 +21,4 @@ $$f(x,y) = \int{P dx} = \int{Q dy}$$
 Just differentiate the $f$ over $dy$ (or $dx$ if we integrated $Q$)
 Result of that is the result for entire function
 
-# Examples
 Examples are provided in [edde04](../UNI/y2/EDDE-DifferentialMaths/Lectures/edde04.pdf)
