@@ -1,19 +1,13 @@
 ---
-title: "Apply pattern"
+title: Apply pattern
 date: 2025-02-14
 description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags:
+  - zettlekasten
+  - function_programming
+  - programing_pattern
+categories:
 ---
-
-+++
-title = "Apply pattern"
-type = "post"
-tags = ["zettlekasten", "programming_pattern"]
-categories = ["function programming", ]
-+++
-
 
 > [!Definition]
 > Pattern that spreads the arguments from a list into separate arguments of a function. Part of a [Function programming](Function%20programming) theory.
