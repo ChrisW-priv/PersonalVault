@@ -1,17 +1,51 @@
 ---
-title: "Chain rule"
+title: Chain rule
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+description: A formula that expresses the derivative of a composite function `h` of two functions `f` and `g` in terms of the derivatives of `f` and `g`
+tags:
+  - zettlekasten
+  - math
+  - calculus
+categories:
 ---
 
-> [!Definition]
-> In calculus, the chain rule is a formula that expresses the [Derivative](Derivative.md) of the [Composed function](Composed%20function.md) `h` of two differentiable functions `f` and `g` in terms of the derivatives of `f` and `g` 
-
 ## Notation
-For function $h$ defined as $h = f(g(x))$. 
+
+For a [Composed function](Composed%20function.md) function $h$ defined as $h = f(g(x))$. 
+
 $$h'(x) = f'(g(x)) \cdot g'(x)$$
+
+## Example
+
+### Chain Rule Example in Practice
+
+Let's find the derivative of the function:
+
+$$ h(x) = (3x^2 + 5x)^4 $$
+
+We recognize that this is a composition of functions:
+
+- **Outer function**: $f(u) = u^4$
+- **Inner function**: $g(x) = 3x^2 + 5x$
+
+Using the **chain rule**:
+
+$$h'(x) = f'(g(x)) \cdot g'(x)$$
+
+#### Step-by-Step Differentiation:
+
+1. Differentiate the outer function:
+
+$$\frac{d}{du} (u^4) = 4u^3$$
+
+2. Differentiate the inner function:
+
+$$ \frac{d}{dx} (3x^2 + 5x) = 6x + 5 $$
+
+3. Multiply them together:
+
+$$h'(x) = 4(3x^2 + 5x)^3 \cdot (6x + 5)$$
+
 ## Intuition
-There is a ton of good resources online that explain why this makes sense for now I leave it as #TODO  but see 3b1b video that explains it well. 
+
+see 3b1b video that explains it well. 

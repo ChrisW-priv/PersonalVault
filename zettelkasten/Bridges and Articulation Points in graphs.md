@@ -6,6 +6,3 @@ tags:
   - "zettlekasten"
 categories: []
 ---
-
-[Graph](Graph.md)
-#TODO 

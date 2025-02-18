@@ -16,7 +16,3 @@ graph LR
     head --> A{{A}} -->|next| B{{B}} -->|next| C{{C}} -->|next| D{{D}}
 	D -->|prev| C -->|prev| B -->|prev| A
 ```
-
-
-## Code
-#TODO  create this class and add it to github + add link here
