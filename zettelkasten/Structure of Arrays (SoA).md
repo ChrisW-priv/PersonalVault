@@ -1,11 +1,13 @@
 ---
-title: "Structure of Arrays (SoA)"
+title: Structure of Arrays (SoA)
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+description: Optimization technique where we reorganize an array of structs into arrays of struct attributes making operations on those attributes faster due to data locality.
+tags:
+  - zettlekasten
+categories:
 ---
 
-#TODO 
-SIMD based optimization method. Insanely efficient! Idea is that when you iterate over an elements you should only iterate through data that actually matters as that improves the number of cache hits. 
+## Application
+
+I heard it is used in formats like [parquet](parquet).
+

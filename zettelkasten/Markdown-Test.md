@@ -1,34 +1,14 @@
 ---
-title: "Markdown-Test"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
----
-
----
-author:
-  - Author Name
 title: Markdown Test
-description: Various sample Markdown test
+description: Bulk test for the markdown to html rendering
 date: 2025-01-26
 type: post
-draft: false
-translationKey: markdown
-coffee: 1
-tags:
-  - markdown
+tags: 
 categories:
-  - test
 ---
-
 
 > [!Definition]
 > This is some definition text
-
-> [!Notice]
-> This is some notice text
 
 <span class="letterine"><i>T</i>his is example of span with letterine class.</span>
 You need set the `markup.goldmark.unsafe` and `markup.goldmark.renderer.unsafe` parameter in `config.toml` to write html directly, but this is not recommended.
@@ -43,7 +23,25 @@ And this is marginpar.
 {{< /marginpar >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
- Matrix:
+```mermaid
+graph LR
+    A[/New Information/]
+	B[Processing]
+	C@{ shape: lin-cyl, label: "Long-Term Memory" }
+	D{Relevant?}
+	E[Commit]
+	F[Forget]
+	A --> B
+	subgraph Memory
+		B <-->|Pull relevant info| C
+		B --> D
+		D -->|Yes| E
+		E -->|Update| C
+	end 
+	D -->|No| F
+```
+
+Matrix:
  $$M = \begin{bmatrix} 3 & 2 \\ 2 & 4 \\ 4 & 5 \end{bmatrix}$$
 
 ## Null space (kernel) or \\(kernel\\)

@@ -15,6 +15,3 @@ An extension of [Singly Linked List](Singly%20Linked%20List.md) that allows for 
 graph LR
     last-->B{{node Z}} -->|next| C{{node p}} -->|next| D{{node}} -->|next| E{{node}} -->|next| B
 ```
-
-## Code
-#TODO  create this class and add it to github + add link here
