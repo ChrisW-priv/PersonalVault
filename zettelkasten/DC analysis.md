@@ -6,6 +6,7 @@ tags:
   - "zettlekasten"
 categories: []
 ---
+[electronic circuit](electronic%20circuit)
 
 A DC solution to a circuit is a solution consisting entirely of constant signals (all voltages and currents)
 

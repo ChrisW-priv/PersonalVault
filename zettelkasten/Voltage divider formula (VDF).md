@@ -6,6 +6,7 @@ tags:
   - "zettlekasten"
 categories: []
 ---
+[electronic circuit](electronic%20circuit)
 
 Note: we only consider series connection because voltage flowing through a parrarel elements is ALLWAYS the same (in ideal case).
 

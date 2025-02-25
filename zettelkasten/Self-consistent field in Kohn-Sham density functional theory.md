@@ -6,6 +6,7 @@ tags:
   - "zettlekasten"
 categories: []
 ---
+[electronic circuit](electronic%20circuit)
 
 In Kohn–Sham [density functional theory (DFT)](density%20functional%20theory%20(DFT)), the [self-consistent field (SCF)](self-consistent%20field%20(SCF)) is a mathematical method used to solve the [Schrödinger equation](Schrödinger%20equation), which describes the behavior of electrons in a system. The Schrödinger equation is a complex and nonlinear equation that cannot be solved exactly in most cases, so the SCF method is used to approximate the solution.
 
