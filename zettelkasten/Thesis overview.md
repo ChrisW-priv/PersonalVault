@@ -10,5 +10,12 @@ categories: []
 My thesis parts:
 
 ```mermaid
-
+mindmap
+  root((Thesis))
+    Frontend app
+    Backend server
+    Blog
+    n8n actions
+    Actual Paper
 ```
+
