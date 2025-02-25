@@ -6,6 +6,7 @@ tags:
   - posts
 categories: 
 type: post
+draft: true
 ---
 
 ## Mastery over tools
