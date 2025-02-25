@@ -34,7 +34,7 @@ Features of life I want:
 mindmap
   root((Life))
     Health
-	    Fitness
+        Fitness
         Mental
     Career
     Finance
