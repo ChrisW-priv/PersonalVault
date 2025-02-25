@@ -6,6 +6,7 @@ tags:
   - "zettlekasten"
 categories: []
 ---
+[electronic circuit](electronic%20circuit)
 
 ## Definition
 The voltage drop between any two nodes does not depend on the oriented path along which it is computed.

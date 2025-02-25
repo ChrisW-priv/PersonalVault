@@ -2,7 +2,8 @@
 title: Infinite Staircase
 date: 2025-02-18
 description: Idea that challenges never stop and get progressively harder
-tags: 
+tags:
+  - posts
 categories: 
 type: post
 ---

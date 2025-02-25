@@ -7,7 +7,7 @@ tags:
 categories: []
 ---
 
-Digital circuits are [Electronic circuits](Electronic%20circuits) that use digital signals to represent and process information. [Digital signals](Digital%20signals) are [electrical signals](electrical%20signals) that can have only two [discrete](discrete) values, typically represented as [binary](binary) values of 0 and 1. Digital circuits use these binary values to encode and process information, allowing them to perform logical operations, store and manipulate data, and control other electronic devices.
+Digital circuits are [electronic circuit](electronic%20circuit) that use digital signals to represent and process information. [Digital signals](Digital%20signals) are [electrical signals](electrical%20signals) that can have only two [discrete](discrete) values, typically represented as [binary](binary) values of 0 and 1. Digital circuits use these binary values to encode and process information, allowing them to perform logical operations, store and manipulate data, and control other electronic devices.
 
 Digital circuits are built using a variety of electronic components, such as transistors, [Logic Gates](Logic%20Gates.md), [Flip-Flops](Flip-Flops), and [Registers](Registers.md). These components are connected together in a specific arrangement, called a circuit, to perform the desired logical operations and processing of information.
 

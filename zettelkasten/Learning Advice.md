@@ -88,3 +88,8 @@ Basic steps
 
 It may feel that we are loosing efficiency because we spend more time studying
 in total. But the true effect may be that in that time spent, we actually
+
+## Mastery first
+
+> Do not try to be fast or easier until you figured out a way to make it effective
+

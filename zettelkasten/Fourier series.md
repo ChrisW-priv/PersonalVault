@@ -8,6 +8,9 @@ tags:
 categories:
 ---
 
+[Function approximation](Function%20approximation)
+[Function in Mathematics](Function%20in%20Mathematics.md)
+
 ## Notation
 
 $$
