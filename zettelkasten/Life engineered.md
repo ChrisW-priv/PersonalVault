@@ -35,7 +35,7 @@ mindmap
   root((Life))
     Health
 	    Fitness
-		Mental
+        Mental
     Career
     Finance
     Home & Lifestyle
