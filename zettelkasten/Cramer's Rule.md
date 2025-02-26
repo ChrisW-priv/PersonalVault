@@ -8,6 +8,7 @@ categories: []
 ---
 
 We use Cramer's rule to calculate a [System of linear equations](System%20of%20linear%20equations.md). 
+
 For a square matrix $M_{n \times n}$ of any size defining the [Linear transformation](Linear%20transformation.md), and a vector $\vec{v}$ of size $n$ result vector can be calculated using following algorithm:
 
 1. calculate a $det(M)$
@@ -17,6 +18,7 @@ For a square matrix $M_{n \times n}$ of any size defining the [Linear transforma
 5. multiply vector by $\frac{1}{det(M)}$ 
 
 Result vector for 3d matrix:
+
 $$\begin{bmatrix} 
 det(M sub_1 \vec{v} ) / det(M) \\
 det(M sub_2 \vec{v} ) / det(M) \\

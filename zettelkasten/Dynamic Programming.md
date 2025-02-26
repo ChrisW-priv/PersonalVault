@@ -18,16 +18,23 @@ Key thing to get right is "optimal substructure". The idea is that if you solve 
 Another thing is having "overlapping sub-problems". Problems you solve are the same problems done in the same way. They also have to be deterministic. Otherwise you will not be able to reuse the result of previous computation.
 
 ## Main tools
+
 [Memoization](Memoization.md)
+
 [Tabulation](Tabulation.md)
+
 [Recursion](Recursion.md)
 
 ## Intuition
+
 Good intuition provided by Simon is to think of the problem as one having sub-problems and which combination is a solution to main-problem. Somewhere in that tree of recursive function calls you have a memoization table to avoid redoing the job
 
 ## Examples
+
 ### Fibonacci number:
+
 fib(n) = fib(n-1) + fib(n-2)
+
 ```js
 var MEMO = {}
 
@@ -46,8 +53,11 @@ function fib(i){
 ```
 
 ### Coin change
+
 coin(coins, n) = min # of coins in `coins` needed to make 'n'
+
 we solve it by checking each result of using one coin.
+
 ```js
 var MEMO = {}
 
@@ -70,10 +80,15 @@ function coin_change(coins, total){
 	return result;
 }
 ```
+
 ### Knapsack
+
 knapsack(items, capacity) = max value $\leq$ capacity "n".
+
 Where items is a list of 2-valued items: weight and value.
+
 we solve it by creating a branches "include i-th item" and "don't include i-th item"
+
 ```js
 var MEMO = {}
 
@@ -95,8 +110,11 @@ function knapsack_rec(items, capacity, i){
 	return result;
 }
 ```
+
 ### Staircase Problem
+
 Stair(n) = # ways to climb stairs with "n" steps. can take 1 or 2 steps at a time. we create a tree with "steps left after 1 step" and "steps left after 2 steps".
+
 ```js
 var MEMO = {}
 

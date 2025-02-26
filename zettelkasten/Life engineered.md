@@ -11,13 +11,17 @@ type: post
 ## What is this note about?
 
 So I have a lot of techniques to optimize the processes I do. 
+
 However, this means nothing if I have no real *strategy*.
+
 I expect this to kind of mumbling journal of my thought on
+
 the topic.
 
 ## Considerations
 
 I guess, the first step I need to take is figure out what life 
+
 I want, then work backwards from there... 
 
 Features of life I want:

@@ -7,6 +7,7 @@ tags:
   - math
 categories:
 ---
+
 [Function in Mathematics](Function%20in%20Mathematics.md)
 
 ## Notation

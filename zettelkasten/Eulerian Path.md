@@ -8,19 +8,25 @@ categories: []
 ---
 
 ## Definition
+
 An Eulerian Path is a path of edges that visits all edges in a graph exactly once.
 
 ## Notation
+
 [Counting the number of in and out edges in a graph](Counting%20the%20number%20of%20in%20and%20out%20edges%20in%20a%20graph.md)
 
 ### Undirected Graph
+
 Either every vertex has even degree or exactly two vertices have odd degree.
 
 ### Directed Graph
+
 At most one vertex has (outdegree) - (indegree) = 1
+
 and at most one vertex has (indegree) - (outdegree) = 1 and all other vertices have equal in and out degrees.
 
 ## Code
+
 Complexity: $O(E)$
 
 ```pseudo
@@ -60,4 +66,3 @@ function dfs(at):
 		dfs(next_edge.to)
 	path.append(at)
 ```
-

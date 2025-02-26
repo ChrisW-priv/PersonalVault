@@ -18,7 +18,9 @@ As name suggests a DFS plunges into a graph without regard for which edge it tak
 We backtrack either when there are no out-coming edges or if the neighboring node has already been visited.
 
 ## Code
+
 In general you will most often use recursion for DFS because although not as efficient it is much easier to read and therefore maintain.
+
 ```pseudo
 n = number of nodes in the graph
 graph = adjancy list representing graph

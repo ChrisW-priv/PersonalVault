@@ -12,6 +12,7 @@ categories: []
 An extension od [Doubly Linked List](Doubly%20Linked%20List.md) also called Doubly Linked Ring.
 
 ## Notation
+
 ```mermaid
 graph LR
     start --> A 

@@ -8,7 +8,9 @@ categories: []
 ---
 
 Part of [Code quality](Code%20quality)
+
 Code nesting is adding more blocks or depth to your code. for example following code has 4 nested blocks:
+
 ```c
 int calculate(int bottom, int top){
 	if (top > bottom){
@@ -25,14 +27,21 @@ int calculate(int bottom, int top){
 ```
 
 ## Methods to De-nest
+
 ### Extraction
+
 Taking out a portion of a function into it's own separate function.
+
 ### Inversion
+
 Switching the order of if return logic in favour of return-guarding statements.
 
 ## Reworking the example
+
 ### Step 1:
+
 extract filtering part:
+
 ```c
 int filterNumber(int number){
 	if (number % 2 == 0) return number;
@@ -50,8 +59,11 @@ int calculate(int bottom, int top){
 	else return 0;
 }
 ```
+
 ### Step 2:
+
 invert if return:
+
 ```c
 int filterNumber(int number){
 	if (number % 2 == 0) return number;

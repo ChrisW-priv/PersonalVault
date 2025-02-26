@@ -8,9 +8,11 @@ categories: []
 ---
 
 Function pointers in C and C++ have following structure 
+
 `return_type (*fn_pointer_name) (argument_type, ...)`
 
-## C++ example
+## C++ Example
+
 ```c++
 #include <iostream>
 using namespace std;

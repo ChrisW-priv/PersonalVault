@@ -8,6 +8,7 @@ categories: []
 ---
 
 ## Definition
+
 A low-link values of a node is the lowest node id reachable from that node when doing [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) (including itself).
 
 Using low-link Values in the graph can be used to find cycles in the [Graph](Graph.md).

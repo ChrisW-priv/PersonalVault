@@ -12,7 +12,9 @@ Sometimes a graph is split into multiple components. It's useful to be able to i
 To split graph into connected components it's useful to mark each node with an id of the component that it's in. 
 
 ## Solution description
+
 To do that you can use [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) to identify components.
+
 1. make sure all nodes are labelled $[0,n)$ where n is the number of nodes.
 2. Start DFS at node 0. 
 3. While exploring connected nodes mark them with id 0
@@ -21,6 +23,7 @@ To do that you can use [Depth First Search (DFS)](Depth%20First%20Search%20(DFS)
 6. continue until all nodes are marked
 
 ## Code
+
 ```pseudo
 n = number of nodes in the graph
 graph = adjancy list representing graph

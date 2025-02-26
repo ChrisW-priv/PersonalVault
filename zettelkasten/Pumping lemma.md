@@ -8,15 +8,19 @@ categories: []
 ---
 
 [[ELAC]]
+
 The word lemma in mathematics refers to "mini theorem"
 
 Pumping lemma states that if a language is regular then every string in that language has a substring that can be repeated (pumped) however many times and still be in the language.
 
 More formally
+
 All strings in the language can be repeated (pumped) if they are at least as long as a certain length (pumping length p, usually number of states in DFA)
 
 Exact:
+
 If A is regular language, then there is a number $p$ (the pumping length) where if $s$ is any string $A$ that is at least length $p$ then $s$ may be divided into 3 pieces, $s = xyz$, satisfying the following conditions:
+
 1. for each $i \geq 0, xy^iz \in A$
 2. $|y| > 0$
 3. $|xy| \leq p$
@@ -24,7 +28,9 @@ If A is regular language, then there is a number $p$ (the pumping length) where 
 Intuitively: we cannot pump empty string and the pumping part must be within first p symbols.
 
 ## Example
+
 Let us have a language $A = \{w | w \text{ ends with } 11 \}$ 
+
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -56,15 +62,21 @@ Let us have a language $A = \{w | w \text{ ends with } 11 \}$
 ```
 
 $p = 3$
+
 Example strings: $011$, $1011$, $01111$ 
 
 P.L states that we can find such substrings such that we can pump it however many times we like and language is still in the language.
+
 Example:
+
 $011$ -> 000000011
+
 $1011$ -> 101010101011
+
 $01111$ -> 000000001111
 
 ## Proving language is nonregular
+
 Every regular language can be represented by DFA or NFA or regex. Every language that is regular will follow pumping lemma.
 
 Non regular languages cannot be represented by graphs or regex and do not follow P.L.
@@ -80,11 +92,15 @@ Start by finding p. Because it is general case we choose $B = \{ 0^p1^p | p \geq
 Prove that it cannot be pumped.
 
 There are 3 cases:
+
 1. we choose string length p that is all 0's
 2. we choose string length p that is all 1's
 3. we choose string length p that is combination of the two.
 
 We can eliminate the 2. and 3. case as string that can be pumped needs to be in the first p symbols. however even if that was not the case:
+
 if we choose 1. then it will not be valid as if we pump the 0's then string will not be balanced and string created is outside the language.
+
 if we choose 2. then it will not be valid as if we pump the 1's then string will not be balanced and string created is outside the language.
+
 if we choose 3. then it will not be valid as if we pump the 01 substring then string contain `0101..` section that violates the string rule (string created is outside the language).

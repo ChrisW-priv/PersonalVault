@@ -16,6 +16,7 @@ On an [Undirected Graph](Undirected%20Graph.md) and [Weighted Graph](Weighted%20
 ### Prim's Algorithm
 
 Good for dense graphs. Usually will work in $O(E\cdot log(E))$ but it can be optimized to $O(E\cdot log(V))$.
+
 It is not easily parallelizable. Neither can do minimum spanning forest on disconnected graph.
 
 ### Krushal's & Boruvka's algorithm

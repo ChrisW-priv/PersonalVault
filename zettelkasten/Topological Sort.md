@@ -15,12 +15,15 @@ Topological sort works with $O(V+E)$ complexity.
 > Remember that this works ONLY for DAG. Any graph with cycles in it will not work!
 
 ## Algorithm
+
 1. Pick an unvisided node
 2. Beginning with the selected node, do a [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) exploring only unvisited nodes.
 3. On recursive callback of the DFS, add the current node to the topological ordering in the reverse order. (Or add to array and remember to revese it after the end of algorithm)
 
 ## Code
+
 ### Naive
+
 ```pseudo
 n = number of nodes in the graph
 graph = adjancy list representing graph
@@ -52,6 +55,7 @@ function dfs(at, visitedNodes):
 ```
 
 ### Optimised
+
 Optimisation will focus on eliminating the creation and use of `visited_nodes` array as it serves no function other that to make things easier. We will rewrite the code to modify `ordering` array directly.
 
 ```pseudo

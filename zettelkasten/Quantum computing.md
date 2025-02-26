@@ -8,55 +8,79 @@ categories: []
 ---
 
 note taken based on [this](https://www.youtube.com/watch?v=F_Riqjdh2oM) youtube
+
 video.
 
 From now on, a classical bit will be written as cbit or 'regular bit'
 
 One bit with value 0, also written as $|0\rangle$ ([Dirac vector notation](Dirac%20vector%20notation))
+
 $$1\choose 0$$
 
 One bit with value 1, also written as $|1\rangle$
+
 $$0\choose 1$$
 
 When we have this defined, we can use [Matrix multiplication](Matrix%20multiplication.md) rules to
+
 manipulate the bits. Those transformations will take form of Functions. 
 
 Reminder: 4 operations on one cbit 
+
 identity
+
 negation
+
 set0
+
 set1
 
 To represent these in vector notation we will take matrix $A$ and some vector
+
 $\vec{v}$. Then our general function will be defined as $f(A, \vec{v})$.
+
 We can use [Partial pattern](Partial%20pattern.md) to build the operations with some matrix $A$.
 
 Identity 
+
 $$A = \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$
+
 Negation
+
 $$A = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}$$
+
 Set 0
+
 $$A = \begin{bmatrix} 1 & 1 \\ 0 & 0 \end{bmatrix}$$
+
 Set 1
+
 $$A = \begin{bmatrix} 0 & 0 \\ 1 & 1 \end{bmatrix}$$
 
 Reversible computing describes a situation when one knows the operation applied
+
 and the result of the operation, then we can deduce what was an input of the
+
 operation.
 
 Intuitively, when you shuffle bits around or negate them, they will be
+
 reversible.
 
 If you discard the bit and overwright the value with new one, then the
+
 operation is not reversible.
 
 Here we can see that when appling the 'Set 0' operation we loose information on
+
 what was there before. 
 
 Quantum computing uses only reversible computing.
 
 There is a theory that reversible computing may lead us to break the "Von
+
 Neuman Landauer limit" which is said to be lowest posible limit of energy of
+
 computation.
 
 $$ {x_0\choose x_1} \bigotimes {y_0\choose y_1} = 
@@ -69,6 +93,7 @@ $$ {x_0\choose x_1} \bigotimes {y_0\choose y_1} =
 $$
 
 example:
+
 $$ {1\choose 2} \bigotimes {3\choose 4} = 
 \left( 
 \begin{matrix} 3 \\ 4 \\ 6 \\ 8 \end{matrix} 
@@ -105,7 +130,6 @@ $$|11\rangle = {0\choose 1} \bigotimes {0\choose 1} =
 \right)
 $$
 
-
 $$|4\rangle = |100\rangle = {0\choose 1} \bigotimes {1\choose 0} \bigotimes {1\choose 0} = 
 \left( 
 \begin{matrix} 0 \\ 0 \\ 0 \\ 0 \\ 1 \\ 0 \\ 0 \\ 0 \end{matrix} 
@@ -123,6 +147,7 @@ The control bit is always unchanged
 The control bit is always unchanged
 
 We can represent this as matrix multiplication in the form of:
+
 $$C = \begin{bmatrix} 
 1 & 0 & 0 & 0 \\
 0 & 1 & 0 & 0 \\
@@ -156,10 +181,15 @@ and $||a||^2 + ||b||^2 = 1$
 
 Example qbits:
 $$
+
 \left( \begin{matrix} \frac{1}{\sqrt{2}} \\ \frac{1}{\sqrt{2}} \end{matrix} \right)
+
 \left( \begin{matrix} \frac12 \\ \frac{\sqrt{3}}{2} \end{matrix} \right)
+
 \left( \begin{matrix} -1 \\ 0 \end{matrix} \right)
+
 \left( \begin{matrix} \frac{1}{\sqrt{2}} \\ \frac{-1}{\sqrt{2}} \end{matrix} \right)
+
 $$
 
 Now, qbits that are defined are in superposition as they are neither 1 or 0.
@@ -186,6 +216,7 @@ $$H =
 $$
 
 Example:
+
 $$H|0\rangle = 
 \left( \begin{matrix}
 \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \\
@@ -203,6 +234,9 @@ $$H|1\rangle =
 $$
 
 As it is common with vectors, we will draw them on unit circle. Then, we can
+
 think of CNOT Gate as a gate that moves the point from one part of unit circle
+
 to another with respect to $y=x$ axis and Hadamard gate as a gate that moves
+
 the values in some other way.

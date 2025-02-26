@@ -10,20 +10,29 @@ categories: []
 [Function in Mathematics](Function%20in%20Mathematics.md), commonly a [Linear transformation](Linear%20transformation.md)
 
 ### When is it possible?
+
 Let $M_1, M_2$ be matrixes. Matrix multiplication $M_1 * M_2$ is only possible when number of **columns (n) in $M_1$**  is equal to number of **rows (m) in $M_2$**. Result is a matrix of size $M_{1_m} \times M_{2_n}$
 
 ### Multiplication with scalar
+
 Each component is multiplied by the scalar.
+
 Example:
+
 Let $A$ be matrix and $x$ be a scalar. Result be is calculated as follows:
+
 $$A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
+
 $$B = A*x = \begin{bmatrix} ax & bx \\ cx & dx \end{bmatrix}$$
 
 ### Multiplication with a vector
+
 A result of linear transformation of a vector. 
+
 Note: only possible when number of columns in matrix match number of dimensions in a vector!
 
 In general for 2d:
+
 $$\begin{bmatrix} a & b \\ c & d \end{bmatrix} * 
 \begin{bmatrix} x \\ y \end{bmatrix} = 
 x \begin{bmatrix} a \\ c \end{bmatrix} + 
@@ -50,6 +59,7 @@ Let $M _1, M _2$ be a 2d square matrices:
 $$M_1 = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
 M_2 = \begin{bmatrix} e & f \\ g & h \end{bmatrix} \ 
 $$
+
 $$R = M_1*M_2 = \begin{bmatrix} 
 ae + bg & af+bh \\ ce+dg & cf+dh
 \end{bmatrix}$$

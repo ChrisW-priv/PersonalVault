@@ -18,4 +18,5 @@ A function will be known as one-to-one correspondence function if every element 
 In the bijective function, from set A to set B, there is an inverse function from set B to set A. In the bijective function, every element of the set has a relation with itself.
 
 ### Visual examples
+
 ![300x200](attachments/bijective%20function.png)

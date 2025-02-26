@@ -8,6 +8,7 @@ categories: []
 ---
 
 [Graph representation](Graph%20representation.md)
+
 [Matrix](Matrix.md)
 
 A adjacency matrix which we call m is a very simple way to represent a graph. The idea is that the cell $m[i][j]$ represents the edge weight of going from node i to j.

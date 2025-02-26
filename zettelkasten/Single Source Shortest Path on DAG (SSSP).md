@@ -12,6 +12,7 @@ categories: []
 In this case we don't have to worry about negative edge weights as we do in other, more general algorithms.
 
 ## Algorithm
+
 1. Create topological order of nodes.
 2. Initiate an array with best score for each node. Set all values to infinity. 
 3. Set the distance to starting node to 0.

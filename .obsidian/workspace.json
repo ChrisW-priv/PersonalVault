@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Engineering Thesis"
             }
+          },
+          {
+            "id": "dc807a959d5e601b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,13 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c91f88e164a74a25",
+  "active": "dc807a959d5e601b",
   "lastOpenFiles": [
+    "zettelkasten/Engineering Thesis.md",
     "zettelkasten/Batteries Project.md",
     "zettelkasten/Untitled.md",
     "dashboards/Todo Dashboard.md",
     "templates/task.md",
-    "zettelkasten/Engineering Thesis.md",
     "zettelkasten/Thesis overview.md",
     "zettelkasten/Learning Progress Log.md",
     "dashboards",

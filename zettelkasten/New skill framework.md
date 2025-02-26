@@ -11,6 +11,7 @@ categories:
 ## Relevance
 
 We cannot learn efficiently without knowing the field scope or where is our goal
+
 or what is important to get to that goal. We **need to do solid exploration**!
 
 Actions:
@@ -26,6 +27,7 @@ Signs of progress:
 ## Awareness
 
 Making conscious mistakes as fast as possible. You are getting better by becoming 
+
 more aware of what is going on.
 
 Actions:
@@ -40,6 +42,7 @@ Actions:
 ## Iteration
 
 We are at this stage if we can perform the skill at least once or twice. Not
+
 discovering new mistakes but having trouble with execution.
 
 Actions:

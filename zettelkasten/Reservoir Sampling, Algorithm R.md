@@ -21,6 +21,7 @@ ReservoirSample(stream, k)
 ```
 
 ## Python
+
 ```python
 def reservoir_sampling(stream, k):
 	result = stream[:k] # first k elements
@@ -33,11 +34,15 @@ def reservoir_sampling(stream, k):
 ```
 
 ## C
+
 Assume function:
+
 ```c
 int random_bounded(int max); // returns random int from range <0, max) with equal distribution
 ```
+
 We create function:
+
 ```c
 // function uses cutoff as in original question stream can be endless, however our while loop needs the end parameter
 int* reservoir_sampling(int* stream, int k, int cut_off)
@@ -59,7 +64,9 @@ int* reservoir_sampling(int* stream, int k, int cut_off)
 ```
 
 ## C++
+
 In C++ w can easily generalise this function to any type
+
 ```c++
 /// uses R algorithm for reservoir sampling given a pointer to stream of data  
 /// \param begin Iterator of container  
@@ -84,7 +91,9 @@ std::unique_ptr<T[]> reservoir_sampling(T* stream, size_t cutoff, size_t k, std:
     return result;  
 }
 ```
+
 Or if we support the containers:
+
 ```c++
 /// uses R algorithm for reservoir sampling given a pointer to stream of data  
 /// \param begin Iterator of container  
@@ -113,15 +122,21 @@ std::unique_ptr<T[]> reservoir_sampling(Iter begin, Iter end, size_t k, std::mt1
 ```
 
 We want to proof that $\forall i,j \in {1,2,3,...,N}$ probability of selecting both is equal. In math language: 
+
  $\forall i,j \in {1,2,3,...,N}$ 
+
  $P(element _i) = P(element _j)$ 
+
 Where $P(element _i)$means element with index i is in the solution.
 
 In other words: proove that if you stop algorith in any moment probability of element being in the result is equal 
 
 We will proove this by induction.
+
 $$ P(element _i) = P(element _i) * P(\neg replaced)$$
+
 $$ P(element _i) =  \frac{k}{i} * (1 - \frac{k}{i+i} * \frac{i}{k}) = \frac{k}{i} * \frac{i}{i+1} = \frac {k}{i+1} $$
+
 $$ P(element _{i+1} ) = \frac{k}{i+1}$$
 
 As $i$ gets bigger chance of being chosen goes down as well as risk of being replaced out from the list. 

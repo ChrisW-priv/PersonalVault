@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-
 ## Steps to optimize your code
 
 1. Determine if your code needs optimization
@@ -24,10 +23,12 @@ If you already were using Test Driven Development (TDD) to develop code then it'
 It's perhaps the most important part of this whole article. You cannot optimize what you don't understand! Without proper profiling you will just guess what is faster and what should be done better.
 
 Only when we went through those points can we proceed to actually optimize!
+
 1. Is the work you are currently doing actually needed/ the right way to solve problem
 `There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker`
 It may be tempting to make your current solution more efficient, integrate workflow into larger context or make production more specialized. However, what if you are solving wrong problem?
 What often helps is drawing entire hot-path of your code with all it's paths and branches. Often it's immediately obvious what is not needed or what is to be refactored. By remember that sometimes you may need to start all over again. Maybe there is solution so different that in order to be "better" you need to start over and do work in complete different way? 🤔
+
 > [!Example]
 > In optimizing search function that compares two elements we should always ask ourselves if there is a way to cut down number of searches by not compering the elements that will not be equal by sheer nature of what they represent. In this case we should group elements by type and bid them into small chunks. Also we can sort them by some metric to utilize [Binary Search](Binary%20Search.md).
 

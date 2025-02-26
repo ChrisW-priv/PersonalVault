@@ -8,7 +8,9 @@ categories: []
 ---
 
 [Python](Python)
+
 [Parallel computing](Parallel%20computing)
+
 [Steps to multiprocessing in Python](Steps%20to%20multiprocessing%20in%20Python.md)
 
 There are a couple of ways to speed python up. One of them is to use parallel computing. This also splits into multiple branches. Primarily: are you compute or IO bound? If IO bound then `asyncio` or threading might be a solution. However if you are compute bound then use code like below.

@@ -8,15 +8,19 @@ categories: []
 ---
 
 Normally, the lookup for the text relevant to a question would be done as in
+
 [Document loading in RAG](Document%20loading%20in%20RAG.md). However, this way
+
 is slow and we can easily optimise it with [indexing](Indexing.md). To do this, we parse the data inside the documents and represent the content numerical for easier lookup.
 
 ![](attachments/Pasted%20image%2020240701205614.png)
 
 ## What are different methods of numerical representation?
+
 Basically, there is a division into deterministic "statistical" methods and "machine learned" methods
 
-### What is an example of statistical method 
+### What is an example of statistical method
+
 The "Bag of Words" (BoW) representation is a popular approach in Natural Language Processing (NLP) for converting text data into a numerical format that can be used for searching, indexing, and classification.
 
 **What is Bag of Words?**
@@ -26,6 +30,7 @@ In the BoW representation, each document or text snippet is represented as a bag
 For example, consider two documents:
 
 Document 1: "The quick brown fox jumps over the lazy dog."
+
 Document 2: "The lazy dog jumps over the quick brown fox."
 
 In a BoW representation, both documents would be reduced to a set of unique words:
@@ -59,7 +64,8 @@ The resulting vectors can be used as input features for various NLP tasks, such 
 2. **High dimensionality**: The number of unique words in a large corpus can result in high-dimensional vectors, making it challenging to analyze or cluster the data.
 3. **Not suitable for long-range dependencies**: The BoW representation is not designed to capture long-range dependencies or relationships between words in a document.
 
-### What is an example of machine learned method 
+### What is an example of machine learned method
+
 **Embeddings: A Vectorized Representation for Numerical Search**
 
 #### What are Embeddings?
@@ -101,8 +107,9 @@ The resulting vectors can be used as input features for various NLP tasks, such 
 * **May not generalize well**: The learned embeddings might not generalize well to unseen data or domains, requiring additional adaptation steps.
 
 In summary, the use of embeddings as a search/lookup approach offers several advantages, including improved search performance, robustness to noise, and scalability. While there are limitations to consider, the benefits of using embeddings make them a popular choice in many 
+
 natural language processing (NLP) applications.
 
-
 ## How do you do this in practice?
+
 Currently, the preferred way is to use [Embeddings](Embeddings.md) models. There, the main limitation is the context window. Thus, you split the documents into chunks. Then you embed the meaning of each chunk and save it. Then, when the question comes, you embed the question, lookup most closely related documents, and return the documents relevant.

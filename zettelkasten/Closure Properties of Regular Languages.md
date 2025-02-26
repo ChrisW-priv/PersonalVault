@@ -8,21 +8,29 @@ categories: []
 ---
 
 [[ELAC]]
+
 ## What is closure
+
 Closure property is a statement that a certain operation on languages when applied to languages in a class (e.g. RE languages), produces a result that is also in that class
 
 For regular languages we can use any representation to prove a closure property
 
 ## Union
+
 If $L$ and $M$ are regular languages, so is $L \cup M$ 
+
 $R|S$ is a regex whose language is $L \cup M$ 
+
 ## Intersection
+
 If $L$ and $M$ are regular languages, so is $L \cap M$ 
 
 Construct $C$ as a product of automaton $A$ and $B$ that are DFA's of languages $L$ and $M$, respectively
 
 Make the final states of C be pairs consisting final states of both $A$ and $B$
+
 DFA $A$:
+
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -49,6 +57,7 @@ DFA $A$:
 ```
 
 DFA $B$:
+
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -74,7 +83,9 @@ DFA $B$:
 }
 \end{document}
 ```
+
 DFA $C$
+
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -112,12 +123,15 @@ DFA $C$
 ```
 
 ## Difference
+
 If $L$ and $M$ are regular languages, so is $L - M$  = strings in $L$ but not in $M$.
 
 Construct $C$ as a product of automaton $A$ and $B$ that are DFA's of languages $L$ and $M$, respectively
 
 Make the final states of C be the pairs where A-state is final but B-state is not.
+
 $A$ and $B$ same as in Intersection rule
+
 ```tikz
 \usetikzlibrary{automata,arrows}
 \newcommand{\drawGraph}[2][>=stealth',shorten >=1pt,auto,node distance=1.5cm, scale=2, transform shape]{
@@ -155,28 +169,39 @@ $A$ and $B$ same as in Intersection rule
 ```
 
 ## Complementation
+
 The complement of a language $L$ (with respect to an alphabet $\Sigma$ such that $\Sigma^*$ contains $L$) is $\Sigma^* – L$
 
 Since $\Sigma^*$ is surely regular, the complement of a regular language is always regular.
 
 ## Concatenation
+
 If $RS$ are regex whose language is $LM$
 
 ## Kleene Closure
+
 If $R^*$ are regex whose language is $L^*$
 
 ## Reversal
+
 Given language L, L R is the set of strings whose reversal is in L.
+
 Example: L = {0, 01, 100}; L R = {0, 10, 001}.
 
 Basis: If $E = a, \epsilon, \emptyset$, then $E^R = E$.
+
 Induction:
+
 If $E = F|G$, then $E^R = F^R | G^R$
+
 If $E = FG$, then $E^R = G^RF^R$
+
 If $E = F^*$, then $E^R = (F^R)^*$
 
 Example:
+
 $E = 01^* | 10^*$
+
 $$
 \begin{equation}
 \begin{split}
@@ -188,16 +213,21 @@ E^R &= (01^* | 10^*)^R  \\
 \end{split}
 \end{equation}
 $$
+
 ## Homomorphism
+
 A *homomorphism* on an alphabet is a function that gives a string for each symbol in that alphabet
 
 If $L$ is a regular language, and $h$ is a homomorphism on its alphabet, then $h(L) = \{h(w) | w \in L\}$ is also a regular language
 
 Example: $h(0) = ab$; $h(1) = \epsilon$
+
 Extend to strings by $h(a1…an ) = h(a1 )…h(an )$
+
 Example: $h(01010) = ababab$.
 
 ## Inverse Homomorphism
+
 Let h be a homomorphism and L a language whose alphabet is the output language of h.
 
 $h^{-1}(L) = \{w | h(w) \in L\}$

@@ -12,12 +12,14 @@ To use a C++ function in Python, you can use Cython to create a Python extension
 Here's an example of how to do this:
 
 1.  First, you'll need to install Cython if you don't already have it. You can do this by running the following command:
+
 ```cmd
 pip install cython
 ```
 
 2.  Next, you'll need to create a file containing the C++ code for the function you want to use in Python. Let's call this file `my_function.cpp`.
 3.  Then, create a file called `setup.py` containing the following code:
+
 ```python
 from distutils.core import setup
 from Cython.Build import cythonize
@@ -29,7 +31,9 @@ setup(
 ```
 
 This file specifies the necessary information for building your Cython extension.
+
 4.  Now, you can build the extension by running the following command:
+
 ```cmd
 python setup.py build_ext
 ```

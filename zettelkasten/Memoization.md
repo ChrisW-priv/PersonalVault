@@ -12,6 +12,7 @@ Optimisation technique that aims to speed up computer programs by storing the re
 Functions that use memoization have to be deterministic! This means that same input will always return same output.
 
 ## Example
+
 ```js
 function slow_compute(x){
 	// normally this function is really slow. 

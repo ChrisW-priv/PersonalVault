@@ -40,4 +40,3 @@ type: post
 ## Quarterly
 
 - Decide on a goal for that quarter
-

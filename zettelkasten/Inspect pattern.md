@@ -11,7 +11,9 @@ categories: []
 > We use inspect pattern to make [Debugging](Debugging) [Pipe pattern](Pipe%20pattern.md) easy.
 
 ## Code
+
 Very basic program that prints consecutive variables to console.
+
 ```js
 const inspect = (tag) => (x) => {  
 	console.log(`${tag}: ${x}`)  
@@ -20,9 +22,11 @@ const inspect = (tag) => (x) => {
 ```
 
 ## Motivation
+
 Using pipe pattern is really nice but debugging it may be troublesome. Often, to debug code you have to break down the pipe into separate function calls. This defeats use of pipe all-together. However, use of inspect pattern can make it easy. Example provided [here](https://blog.bitsrc.io/functional-programming-composition-2e9b863d8bcb) but copied for easy, offline access:
 
 Say you have piped function like this:
+
 ```js
 const priceCalculator = (  
   taxPercentage = 0.3,   
@@ -50,6 +54,7 @@ const priceCalculator = (
   )(price)
 }
 ```
+
 Basically, just some easy calculations of a price split into [pure functions](Pure%20function.md) and piped together.
 
 Using the code defined in Code section we get:
@@ -87,4 +92,5 @@ return pipe(
   )(price)
 }
 ```
+
 This way each call to inspect creates a function that is instantly fed some data from next function call. Then, we can easily debug why the code does not work (this is left as exercise for the reader).

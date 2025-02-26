@@ -15,7 +15,9 @@ categories: []
 Closure is actually really closely related to [Object oriented programming](Object%20oriented%20programming), and in languages that do not support oop, is used as a supplement for it.
 
 ## Code
+
 Let's create a function that implements memoisation to some unary function:
+
 ```python
 def memoize(unaryFn):
 	memo = {}
@@ -27,4 +29,5 @@ def memoize(unaryFn):
 		return result
 	return memoisedFn
 ```
+
 This code starts by initialising the `memo` dictionary and returning function handle to a function that wraps `unaryFn` execution with some checks to `memo` dictionary from outside scope.
