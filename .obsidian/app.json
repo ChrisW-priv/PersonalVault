@@ -4,7 +4,7 @@
   "newFileFolderPath": "zettelkasten",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "zettelkasten/attachments",
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
@@ -16,5 +16,6 @@
   },
   "readableLineLength": false,
   "showInlineTitle": false,
-  "useTab": false
+  "useTab": false,
+  "showUnsupportedFiles": true
 }
