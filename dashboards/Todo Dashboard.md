@@ -15,7 +15,9 @@ function mapPriorityToName(taskPriority) {
     return names[taskPriority]
 }
 
-// Pages from the 'zettelkasten' folder with the '#project' tag
+function stripInlineTags(text) {
+    return text.replace(/\[[^\]]*::[^\]]*\]/g, '').trim();
+}
 let pages = dv.pages('"zettelkasten" and #project')
 
 for (let page of pages) {
@@ -23,7 +25,7 @@ for (let page of pages) {
     let tasks = page.file.tasks
     dv.table(["task", "priority"], 
         tasks.sort(t => getPriority(t))
-             .map(t => [t.text, mapPriorityToName(getPriority(t))])
+             .map(t => [stripInlineTags(t.text), mapPriorityToName(getPriority(t))])
     )
 }
 ```
