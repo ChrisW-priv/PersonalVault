@@ -10,6 +10,7 @@ categories: []
 ## Definition
 
 BST is a [Tree](Tree.md) that has special property of being ordered in folowing way:
+
 - Each node has at most two children called "left" and "right". 
 - "left" child must be smaller that it's parent and "right" must be bigger
 
@@ -19,6 +20,7 @@ BST is a [Tree](Tree.md) that has special property of being ordered in folowing 
 - visit subtrees first
 
 Three different traversals:
+
 - Inorder (LNR) - Traverse left-first
 - Preorder (NLR) - Traverse node-first 
 - Postorder (LRN) - Traverse subtrees-frist
@@ -43,4 +45,5 @@ efficient is really hard! Problem will always lie in making and keeping the tree
 balanced to maintain optimal $O(log(n))$ time!
 
 ## Intuition
+
 Search for any element in the tree is done in $O(log(n))$ time IF THE TREE IS BALANCED. In the worst case the search time can be $O(n)$!

@@ -13,11 +13,15 @@ categories: []
 Similar to [Compose pattern](Compose%20pattern.md). The order of arguments, however is reversed to get more natural left to right implementation
 
 ## Code
+
 We can use [Reduce pattern](Reduce%20pattern.md) to create pipes:
+
 ```js
 const pipe = (...fns) => (x) => fns.reduce((acc, fn) => fn(acc), x)
 ```
+
 and use it like:
+
 ```js
 const doubleInt = (x) => x*2;
 const add2 = (x) => x + 2;

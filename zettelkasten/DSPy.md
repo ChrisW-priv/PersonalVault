@@ -7,12 +7,11 @@ tags:
 categories: []
 ---
 
-
 [link](https://www.removepaywall.com/search?url=https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896)
 
 [Prompt engineering](zettelkasten/Prompt%20engineering.md)
-[LLM](zettelkasten/LLM.md)
 
+[LLM](zettelkasten/LLM.md)
 
 DSPy is **an open-source tool created by Stanford University that "compiles declarative language model calls into self-improving pipelines."** Instead of spending time crafting perfect prompts, DSPy lets you program the AI models directly. This makes AI apps more reliable and easier to scale.
 
@@ -21,6 +20,7 @@ DSPy is an interesting framework aiming to provide a PyTorch like feel in a Lang
 Link to repo with some nice README.md [here](https://github.com/stanfordnlp/dspy/tree/main?tab=readme-ov-file)
 
 Some main parts of the DSPy:
+
 - Signature
 	- I understand it as just a description of what needs to be done.
 	- A signature consists of three simple elements:
@@ -29,6 +29,7 @@ Some main parts of the DSPy:
 	    - A description of one or more output fields (e.g., the question's answer) that we will expect from the LM.
 
 Example:
+
 ```python
 class GenerateAnswer(dspy.Signature):
     """Answer questions with short factoid answers."""
@@ -45,6 +46,7 @@ class GenerateAnswer(dspy.Signature):
 	- actually... this inherits from module... 
 
 Example:
+
 ```python
 generate_answer_with_chain_of_thought = dspy.ChainOfThought(GenerateAnswer)
 

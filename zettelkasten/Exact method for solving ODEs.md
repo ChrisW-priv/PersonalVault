@@ -14,7 +14,9 @@ categories: []
 if equal to 0: follow to step 4, else follow the [Integrating factor for exact method](Integrating%20factor%20for%20exact%20method.md)
 
 Remember: $f_x = P, f_y = Q$, so to get a function $f$ we need to
+
 **Step 4:**  integrate $P$ over $x$ or $Q$ over $y$. 
+
 $$f(x,y) = \int{P dx} = \int{Q dy}$$
 
 **Step 5:** Use one of $f_x = P, f_y = Q$ properies.

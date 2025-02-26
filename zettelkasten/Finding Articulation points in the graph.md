@@ -8,6 +8,7 @@ categories: []
 ---
 
 ## Desription
+
 Algorithm used for finding [Articulation points](Articulation%20points.md) in a [Graph](Graph.md).
 
 Note: here we will use the idea of cycles!
@@ -50,4 +51,5 @@ function dfs(at, parent, bridges):
 		else:
 			low[at] = min(low[at], ids[to])
 ```
+
 Note: this algorithm already does two steps in one go! Therefore it's complexity is $O(V+E)$

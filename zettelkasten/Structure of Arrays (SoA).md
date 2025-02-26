@@ -10,4 +10,3 @@ categories:
 ## Application
 
 I heard it is used in formats like [parquet](parquet).
-

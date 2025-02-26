@@ -12,5 +12,7 @@ Probability measures how likely certain event is. Statistics measure how certain
 In other words we can deduce probability with statistics. 
 
 ## Related
+
 [Probability](Probability.md)
+
 [Statistics](Statistics.md)

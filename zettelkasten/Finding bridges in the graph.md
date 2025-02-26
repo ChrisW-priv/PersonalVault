@@ -8,6 +8,7 @@ categories: []
 ---
 
 ## Desription
+
 Algorithm used for finding [Bridges](Bridges.md) in a [Graph](Graph.md).
 
 ## Code
@@ -44,4 +45,5 @@ function dfs(at, parent, bridges):
 		else:
 			low[at] = min(low[at], ids[to])
 ```
+
 Note: this algorithm already does two steps in one go! Therefore it's complexity is $O(V+E)$

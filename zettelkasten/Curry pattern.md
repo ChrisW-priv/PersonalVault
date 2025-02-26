@@ -13,6 +13,7 @@ categories: []
 Instead of taking all arguments at once, or some number of arguments like in [Partial pattern](Partial%20pattern.md) we only pass a single argument in each function call.
 
 ## Code
+
 ```js
 function curry (fn, arity = fn.length){
 	return (function nextCurried(prevArgs) {
@@ -26,4 +27,5 @@ function curry (fn, arity = fn.length){
 	})([]);
 }
 ```
+
 In this code we collect arguments into a list and then we call function with those arguments spread when number of arguments is enough.

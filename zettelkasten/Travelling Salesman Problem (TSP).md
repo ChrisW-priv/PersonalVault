@@ -8,34 +8,46 @@ categories: []
 ---
 
 ## Definition
+
 TSP is a famous problem in Computer Science. It is very difficult to provide good algorithm for TSP for large scale.
 
 ## Problem:
+
 `Given a list of cities and the distances between each pair of cities what is the shortest possible route that visits each city exactly once and returns to the origin city`
 
 In other words:
+
 Given a complete [Weighted Graph](Weighted%20Graph.md) what is the Hamiltonian cycle of minimum cost.
 
 Note: there might be many optimal solutions with lowest cost!
+
 ## Solution
+
 ### $O(n!)$
+
 Easiest (brute-force), solution is to simply calculate all [permutations](Permutation) of the route, calculate cost and select th fastest.
 
 ### $O(N^2\cdot 2^n)$
+
 Using dynamic programming we can do slightly better than $O(n!)$. The idea is to compute best path for $N$ nodes by knowing the best path for $N-1$ nodes.
 
 > [!Note]
 > Although in actuality this solution is MUCH better than $O(n!)$ it's still unfeasible to try to solve larger graphs using this method. We can still find solutions for around to 23 nodes in reasonable time!
 
 #### Computation
+
 To compute the optimal solution for paths of length 3, we need to remember two things from each of the n=2 cases:
+
 1) The set of visited nodes in the subpath
 2) the index of the last visited node in the path
 Together these two things form our dynamic programming state. There are $N$ possible nodes that we could have visited last and $2^n$ possible subsets of visited nodes. Therefore the space needed to store the answer to each sub-problem is bound by $O(N2^n)$.
+
 #### Visited nodes as bit field
+
 The best way to represent the set of visited nodes is to use a single 32 bit integer. We can do this for a simple reason we will not be able to compute anything larger than 32 nodes.
 
 #### Code
+
 ```pseudo
 function tsp(m,S):
 	N = m.size
@@ -101,7 +113,9 @@ function findOptimalTour(m, memo, S,N):
 ```
 
 ### Aproximations
-Commonly insted of trying to get the perfect solutions problem is changed to `what route is good enough`? 
-Then - very often we offload the giant computation to the GPU that will find very good (but probably not the best) solution in seconds.
-Examples include ant colony simulation and others.
 
+Commonly insted of trying to get the perfect solutions problem is changed to `what route is good enough`? 
+
+Then - very often we offload the giant computation to the GPU that will find very good (but probably not the best) solution in seconds.
+
+Examples include ant colony simulation and others.

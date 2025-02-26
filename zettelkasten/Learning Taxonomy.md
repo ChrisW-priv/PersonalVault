@@ -11,7 +11,9 @@ categories:
 Revised Bloom’s Taxonomy: A Guide to Learning Levels
 
 The revised Bloom’s Taxonomy, updated by Anderson and Krathwohl in 2001,
+
 categorizes cognitive learning into six hierarchical levels. Each level
+
 progresses from basic recall to complex problem-solving.
 
 The following chapters are different levels of thinking (highest first).

@@ -12,4 +12,3 @@ Tag dedicated to track this: #{{title}}
 Quote to remember:
 
 > Quote!
-

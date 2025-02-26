@@ -14,6 +14,7 @@ The BFS algorithm is particularly useful for one thing: finding shortest path on
 To build a BFS it is easiest to build a [Queue](Queue.md) to track which node to visit next.
 
 ## Code
+
 ```pseudo
 n = number of nodes in the graph
 graph = adjancy list representing graph
@@ -64,6 +65,7 @@ function reconstructPath(s,e,prev):
 start = 0, end = n-1
 bfs(start, end)
 ```
-## Connected to
-[Graph](Graph.md)
 
+## Connected to
+
+[Graph](Graph.md)

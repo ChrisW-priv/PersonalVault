@@ -8,9 +8,13 @@ categories: []
 ---
 
 ### System of linear equations
+
 Example system of equations:
+
 $2x + 5y + 3z = -3$
+
 $4x + 0y + 8z = 0$
+
 $1x + 3y + 0z = 2$
 
 A system of equations like this can be represented as follows:

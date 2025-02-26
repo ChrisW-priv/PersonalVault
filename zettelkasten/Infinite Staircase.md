@@ -10,4 +10,3 @@ type: post
 
 > Challenges are gateways to new opportunities, 
 > reserved only to those who can pass that challenge.
-

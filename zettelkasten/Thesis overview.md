@@ -18,4 +18,3 @@ mindmap
     n8n actions
     Actual Paper
 ```
-

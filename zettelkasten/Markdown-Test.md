@@ -12,16 +12,27 @@ categories:
 > This is some definition text
 
 <span class="letterine"><i>T</i>his is example of span with letterine class.</span>
+
 You need set the `markup.goldmark.unsafe` and `markup.goldmark.renderer.unsafe` parameter in `config.toml` to write html directly, but this is not recommended.
+
 {{< marginpar >}}
+
 And this is marginpar. 
+
 **Bold text**,
+
 *Italic text*,
+
 ***Bold and italic text***,
+
 ~~Strikethrough text~~
+
 [Link text](https://example.com)
+
 ---also works.
+
 {{< /marginpar >}}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 ```mermaid
@@ -43,23 +54,29 @@ graph LR
 ```
 
 Matrix:
+
  $$M = \begin{bmatrix} 3 & 2 \\ 2 & 4 \\ 4 & 5 \end{bmatrix}$$
 
 ## Null space (kernel) or \\(kernel\\)
+
 $var_1$, $e^{-1j}$
+
 \
 Working link: [Vector](/Vector)
 
 ## Heading 2
 
 First paragraph will not indent.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 Second paragraph and after will indent.
+
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 > This is a blockquote
->> Nested blockquote
+> 
+> > Nested blockquote
 
 ### Heading 3
 
@@ -84,6 +101,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 | Cell 3   | Cell 4   |
 
 Task list:
+
 - [x] Completed task
 - [ ] Incomplete task
 
@@ -104,7 +122,8 @@ function greeting(name) {
 }
 ```
 
-###### Heading 6 
+###### Heading 6
 
 Heading level 6 will show as inline paragraph.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

@@ -7,22 +7,28 @@ tags:
 categories: []
 ---
 
-
 ## Searching exact phrases
+
 by default google looks for synonyms and uses fuzzy search to match query.
+
 you can use double quotes to match exact phrase: ""
 
-## Search site related links 
+## Search site related links
+
 Use `site:[url]` to get results from this site only
 
-## Exclude term 
+## Exclude term
+
 use minus `-`
 
-## Filter by date 
+## Filter by date
+
 use `after:[date]` and `before:[date]` to limit results by need
 
-## Use range 
+## Use range
+
 to create range, use the two dots `..` between numbers like 10..20
 
 ## Get results of certain file type
+
 use `filetype:[filetype]`

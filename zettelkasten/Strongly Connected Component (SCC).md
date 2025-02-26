@@ -8,9 +8,11 @@ categories: []
 ---
 
 ## Definition
+
 Strongly Connected Components (SCC) can be thought of as self-contained cycles within a [Directed Graph](Directed%20Graph.md) where every vertex in a given cycle can reach every other vertex in the same cycle.
 
 ## Algorithm for finding SCCs
+
 ```pseudo
 UNVISITED = -1
 n = number of nodes in the graph

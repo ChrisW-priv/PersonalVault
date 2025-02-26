@@ -7,7 +7,6 @@ tags:
 categories: []
 ---
 
-
 ## What are the parts of a transformer?
 
 - Embeddings    (encode the token from text into a vector of numbers)

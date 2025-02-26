@@ -9,7 +9,8 @@ categories: []
 
 [Logic Gates](Logic%20Gates.md)
 
-### Truth Table 
+### Truth Table
+
 [Truth Tables](Truth%20Tables.md)
 
 | P | Q | Result |
@@ -22,4 +23,5 @@ categories: []
 Can be represented as: $\lnot (p \Leftrightarrow q)$
 
 ### Symbol Representation
+
 ![ 400x200](attachments/XOR_GATE.png)

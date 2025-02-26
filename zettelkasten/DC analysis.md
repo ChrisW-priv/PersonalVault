@@ -6,6 +6,7 @@ tags:
   - "zettlekasten"
 categories: []
 ---
+
 [electronic circuit](electronic%20circuit)
 
 A DC solution to a circuit is a solution consisting entirely of constant signals (all voltages and currents)
@@ -17,6 +18,7 @@ For DC all complicated ODEs normally ruling the circuits reduce to algebraic equ
 At our desposal we allways have Kirchhoff's laws (KCL, KVL) and device equations!
 
 ## Nodal method
+
 1. Label all the nodes with variables $e_1,e_2,...,e_n$ denoting electric potentials
 ![Pasted image 20221028103037](attachments/Pasted%20image%2020221028103037.png)
 2. Labels all the currents $i_1,i_2,...,i_n$ flowing into all the elements. For each n-terminal element we introduce $n-1$ new variables in tis way.
@@ -33,6 +35,7 @@ The current flowing out of the last terminal of an n-terminal element equals the
 ![Pasted image 20221028103950](attachments/Pasted%20image%2020221028103950.png)
 
 ## Superposition rule
+
 A solution to linear circuit with N independent sources is a sum of solutions to N circuits that result from the original circuit by reduction to zero all but one independent source (each time we let just a single independent source to act alone).
 
 In this way one may find only the whole solutions but also the individual voltages and currents.
@@ -43,9 +46,11 @@ In this way one may find only the whole solutions but also the individual voltag
 ![Pasted image 20221028104649](attachments/Pasted%20image%2020221028104649.png)
 
 ## Current Divider Formula (CDF)
+
 ![Pasted image 20221028104844](attachments/Pasted%20image%2020221028104844.png)
 
 ![Pasted image 20221028104925](attachments/Pasted%20image%2020221028104925.png)
 
 ## Voltage Divider Formula
+
 ![Pasted image 20221028105009](attachments/Pasted%20image%2020221028105009.png)

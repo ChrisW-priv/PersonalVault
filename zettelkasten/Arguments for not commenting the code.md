@@ -18,5 +18,6 @@ Part of [Code quality](Code%20quality)
 This is not to be mistaken with code documentation. Documentation is used to guide the user through how to use the code written. What is the contex of it. What are the expectations.
 
 Exceptions:
+
 - Non obvious performance optimisations
 - References to math and algorith notes

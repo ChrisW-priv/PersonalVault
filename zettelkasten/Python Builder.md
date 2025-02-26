@@ -27,6 +27,7 @@ Features I want:
 - `build` method that will create instance of the class that the builder is set to track
 
 I want to the implementation to be in a form of a class decorator, that will add `builder` method. 
+
 That method will return a builder to the caller.
 
 Example usage:

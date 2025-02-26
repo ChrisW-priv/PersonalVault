@@ -14,10 +14,15 @@ A nonzero vector that changes at most by a scalar factor when that [Linear trans
 Not every linear transformation has eigenvectors or enough vectors to describe original system of coordinates fully!
 
 ## Notation
+
 Every eigenvector must satisfy the equation:
+
 $$A\cdot \vec{v} = \lambda \cdot \vec{v}$$
+
 Where $A$ is a matrix describing transformation, $\vec{v}$ is an eigenvector and $\lambda$ is it's eigenvalue.
 
 ## Calculation
+
 We start with the calculation of [eigenvalue](Eigenvalue.md#Calculation).
+
 Then, we solve the [System of linear equations](System%20of%20linear%20equations.md) for given data.

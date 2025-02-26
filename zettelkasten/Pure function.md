@@ -11,7 +11,9 @@ categories: []
 > Function with no side-effects. 
 
 ## Intuition
+
 Pure function is a perfect function in terms of [Function programming](Function%20programming) as it has no side-effects. 
+
 Every such function is [idempotent](Idempotence.md) in programming sense but not all are idempotent in pure mathematical way (although there may be many examples including `unary` function pattern).
 
 > [!Note]

@@ -21,7 +21,6 @@ What went wrong, why?
 
 ## Trends
 
- 
 log on what we think is recurring.
 
 ## Action items

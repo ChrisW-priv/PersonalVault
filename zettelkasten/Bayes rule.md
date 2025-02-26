@@ -29,6 +29,7 @@ $$P(A\mid B)= \frac{P(A)\times P(B\mid A)}{P(B)} = \frac{P(A \cap B)}{P(B)}$$
 ## Intuition
 
 As it can be difficult to just *remember* the theorem there are multiple ways of
+
 how we can get this equation from visualizing problem and then generalizing.
 
 It can also help to change the names of the variables to reflect true use of the theorem:
@@ -41,5 +42,7 @@ $$P(H\mid D)= \frac{P(H)\times P(D\mid H)}{P(D)}$$
 - $P(D)$: probability of observing data on it's own.
 
 Now we get something we can read as "How probable is our hypothesis given data
+
 if we know the probability of data occurring under our hypothesis and
+
 probability of our hypothesis ever occurring"
