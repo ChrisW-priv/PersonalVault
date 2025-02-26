@@ -53,10 +53,14 @@
             "id": "dc807a959d5e601b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dashboards/Todo Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo Dashboard"
             }
           }
         ],
@@ -204,11 +208,16 @@
   },
   "active": "dc807a959d5e601b",
   "lastOpenFiles": [
+    "templates/zettlekasten.md",
+    "templates/weekend_project.md",
+    "templates/task.md",
+    "templates/ProgressLog.md",
+    "templates/post.md",
+    "templates/Meta-Skill.md",
     "zettelkasten/Engineering Thesis.md",
     "zettelkasten/Batteries Project.md",
     "zettelkasten/Untitled.md",
     "dashboards/Todo Dashboard.md",
-    "templates/task.md",
     "zettelkasten/Thesis overview.md",
     "zettelkasten/Learning Progress Log.md",
     "dashboards",
@@ -216,13 +225,8 @@
     "templates/4913",
     "zettelkasten/Task Management.md",
     "zettelkasten/Life engineered.md",
-    "templates/ProgressLog.md",
     "4913",
     "zettelkasten/Content Access Permission App.md",
-    "templates/weekend_project.md",
-    "templates/post.md",
-    "templates/zettlekasten.md",
-    "templates/Meta-Skill.md",
     "zettelkasten/Thesis TODO.md",
     "zettelkasten/Bernoulli equations.md",
     "zettelkasten/Mastery Protocol.md",
