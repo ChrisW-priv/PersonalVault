@@ -1,0 +1,20 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "attachments",
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten",
+  "useTab": false
+}
