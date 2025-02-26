@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02b49506d40074b5",
+        "id": "8c6517d8b6588888",
         "type": "tabs",
         "children": [
           {
-            "id": "75edead1065602b5",
+            "id": "734704055a0ea8c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75edead1065602b5",
+  "active": "734704055a0ea8c1",
   "lastOpenFiles": [
+    "zettelkasten/Batteries Project.md",
+    "dashboards/Todo Dashboard.md",
+    "dashboards",
+    "Templates/task.md",
     "Untitled.md"
   ]
 }
