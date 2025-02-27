@@ -208,6 +208,8 @@
   },
   "active": "dc807a959d5e601b",
   "lastOpenFiles": [
+    "snippets/todo_tags.js",
+    "snippets",
     "templates/zettlekasten.md",
     "templates/weekend_project.md",
     "templates/task.md",
@@ -237,7 +239,6 @@
     "zettelkasten/Device port.md",
     "zettelkasten/Parallel connections equivalents.md",
     "zettelkasten/Change of basis.md",
-    "zettelkasten/Fourier series.md",
     "zettelkasten/tags",
     "templates/Meta-Skill.md~",
     "zettelkasten/Markdown-Test.md~",
@@ -253,7 +254,6 @@
     "zettelkasten/attachments/surjective function.png",
     "zettelkasten/attachments/pendulum forces visualised.png",
     "zettelkasten/sedUbBMIN",
-    "zettelkasten/sedlfQorE",
     "Canvas/Outline.canvas",
     "Canvas/ECRYPT Notatki.canvas"
   ]
