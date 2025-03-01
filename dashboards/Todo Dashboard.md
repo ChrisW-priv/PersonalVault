@@ -18,7 +18,7 @@ function mapPriorityToName(taskPriority) {
 function stripInlineTags(text) {
     return text.replace(/\[[^\]]*::[^\]]*\]/g, '').trim();
 }
-let pages = dv.pages('"zettelkasten" and #project')
+let pages = dv.pages('"projects" and #project')
 
 for (let page of pages) {
     dv.header(2, page.title)
