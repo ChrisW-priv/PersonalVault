@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "path:zettelkasten  ",
-  "showTags": false,
+  "search": "tag:project",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,

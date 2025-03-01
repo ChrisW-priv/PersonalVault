@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39301bd718d5c6a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dashboards/Todo Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo Dashboard"
-            }
-          },
-          {
-            "id": "e03a9bf18f2980b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Batteries Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Batteries Project"
-            }
-          },
-          {
-            "id": "c91f88e164a74a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Engineering Thesis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Engineering Thesis"
-            }
-          },
-          {
             "id": "dc807a959d5e601b",
             "type": "leaf",
             "state": {
@@ -62,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Todo Dashboard"
             }
-          },
-          {
-            "id": "0cf14f0cb25796a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Rynek Energii w Polsce.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rynek Energii w Polsce"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5988b58a8755978",
@@ -221,43 +163,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf14f0cb25796a3",
+  "active": "dc807a959d5e601b",
   "lastOpenFiles": [
-    "zettelkasten/Rynek Energii w Polsce.md",
     "dashboards/Todo Dashboard.md",
+    "zettelkasten/Rynek Energii w Polsce.md",
+    "zettelkasten/Batteries Project.md",
+    "projects/Probability Visualized.md",
+    "projects/Learn Mojo.md",
+    "projects/Engineering Thesis.md",
+    "projects/Create simple compiler.md",
+    "projects/Batteries Project.md",
+    "zettelkasten/ECOTE.md",
+    "zettelkasten/EARIN.md",
+    "projects/ECOTE.md",
+    "projects/EARIN.md",
+    "projects",
+    "zettelkasten/Engineering Thesis.md",
+    "zettelkasten/Create simple compiler.md",
+    "zettelkasten/Untitled.md",
+    "templates/project.md",
+    "zettelkasten/Probability Visualized.md",
+    "zettelkasten/Learn Mojo.md",
     "snippets/todo_tags.js",
     "snippets",
     "templates/zettlekasten.md",
     "templates/weekend_project.md",
-    "templates/task.md",
     "templates/ProgressLog.md",
     "templates/post.md",
     "templates/Meta-Skill.md",
-    "zettelkasten/Engineering Thesis.md",
-    "zettelkasten/Batteries Project.md",
     "zettelkasten/Thesis overview.md",
     "zettelkasten/Learning Progress Log.md",
     "dashboards",
     "templates/task.md~",
     "templates/4913",
     "zettelkasten/Task Management.md",
-    "zettelkasten/Life engineered.md",
     "4913",
-    "zettelkasten/Content Access Permission App.md",
-    "zettelkasten/Thesis TODO.md",
-    "zettelkasten/Bernoulli equations.md",
-    "zettelkasten/Mastery Protocol.md",
-    "zettelkasten/Python Builder.md",
-    "templates/Untitled.md",
-    "zettelkasten/Power (DC).md",
-    "zettelkasten/Zeigarnik Effect.md",
-    "zettelkasten/Device port.md",
-    "zettelkasten/Parallel connections equivalents.md",
-    "zettelkasten/Change of basis.md",
     "zettelkasten/tags",
     "templates/Meta-Skill.md~",
     "zettelkasten/Markdown-Test.md~",
-    "zettelkasten/4913",
     "zettelkasten/attachments/Pasted image 20221026210231.png",
     "zettelkasten/attachments/Pasted image 20221026205842.png",
     "zettelkasten/attachments/Pasted image 20221026205640.png",

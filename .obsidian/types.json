@@ -4,6 +4,10 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "draft": "checkbox"
+    "draft": "checkbox",
+    "urgent": "checkbox",
+    "important": "checkbox",
+    "due_date": "date",
+    "end_date": "date"
   }
 }
