@@ -5,6 +5,7 @@ description: Learn python compilation with new setup language superset.
 tags:
   - project
 important: true
+status: todo
 ---
 
 ## Action Items

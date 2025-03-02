@@ -6,6 +6,7 @@ tags:
   - project
 important: true
 due_date: 2025-05-31
+status: todo
 ---
 
 ## Action Items

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/Cramer's Rule.md",
+                "file": "projects/Personal cash flow analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cramer's Rule"
+              "title": "Personal cash flow analysis"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:project",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "c048dedc549fd1b9",
@@ -151,10 +151,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "734704055a0ea8c1",
+  "active": "91d550bedf3e93b0",
   "lastOpenFiles": [
-    "dashboards/Todo Dashboard.md",
+    "projects/Python Builder.md",
+    "zettelkasten/Content Access Permission App.md",
     "Templates/weekend_project.md",
+    "projects/Batteries Project.md",
+    "projects/Personal cash flow analysis.md",
+    "projects/Implement graph theory into library.md",
+    "projects/Refactor vault notes.md",
+    "projects/Probability Visualized.md",
+    "projects/Learn Mojo.md",
+    "projects/Engineering Thesis.md",
+    "projects/ECOTE.md",
+    "projects/EARIN.md",
+    "projects/Create simple compiler.md",
+    "Templates/project.md",
+    "zettelkasten/Cramer's Rule.md",
+    "zettelkasten/Untitled.md",
+    "projects",
+    "dashboards/Todo Dashboard.md",
     "zettelkasten/Rynek Energii w Polsce.md",
     "zettelkasten/Engineering Thesis.md",
     "snippets/todo_tags.js.md",
