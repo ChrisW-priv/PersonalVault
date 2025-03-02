@@ -5,6 +5,7 @@ description: On ELAC and ECOTE courses on PW uni I was taught some intro to comp
 tags:
   - project
 important: false
+status: todo
 ---
 
 ## Action Items

@@ -7,6 +7,7 @@ tags:
   - course
 important: true
 end_date: 2025-06-30
+status: todo
 ---
 
 ## Action Items

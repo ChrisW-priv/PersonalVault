@@ -5,6 +5,7 @@ description: I want to make learning the probability easy and interactive. This 
 tags:
   - project
 important: false
+status: todo
 ---
 
 ## Action Items

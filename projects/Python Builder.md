@@ -3,9 +3,9 @@ title: Python Builder
 date: 2025-02-25
 description: Builder pattern for python
 tags:
-  - weekend_project_idea
-categories: 
+  - project
 status: todo
+important: false
 ---
 
 Make a simple python builder class that will track the attributes of:

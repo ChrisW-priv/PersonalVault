@@ -5,6 +5,7 @@ description: Thesis on how the AI can be used in building a personal assistant
 tags:
   - project
 due_date: 2025-05-05
+status: in-progress
 ---
 
 ## Action Items
