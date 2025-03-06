@@ -1,3 +1,12 @@
+---
+title: "Graph lib in db"
+date: "2025-03-06"
+description: ""
+tags:
+  - project
+important: true
+---
+
 idea: make a graph implementation inside postgres
 
 implement it with django orm for easier visualisations etc.
@@ -17,3 +26,14 @@ edge: node1_id, node_2_id, edge_attr.id
 immediate thought: edge list is said to be least efficient: investigate the optimization techniques.
 
 maybe store data as edge list in stg table but pre compute some adjacency list or even adjacency matrix?
+
+## Action Items
+
+
+## Progress
+
+Notes on what happened...
+
+## Reflection
+
+What went wrong? Why?
