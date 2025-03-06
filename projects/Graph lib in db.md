@@ -29,7 +29,6 @@ maybe store data as edge list in stg table but pre compute some adjacency list o
 
 ## Action Items
 
-
 ## Progress
 
 Notes on what happened...
