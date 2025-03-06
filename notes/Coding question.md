@@ -1,3 +1,10 @@
+---
+title: Coding question
+date: 2025-03-06
+description: Example coding question for recruitment process
+tags:
+---
+
 # Coding question
 
 In an article [here](https://www.removepaywall.com/search?url=https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c). I found some coding question:
