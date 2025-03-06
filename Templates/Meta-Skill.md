@@ -1,14 +1,11 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DD}}
+date:
+  "{ date:YYYY-MM-DD }": 
 description: ""
 tags: 
 categories:
-  - meta-skills
+  - "{{title}}"
+type: post
 ---
 
-Tag dedicated to track this: #{{title}}  
-
-Quote to remember:
-
-> Quote!

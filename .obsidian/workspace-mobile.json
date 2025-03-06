@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Personal cash flow analysis.md",
+                "file": "projects/Life habits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal cash flow analysis"
+              "title": "Life habits"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "c048dedc549fd1b9",
@@ -151,13 +151,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91d550bedf3e93b0",
+  "active": "734704055a0ea8c1",
   "lastOpenFiles": [
+    "projects/Create simple compiler.md",
+    "projects/Life habits.md",
+    "projects/Personal cash flow analysis.md",
     "projects/Python Builder.md",
     "zettelkasten/Content Access Permission App.md",
     "Templates/weekend_project.md",
     "projects/Batteries Project.md",
-    "projects/Personal cash flow analysis.md",
     "projects/Implement graph theory into library.md",
     "projects/Refactor vault notes.md",
     "projects/Probability Visualized.md",
@@ -165,7 +167,6 @@
     "projects/Engineering Thesis.md",
     "projects/ECOTE.md",
     "projects/EARIN.md",
-    "projects/Create simple compiler.md",
     "Templates/project.md",
     "zettelkasten/Cramer's Rule.md",
     "zettelkasten/Untitled.md",

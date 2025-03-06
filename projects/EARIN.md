@@ -11,7 +11,7 @@ status: todo
 
 ## Action Items
 
-- [ ] Task1 [important:: true] 
+- [ ] Prepare for the lecture on Wednesday  
 
 ## Progress
 
