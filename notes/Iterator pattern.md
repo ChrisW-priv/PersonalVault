@@ -12,4 +12,4 @@ categories: []
 
 ## Code
 
-See [Iterators in cpp](zettelkasten/Iterators%20in%20cpp.md).
+See [Iterators in cpp](Iterators%20in%20cpp.md).

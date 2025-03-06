@@ -13,7 +13,7 @@ interesting idea against prompt engineering:
 
 Prompt engineering is just a way to maximise the efectiveness of the
 
-[LLM](zettelkasten/LLM.md). Often times, queries from user are short, inacurate, stripped of context.
+[LLM](LLM.md). Often times, queries from user are short, inacurate, stripped of context.
 
 Before passing the user query to the LLM, we could use some rules that will 
 

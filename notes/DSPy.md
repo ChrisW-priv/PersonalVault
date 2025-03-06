@@ -9,9 +9,9 @@ categories: []
 
 [link](https://www.removepaywall.com/search?url=https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896)
 
-[Prompt engineering](zettelkasten/Prompt%20engineering.md)
+[Prompt engineering](Prompt%20engineering.md)
 
-[LLM](zettelkasten/LLM.md)
+[LLM](LLM.md)
 
 DSPy is **an open-source tool created by Stanford University that "compiles declarative language model calls into self-improving pipelines."** Instead of spending time crafting perfect prompts, DSPy lets you program the AI models directly. This makes AI apps more reliable and easier to scale.
 

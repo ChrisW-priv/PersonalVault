@@ -14,7 +14,7 @@ As the name suggests it is comprised of 3 stages:
 
 1. Retrieval of query relevant information
 2. Augmenting the [[Original Question]] to include retrieved documents
-3. Generation of response by [LM](zettelkasten/LLM.md) inference with newly created prompt
+3. Generation of response by [LM](LLM.md) inference with newly created prompt
 
 ## Why would we use a RAG method?
 

@@ -1,10 +1,10 @@
 {
   "strictLineBreaks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten",
+  "newFileFolderPath": "notes",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "zettelkasten/attachments",
+  "attachmentFolderPath": "notes/attachments",
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {

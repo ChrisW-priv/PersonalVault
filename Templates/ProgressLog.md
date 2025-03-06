@@ -29,4 +29,4 @@ Things to work on/ways to improve.
 
 ## Next steps
 
-Do not forget: [Pareto Principle](Pareto%20Principle.md)
+Do not forget: [Pareto Principle](../notes/Pareto%20Principle.md)

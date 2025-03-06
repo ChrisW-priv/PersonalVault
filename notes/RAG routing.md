@@ -7,7 +7,7 @@ tags:
 categories: []
 ---
 
-[RAG](zettelkasten/RAG.md)
+[RAG](RAG.md)
 
 Given a set of data collection descriptors like \["python docs", "js docs", "go
 

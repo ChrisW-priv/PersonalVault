@@ -7,7 +7,7 @@ tags:
 categories: []
 ---
 
-[LLM](zettelkasten/LLM.md)
+[LLM](LLM.md)
 
 ## Chunk Size
 
