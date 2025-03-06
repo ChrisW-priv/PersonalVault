@@ -8,6 +8,7 @@
     "urgent": "checkbox",
     "important": "checkbox",
     "due_date": "date",
-    "end_date": "date"
+    "end_date": "date",
+    "start": "date"
   }
 }

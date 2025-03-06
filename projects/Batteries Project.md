@@ -5,17 +5,19 @@ description: Project at work I need to prepare for
 tags:
   - project
 important: true
+start: 2025-03-06
+end: 2025-05-31
 due_date: 2025-05-31
 status: todo
 ---
 
 ## Action Items
 
-- [ ] Learn the business side of the project [important:: true]
+- [ ] Learn the business side of the project
     - [ ] Read the presentation on capacity + reserves in the mail
     - [ ] Read the paper on BESS and make notes - ask if we will use it
-- [ ] Learn ETL [important:: true]
-- [ ] Learn DBT [important:: true]
+- [ ] Learn ETL
+- [ ] Learn DBT
 
 ## Progress
 

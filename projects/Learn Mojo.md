@@ -10,10 +10,10 @@ status: todo
 
 ## Action Items
 
-- [ ] Install mojo [important:: true]
-- [ ] Follow some basic examples (create sandbox for it) [important:: true]
-- [ ] Take some project that I did and try to compile it [important:: true]
-- [ ] Compare the deployment of both - dockerize each and comp times [important:: true]
+- [ ] Install mojo 
+- [ ] Follow some basic examples (create sandbox for it) 
+- [ ] Take some project that I did and try to compile it 
+- [ ] Compare the deployment of both - dockerize each and comp times 
 
 ## Progress
 

@@ -14,6 +14,8 @@ status: todo
 - [ ] Write tests to define expected behavior first [important:: true]
 - [ ] Write the thing [important:: true]
 - [ ] Package it into some frontend [important:: false]
+- [ ] Make LSP for the mg [important:: false]
+- [ ] Do the same for GPM [important:: true]
 
 ## Progress
 
