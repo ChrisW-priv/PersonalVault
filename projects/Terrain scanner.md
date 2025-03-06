@@ -15,7 +15,6 @@ I predict that turning the view from multiple drones into one space and then dis
 
 ## Action Items
 
-
 ## Progress
 
 Notes on what happened...

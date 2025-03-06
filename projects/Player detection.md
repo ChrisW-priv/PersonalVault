@@ -9,7 +9,6 @@ important: false
 
 ## Action Items
 
-
 ## Progress
 
 Notes on what happened...
