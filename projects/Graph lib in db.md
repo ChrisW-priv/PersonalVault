@@ -1,10 +1,10 @@
 ---
-title: "Graph lib in db"
-date: "2025-03-06"
+title: Graph lib in db
+date: 2025-03-06
 description: ""
 tags:
   - project
-important: true
+important: false
 ---
 
 idea: make a graph implementation inside postgres
