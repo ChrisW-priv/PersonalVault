@@ -11,10 +11,14 @@
             "id": "9c6234608ccc2dc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/progress-log.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "progress-log"
             }
           }
         ]
@@ -161,30 +165,30 @@
   },
   "active": "9c6234608ccc2dc7",
   "lastOpenFiles": [
+    "templates/meta-skill.md",
+    "templates/post.md",
+    "templates/progress-log.md",
+    "projects/Terrain scanner.md",
+    "projects/Probability Visualized.md",
+    "projects/Player detection.md",
+    "projects/Graph lib in db.md",
     "notes/Coding question.md",
     "templates/daily-note.md",
     "notes/2024-12-11.md",
     "notes/2024-11-25.md",
-    "projects/Graph lib in db.md",
-    "projects/Terrain scanner.md",
     "notes/2023-01-27.md",
-    "projects/Player detection.md",
     "notes/2023-01-17.md",
     "templates/Meta-Skill.md~",
     "templates/4913",
     "templates/zettlekasten.md~",
     "templates/daily-note.md~",
-    "templates/Meta-Skill.md",
-    "templates/post.md",
     "templates/project.md",
     "templates/zettlekasten.md",
-    "templates/ProgressLog.md",
     "dashboards/important-undone.md",
     "projects/ECOTE.md",
     "projects/Batteries Project.md",
     "projects/Learn Mojo.md",
     "projects/EARIN.md",
-    "projects/Probability Visualized.md",
     "projects/Engineering Thesis.md",
     "projects/Create simple compiler.md",
     "zettelkasten/Engineering Thesis.md",
