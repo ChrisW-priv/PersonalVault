@@ -7,7 +7,7 @@ tags:
 categories: []
 ---
 
-[RAG](zettelkasten/RAG.md)
+[RAG](RAG.md)
 
 Text Indexing for Language Extraction
 

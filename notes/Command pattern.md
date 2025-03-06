@@ -15,7 +15,7 @@ Note based on "Programowanie gier Wzorce" by Robert Nystrom
 > [!Note]
 > Following note assumes we write our code in c++. Therefore we choose the
 > object oriented approach to solve this. However, it can also be done in
-> languages with no oop support via [Closure in code](zettelkasten/Closure%20in%20code.md). Here, we stick with oop
+> languages with no oop support via [Closure in code](Closure%20in%20code.md). Here, we stick with oop
 > because of poor nested function support in c++.
 
 ## Input to command mapping

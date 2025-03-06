@@ -4,11 +4,6 @@ date: {{date:YYYY-MM-DD}}
 description: ""
 tags: 
 categories:
-  - meta-skills
+  - "{{title}}"
 ---
 
-Tag dedicated to track this: #{{title}}  
-
-Quote to remember:
-
-> Quote!

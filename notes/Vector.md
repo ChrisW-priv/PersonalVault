@@ -16,7 +16,7 @@ Common way of interpreting the vector is to associate it with a force or movemen
 
 Mathematics tries to generalize the idea of a vector and use it whenever it makes sense to use functions like addition or multiplication of vectors
 
-Later on, in math it is common to treat vectors as a [matrix](matrix) of size $m \times 1$ where m is the number of dimensions a vector has and m is a number of columns a matrix would have.
+Later on, in math it is common to treat vectors as a [Matrix](Matrix.md) of size $m \times 1$ where m is the number of dimensions a vector has and m is a number of columns a matrix would have.
 
 ## Notation
 
