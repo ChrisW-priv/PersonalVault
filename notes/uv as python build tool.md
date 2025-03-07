@@ -1,7 +1,6 @@
 ---
-title: "uv as python build tool"
-date:
-  "{ date:YYYY-MM-DD }": 
+title: uv as python build tool
+date: "2025-03-07" 
 description: ""
 tags:
   - posts
