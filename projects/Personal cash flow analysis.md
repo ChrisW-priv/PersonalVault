@@ -9,7 +9,6 @@ status: in-progress
 ---
 
 I desperately need a tool that will allow me to test some financial hypotheses.
-
 This will allow me to familiarize myself with the consequences of my investments and stuff.
 
 ## Action Items
