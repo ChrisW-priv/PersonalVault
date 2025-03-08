@@ -6,15 +6,21 @@ tags:
   - project
 due_date: 2025-05-05
 status: in-progress
+important: true
 ---
 
 ## Action Items
 
-- [ ] Build Frontend  [important:: true]
-    - [ ] Rewrite to work with direct token.
-        - [ ] Remove Login page.
-        - [ ] Add simple Token Set
-- [ ] Build Backend  [important:: true]
-    - [ ] Fix startup time
-- [ ] Build Functions  [important:: true]
-- [ ] Write actual Paper  [important:: true]
+- [ ] Build Frontend
+    - [x] Rewrite to work with direct token.
+        - [x] Remove Login page.
+        - [x] Add simple Token Set
+    - [ ] Allow file uploads [important:: false]
+    - [ ] Allow temporary login using OTP (This was partially implemented but i need to use JWT instead of sessions) [important:: false]
+- [ ] Build Backend
+    - [ ] Fix startup time [important:: false]
+- [ ] Build Functions
+    - [ ] Make better QA function [important:: false]
+    - [ ] Make use of n8n automations [important:: false]
+- [ ] Write actual Paper
+    - [ ] Make an index and assign each section it's space
