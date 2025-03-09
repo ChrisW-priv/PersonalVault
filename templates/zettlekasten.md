@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DD}}
+date: "{{date:YYYY-MM-DD}}"
 description: ""
-tags: 
-  - "zettlekasten"
+tags:
+  - zettlekasten
 ---
