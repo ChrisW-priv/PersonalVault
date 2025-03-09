@@ -8,6 +8,7 @@ due_date: 2025-05-05
 status: in-progress
 important: true
 ---
+[Link to overleaf doc](https://www.overleaf.com/project/67700d7144fd0bf691e02b75)
 
 ## Action Items
 

@@ -14,7 +14,7 @@ status: todo
 ## Action Items
 
 - [ ] Learn the business side of the project
-    - [ ] Read the presentation on capacity + reserves in the mail
+    - [x] Read the presentation on capacity + reserves in the mail
     - [ ] Read the paper on BESS and make notes - ask if we will use it
 - [ ] Learn ETL
 - [ ] Learn DBT
