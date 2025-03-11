@@ -20,8 +20,10 @@ important: true
     - [ ] Allow temporary login using OTP (This was partially implemented but i need to use JWT instead of sessions) [important:: false]
 - [ ] Build Backend
     - [ ] Fix startup time [important:: false]
+    - [ ] Fix function calling
+    - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker))
 - [ ] Build Functions
     - [ ] Make better QA function [important:: false]
     - [ ] Make use of n8n automations [important:: false]
 - [ ] Write actual Paper
-    - [ ] Make an index and assign each section it's space
+    - [x] Make an index and assign each section it's space

@@ -14,8 +14,10 @@ This will allow me to familiarize myself with the consequences of my investments
 ## Action Items
 
 - [ ] Rewrite the thing to make simulation definition easy 
-- [ ] add easy options to add variables like curves and options etc.
-- [ ] Current simulation engine is nice cuz it is based on events, but I need to make nicer option to add events with some offset and delete old events from que to make one off events not block entire queue
+- [ ] Add easy options to add variables like curves and options etc.
+- [ ] Need to make nicer option to add events with some offset
+- [ ] Delete old events from que to make one off events not block entire queue
+- [ ] Publish to the cloud to make ad-hoc access easy
 
 ## Progress
 
