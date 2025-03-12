@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/ECOTE.md",
+                "file": "projects/Personal Budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECOTE"
+              "title": "Personal Budget"
             }
           }
         ]
@@ -153,6 +153,8 @@
   },
   "active": "9f97e12d0b61e35a",
   "lastOpenFiles": [
+    "projects/ECOTE.md",
+    "projects/Personal Budget.md",
     "projects/Batteries Project.md",
     "notes/Balancing Services Market.md",
     "projects/Python Builder.md",
@@ -178,8 +180,6 @@
     "projects/Life habits.md",
     "projects/Content Access Permission App.md",
     "Templates/daily-note.md",
-    "Templates/progress-log.md",
-    "projects/Player detection.md",
     "notes/attachments/Pasted image 20221028103829.png",
     "notes/attachments/Pasted image 20221030191929.png",
     "notes/attachments/Pasted image 20221026210231.png",
