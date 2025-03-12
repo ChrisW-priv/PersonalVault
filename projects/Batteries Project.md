@@ -43,6 +43,8 @@ graph LR
     - [ ] Understand what product we sell
 - [x] Go through the code and understand what is going on
 - [ ] Read the paper on BESS [important:: false]
+- [ ] Add tasks to Jira: setup mypy + pytest + coverage
+- [ ] Make a unified set of names for the variables and a glossary of what is what
 
 ## Progress
 
