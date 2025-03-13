@@ -11,14 +11,10 @@
             "id": "9a54dacd51383ff3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/TestPresentation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TestPresentation"
+              "title": "New tab"
             }
           }
         ]
@@ -173,8 +169,8 @@
   },
   "active": "9a54dacd51383ff3",
   "lastOpenFiles": [
-    "templates/slides.md",
     "notes/TestPresentation.md",
+    "templates/slides.md",
     "notes/PARA Note System.md",
     "templates/progress-log.md",
     "templates/Meta-Skill.md",
