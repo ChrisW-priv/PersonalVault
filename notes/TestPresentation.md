@@ -1,10 +1,10 @@
 ---
-title: "TestPresentation"
-date: "2025-03-13"
+title: TestPresentation
+date: 2025-03-13
 description: ""
 tags:
   - presentation
-theme: white
+theme: css/simple.css
 transition: none
 ---
 
@@ -18,11 +18,14 @@ Krzysztof Watras
 
 para...
 
-para...
+note: foo bar
 
-para...
+--
 
-para...
+## Hidden heading
+
+para hidden
 
 ---
 
+## Next
