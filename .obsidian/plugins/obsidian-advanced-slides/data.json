@@ -1,0 +1,21 @@
+{
+  "port": "3005",
+  "autoReload": true,
+  "exportDirectory": "/notes/presentations",
+  "enableChalkboard": false,
+  "enableOverview": false,
+  "enableMenu": false,
+  "enablePointer": false,
+  "enableTimeBar": false,
+  "theme": "black",
+  "highlightTheme": "zenburn",
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": true,
+  "slideNumber": true,
+  "showGrid": false,
+  "autoComplete": "inPreview",
+  "paneMode": "tab",
+  "motm": "2025-03-13T18:34:06.880Z"
+}
