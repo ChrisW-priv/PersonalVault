@@ -4,8 +4,8 @@ date: 2025-02-25
 description: Builder pattern for python
 tags:
   - project
-status: todo
-important: false
+status: done
+important: true
 ---
 
 Make a simple python builder class that will track the attributes of:
@@ -50,3 +50,8 @@ foo_builder_b1 = foo_builder.set('b', "def")
 foo_builder_ab = foo_builder_a | foo_builder_b  # foo_builder_ab has a=1, b='abc', c=None
 foo_builder_b2 = foo_builder_b | foo_builder_b1  # foo_builder_b2 a=None, b='def', c=None
 ```
+
+## Action Items
+
+- [x] Make AI implement this ^
+- [x] Publish the work on PyPi
