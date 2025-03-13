@@ -11,10 +11,14 @@
             "id": "9a54dacd51383ff3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "projects/Engineering Thesis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Engineering Thesis"
             }
           }
         ]
@@ -169,6 +173,8 @@
   },
   "active": "9a54dacd51383ff3",
   "lastOpenFiles": [
+    "notes/Partial pattern.md",
+    "notes/Quantum computing.md",
     "notes/TestPresentation.md",
     "templates/slides.md",
     "notes/PARA Note System.md",
