@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "71f97a137e17deea",
+            "id": "c6d0c449532200a3",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -31,7 +31,8 @@
               "title": "Slide Preview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +177,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9a54dacd51383ff3",
+  "active": "c6d0c449532200a3",
   "lastOpenFiles": [
     "templates/slides.md",
     "notes/TestPresentation.md",
