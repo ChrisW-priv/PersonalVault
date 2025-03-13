@@ -6,6 +6,7 @@ tags:
 categories: 
 draft: true
 ---
+[Batteries Project](../projects/Batteries%20Project.md)
 
 Uproszczony widok na rynek energii w Polsce:
 
