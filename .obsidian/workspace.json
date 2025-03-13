@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "TestPresentation"
             }
-          },
-          {
-            "id": "c6d0c449532200a3",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +171,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6d0c449532200a3",
+  "active": "9a54dacd51383ff3",
   "lastOpenFiles": [
     "templates/slides.md",
     "notes/TestPresentation.md",

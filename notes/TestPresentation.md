@@ -4,7 +4,7 @@ date: 2025-03-13
 description: ""
 tags:
   - presentation
-theme: css/simple.css
+theme: white
 transition: none
 ---
 
@@ -14,9 +14,10 @@ Krzysztof Watras
 
 ---
 
-## What is Test Presentation?
+<!-- align="left" -->
+## What is Test Presentation? <!-- element align="left" -->
 
-para...
+para... <!-- element align="left" -->
 
 note: foo bar
 
