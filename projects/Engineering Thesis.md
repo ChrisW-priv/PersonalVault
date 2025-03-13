@@ -19,11 +19,15 @@ important: true
     - [ ] Allow file uploads [important:: false]
     - [ ] Allow temporary login using OTP (This was partially implemented but i need to use JWT instead of sessions) [important:: false]
 - [ ] Build Backend
-    - [ ] Fix startup time [important:: false]
+    - [ ] Fix startup time 
     - [ ] Fix function calling
-    - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker))
+    - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker)) [important:: false]
 - [ ] Build Functions
     - [ ] Make better QA function [important:: false]
-    - [ ] Make use of n8n automations [important:: false]
+    - [ ] Fix the bug on the function calling
+    - [ ] Make use of n8n automations 
 - [ ] Write actual Paper
     - [x] Make an index and assign each section it's space
+    - [ ] Fix the section beginnings
+    - [ ] Add adnotations
+    - [ ] Write Chapter on Design & Implementation

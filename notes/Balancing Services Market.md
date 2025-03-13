@@ -5,6 +5,7 @@ description: ""
 tags:
   - zettlekasten
 ---
+[Batteries Project](../projects/Batteries%20Project.md)
 
 ## Glossary
 
@@ -45,7 +46,23 @@ RR - Replacement reserve
 
 ## Scheduling unit types for RES
 
-??
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. hgkjh
+0. jkh
 
 ## Scheduling unit types for BESS
 
@@ -55,18 +72,36 @@ RR - Replacement reserve
 
 Balancing capacity market phases:
 
-- **Initial** – day-ahead trading, single pay-as-cleared auction for a whole day, offers in full MWs in hourly granularity
+- **Primary** – day-ahead trading, single pay-as-cleared auction for a whole day, offers in full MWs in hourly granularity
 - **Secondary** – intraday trading, hour-specific pay-as-cleared auctions, offers in full MWs in 15 mins granularity
 
 Trading schedule – spot and balancing markets
 
-| Time                                          | Event                                                                             |
-| --------------------------------------------- | --------------------------------------------------------------------------------- |
-| 07:30 (d-1)                                   | Publication of grid limits                                                        |
-| 8:30-9:00 (d-1)                               | Initial capacity auctions                                                         |
-| 9:00-10:00 (d-1)                              | Verification of capacity offers, initial auction results publication              |
-| 10:00-14:30 (d-1)                             | Initial scheduling phase  <br>(incl. balancing energy offers)                     |
-| 10:30 (d-1)                                   | Day-ahead spot auction I                                                          |
-| 12:00 (d-1)                                   | Day-ahead spot auction II                                                         |
-| 14:00 (d-1) – 22:15                           | Intraday spot market  <br>(ending 45 mins before delivery hour)                   |
-| 16:30 (d-1) – 22:05                           | Secondary capacity and energy auctions  <br>(ending 55 mins before delivery hour) |
+| Time                | Event                                                                             |
+| ------------------- | --------------------------------------------------------------------------------- |
+| 07:30 (d-1)         | Publication of grid limits                                                        |
+| 8:30-9:00 (d-1)     | Initial capacity auctions                                                         |
+| 9:00-10:00 (d-1)    | Verification of capacity offers, initial auction results publication              |
+| 10:00-14:30 (d-1)   | Initial scheduling phase  <br>(incl. balancing energy offers)                     |
+| 10:30 (d-1)         | Day-ahead spot auction I                                                          |
+| 12:00 (d-1)         | Day-ahead spot auction II                                                         |
+| 14:00 (d-1) – 22:15 | Intraday spot market  <br>(ending 45 mins before delivery hour)                   |
+| 16:30 (d-1) – 22:05 | Secondary capacity and energy auctions  <br>(ending 55 mins before delivery hour) |
+
+or as a chart:
+
+```mermaid
+gantt
+    title Energy Market Timeline
+    dateFormat HH:mm
+    axisFormat %H:%M
+    section Day Before (d-1)
+    Publication of grid limits       : milestone, 07:30, 07:30
+    Initial capacity auctions        : 08:30, 09:00
+    Verification of capacity offers  : 09:00, 10:00
+    Initial scheduling phase         : 10:00, 14:30
+    Day-ahead spot auction I         : milestone, 10:30, 10:30
+    Day-ahead spot auction II        : milestone, 12:00, 12:00
+    Intraday spot market             : 14:00, 22:15
+    Secondary capacity & energy auctions : 16:30, 22:05
+```
