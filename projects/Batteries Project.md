@@ -50,7 +50,8 @@ graph LR
 - [ ] Learn the business side of the project
     - [x] Read the presentation on capacity + reserves in the mail
     - [x] Make note on the glossary + environment we work in
-    - [ ] Understand what product we sell
+    - [x] Understand what product we sell
+    - [ ] Learn DA1 and study the markets in detail
 - [x] Go through the code and understand what is going on
 - [ ] Read the paper on BESS [important:: false]
 - [x] Add tasks to Jira: setup mypy + pytest + coverage
