@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "33866b896a74a25d",
+        "id": "71779904b592c02b",
         "type": "tabs",
         "children": [
           {
-            "id": "9a54dacd51383ff3",
+            "id": "bc7d26b865b1942e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Engineering Thesis.md",
+                "file": "dashboards/important-undone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engineering Thesis"
+              "title": "important-undone"
+            }
+          },
+          {
+            "id": "de697c30b963e720",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
             }
           }
         ]
@@ -171,8 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a54dacd51383ff3",
+  "active": "bc7d26b865b1942e",
   "lastOpenFiles": [
+    "Untitled.ipynb",
+    "4913",
+    "README.md",
+    "pyproject.toml",
+    "hello.py",
+    "notes/Day ahead markets.md",
+    "dashboards/important-undone.md",
+    "notes/Personal Budget.md",
+    "projects/Engineering Thesis.md",
     "notes/Partial pattern.md",
     "notes/Quantum computing.md",
     "notes/TestPresentation.md",
@@ -200,10 +219,6 @@
     "notes/presentations/Test Presentation/plugin/chalkboard/img",
     "notes/presentations/Test Presentation/plugin/chalkboard",
     "notes/presentations/Test Presentation/plugin/chart/README.md",
-    "notes/presentations/Test Presentation/plugin/chart/plugin.js",
-    "notes/presentations/Test Presentation/plugin/chart/chart.min.js",
-    "notes/presentations/Test Presentation/plugin/chart",
-    "notes/presentations/Test Presentation/plugin/customcontrols/style.css",
     "notes/presentations/Test Presentation/plugin/customcontrols/README.md",
     "notes/presentations/Test Presentation/plugin/menu/CONTRIBUTING.md",
     "notes/presentations/Test Presentation/plugin/menu/README.md",
@@ -213,8 +228,6 @@
     "templates/zettlekasten.md",
     "templates/meta-skill.md",
     "notes/Batery Optimizer.md",
-    "notes/My note taking system.md",
-    "Canvas/Outline.canvas",
-    "notes/Zettelkasten Note System.md"
+    "Canvas/Outline.canvas"
   ]
 }
