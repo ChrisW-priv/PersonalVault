@@ -12,6 +12,7 @@ status: in-progress
 
 - [ ] Learn GIT, in detail
 - [ ] Learn to do CLIs with [pydantic-settings](https://docs.pydantic.dev/2.10/concepts/pydantic_settings/)
+- [ ] Learn to do MD slides
 
 ## Progress
 
