@@ -11,7 +11,10 @@ status: in-progress
 ## Action Items
 
 - [ ] make budget
+- [ ] make plan for a day/week/season
 - [ ] go to the gym
+- [ ] learn German [important:: false]
+- [ ] learn Spanish [important:: false]
 
 ## Progress
 

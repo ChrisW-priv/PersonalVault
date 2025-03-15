@@ -5,7 +5,7 @@ description: ""
 tags:
   - project
   - work
-important: true
+important: false
 status: in-progress
 ---
 
