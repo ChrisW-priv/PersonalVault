@@ -10,8 +10,7 @@ status: todo
 
 ## Action Items
 
-- [ ] Make a note in obsidian with the expected payments
-- [ ] Make the dataview dashboard from it
+- [ ] Make a [Personal cash flow analysis](Personal%20cash%20flow%20analysis.md) sim with the expected payments
 
 ## Progress
 

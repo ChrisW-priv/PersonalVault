@@ -4,7 +4,7 @@ date: 2025-03-01
 description: Learn python compilation with new setup language superset.
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 
