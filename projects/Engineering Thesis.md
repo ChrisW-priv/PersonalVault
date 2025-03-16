@@ -23,4 +23,4 @@ important: true
 - [ ] Make use of n8n automations  [folder:: backend]
 - [ ] Add adnotations [folder:: paper]
 - [ ] Write Chapter on Design & Implementation [folder:: paper]
-- [ ] u
+- [ ] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
