@@ -1,9 +1,10 @@
 ---
-title: "Remove File From Git History"
-date: "2025-03-14"
+title: Remove File From Git History
+date: 2025-03-14
 description: ""
 tags:
   - zettlekasten
+  - git
 ---
 
 There are 2 cases:
