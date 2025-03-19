@@ -1,30 +1,34 @@
 ---
 title: "Advice from Pawel Pawlucki"
 date: "2025-03-15"
-description: ""
-tags:
-  - zettlekasten
+description: "Insights on learning the energy market from Pawel Pawlucki."
+categories:
+  - zettelkasten
 ---
 
-During my work in Axpo, I had a great pleasure of working with Pawel Pawlucki.
-During that time I asked him "If he wanted to learn the energy market, how would he do it?"
+## What is the concept? 
 
-Answer was to learn the market through 2 view that are linked, and influence
-each other, but are separate in practice. Those views are: **financial** and **physical**.
-That is because the trading and delivery is separate.
+The advice from Pawel Pawlucki emphasizes understanding the energy market through two distinct but interconnected views: **financial** and **physical**. This differentiation is crucial because trading and delivery processes operate separately within the market.
 
-In the financial view, to analize it through:
+## Question and Answer Structure
 
-- Business
-- Financing
-- Credit Risk
-- Commodity Market in General
-- Types of contracts
-- Specially important are additional clauses in contracts signed
+**Q: How should one approach learning the energy market?**
 
-Law regarding the separation of responsibilities.
+A: One should analyze the market through two linked perspectives:
 
-Seller vs Supplier
-More and more: Renewable Energy Sources investments
+### Financial View
 
+1. **Business**: Understanding the dynamics of energy businesses.
+2. **Financing**: Learning how financing works in energy projects.
+3. **Credit Risk**: Evaluating risks associated with credit in transactions.
+4. **Commodity Market in General**: Familiarity with the broader commodity market.
+5. **Types of Contracts**: Knowledge of various agreements used in transactions.
+6. **Additional Clauses in Contracts**: Recognizing the importance of specific provisions in contracts.
 
+### Physical View
+
+- **Law regarding the Separation of Responsibilities**: It is essential to understand the regulatory framework governing the industry.
+- **Seller vs Supplier**: Knowing the roles and legal distinctions between sellers and suppliers.
+- **Renewable Energy Sources Investments**: The growing importance of investments in renewable energy. 
+
+By focusing on both views, one can gain a comprehensive understanding of the energy market's complexities.

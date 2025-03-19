@@ -1,16 +1,22 @@
 ---
-title: "A priori chance"
+title: A priori chance
 date: 2025-02-14
-description: ""
+description: The a priori chance factor is a ratio that compares the probability of two hypotheses, indicating how likely one hypothesis is compared to another.
 tags: 
-  - "zettlekasten"
-categories: []
+categories:
+  - zettelkasten
 ---
 
-## Definition
+## Q&A
 
-The a priori chance factor is a ratio of probability of two hypothesis. it compares how likely is the hypothesis one compared to hypothesis two. It can be seen as part of [Proportional form of Bayes Rule](Proportional%20form%20of%20Bayes%20Rule.md) in [Comparing two hypothesis given data](Comparing%20two%20hypothesis%20given%20data.md).
+**Q: What is the a priori chance factor?**  
+A: The a priori chance factor is a ratio of probabilities comparing two hypotheses (H1 and H2) to indicate how likely one hypothesis is compared to the other.
 
-## Notation
+**Q: How is the a priori chance factor used?**  
+A: It is used within Bayesian statistics to evaluate hypotheses based on their prior probabilities.
 
-$$O(H_1)=\frac{P(H_1)}{P(H_2)}$$
+## RELATIONS
+
+- It can be seen as part of the Proportional form of Bayes Rule in the context of comparing two hypotheses given data.
+- [Proportional form of Bayes Rule](Proportional%20form%20of%20Bayes%20Rule.md)
+- [Comparing two hypotheses given data](Comparing%20two%20hypotheses%20given%20data.md)
