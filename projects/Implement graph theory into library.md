@@ -30,7 +30,6 @@ immediate thought: edge list is said to be least efficient: investigate the opti
 
 maybe store data as edge list in stg table but pre compute some adjacency list or even adjacency matrix?
 
-
 ## Action Items
 
 - [ ] define and implement types [important:: true] 

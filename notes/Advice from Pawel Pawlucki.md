@@ -7,7 +7,7 @@ tags: []
 title: Advice from Pawel Pawlucki
 ---
 
-## What is the concept? 
+## What is the concept?
 
 The advice from Pawel Pawlucki emphasizes understanding the energy market through two distinct but interconnected views: **financial** and **physical**. This differentiation is crucial because trading and delivery processes operate separately within the market.
 

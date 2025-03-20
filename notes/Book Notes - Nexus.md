@@ -35,9 +35,15 @@ And the story goes like this:
 3. Order gives a lot of Causative Power but does not imply wisdom
 
 Extreme Example: Nazi Germany had a lot of order and thus causative power but
+
 because it was not founded in truth (they believed in false theory that their
+
 race is better) they did not have much wisdom on their side. As in: had they had
+
 wisdom, they might have applied their efforts to not murder, but progress
+
 instead. However: notice that they had a lot of brilliant scientists that did
+
 know how to do progress. It's just that the progress was directed to the goal
+
 set by the bureaucracy.

@@ -1,10 +1,12 @@
 ---
-title: "Beta distribution"
+categories:
+- zettelkasten
 date: 2025-02-14
-description: "The beta distribution is a family of continuous probability distributions defined on the closed interval from 0 to 1, characterized by shape parameters alpha and beta."
+description: The beta distribution is a family of continuous probability distributions
+  defined on the closed interval from 0 to 1, characterized by shape parameters alpha
+  and beta.
 tags: []
-categories: 
-  - "zettelkasten"
+title: Beta distribution
 ---
 
 ## Definition

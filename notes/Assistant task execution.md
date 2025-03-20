@@ -1,10 +1,11 @@
 ---
-title: "Assistant task execution"
-date: 2025-02-14
-description: "This note discusses the execution of tasks by AI language models, specifically focusing on function calling capabilities and tool definitions."
-tags: [] 
 categories:
-  - "zettelkasten"
+- zettelkasten
+date: 2025-02-14
+description: This note discusses the execution of tasks by AI language models, specifically
+  focusing on function calling capabilities and tool definitions.
+tags: []
+title: Assistant task execution
 ---
 
 [[AI assistant]]

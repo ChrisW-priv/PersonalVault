@@ -44,11 +44,13 @@ git filter-branch --force --index-filter "git rm --cached --ignore-unmatch **.en
 And then, `git push --force`, because I already pushed it to remote. 
 
 Caveats: this did rewrite the commits on **branches**, but did not delete the commits (commit files still in the `.git` folder, but not accessible on branch history).
+
 This means that I could still access the token if I knew EXACTLY what commit id it had OR just used automated scripts on the `.git` directory files.
 
 TODO: learn how to prune the "dangling" commits
 
 TODO: I kept having error below. Learn what it means and how to fix it.
+
 ```bash
 WARNING: git-filter-branch has a glut of gotchas generating mangled history
          rewrites.  Hit Ctrl-C before proceeding to abort, then use an

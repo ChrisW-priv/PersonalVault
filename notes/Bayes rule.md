@@ -1,12 +1,13 @@
 ---
-title: Bayes rule
-date: 2025-02-14
-description: A theorem that describes the probability of an event based on prior knowledge of conditions.
-tags:
-  - probability
-  - math
 categories:
-  - zettelkasten
+- zettelkasten
+date: 2025-02-14
+description: A theorem that describes the probability of an event based on prior knowledge
+  of conditions.
+tags:
+- probability
+- math
+title: Bayes rule
 ---
 
 > Bayesian inference is fundamental to [Bayesian statistics](Bayesian%20statistics), being considered "to the theory of probability what Pythagoras's theorem is to geometry."
