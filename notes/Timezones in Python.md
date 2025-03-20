@@ -8,14 +8,13 @@ categories:
   - zettelkasten
 ---
 
-
 **Q: What does `datetime.datetime.now()` return by default?**
 
 **A:** It returns a **naive** `datetime` object in the system's **local timezone**, with no timezone info attached.
 
 ```python
-import datetime
-dt = datetime.datetime.now()
+from datetime import datetime
+dt = datetime.now()
 # naive local datetime
 ```
 
@@ -24,8 +23,8 @@ dt = datetime.datetime.now()
 **A:** Use `datetime.now()` with `datetime.timezone.utc` to get an **aware UTC datetime**.
 
 ```python
-import datetime
-now_utc = datetime.datetime.now(datetime.timezone.utc)
+from datetime import datetime
+now_utc = datetime.now(datetime.timezone.utc)
 ```
 
 **Q: How do I get the current datetime in Poland/Warsaw timezone?**
@@ -33,10 +32,10 @@ now_utc = datetime.datetime.now(datetime.timezone.utc)
 **A:** Use the `zoneinfo` module (Python 3.9+):
 
 ```python
-import datetime
+from datetime import datetime
 import zoneinfo
 
-now_warsaw = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Warsaw"))
+now_warsaw = datetime.now(zoneinfo.ZoneInfo("Europe/Warsaw"))
 ```
 
 **Q: Why use `zoneinfo` instead of `pytz`?**
@@ -52,7 +51,7 @@ now_warsaw = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Warsaw"))
 
 ```python
 import pytz
-now_warsaw = datetime.datetime.now(pytz.timezone("Europe/Warsaw"))
+now_warsaw = datetime.now(pytz.timezone("Europe/Warsaw"))
 ```
 
 **Q: Will specifying a timezone override my system's timezone?**
