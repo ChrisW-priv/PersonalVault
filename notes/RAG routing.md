@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: RAG routing
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [RAG](RAG.md)

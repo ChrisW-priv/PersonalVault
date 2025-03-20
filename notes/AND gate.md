@@ -1,12 +1,11 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: An AND gate is a basic digital logic gate that implements logical conjunction
-  – it outputs true only if both of its inputs are true.
-tags:
-- null
 title: AND gate
+description: An AND gate is a basic digital logic gate that implements logical conjunction
+date: 2025-02-14
+tags:
+  - null
+categories:
+  - zettelkasten
 ---
 
 **Question:** What is an AND gate?  

@@ -1,11 +1,11 @@
 ---
-categories:
-- Goal Tracker Chronicles
-date: 2025-02-18
-description: Log of Learning progress journey
-tags:
-- null
 title: Learning Progress Log
+description: Log of Learning progress journey
+date: 2025-02-18
+tags:
+  - null
+categories:
+  - Goal Tracker Chronicles
 ---
 
 ## Goal

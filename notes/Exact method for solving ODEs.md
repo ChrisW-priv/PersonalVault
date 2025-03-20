@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Exact method for solving ODEs
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 **Step 1:** Turn equation into a form: $f(x,y) := P(x,y) dx + Q(x,y) dy = 0$

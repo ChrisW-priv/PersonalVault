@@ -1,7 +1,7 @@
 ---
 title: Personal cash flow analysis
-date: 2025-03-01
 description: Tool to visualize consequences of financial decisions based on assumptions
+date: 2025-03-01
 tags:
   - project
 important: true

@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
 description: ""
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - presentation
 theme: white

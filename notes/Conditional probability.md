@@ -1,13 +1,13 @@
 ---
-categories:
-- null
-- zettelkasten
-date: 2025-02-14
-description: Probability of event occurring, given another event has occurred
-tags:
-- probability
-- math
 title: Conditional probability
+description: Probability of event occurring, given another event has occurred
+date: 2025-02-14
+tags:
+  - probability
+  - math
+categories:
+  - null
+  - zettelkasten
 ---
 
 ## Notation

@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Identity Matrix
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 A special [matrix](Matrix.md) that has zeros in the body and ones on the diagonal. It is denoted as $I$

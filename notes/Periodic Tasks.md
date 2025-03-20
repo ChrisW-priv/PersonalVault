@@ -1,12 +1,12 @@
 ---
-categories:
-- null
-date: 2025-02-18
-description: Tasks that need to be done as habit
-tags:
-- habit
-- posts
 title: Periodic Tasks
+description: Tasks that need to be done as habit
+date: 2025-02-18
+tags:
+  - habit
+  - posts
+categories:
+  - null
 type: post
 ---
 

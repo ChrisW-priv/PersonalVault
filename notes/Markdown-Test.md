@@ -1,11 +1,11 @@
 ---
-categories:
-- null
-date: 2025-01-26
-description: Bulk test for the markdown to html rendering
-tags:
-- posts
 title: Markdown Test
+description: Bulk test for the markdown to html rendering
+date: 2025-01-26
+tags:
+  - posts
+categories:
+  - null
 type: post
 ---
 

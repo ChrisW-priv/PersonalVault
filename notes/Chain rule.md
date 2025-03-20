@@ -1,14 +1,13 @@
 ---
-categories:
-- null
-- zettelkasten
-date: 2025-02-14
-description: A formula that expresses the derivative of a composite function `h` of
-  two functions `f` and `g` in terms of the derivatives of `f` and `g`
-tags:
-- math
-- calculus
 title: Chain rule
+description: A formula that expresses the derivative of a composite function `h` of
+date: 2025-02-14
+tags:
+  - math
+  - calculus
+categories:
+  - null
+  - zettelkasten
 ---
 
 ## Notation

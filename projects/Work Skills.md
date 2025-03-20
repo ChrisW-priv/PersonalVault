@@ -1,7 +1,7 @@
 ---
 title: Work Skills
-date: 2025-03-12
 description: Just a collection of skills that I need to acquire to be better at what I do
+date: 2025-03-12
 tags:
   - project
 important: true

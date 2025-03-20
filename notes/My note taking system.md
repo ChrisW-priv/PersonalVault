@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-03-13
-description: Note taking system inspired by best practices of note taking
-tags: []
 title: My note taking system
+description: Note taking system inspired by best practices of note taking
+date: 2025-03-13
+tags: []
+categories:
+  - zettelkasten
 ---
 
 I was inspired by [PARA Note System](PARA%20Note%20System.md) and [Zettelkasten Note System](Zettelkasten%20Note%20System.md).

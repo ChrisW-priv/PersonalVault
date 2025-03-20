@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Matrix multiplication
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Function in Mathematics](Function%20in%20Mathematics.md), commonly a [Linear transformation](Linear%20transformation.md)

@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-03-09
-description: General collection of thoughts on the management of a company
-tags: []
 title: Company Management
+description: General collection of thoughts on the management of a company
+date: 2025-03-09
+tags: []
+categories:
+  - zettelkasten
 ---
 
 - No company ever works without it selling *something*.

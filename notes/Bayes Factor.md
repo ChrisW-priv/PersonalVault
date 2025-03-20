@@ -1,12 +1,11 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: The Bayes factor compares the likelihood of two competing statistical
-  models based on observed data.
-tags:
-- null
 title: Bayes Factor
+description: The Bayes factor compares the likelihood of two competing statistical
+date: 2025-02-14
+tags:
+  - null
+categories:
+  - zettelkasten
 ---
 
 ## Definition

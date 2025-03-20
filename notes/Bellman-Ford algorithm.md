@@ -1,12 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: The Bellman-Ford algorithm calculates the shortest paths from a single
-  source vertex to all other vertices in a weighted graph, including graphs with negative
-  weight edges.
-tags: []
 title: Bellman-Ford algorithm
+description: The Bellman-Ford algorithm calculates the shortest paths from a single
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

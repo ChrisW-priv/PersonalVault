@@ -1,7 +1,7 @@
 ---
 title: Life engineered
-date: 2025-03-06
 description: Just some habits or actions I want to do, such that my life is tipped in the right direction
+date: 2025-03-06
 tags:
   - project
 important: true

@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: This note discusses the rationale against using comments in code and
-  emphasizes code clarity over commentary.
-tags: []
 title: Arguments for not commenting the code
+description: This note discusses the rationale against using comments in code and
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Part of [Code quality](Code%20quality)

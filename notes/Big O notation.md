@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: Big O notation describes the behavior of an algorithm's runtime as the
-  input size grows, focusing on the largest contributing factor and ignoring constants.
-tags: []
 title: Big O notation
+description: Big O notation describes the behavior of an algorithm's runtime as the
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## What is Big O Notation?

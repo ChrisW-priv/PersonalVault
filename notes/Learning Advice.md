@@ -1,10 +1,10 @@
 ---
-categories: []
-date: 2025-02-18
-description: No description provided.
-tags:
-- advice
 title: Learning Advice
+description: No description provided.
+date: 2025-02-18
+tags:
+  - advice
+categories: []
 ---
 
 Based on [this video](https://www.youtube.com/watch?v=goHaIfMcfWo)

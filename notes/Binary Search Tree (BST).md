@@ -1,12 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: A Binary Search Tree (BST) is a data structure that maintains sorted
-  data and allows for efficient insertion, deletion, and lookup operations. It is
-  characterized by its properties which ensure efficient data manipulation.
-tags: []
 title: Binary Search Tree (BST)
+description: A Binary Search Tree (BST) is a data structure that maintains sorted
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

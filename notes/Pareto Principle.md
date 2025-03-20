@@ -1,12 +1,12 @@
 ---
-categories:
-- null
-- zettelkasten
-date: 2025-02-18
-description: No description provided.
-tags:
-- productivity
 title: Pareto Principle
+description: No description provided.
+date: 2025-02-18
+tags:
+  - productivity
+categories:
+  - null
+  - zettelkasten
 ---
 
 ## Pareto Principle

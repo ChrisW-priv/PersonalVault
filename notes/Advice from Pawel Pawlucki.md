@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: '2025-03-15'
-description: Insights on learning the energy market from Pawel Pawlucki.
-tags: []
 title: Advice from Pawel Pawlucki
+description: Insights on learning the energy market from Pawel Pawlucki.
+date: '2025-03-15'
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## What is the concept?

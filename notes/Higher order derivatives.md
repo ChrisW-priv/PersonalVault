@@ -1,13 +1,13 @@
 ---
-categories:
-- null
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags:
-- math
-- calculus
 title: Higher order derivatives
+description: No description provided.
+date: 2025-02-14
+tags:
+  - math
+  - calculus
+categories:
+  - null
+  - zettelkasten
 ---
 
 [Derivative](Derivative.md)
