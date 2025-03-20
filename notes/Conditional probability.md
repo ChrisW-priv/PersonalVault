@@ -1,10 +1,10 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-14
 description: Probability of event occurring, given another event has occurred
 tags:
-- zettlekasten
 - probability
 - math
 title: Conditional probability

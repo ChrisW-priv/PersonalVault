@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-02-14
 description: No description provided.
-tags:
-- zettlekasten
+tags: []
 title: Why derivative of ln(x) equals 1 over x
 ---
 

@@ -1,10 +1,10 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-14
 description: No description provided.
 tags:
-- zettlekasten
 - math
 - calculus
 title: Higher order derivatives

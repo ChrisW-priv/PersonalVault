@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-02-25
 description: No description provided.
-tags:
-- zettlekasten
+tags: []
 title: Thesis overview
 ---
 

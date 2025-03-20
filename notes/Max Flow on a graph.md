@@ -1,11 +1,11 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-14
 description: Answers a question of how much "flow" can we push through the network
   given that each edge has a certain capacity.
-tags:
-- zettlekasten
+tags: []
 title: Max Flow on a graph
 ---
 

@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-07
 description: Method that makes you engage in higher order learning
 tags:
-- zettlekasten
 - learning
 title: Mind mapping
 ---
