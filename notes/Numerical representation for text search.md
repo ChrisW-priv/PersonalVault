@@ -1,10 +1,10 @@
 ---
-title: "Numerical representation for text search"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Numerical representation for text search
 ---
 
 Normally, the lookup for the text relevant to a question would be done as in

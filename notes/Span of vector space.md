@@ -1,10 +1,10 @@
 ---
-title: "Span of vector space"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Span of vector space
 ---
 
 The set of all possible vectors that you can reach with a [Linear combination](Linear%20combination.md) of vectors.

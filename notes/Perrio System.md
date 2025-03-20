@@ -1,11 +1,12 @@
 ---
-title: Perrio System
+categories:
+- null
 date: 2025-02-17
 description: System that optimizes study time in order to facilitate faster learning
 tags:
-  - zettlekasten
-  - learning
-categories:
+- zettlekasten
+- learning
+title: Perrio System
 ---
 
 Our brain works really hard to forget the the stuff that is irrelevant. 

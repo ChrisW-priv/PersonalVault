@@ -1,10 +1,10 @@
 ---
-title: "Injective function"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Injective function
 ---
 
 Type of [Function in Mathematics](Function%20in%20Mathematics.md)

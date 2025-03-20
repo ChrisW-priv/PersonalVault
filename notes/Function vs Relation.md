@@ -1,10 +1,10 @@
 ---
-title: "Function vs Relation"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Function vs Relation
 ---
 
 The [Relation in Mathematics](Relation%20in%20Mathematics.md) and [Function in Mathematics](Function%20in%20Mathematics.md) both are different concepts. 

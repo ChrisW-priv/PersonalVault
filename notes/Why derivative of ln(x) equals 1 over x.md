@@ -1,10 +1,10 @@
 ---
-title: "Why derivative of ln(x) equals 1 over x"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Why derivative of ln(x) equals 1 over x
 ---
 
 Steps to get a derivative of $ln(x)$:

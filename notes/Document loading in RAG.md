@@ -1,10 +1,10 @@
 ---
-title: "Document loading in RAG"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Document loading in RAG
 ---
 
 Document loading is first stage of building [RAG](RAG.md). 

@@ -1,10 +1,12 @@
 ---
-title: A priori chance
-date: 2025-02-14
-description: The a priori chance factor is a ratio that compares the probability of two hypotheses, indicating how likely one hypothesis is compared to another.
-tags: 
 categories:
-  - zettelkasten
+- zettelkasten
+date: 2025-02-14
+description: The a priori chance factor is a ratio that compares the probability of
+  two hypotheses, indicating how likely one hypothesis is compared to another.
+tags:
+- null
+title: A priori chance
 ---
 
 ## Q&A

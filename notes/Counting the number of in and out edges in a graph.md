@@ -1,10 +1,10 @@
 ---
-title: "Counting the number of in and out edges in a graph"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Counting the number of in and out edges in a graph
 ---
 
 ## Definition

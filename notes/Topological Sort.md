@@ -1,10 +1,10 @@
 ---
-title: "Topological Sort"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Topological Sort
 ---
 
 Topological sort (or top sort for short) is an algorithm that work on [Directed Acyclic Graphs (DAG)](Directed%20Acyclic%20Graphs%20(DAG).md). It creates something called [Topological ordering](Topological%20ordering.md).

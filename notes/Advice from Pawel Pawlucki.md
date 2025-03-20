@@ -1,9 +1,10 @@
 ---
-title: "Advice from Pawel Pawlucki"
-date: "2025-03-15"
-description: "Insights on learning the energy market from Pawel Pawlucki."
 categories:
-  - zettelkasten
+- zettelkasten
+date: '2025-03-15'
+description: Insights on learning the energy market from Pawel Pawlucki.
+tags: []
+title: Advice from Pawel Pawlucki
 ---
 
 ## What is the concept? 

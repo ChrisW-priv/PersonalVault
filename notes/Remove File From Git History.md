@@ -1,10 +1,11 @@
 ---
-title: Remove File From Git History
+categories: []
 date: 2025-03-14
-description: ""
+description: No description provided.
 tags:
-  - zettlekasten
-  - git
+- zettlekasten
+- git
+title: Remove File From Git History
 ---
 
 There are 2 cases:

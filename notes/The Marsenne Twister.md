@@ -1,10 +1,10 @@
 ---
-title: "The Marsenne Twister"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: The Marsenne Twister
 ---
 
 The Marsenne Twister is a [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG)) algorithm that is widely used due to its high-performance and long period. It was developed in 1997 by Makoto Matsumoto and Takuji Nishimura as an improvement on existing PRNG algorithms.

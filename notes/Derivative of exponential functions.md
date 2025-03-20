@@ -1,10 +1,10 @@
 ---
-title: "Derivative of exponential functions"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Derivative of exponential functions
 ---
 
 [Exponential functions](Exponential%20functions.md)
@@ -29,4 +29,4 @@ Properties of this number e can be found [here](Number%20e.md).
 2. Using chain rule we see that $\frac{df}{dx}\ e^{ln(\mathbb{c})\cdot x} = ln(n)\cdot e^{ln(\mathbb{c})\cdot x}$
 3. And then since $\mathbb{c}^{x} = e^{ln(\mathbb{c})\cdot x}$ we note that $\mathbb{c}^{x} = ln(\mathbb{c})\cdot \mathbb{c}^{x}$ 
 
-So a rate of change of any exponential function is itself times $ln(base)$ 
+So a rate of change of any exponential function is itself times $ln(base)$

@@ -1,12 +1,13 @@
 ---
-title: Implicit differentiation
-date: 2025-02-14
-description: ""
-tags:
-  - zettlekasten
-  - math
-  - calculus
 categories:
+- null
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+- math
+- calculus
+title: Implicit differentiation
 ---
 
 [Derivative](Derivative.md)

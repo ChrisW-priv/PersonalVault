@@ -1,10 +1,12 @@
 ---
-title: Adjacency List
-date: 2025-02-14
-description: "An adjacency list is a way to represent a graph as a map from nodes to lists of edges."
-tags: 
 categories:
-  - zettelkasten
+- zettelkasten
+date: 2025-02-14
+description: An adjacency list is a way to represent a graph as a map from nodes to
+  lists of edges.
+tags:
+- null
+title: Adjacency List
 ---
 
 ## What is an Adjacency List?

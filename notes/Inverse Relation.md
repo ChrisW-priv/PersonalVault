@@ -1,10 +1,10 @@
 ---
-title: "Inverse Relation"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Inverse Relation
 ---
 
 One of [Relation in Mathematics](Relation%20in%20Mathematics.md)

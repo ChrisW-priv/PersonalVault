@@ -1,10 +1,10 @@
 ---
-title: "Breadth First Search (BFS)"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Breadth First Search (BFS)
 ---
 
 The BFS is another fundamental search algorithm used to explore nodes and edges of graph. It runs with a time complexity of $O(V+E)$ and is often used as a building block in other algorithms.

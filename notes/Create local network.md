@@ -1,10 +1,10 @@
 ---
-title: "Create local network"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Create local network
 ---
 
 To create a local network, you will need a router that supports the creation of a local network. Most modern routers have this capability built in, and the process for setting up a local network will vary depending on the specific model of router you are using.

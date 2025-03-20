@@ -1,10 +1,10 @@
 ---
-title: "Differential equations"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Differential equations
 ---
 
 Differential equations arise when it's easier to describe change rather that absolute amounts. For example system of 3 bodies in space pulled by gravitational forces is such system.

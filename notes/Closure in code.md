@@ -1,10 +1,10 @@
 ---
-title: "Closure in code"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Closure in code
 ---
 
 [Closure Properties of Regular Languages](Closure%20Properties%20of%20Regular%20Languages.md)

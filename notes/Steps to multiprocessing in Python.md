@@ -1,10 +1,10 @@
 ---
-title: "Steps to multiprocessing in Python"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Steps to multiprocessing in Python
 ---
 
 Say you have a code you want to run in parallel. To do that you can follow those steps:

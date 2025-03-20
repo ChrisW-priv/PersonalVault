@@ -1,9 +1,11 @@
 ---
-title: Bernoulli equations
-date: 2025-02-14
-description: Bernoulli equations are a class of ordinary differential equations that can be solved using a standard method involving integrating factors.
 categories:
-  - zettelkasten
+- zettelkasten
+date: 2025-02-14
+description: Bernoulli equations are a class of ordinary differential equations that
+  can be solved using a standard method involving integrating factors.
+tags: []
+title: Bernoulli equations
 ---
 
 ## Definition

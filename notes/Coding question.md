@@ -1,8 +1,10 @@
 ---
-title: Coding question
+categories: []
 date: 2025-03-06
 description: Example coding question for recruitment process
 tags:
+- null
+title: Coding question
 ---
 
 # Coding question

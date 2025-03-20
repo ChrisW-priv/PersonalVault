@@ -1,10 +1,10 @@
 ---
-title: "Maximum power transfer theorem"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Maximum power transfer theorem
 ---
 
 Instantaneous power delivered to a one-port:

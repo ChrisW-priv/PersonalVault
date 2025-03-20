@@ -1,10 +1,10 @@
 ---
-title: "DSPy"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: DSPy
 ---
 
 [link](https://www.removepaywall.com/search?url=https://medium.com/aiguys/prompt-engineering-is-dead-dspy-is-new-paradigm-for-prompting-c80ba3fc4896)

@@ -1,9 +1,12 @@
 ---
-title: Absorptive property
-date: 2025-02-14
-description: The absorptive property is a mathematical property that describes how certain operations interact with each other, specifically how one operation can absorb the other under specific conditions.
 categories:
-  - zettelkasten
+- zettelkasten
+date: 2025-02-14
+description: The absorptive property is a mathematical property that describes how
+  certain operations interact with each other, specifically how one operation can
+  absorb the other under specific conditions.
+tags: []
+title: Absorptive property
 ---
 
 Two binary operations, $+$ and $\cdot$, are said to be connected by the absorption law if:
