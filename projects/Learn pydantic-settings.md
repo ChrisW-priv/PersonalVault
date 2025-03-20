@@ -5,7 +5,7 @@ date: 2025-03-20
 tags:
   - project
   - work
-important: true
+important: false
 status: todo
 ---
 [pydantic-settings](https://docs.pydantic.dev/2.10/concepts/pydantic_settings/)

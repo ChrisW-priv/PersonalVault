@@ -4,6 +4,7 @@ description: Make the Axpl own the tokens to the AI
 date: 2025-03-20
 tags:
   - project
+  - work
 important: true
 status: in-progress
 ---

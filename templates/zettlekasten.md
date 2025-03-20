@@ -1,7 +1,8 @@
 ---
-title: "{{title}}"
+title: "<% tp.file.title %>"
 description: ""
-date: "{{date:YYYY-MM-DD}}"
-tags:
-  - zettlekasten
+date: "<% tp.date.now("YYYY-MM-DD") %>"
+tags: 
+categories:
+  - zettelkasten
 ---
