@@ -1,10 +1,10 @@
 ---
-title: Learning
+categories:
+- meta-skills
 date: 2025-02-14
 description: Learning techniques that make studying much more productive
 tags: []
-categories:
-  - meta-skills
+title: Learning
 ---
 
 Tag dedicated to track this: #learning  

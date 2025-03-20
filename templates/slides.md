@@ -19,4 +19,3 @@ Krzysztof Watras
 para...
 
 ---
-

@@ -1,11 +1,11 @@
 ---
-title: New skill framework
+categories:
+- meta-skills
 date: 2025-02-15
 description: Practical framework to learning new skill.
 tags:
-  - learning
-categories:
-  - meta-skills
+- learning
+title: New skill framework
 ---
 
 ## Relevance

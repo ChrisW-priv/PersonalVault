@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Command pattern.md",
+                "file": "notes/Vector addition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command pattern"
+              "title": "Vector addition"
             }
           }
         ]
@@ -173,6 +173,11 @@
   },
   "active": "e89b07c9aa9c2bf6",
   "lastOpenFiles": [
+    "notes/XOR gate.md",
+    "notes/Zettelkasten Note System.md",
+    "notes/Compose pattern.md",
+    "notes/Combining probability with OR.md",
+    "notes/Command pattern.md",
     "notes/Adjacency Matrix.md",
     "notes/Adjacency List.md",
     "notes/Absorptive property.md",
@@ -180,12 +185,10 @@
     "notes/3 terminal device transformations.md",
     "temp/4913",
     "temp/main.py~",
-    "notes/Compose pattern.md",
     "notes/Big O notation.md",
     "notes/Book Notes - Nexus.md",
     "notes/Bayes rule.md",
     "notes/Chain rule.md",
-    "notes/Zettelkasten Note System.md",
     "notes/Graph.md",
     "notes/Bipartite Graph.md",
     "notes/Change of basis.md",
@@ -198,8 +201,6 @@
     "notes/Balancing Services Market.md",
     "notes/Advice from Pawel Pawlucki.md",
     "notes/AND gate.md",
-    "notes/Apply pattern.md",
-    "notes/Arguments for not commenting the code.md",
     "temp/uv.lock",
     "extra/Architektura komputerów.pdf",
     "extra/x86-64bit-ccc-chapter.pdf",

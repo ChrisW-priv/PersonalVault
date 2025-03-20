@@ -15,6 +15,7 @@ Bernoulli equations are defined by the form:
 $$y + P(x)y' = Q(x)\cdot y^n$$
 
 Where:
+
 - $y$ is the dependent variable.
 - $P(x)$ and $Q(x)$ are functions of the independent variable $x$.
 - $n$ is a constant.

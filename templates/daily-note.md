@@ -5,4 +5,3 @@ description: "Daily note for: {{title}}"
 tags:
   - dailynote
 ---
-

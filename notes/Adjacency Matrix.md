@@ -1,10 +1,11 @@
 ---
-title: "Adjacency Matrix"
-date: 2025-02-14
-description: "An adjacency matrix is a simple way to represent a graph using a square matrix."
-tags: []
 categories:
-  - "zettelkasten"
+- zettelkasten
+date: 2025-02-14
+description: An adjacency matrix is a simple way to represent a graph using a square
+  matrix.
+tags: []
+title: Adjacency Matrix
 ---
 
 ## What is an Adjacency Matrix?

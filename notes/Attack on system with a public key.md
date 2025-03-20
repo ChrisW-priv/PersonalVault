@@ -1,10 +1,12 @@
 ---
-title: "Attack on system with a public key"
+categories:
+- zettelkasten
 date: 2025-02-14
-description: "This note discusses methods of attacking systems that utilize public key cryptography, focusing on the challenges and techniques involved in breaking asymmetric encryption systems, particularly RSA."
-tags: [] 
-categories: 
-  - "zettelkasten"
+description: This note discusses methods of attacking systems that utilize public
+  key cryptography, focusing on the challenges and techniques involved in breaking
+  asymmetric encryption systems, particularly RSA.
+tags: []
+title: Attack on system with a public key
 ---
 
 ## What is the Concept?

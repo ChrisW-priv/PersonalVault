@@ -2,6 +2,7 @@ import os
 import frontmatter
 import json
 import yaml
+from collections import OrderedDict
 
 
 def process_notes():
@@ -62,8 +63,23 @@ def process_notes():
                 pass
             frontmatter_changed = True
 
-        if frontmatter_changed:
-            post.metadata = metadata
+        if frontmatter_changed or True:
+            # Ordenar los campos en el orden deseado
+            ordered_metadata = {
+                'title': metadata.get('title', ''),
+                'date': metadata.get('date', ''),
+                'description': metadata.get('description', ''),
+                'tags': metadata.get('tags', []),
+                'categories': metadata.get('categories', []),
+            }
+            
+            # Incluir cualquier otro campo que no esté en el orden especificado
+            for key in metadata:
+                if key not in ordered_metadata:
+                    ordered_metadata[key] = metadata[key]
+            
+            # Asignar el diccionario ordenado a post.metadata
+            post.metadata = ordered_metadata
             with open(file_path, 'w', encoding='utf-8') as file:
                 updated_content = frontmatter.dumps(post)
                 file.write(updated_content)

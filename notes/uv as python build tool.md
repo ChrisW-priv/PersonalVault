@@ -14,7 +14,9 @@ type: post
 ## TLDR;
 
 Switching from `poetry` to `uv` could really boost our Python projects. `uv` is
+
 faster, simpler, and fits right into what we're doing. By using strategies like
+
 multi-stage Docker builds , we can make sure the change is safe and easy.
 
 ## Limitations of `poetry`
