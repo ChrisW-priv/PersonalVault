@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-13
 description: Note taking system inspired by best practices of note taking
-tags:
-- zettlekasten
+tags: []
 title: My note taking system
 ---
 

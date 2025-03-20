@@ -1,11 +1,11 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-14
 description: Function that describes how small changes to the input of the function
   impact it's output
 tags:
-- zettlekasten
 - math
 title: Derivative
 ---

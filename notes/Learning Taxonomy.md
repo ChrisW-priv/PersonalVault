@@ -1,11 +1,11 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-15
 description: categorizes cognitive learning into six hierarchical levels. Each level
   progresses from basic recall to complex problem-solving.
 tags:
-- zettlekasten
 - learning
 title: Learning Taxonomy
 ---

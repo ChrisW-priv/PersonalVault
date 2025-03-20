@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-13
 description: Note taking system focused on taking notes that relate to each other
-tags:
-- zettlekasten
+tags: []
 title: Zettelkasten Note System
 ---
 

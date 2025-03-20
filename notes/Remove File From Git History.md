@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-14
 description: No description provided.
 tags:
-- zettlekasten
 - git
 title: Remove File From Git History
 ---

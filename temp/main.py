@@ -18,6 +18,7 @@ def process_notes():
         # Ensure required attributes
         frontmatter_changed = False
         metadata = post.metadata
+        print(metadata)
         
         # Ensure 'title'
         if 'title' not in metadata:
@@ -41,15 +42,24 @@ def process_notes():
             frontmatter_changed = True
 
         # Ensure 'categories' as a list
-        if 'categories' not in metadata:
-            metadata['categories'] = metadata.get('categories', [])
+        if 'categories' not in metadata or metadata['categories'] is None:
+            metadata['categories'] = []
             frontmatter_changed = True
 
         # Move 'zettelkasten' from tags to categories if present
-        if 'zettelkasten' in metadata['tags']:
-            if 'zettelkasten' not in metadata['categories']:
+        if 'zettelkasten' in metadata['tags'] or 'zettlekasten' in metadata['tags']:
+            print('moving zettelkasten')
+            if 'zettelkasten' not in metadata.get('categories', []):
                 metadata['categories'].append('zettelkasten')
-            metadata['tags'].remove('zettelkasten')
+            try:
+                metadata['tags'].remove('zettelkasten')
+            except Exception:
+                pass
+
+            try:
+                metadata['tags'].remove('zettlekasten')
+            except Exception:
+                pass
             frontmatter_changed = True
 
         if frontmatter_changed:

@@ -1,11 +1,11 @@
 ---
 Authors: Yuwal Noach Harari
 book_title: Nexus
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-15
 description: Notes after reading the Nexus book
 tags:
-- zettlekasten
 - book_note
 title: Book Notes - Nexus
 ---

@@ -1,10 +1,10 @@
 ---
 categories:
 - null
+- zettelkasten
 date: 2025-02-17
 description: System that optimizes study time in order to facilitate faster learning
 tags:
-- zettlekasten
 - learning
 title: Perrio System
 ---

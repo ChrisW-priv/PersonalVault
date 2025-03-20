@@ -1,9 +1,9 @@
 ---
-categories: []
+categories:
+- zettelkasten
 date: 2025-03-09
 description: General collection of thoughts on the management of a company
-tags:
-- zettlekasten
+tags: []
 title: Company Management
 ---
 
