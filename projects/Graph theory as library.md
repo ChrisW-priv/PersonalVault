@@ -32,15 +32,7 @@ maybe store data as edge list in stg table but pre compute some adjacency list o
 
 ## Action Items
 
-- [ ] define and implement types [important:: true] 
+- [ ] define and implement types
     - I'm thinking: relations as a-b pairs and nodes as generic relations of id-> other table row
-- [ ] implement select algorithms [important:: true]
-- [ ] define stable import/export on the thing [important:: true]
-
-## Progress
-
-Notes on what happened...
-
-## Reflection
-
-What went wrong? Why?
+- [ ] implement select algorithms
+- [ ] define stable import/export on the thing

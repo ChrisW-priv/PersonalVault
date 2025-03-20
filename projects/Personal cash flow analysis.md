@@ -4,7 +4,7 @@ description: Tool to visualize consequences of financial decisions based on assu
 date: 2025-03-01
 tags:
   - project
-important: true
+important: false
 status: in-progress
 ---
 
