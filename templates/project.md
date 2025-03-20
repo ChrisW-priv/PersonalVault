@@ -10,12 +10,4 @@ status: todo
 
 ## Action Items
 
-- [ ] Task1 [important:: true] 
-
-## Progress
-
-Notes on what happened...
-
-## Reflection
-
-What went wrong? Why?
+- [ ] Task1

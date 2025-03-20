@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Vector Norm.md",
+                "file": "projects/important-undone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector Norm"
+              "title": "important-undone"
             }
           }
         ]
@@ -166,13 +166,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "e89b07c9aa9c2bf6",
   "lastOpenFiles": [
+    "projects/Personal cash flow analysis.md",
+    "projects/important-undone.md",
+    "projects/Learn Advanced Git.md",
+    "projects/Refactor vault notes.md",
+    "projects/Python Builder.md",
+    "project/Learn idea visualization.md",
+    "projects/Work Skills.md",
+    "project",
+    "templates/project.md",
+    "projects/SPA.md",
+    "projects/Learn Mojo.md",
+    "projects/Learn pydantic-settings.md",
+    "projects/Learn Biotechnology.md",
+    "projects/Personal Budget.md",
+    "projects/AI w Axpo.md",
+    "notes/Vector Norm.md",
     "notes/Vector field.md",
     "notes/Vector addition.md",
     "notes/XOR gate.md",
@@ -184,23 +199,8 @@
     "notes/Adjacency List.md",
     "notes/Absorptive property.md",
     "notes/A priori chance.md",
-    "notes/3 terminal device transformations.md",
     "temp/4913",
     "temp/main.py~",
-    "notes/Big O notation.md",
-    "notes/Book Notes - Nexus.md",
-    "notes/Bayes rule.md",
-    "notes/Chain rule.md",
-    "notes/Graph.md",
-    "notes/Bipartite Graph.md",
-    "notes/Change of basis.md",
-    "notes/Chunking methods.md",
-    "notes/Bellman-Ford algorithm.md",
-    "notes/Bernoulli equations.md",
-    "notes/Asymmetric encryption.md",
-    "notes/Attack on system with a public key.md",
-    "notes/Bayes Factor.md",
-    "notes/Balancing Services Market.md",
     "temp/uv.lock",
     "extra/Architektura komputerów.pdf",
     "extra/x86-64bit-ccc-chapter.pdf",
@@ -208,7 +208,6 @@
     "temp/pyproject.toml",
     "extra/Guide to x86 Assembly.html",
     "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
-    "extra/Guide to x86 Assembly_files",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/sponge.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-yellow.png",
