@@ -2,7 +2,8 @@
 title: Timezones in Python
 description: Set of guidelines to making timezone aware program in Python
 date: 2025-03-20
-tags: 
+tags:
+  - python
 categories:
   - zettelkasten
 ---
