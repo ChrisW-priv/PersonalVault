@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: A basis of a vector space is a set of linearly independent vectors that
-  span the entire space.
-tags: []
 title: Basis of vector space
+description: A basis of a vector space is a set of linearly independent vectors that
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 > [!Definition]

@@ -1,11 +1,11 @@
 ---
-categories:
-- zettelkasten
-date: 2025-03-07
-description: Method that makes you engage in higher order learning
-tags:
-- learning
 title: Mind mapping
+description: Method that makes you engage in higher order learning
+date: 2025-03-07
+tags:
+  - learning
+categories:
+  - zettelkasten
 ---
 
 [Link](https://m.youtube.com/watch?v=Grd7K7bJVWg) To Justin's video.

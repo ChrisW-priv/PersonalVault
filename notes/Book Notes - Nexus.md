@@ -1,13 +1,13 @@
 ---
+title: Book Notes - Nexus
+description: Notes after reading the Nexus book
+date: 2025-03-15
+tags:
+  - book_note
+categories:
+  - zettelkasten
 Authors: Yuwal Noach Harari
 book_title: Nexus
-categories:
-- zettelkasten
-date: 2025-03-15
-description: Notes after reading the Nexus book
-tags:
-- book_note
-title: Book Notes - Nexus
 ---
 
 There are many ways to view information and how it is impactful. In the book, author thinks that most accurate way is to view it as:

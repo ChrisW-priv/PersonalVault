@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: '2025-03-13'
-description: This note outlines the primary challenges faced by customer service teams
-  in their operations.
-tags: []
 title: Biggest pain-points of customer service
+description: This note outlines the primary challenges faced by customer service teams
+date: '2025-03-13'
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## QA Structure

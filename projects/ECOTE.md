@@ -1,12 +1,12 @@
 ---
 title: ECOTE
-date: 2025-03-01
 description: Compiling techniques course tasks
+date: 2025-03-01
 tags:
   - project
   - course
-important: true
 end_date: 2025-06-30
+important: true
 status: in-progress
 ---
 

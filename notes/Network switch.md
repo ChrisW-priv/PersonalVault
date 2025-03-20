@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Network switch
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 A network switch is a [networking device](Network%20devices.md) that **connects devices together** on a computer network by using packet switching to forward data to its destination. It works at the data link layer (layer 2) of the OSI model, and it is responsible for sending data only to the devices on the network that need to receive it. This allows the network to operate more efficiently and reduces the amount of traffic on the network.

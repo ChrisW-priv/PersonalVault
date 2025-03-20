@@ -1,7 +1,7 @@
 ---
 title: Probability Visualized
-date: 2025-03-01
 description: I want to make learning the probability easy and interactive. This also is good as calculator tool suite
+date: 2025-03-01
 tags:
   - project
 important: false

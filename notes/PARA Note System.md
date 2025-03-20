@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: '2025-03-13'
-description: No description provided.
-tags: []
 title: PARA Note System
+description: No description provided.
+date: '2025-03-13'
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Files are separated into 4 main sections:

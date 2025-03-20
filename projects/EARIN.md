@@ -1,7 +1,7 @@
 ---
 title: EARIN
-date: 2025-03-01
 description: Intro to AI course
+date: 2025-03-01
 tags:
   - project
   - course

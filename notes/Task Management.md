@@ -1,12 +1,12 @@
 ---
-categories:
-- meta-skills
-date: 2025-02-25
-description: No description provided.
-draft: true
-tags:
-- null
 title: Task Management
+description: No description provided.
+date: 2025-02-25
+tags:
+  - null
+categories:
+  - meta-skills
+draft: true
 ---
 
 > Time management will only get you so far. Focus on Time Management.

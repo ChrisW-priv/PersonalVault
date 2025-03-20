@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Single Source Shortest Path on DAG (SSSP)
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [SSSP](SSSP) problem can be solved efficiently on a DAG in $O(V+E)$ time. This is due to the fact that the nodes can be ordered in a [Topological ordering](Topological%20ordering.md) via [Topological Sort](Topological%20Sort.md) and processed sequencially. 

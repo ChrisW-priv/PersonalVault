@@ -1,13 +1,12 @@
 ---
-categories:
-- null
-- zettelkasten
-date: 2025-02-14
-description: Function that describes how small changes to the input of the function
-  impact it's output
-tags:
-- math
 title: Derivative
+description: Function that describes how small changes to the input of the function
+date: 2025-02-14
+tags:
+  - math
+categories:
+  - null
+  - zettelkasten
 ---
 
 [Function in Mathematics](Function%20in%20Mathematics.md)

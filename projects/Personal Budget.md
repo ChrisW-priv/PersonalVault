@@ -1,7 +1,7 @@
 ---
 title: Personal Budget
-date: 2025-03-12
 description: Simple budget planning
+date: 2025-03-12
 tags:
   - project
 important: true

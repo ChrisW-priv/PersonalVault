@@ -1,12 +1,12 @@
 ---
 title: Engineering Thesis
-date: 2025-02-26
 description: Thesis on how the AI can be used in building a personal assistant
+date: 2025-02-26
 tags:
   - project
 due_date: 2025-05-05
-status: in-progress
 important: true
+status: in-progress
 ---
 
 [Link to overleaf doc](https://www.overleaf.com/project/67700d7144fd0bf691e02b75)

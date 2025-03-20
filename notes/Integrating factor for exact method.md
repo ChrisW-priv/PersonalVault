@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Integrating factor for exact method
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 First steps are the same as in [Exact method for solving ODEs](Exact%20method%20for%20solving%20ODEs.md)

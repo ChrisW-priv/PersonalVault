@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Sigma notation
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Sigma notation is a shorthand notation for [Summation](Summation) of a sum that occurs with some pattern. It is commonly used with $\Sigma$ sign hence the name. Below the sign is number which starts the summation and above is the one that ends it (inclusive). 

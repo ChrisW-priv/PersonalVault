@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-25
-description: No description provided.
-tags: []
 title: Thesis overview
+description: No description provided.
+date: 2025-02-25
+tags: []
+categories:
+  - zettelkasten
 ---
 
 My thesis parts:

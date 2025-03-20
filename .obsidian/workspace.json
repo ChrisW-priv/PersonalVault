@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Vector addition.md",
+                "file": "notes/Vector Norm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector addition"
+              "title": "Vector Norm"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "e89b07c9aa9c2bf6",
   "lastOpenFiles": [
+    "notes/Vector field.md",
+    "notes/Vector addition.md",
     "notes/XOR gate.md",
     "notes/Zettelkasten Note System.md",
     "notes/Compose pattern.md",
@@ -199,8 +201,6 @@
     "notes/Attack on system with a public key.md",
     "notes/Bayes Factor.md",
     "notes/Balancing Services Market.md",
-    "notes/Advice from Pawel Pawlucki.md",
-    "notes/AND gate.md",
     "temp/uv.lock",
     "extra/Architektura komputerów.pdf",
     "extra/x86-64bit-ccc-chapter.pdf",

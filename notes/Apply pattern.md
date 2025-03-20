@@ -1,13 +1,12 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: This note explains the apply pattern in function programming, which allows
-  for spreading arguments from an array into a function.
-tags:
-- function_programming
-- programing_pattern
 title: Apply pattern
+description: This note explains the apply pattern in function programming, which allows
+date: 2025-02-14
+tags:
+  - function_programming
+  - programing_pattern
+categories:
+  - zettelkasten
 ---
 
 > [!Definition]

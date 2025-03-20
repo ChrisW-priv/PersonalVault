@@ -1,12 +1,12 @@
 ---
-categories:
-- null
-date: 2025-02-18
-description: No description provided.
-draft: true
-tags:
-- posts
 title: Mastery Protocol
+description: No description provided.
+date: 2025-02-18
+tags:
+  - posts
+categories:
+  - null
+draft: true
 type: post
 ---
 

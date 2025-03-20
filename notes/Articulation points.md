@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: Articulation points are critical nodes in a graph whose removal increases
-  the number of connected components, leading to the creation of disconnected graphs.
-tags: []
 title: Articulation points
+description: Articulation points are critical nodes in a graph whose removal increases
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

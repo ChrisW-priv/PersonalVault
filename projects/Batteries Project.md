@@ -1,7 +1,7 @@
 ---
 title: Batteries Project
-date: 2025-03-10
 description: ""
+date: 2025-03-10
 tags:
   - project
 important: true

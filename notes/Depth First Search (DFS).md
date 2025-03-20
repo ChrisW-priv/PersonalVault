@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Depth First Search (DFS)
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 The DFS is the most fundamental search algorithm used to explore nodes and edges of a [Graph](Graph.md). It runs with time complexity of $O(V+E)$ and is often used as a building block in other algorithms. 

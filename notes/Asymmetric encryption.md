@@ -1,11 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: Asymmetric encryption is a method of encryption that uses a pair of keys
-  for secure communication, where one key is public and the other is private.
-tags: []
 title: Asymmetric encryption
+description: Asymmetric encryption is a method of encryption that uses a pair of keys
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

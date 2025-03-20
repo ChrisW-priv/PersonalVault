@@ -1,12 +1,12 @@
 ---
-categories:
-- null
-date: 2025-02-27
-description: No description provided.
-draft: true
-tags:
-- null
 title: Rynek Energii w Polsce
+description: No description provided.
+date: 2025-02-27
+tags:
+  - null
+categories:
+  - null
+draft: true
 ---
 
 [Batteries Project](../projects/Batteries%20Project.md)

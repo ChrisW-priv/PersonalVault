@@ -1,10 +1,10 @@
 ---
-categories:
-- zettelkasten
-date: 2025-02-14
-description: No description provided.
-tags: []
 title: Rooted tree
+description: No description provided.
+date: 2025-02-14
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Type of [Tree](Tree.md) with designated [root node](root%20node) where every edge either points away from or towards the root node. When edges point away from the root the graph is called an out-tree or in-tree otherwise.

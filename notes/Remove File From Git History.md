@@ -1,11 +1,11 @@
 ---
-categories:
-- zettelkasten
-date: 2025-03-14
-description: No description provided.
-tags:
-- git
 title: Remove File From Git History
+description: No description provided.
+date: 2025-03-14
+tags:
+  - git
+categories:
+  - zettelkasten
 ---
 
 There are 2 cases:
