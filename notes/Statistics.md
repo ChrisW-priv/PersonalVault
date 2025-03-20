@@ -1,10 +1,12 @@
 ---
-title: Statistics
-date: 2025-02-14
-description: The discipline that concerns the collection, interpretation and presentation of data.
-tags:
-  - zettlekasten
 categories:
+- null
+date: 2025-02-14
+description: The discipline that concerns the collection, interpretation and presentation
+  of data.
+tags:
+- zettlekasten
+title: Statistics
 ---
 
 ## Intuition

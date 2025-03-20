@@ -1,10 +1,10 @@
 ---
-title: "Exp(x) function"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Exp(x) function
 ---
 
 Exp function is defined by a [Taylor series](Taylor%20series.md) of [Number e](Number%20e.md)

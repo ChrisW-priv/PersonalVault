@@ -1,11 +1,11 @@
 ---
-title: Company Management
+categories: []
 date: 2025-03-09
 description: General collection of thoughts on the management of a company
 tags:
-  - zettlekasten
+- zettlekasten
+title: Company Management
 ---
-
 
 - No company ever works without it selling *something*.
 - Focusing on sales will often be done at the cost of robust operations.

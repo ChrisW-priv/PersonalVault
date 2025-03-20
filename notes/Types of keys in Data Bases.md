@@ -1,10 +1,10 @@
 ---
-title: "Types of keys in Data Bases"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Types of keys in Data Bases
 ---
 
 Types of keys that are present in data bases:

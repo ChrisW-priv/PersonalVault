@@ -1,10 +1,10 @@
 ---
-title: "Circular buffer"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Circular buffer
 ---
 
 > [!Definition]

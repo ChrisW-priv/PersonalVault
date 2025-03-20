@@ -1,10 +1,10 @@
 ---
-title: "Topological ordering"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Topological ordering
 ---
 
 Topological orderingwhich is an order where foreach directed edge (u,v) anode u appears before node v in the ordering.

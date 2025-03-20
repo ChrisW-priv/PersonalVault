@@ -1,9 +1,10 @@
 ---
-title: Zettelkasten Note System
+categories: []
 date: 2025-03-13
 description: Note taking system focused on taking notes that relate to each other
 tags:
-  - zettlekasten
+- zettlekasten
+title: Zettelkasten Note System
 ---
 
 Files are separated into 3 main sections:

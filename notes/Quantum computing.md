@@ -1,10 +1,10 @@
 ---
-title: "Quantum computing"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Quantum computing
 ---
 
 note taken based on [this](https://www.youtube.com/watch?v=F_Riqjdh2oM) youtube

@@ -1,10 +1,11 @@
 ---
-title: Infinite Staircase
+categories:
+- null
 date: 2025-02-18
 description: Idea that challenges never stop and get progressively harder
 tags:
-  - posts
-categories: 
+- posts
+title: Infinite Staircase
 type: post
 ---
 

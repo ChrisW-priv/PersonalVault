@@ -1,10 +1,10 @@
 ---
-title: "Digital circuits"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Digital circuits
 ---
 
 Digital circuits are [electronic circuit](electronic%20circuit) that use digital signals to represent and process information. [Digital signals](Digital%20signals) are [electrical signals](electrical%20signals) that can have only two [discrete](discrete) values, typically represented as [binary](binary) values of 0 and 1. Digital circuits use these binary values to encode and process information, allowing them to perform logical operations, store and manipulate data, and control other electronic devices.

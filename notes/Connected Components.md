@@ -1,10 +1,10 @@
 ---
-title: "Connected Components"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Connected Components
 ---
 
 Sometimes a graph is split into multiple components. It's useful to be able to identify and count these components.

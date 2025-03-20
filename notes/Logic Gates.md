@@ -1,10 +1,10 @@
 ---
-title: "Logic Gates"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Logic Gates
 ---
 
 Basic building block of a digital circuit. It's a simple [electronic circuit](electronic%20circuit) that performs a specific logical operation on one or more input signals and produces an output signal based on the inputs. There are several different types of logic gates, each of which performs a different logical operation. 

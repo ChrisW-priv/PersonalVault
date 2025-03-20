@@ -1,9 +1,11 @@
 ---
-title: "Associative binary property"
+categories:
+- zettelkasten
 date: 2025-02-14
-description: "This note explains the associative property of a binary operation, a fundamental concept in algebra and mathematics."
-categories: 
-  - "zettelkasten"
+description: This note explains the associative property of a binary operation, a
+  fundamental concept in algebra and mathematics.
+tags: []
+title: Associative binary property
 ---
 
 ## What is the Associative Binary Property?

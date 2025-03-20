@@ -1,10 +1,10 @@
 ---
-title: "LLM"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: LLM
 ---
 
 ## Intro
@@ -170,4 +170,4 @@ Aside from all todos above there are also the following:
 - llava topic -> explore learn what it is etc.
 - model filetypes -> make a list, compare them etc.
 - model architectures -> not just transformer probably so what else
-- multimodality -> how to add it to existing models, what are the limitations etc. 
+- multimodality -> how to add it to existing models, what are the limitations etc.

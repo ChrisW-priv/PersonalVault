@@ -1,10 +1,10 @@
 ---
-title: "Linear transformation"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Linear transformation
 ---
 
 > [!Definition]
@@ -31,4 +31,4 @@ To check if a transformation is linear then visually two properties must be true
 1. lines must be evenly spaced and remain straight
 2. origin point must be fixed
 
-In order to check where a new point land it is necessary to check where unit vectors land and scale those to match our vector properties. 
+In order to check where a new point land it is necessary to check where unit vectors land and scale those to match our vector properties.

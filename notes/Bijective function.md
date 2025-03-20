@@ -1,9 +1,12 @@
 ---
-title: "Bijective function"
+categories:
+- zettelkasten
 date: 2025-02-14
-description: "A bijective function is a one-to-one correspondence between the elements of two sets, ensuring that each element from the first set maps to a unique element in the second set and vice versa."
-categories: 
-  - "zettelkasten"
+description: A bijective function is a one-to-one correspondence between the elements
+  of two sets, ensuring that each element from the first set maps to a unique element
+  in the second set and vice versa.
+tags: []
+title: Bijective function
 ---
 
 ## Overview

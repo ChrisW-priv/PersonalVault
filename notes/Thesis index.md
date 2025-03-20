@@ -1,8 +1,11 @@
 ---
-title: Thesis index
+categories: []
 date: 2025-03-08
-description:
+description: No description provided.
+tags: []
+title: Thesis index
 ---
+
 [Engineering Thesis](../projects/Engineering%20Thesis.md)
 
 ## Contents

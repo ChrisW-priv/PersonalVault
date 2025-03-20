@@ -1,11 +1,12 @@
 ---
-title: Fourier series
-date: 2025-02-14
-description: ""
-tags:
-  - zettlekasten
-  - math
 categories:
+- null
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+- math
+title: Fourier series
 ---
 
 [Function approximation](Function%20approximation)

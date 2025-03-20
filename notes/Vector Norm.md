@@ -1,10 +1,10 @@
 ---
-title: "Vector Norm"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Vector Norm
 ---
 
 For different purposes there are several "norms" of a vector that we care about. 
@@ -52,4 +52,4 @@ a.k.a max function
 
 Result of finding maximum absolute component of the vector.
 
-For vector $[1,2,-3]$, it's $L^\infty$ norm is calculated like so: $result = max(1,2,3)=3$ 
+For vector $[1,2,-3]$, it's $L^\infty$ norm is calculated like so: $result = max(1,2,3)=3$

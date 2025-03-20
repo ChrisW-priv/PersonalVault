@@ -1,10 +1,10 @@
 ---
-title: "Parallel connections equivalents"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Parallel connections equivalents
 ---
 
 [electronic circuit](electronic%20circuit)

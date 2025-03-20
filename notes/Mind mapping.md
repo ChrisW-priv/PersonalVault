@@ -1,11 +1,13 @@
 ---
-title: Mind mapping
+categories: []
 date: 2025-03-07
 description: Method that makes you engage in higher order learning
 tags:
-  - zettlekasten
-  - learning
+- zettlekasten
+- learning
+title: Mind mapping
 ---
+
 [Link](https://m.youtube.com/watch?v=Grd7K7bJVWg) To Justin's video.
 
 Thinks to do to engage in effective mind mapping in the following sections:

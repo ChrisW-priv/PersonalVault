@@ -1,12 +1,13 @@
 ---
-title: Life engineered
+categories:
+- null
 date: 2025-02-21
-description: ""
-tags:
-  - posts
-categories: 
-type: post
+description: No description provided.
 draft: true
+tags:
+- posts
+title: Life engineered
+type: post
 ---
 
 ## What is this note about?

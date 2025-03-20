@@ -1,10 +1,11 @@
 ---
-title: uv as python build tool
-date: "2025-03-07" 
-description: ""
+categories:
+- null
+date: '2025-03-07'
+description: No description provided.
 tags:
-  - posts
-categories: 
+- posts
+title: uv as python build tool
 type: post
 ---
 

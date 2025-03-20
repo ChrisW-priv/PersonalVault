@@ -1,9 +1,11 @@
 ---
-title: "Balancing Services Market"
-date: "2025-03-10"
-description: "This note provides an overview of the balancing services market, including key concepts, current state, and market design."
 categories:
-  - zettelkasten
+- zettelkasten
+date: '2025-03-10'
+description: This note provides an overview of the balancing services market, including
+  key concepts, current state, and market design.
+tags: []
+title: Balancing Services Market
 ---
 
 [Batteries Project](../projects/Batteries%20Project.md)

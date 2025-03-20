@@ -1,12 +1,14 @@
 ---
-title: Chain rule
-date: 2025-02-14
-description: A formula that expresses the derivative of a composite function `h` of two functions `f` and `g` in terms of the derivatives of `f` and `g`
-tags:
-  - zettlekasten
-  - math
-  - calculus
 categories:
+- null
+date: 2025-02-14
+description: A formula that expresses the derivative of a composite function `h` of
+  two functions `f` and `g` in terms of the derivatives of `f` and `g`
+tags:
+- zettlekasten
+- math
+- calculus
+title: Chain rule
 ---
 
 ## Notation
@@ -48,4 +50,4 @@ $$h'(x) = 4(3x^2 + 5x)^3 \cdot (6x + 5)$$
 
 ## Intuition
 
-see 3b1b video that explains it well. 
+see 3b1b video that explains it well.

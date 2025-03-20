@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Bellman-Ford algorithm.md",
+                "file": "notes/Chain rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman-Ford algorithm"
+              "title": "Chain rule"
             }
           }
         ]
@@ -173,6 +173,14 @@
   },
   "active": "e89b07c9aa9c2bf6",
   "lastOpenFiles": [
+    "notes/Zettelkasten Note System.md",
+    "temp/main.py~",
+    "temp/4913",
+    "notes/Graph.md",
+    "notes/Bipartite Graph.md",
+    "notes/Change of basis.md",
+    "notes/Chunking methods.md",
+    "notes/Chain rule.md",
     "notes/Bellman-Ford algorithm.md",
     "notes/Bernoulli equations.md",
     "notes/Asymmetric encryption.md",
@@ -190,8 +198,6 @@
     "notes/Articulation points.md",
     "notes/Assistant task execution.md",
     "notes/Associative binary property.md",
-    "temp/main.py~",
-    "temp/4913",
     "notes/3 terminal device transformations.md",
     "dashboards/important-undone.md",
     "temp/uv.lock",
@@ -203,12 +209,6 @@
     "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
     "extra/Guide to x86 Assembly_files",
     "temp/README.md",
-    "projects/Batteries Project.md",
-    "notes/Remove File From Git History.md",
-    "notes/Book Notes - Nexus.md",
-    "projects/Work Skills.md",
-    "README.md",
-    "notes/Day ahead markets.md",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/sponge.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-yellow.png",

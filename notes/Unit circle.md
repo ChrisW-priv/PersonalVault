@@ -1,10 +1,10 @@
 ---
-title: "Unit circle"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Unit circle
 ---
 
 In mathematics, a unit circle is a circle of unit radius—that is, a radius of 1.

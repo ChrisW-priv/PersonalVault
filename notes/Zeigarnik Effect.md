@@ -1,11 +1,12 @@
 ---
-title: Zeigarnik Effect
-date: 2025-02-18
-description: ""
-tags:
-  - zettlekasten
-  - productivity
 categories:
+- null
+date: 2025-02-18
+description: No description provided.
+tags:
+- zettlekasten
+- productivity
+title: Zeigarnik Effect
 ---
 
 ## Zeigarnik Effect

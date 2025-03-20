@@ -1,10 +1,10 @@
 ---
-title: "Reduce pattern"
-date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
 categories: []
+date: 2025-02-14
+description: No description provided.
+tags:
+- zettlekasten
+title: Reduce pattern
 ---
 
 > [!Definition]
@@ -14,4 +14,4 @@ Reduce function accepts a function, an array and starting value. If starting val
 
 Thus, a signature for it will be `reduce(callback, initial_value, array) -> accumulated_result`
 
-Every function that is used in this pattern must have signature equivalent to `foo(accumulated, next_value) -> new_result` and the final result will be the last `new_result` returned by the function. 
+Every function that is used in this pattern must have signature equivalent to `foo(accumulated, next_value) -> new_result` and the final result will be the last `new_result` returned by the function.
