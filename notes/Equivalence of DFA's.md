@@ -1,10 +1,10 @@
 ---
-title: "Equivalence of DFA's"
+title: Equivalence of DFA's
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [[ELAC]]

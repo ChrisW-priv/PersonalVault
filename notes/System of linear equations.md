@@ -1,10 +1,10 @@
 ---
-title: "System of linear equations"
+title: System of linear equations
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ### System of linear equations

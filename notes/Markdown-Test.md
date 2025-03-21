@@ -2,10 +2,11 @@
 title: Markdown Test
 description: Bulk test for the markdown to html rendering
 date: 2025-01-26
-type: post
 tags:
   - posts
 categories:
+  - null
+type: post
 ---
 
 > [!Definition]

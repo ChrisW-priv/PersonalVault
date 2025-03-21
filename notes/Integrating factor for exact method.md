@@ -1,10 +1,10 @@
 ---
-title: "Integrating factor for exact method"
+title: Integrating factor for exact method
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 First steps are the same as in [Exact method for solving ODEs](Exact%20method%20for%20solving%20ODEs.md)
@@ -37,4 +37,4 @@ or, if that is dependent on both x and y:
 
 to get $\mu$ just integrate both side using $dx$ or $dy$ depending how u got $\frac{\mu'}{\mu}$. 
 
-Once you calculated $\mu$ just multiply $P,Q$ and return to [Exact method for solving ODEs](Exact%20method%20for%20solving%20ODEs.md) with this new function. 
+Once you calculated $\mu$ just multiply $P,Q$ and return to [Exact method for solving ODEs](Exact%20method%20for%20solving%20ODEs.md) with this new function.

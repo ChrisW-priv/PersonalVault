@@ -1,7 +1,7 @@
 ---
 title: Learning
-date: 2025-02-14
 description: Learning techniques that make studying much more productive
+date: 2025-02-14
 tags: []
 categories:
   - meta-skills

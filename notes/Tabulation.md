@@ -1,10 +1,10 @@
 ---
-title: "Tabulation"
+title: Tabulation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Similar to [Memoization](Memoization.md) as it is also saving the result of the function, this time in a table. This time you try to work "bottom-up". 

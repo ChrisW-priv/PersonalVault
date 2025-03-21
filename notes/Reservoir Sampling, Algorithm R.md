@@ -1,10 +1,10 @@
 ---
-title: "Reservoir Sampling, Algorithm R"
+title: Reservoir Sampling, Algorithm R
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Given a steam of size $N$ which is too large to fit into memory, randomly select $K$ elements such that each element has an equal probability of being chosen. Assume access to [Pseudo-random number generator (PRNG)](Pseudo-random%20number%20generator%20(PRNG))
@@ -139,4 +139,4 @@ $$ P(element _i) =  \frac{k}{i} * (1 - \frac{k}{i+i} * \frac{i}{k}) = \frac{k}{i
 
 $$ P(element _{i+1} ) = \frac{k}{i+1}$$
 
-As $i$ gets bigger chance of being chosen goes down as well as risk of being replaced out from the list. 
+As $i$ gets bigger chance of being chosen goes down as well as risk of being replaced out from the list.

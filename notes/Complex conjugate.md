@@ -1,10 +1,10 @@
 ---
-title: "Complex conjugate"
+title: Complex conjugate
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 > [!Definition]
@@ -12,4 +12,4 @@ categories: []
 
 ### Notation
 
-for complex number $z$ it's complex conjugate is noted as $\bar{z}$ 
+for complex number $z$ it's complex conjugate is noted as $\bar{z}$

@@ -1,10 +1,10 @@
 ---
-title: "NOR gate"
+title: NOR gate
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Logic Gates](Logic%20Gates.md)

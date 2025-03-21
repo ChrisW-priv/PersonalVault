@@ -1,10 +1,10 @@
 ---
-title: "Directed Acyclic Graphs (DAG)"
+title: Directed Acyclic Graphs (DAG)
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Graph](Graph.md)

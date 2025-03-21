@@ -1,10 +1,10 @@
 ---
-title: "Self-consistent field in Kohn-Sham density functional theory"
+title: Self-consistent field in Kohn-Sham density functional theory
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [electronic circuit](electronic%20circuit)

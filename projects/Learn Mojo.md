@@ -1,10 +1,11 @@
 ---
 title: Learn Mojo
-date: 2025-03-01
 description: Learn python compilation with new setup language superset.
+date: 2025-03-01
 tags:
   - project
-important: true
+  - work
+important: false
 status: todo
 ---
 

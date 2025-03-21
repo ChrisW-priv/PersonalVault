@@ -1,12 +1,13 @@
 ---
 title: Life engineered
+description: No description provided.
 date: 2025-02-21
-description: ""
 tags:
   - posts
-categories: 
-type: post
+categories:
+  - null
 draft: true
+type: post
 ---
 
 ## What is this note about?

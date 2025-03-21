@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "784f2524b4526ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "71779904b592c02b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee6ca3d6c956e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Timezones in Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timezones in Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eaca69d899a8674e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce99a199b470eba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65862f1e39f0655f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23314d218241bd7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f6ac9d31bd34710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "baeb70a82a37e899",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5043e239340bb25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d179bfe2da38790",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/TestPresentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TestPresentation"
+            }
+          },
+          {
+            "id": "c7adb2fd5ec41e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/TestPresentation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TestPresentation"
+            }
+          },
+          {
+            "id": "4f5094fea1c42453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17c691d86d532a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/TestPresentation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TestPresentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bee6ca3d6c956e9c",
+  "lastOpenFiles": [
+    "dashboards/important-undone.md",
+    "notes/Timezones in Python.md",
+    "projects/Personal cash flow analysis.md",
+    "projects/Practical Training.md",
+    "projects/Personal Budget.md",
+    "dashboards/deemed-unimportant.md",
+    "projects/Learn German.md",
+    "projects/Life engineered.md",
+    "projects/Fitness.md",
+    "projects/Learn Ge.md",
+    "projects/Learn pydantic-settings.md",
+    "projects/Learn Mojo.md",
+    "projects/Learn Biotechnology.md",
+    "projects/Learn Advanced Git.md",
+    "projects/Graph theory as library.md",
+    "projects/Graph lib in db.md",
+    "projects/ECOTE.md",
+    "projects/EARIN.md",
+    "projects/Create simple compiler.md",
+    "projects/Content Access Permission App.md",
+    "projects/Batteries Project.md",
+    "projects/AI w Axpo.md",
+    "projects/Refactor vault notes.md",
+    "project/test project.md",
+    "projects/Test Project.md",
+    "notes/Test new note.md",
+    "dashboards",
+    "project",
+    "temp/4913",
+    "temp/main.py~",
+    "temp/uv.lock",
+    "extra/Architektura komputerów.pdf",
+    "extra/x86-64bit-ccc-chapter.pdf",
+    "extra/x86-32bit-ccc-chapter.pdf",
+    "temp/pyproject.toml",
+    "extra/Guide to x86 Assembly.html",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/sponge.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-yellow.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-white.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-red.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-purple.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-orange.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-green.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-blue.png",
+    "notes/presentations/Test Presentation/plugin/chalkboard/img/boardmarker-yellow.png",
+    "Canvas/Outline.canvas"
+  ]
+}

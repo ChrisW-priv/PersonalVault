@@ -1,10 +1,10 @@
 ---
-title: "Closure Properties of Regular Languages"
+title: Closure Properties of Regular Languages
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [[ELAC]]

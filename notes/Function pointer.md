@@ -1,10 +1,10 @@
 ---
-title: "Function pointer"
+title: Function pointer
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Function pointers in C and C++ have following structure 

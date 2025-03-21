@@ -1,8 +1,7 @@
 ---
-title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
-description: "Daily note for: {{title}}"
+title: "<% tp.file.title %>"
+description: "Daily note for: <% tp.file.title %>"
+date: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - dailynote
 ---
-

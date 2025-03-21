@@ -1,10 +1,10 @@
 ---
-title: "Unit Vector"
+title: Unit Vector
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Vector](Vector.md) that defines space. 

@@ -1,10 +1,10 @@
 ---
-title: "HyDE query translation"
+title: HyDE query translation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Method related to [Query translation](Query%20translation.md) where you try to

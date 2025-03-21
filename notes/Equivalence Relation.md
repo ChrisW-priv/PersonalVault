@@ -1,10 +1,10 @@
 ---
-title: "Equivalence Relation"
+title: Equivalence Relation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 One of [Relation in Mathematics](Relation%20in%20Mathematics.md)

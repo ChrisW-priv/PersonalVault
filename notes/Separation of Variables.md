@@ -1,10 +1,10 @@
 ---
-title: "Separation of Variables"
+title: Separation of Variables
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Easiest way of solving ODEs

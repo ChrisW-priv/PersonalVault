@@ -1,10 +1,10 @@
 ---
-title: "Cpp in Python"
+title: Cpp in Python
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 To use a C++ function in Python, you can use Cython to create a Python extension module. Cython is a language that makes writing C extensions for the Python language as easy as Python itself.

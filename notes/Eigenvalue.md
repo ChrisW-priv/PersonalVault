@@ -1,10 +1,10 @@
 ---
-title: "Eigenvalue"
+title: Eigenvalue
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 > [!Definition]
@@ -52,4 +52,3 @@ $$M = \begin{bmatrix} a & b \\ c & d \end{bmatrix}$$
 	- $ad-bc = \lambda_1 \cdot \lambda_2$
 3) now let us define $m$ as mean of $a+d$. Then our final solution will be
 	- $\lambda_1,\lambda_{2}= m \pm \sqrt{m^2-p}$
- 

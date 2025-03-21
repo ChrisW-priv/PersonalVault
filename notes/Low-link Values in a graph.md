@@ -1,10 +1,10 @@
 ---
-title: "Low-link Values in a graph"
+title: Low-link Values in a graph
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

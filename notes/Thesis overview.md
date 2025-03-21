@@ -1,10 +1,10 @@
 ---
-title: "Thesis overview"
+title: Thesis overview
+description: No description provided.
 date: 2025-02-25
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 My thesis parts:

@@ -1,10 +1,10 @@
 ---
-title: "Binary Search"
+title: Binary Search
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

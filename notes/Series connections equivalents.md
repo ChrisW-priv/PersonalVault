@@ -1,10 +1,10 @@
 ---
-title: "Series connections equivalents"
+title: Series connections equivalents
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [electronic circuit](electronic%20circuit)

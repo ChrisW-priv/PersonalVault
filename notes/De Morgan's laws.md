@@ -1,10 +1,10 @@
 ---
-title: "De Morgan's laws"
+title: De Morgan's laws
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 In [Logic Gates](Logic%20Gates.md):

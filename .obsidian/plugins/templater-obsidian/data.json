@@ -1,22 +1,30 @@
 {
   "command_timeout": 5,
-  "templates_folder": "snippets",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "snippets",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "projects",
+      "template": "templates/project.md"
+    },
+    {
+      "folder": "dashboards",
+      "template": "templates/dashboard.md"
+    },
+    {
+      "folder": "notes",
+      "template": "templates/zettlekasten.md"
     }
   ],
   "enable_file_templates": false,

@@ -1,11 +1,12 @@
 ---
 title: Convolution
+description: No description provided.
 date: 2025-02-14
-description: ""
 tags:
-  - zettlekasten
   - math
 categories:
+  - null
+  - zettelkasten
 ---
 
 [Vector](Vector.md)

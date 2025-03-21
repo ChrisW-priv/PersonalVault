@@ -1,10 +1,10 @@
 ---
-title: "Prompt engineering"
+title: Prompt engineering
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 interesting idea against prompt engineering:

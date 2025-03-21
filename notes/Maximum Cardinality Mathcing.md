@@ -1,10 +1,10 @@
 ---
-title: "Maximum Cardinality Mathcing"
+title: Maximum Cardinality Mathcing
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Generally we are interested in what's called a Maximum Cardinality Bipartite Matching (MCBM).

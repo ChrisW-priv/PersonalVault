@@ -1,10 +1,10 @@
 ---
-title: "Query translation"
+title: Query translation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Simply put, sometimes the queries to LLM may be incomplete, miss context or

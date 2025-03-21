@@ -1,10 +1,10 @@
 ---
-title: "Linear combination"
+title: Linear combination
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Result of addition of [vectors](Vector.md) multiplied by scalars.

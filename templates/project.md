@@ -1,7 +1,7 @@
 ---
-title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
+title: "<% tp.file.title %>"
 description: ""
+date: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - project
 important: true
@@ -10,12 +10,4 @@ status: todo
 
 ## Action Items
 
-- [ ] Task1 [important:: true] 
-
-## Progress
-
-Notes on what happened...
-
-## Reflection
-
-What went wrong? Why?
+- [ ] Task1

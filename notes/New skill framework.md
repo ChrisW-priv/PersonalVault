@@ -1,7 +1,7 @@
 ---
 title: New skill framework
-date: 2025-02-15
 description: Practical framework to learning new skill.
+date: 2025-02-15
 tags:
   - learning
 categories:

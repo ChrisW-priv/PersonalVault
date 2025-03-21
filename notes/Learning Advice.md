@@ -1,7 +1,7 @@
 ---
 title: Learning Advice
+description: No description provided.
 date: 2025-02-18
-description: ""
 tags:
   - advice
 categories: []
