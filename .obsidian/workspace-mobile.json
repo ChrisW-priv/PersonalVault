@@ -142,6 +142,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,8 +154,9 @@
   },
   "active": "9f97e12d0b61e35a",
   "lastOpenFiles": [
-    "dashboards/important-undone.md",
+    "projects/Terrain scanner.md",
     "projects/Work Skills.md",
+    "dashboards/important-undone.md",
     "notes/Biggest pain-points of customer service.md",
     "projects/Personal Budget.md",
     "projects/ECOTE.md",
@@ -179,7 +181,6 @@
     "notes/Untitled 1.md",
     "projects/Learn Mojo.md",
     "projects/EARIN.md",
-    "projects/Life habits.md",
     "notes/attachments/Pasted image 20221028103829.png",
     "notes/attachments/Pasted image 20221030191929.png",
     "notes/attachments/Pasted image 20221026210231.png",
