@@ -1,10 +1,10 @@
 ---
-title: "Neutral Element"
+title: Neutral Element
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Also known as Identity Element

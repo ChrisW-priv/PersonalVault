@@ -1,11 +1,11 @@
 ---
 title: SPA
-date: 2025-03-06
 description: ""
+date: 2025-03-06
 tags:
   - project
   - work
-important: true
+important: false
 status: in-progress
 ---
 

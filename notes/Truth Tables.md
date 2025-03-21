@@ -1,10 +1,10 @@
 ---
-title: "Truth Tables"
+title: Truth Tables
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Truth tables allow us to see results of aplying different inputs to specified logic gates

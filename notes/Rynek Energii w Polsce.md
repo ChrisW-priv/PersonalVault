@@ -1,11 +1,14 @@
 ---
 title: Rynek Energii w Polsce
+description: No description provided.
 date: 2025-02-27
-description: ""
-tags: 
-categories: 
+tags:
+  - null
+categories:
+  - null
 draft: true
 ---
+
 [Batteries Project](../projects/Batteries%20Project.md)
 
 Uproszczony widok na rynek energii w Polsce:

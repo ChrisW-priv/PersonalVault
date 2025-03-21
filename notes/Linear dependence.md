@@ -1,10 +1,10 @@
 ---
-title: "Linear dependence"
+title: Linear dependence
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 A property of a [Vector](Vector.md). 

@@ -1,10 +1,10 @@
 ---
-title: "LLM powered Personal Assistant - requirement"
+title: LLM powered Personal Assistant - requirement
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [LLM](LLM.md)

@@ -1,10 +1,10 @@
 ---
-title: "Many-to-one function"
+title: Many-to-one function
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Type of [Function in Mathematics](Function%20in%20Mathematics.md)

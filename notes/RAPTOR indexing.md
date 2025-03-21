@@ -1,10 +1,10 @@
 ---
-title: "RAPTOR indexing"
+title: RAPTOR indexing
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Indexing](Indexing)
@@ -21,4 +21,4 @@ Tree
 
 Organised
 
-Retrieval 
+Retrieval

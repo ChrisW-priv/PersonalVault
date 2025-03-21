@@ -1,10 +1,10 @@
 ---
-title: "LLM Transformer architecture"
+title: LLM Transformer architecture
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## What are the parts of a transformer?

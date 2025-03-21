@@ -1,10 +1,10 @@
 ---
-title: "Edge List"
+title: Edge List
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Graph representation](Graph%20representation.md)

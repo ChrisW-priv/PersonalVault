@@ -1,10 +1,10 @@
 ---
-title: "Proposition indexing"
+title: Proposition indexing
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Proposition [Indexing](Indexing) is used in order to optimise 

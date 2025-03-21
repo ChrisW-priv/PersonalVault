@@ -1,10 +1,10 @@
 ---
-title: "Relation in Mathematics"
+title: Relation in Mathematics
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 In discrete mathematics, the relation can be described as a collection of ordered pairs.

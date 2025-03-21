@@ -1,10 +1,10 @@
 ---
-title: "Complex multiplication as a rotation"
+title: Complex multiplication as a rotation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Complex numbers in rotations

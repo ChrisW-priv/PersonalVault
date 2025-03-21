@@ -1,20 +1,22 @@
 ---
-title: "Dijkstra's algorithm"
+title: Dijkstra's algorithm
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
+
+> [!Important]
+> Dijkitra's algorithm can ONLY be run on graph with no negative edge weights.
+> This allows us to let the algorithm act in a greedy manner.
 
 ## Definition
 
-Dijkistra's algorithm is a solution to Single Source Shortest Path ([SSSP](SSSP)) for non-negative [Weighted Graph](Weighted%20Graph.md)
+Dijkstra's algorithm is a solution to Single Source Shortest Path ([SSSP](SSSP)) for non-negative [Weighted Graph](Weighted%20Graph.md)
 
-Typically the efficieny of this algorithm is $O(E+log(V))$ which is really competetive against other algorithms.
+Typically the efficiency of this algorithm is $O(E+log(V))$ which is really competitive against other algorithms.
 
-## Notation
-
-## Intuition
-
-Dijkitra's algorithm can ONLY be run on graph with no negative edge weights. This allows us to let the algorithm act in a gready manner
+> [!Notice]
+> Dijkstra's algorithm is just [Breadth First Search (BFS)](Breadth%20First%20Search%20(BFS).md) but on [Weighted Graph](Weighted%20Graph.md).
+> If you were to "unwrap" the edges to make the graph unweighted, then it is basically a BFS (with number of nodes as the weight).

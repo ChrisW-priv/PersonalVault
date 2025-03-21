@@ -1,10 +1,11 @@
 ---
 title: uv as python build tool
-date: "2025-03-07" 
-description: ""
+description: No description provided.
+date: '2025-03-07'
 tags:
   - posts
-categories: 
+categories:
+  - null
 type: post
 ---
 
@@ -13,7 +14,9 @@ type: post
 ## TLDR;
 
 Switching from `poetry` to `uv` could really boost our Python projects. `uv` is
+
 faster, simpler, and fits right into what we're doing. By using strategies like
+
 multi-stage Docker builds , we can make sure the change is safe and easy.
 
 ## Limitations of `poetry`

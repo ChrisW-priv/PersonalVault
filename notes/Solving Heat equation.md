@@ -1,10 +1,10 @@
 ---
-title: "Solving Heat equation"
+title: Solving Heat equation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Problem related to [Examples of PDEs](Examples%20of%20PDEs.md)

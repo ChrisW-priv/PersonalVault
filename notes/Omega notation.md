@@ -1,10 +1,10 @@
 ---
-title: "Omega notation"
+title: Omega notation
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 In computer science we use omega notation to check what is the minimum number of actions that need to be taken in order to perform some task. 
@@ -13,4 +13,4 @@ Often used with [Big O notation](Big%20O%20notation.md) to describe how algorith
 
 Example:
 
-addition has scale of $\Omega(n)$ because at least you have to calculate each digit 
+addition has scale of $\Omega(n)$ because at least you have to calculate each digit

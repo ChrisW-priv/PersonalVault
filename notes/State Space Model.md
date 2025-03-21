@@ -1,10 +1,10 @@
 ---
-title: "State Space Model"
+title: State Space Model
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [[math model]]

@@ -1,11 +1,12 @@
 ---
 title: Change of basis
+description: No description provided.
 date: 2025-02-14
-description: ""
 tags:
-  - zettlekasten
   - math
 categories:
+  - null
+  - zettelkasten
 ---
 
 [Matrix](Matrix.md)

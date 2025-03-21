@@ -1,10 +1,10 @@
 ---
-title: "Checklist for strong Encryption"
+title: Checklist for strong Encryption
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Encryption](Encryption.md)

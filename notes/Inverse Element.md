@@ -1,10 +1,10 @@
 ---
-title: "Inverse Element"
+title: Inverse Element
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Let $X$ be non-empty set.
