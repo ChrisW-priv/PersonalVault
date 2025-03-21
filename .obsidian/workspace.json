@@ -11,14 +11,12 @@
             "id": "bee6ca3d6c956e9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/Timezones in Python.md",
-                "mode": "source",
-                "source": false
+                "file": "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Timezones in Python"
+              "icon": "lucide-file-text",
+              "title": "Hands-On Machine Learning with Scikit-Lear - Aurelien Geron"
             }
           }
         ]
@@ -172,13 +170,14 @@
   },
   "active": "bee6ca3d6c956e9c",
   "lastOpenFiles": [
+    "dashboards/deemed-unimportant.md",
+    "notes/Life engineered.md",
+    "notes/Timezones in Python.md",
     "projects/Work Skills.md",
     "dashboards/important-undone.md",
-    "notes/Timezones in Python.md",
     "projects/Personal cash flow analysis.md",
     "projects/Practical Training.md",
     "projects/Personal Budget.md",
-    "dashboards/deemed-unimportant.md",
     "projects/Learn German.md",
     "projects/Life engineered.md",
     "projects/Fitness.md",
@@ -197,7 +196,6 @@
     "projects/AI w Axpo.md",
     "projects/Refactor vault notes.md",
     "project/test project.md",
-    "projects/Test Project.md",
     "dashboards",
     "project",
     "temp/4913",
