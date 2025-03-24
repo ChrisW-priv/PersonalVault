@@ -11,12 +11,14 @@
             "id": "bee6ca3d6c956e9c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf"
+                "file": "projects/AI w Axpo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Hands-On Machine Learning with Scikit-Lear - Aurelien Geron"
+              "icon": "lucide-file",
+              "title": "AI w Axpo"
             }
           }
         ]
@@ -170,6 +172,9 @@
   },
   "active": "bee6ca3d6c956e9c",
   "lastOpenFiles": [
+    "extra/x86-32bit-ccc-chapter.pdf",
+    "extra/Architektura komputerów.pdf",
+    "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
     "dashboards/deemed-unimportant.md",
     "notes/Life engineered.md",
     "notes/Timezones in Python.md",
@@ -195,15 +200,12 @@
     "projects/Batteries Project.md",
     "projects/AI w Axpo.md",
     "projects/Refactor vault notes.md",
-    "project/test project.md",
     "dashboards",
     "project",
     "temp/4913",
     "temp/main.py~",
     "temp/uv.lock",
-    "extra/Architektura komputerów.pdf",
     "extra/x86-64bit-ccc-chapter.pdf",
-    "extra/x86-32bit-ccc-chapter.pdf",
     "temp/pyproject.toml",
     "extra/Guide to x86 Assembly.html",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
