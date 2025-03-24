@@ -1,11 +1,11 @@
 ---
 title: uv as python build tool
 description: No description provided.
-date: '2025-03-07'
+date: 2025-03-07
 tags:
   - posts
-categories:
-  - null
+  - python
+categories: 
 type: post
 ---
 
