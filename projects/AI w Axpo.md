@@ -14,6 +14,7 @@ status: in-progress
 - [x] Napisz do Pawła Klepackiego
 - [ ] Napisz do Ioanisa
 - [ ] Umów spotkanie na początku kwietnia z Jarosławem Mazurem
+- [ ] Make presentation on AI
 
 ## Progress
 
