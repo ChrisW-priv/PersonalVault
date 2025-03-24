@@ -18,3 +18,4 @@ categories:
 - Permission system must be implemented, but should not impede operations. 
     - There needs to be an easy way to request access to the resource.
         - This means knowing what even is accessible must be easy.
+- don't forget the perspective of legal and finance (taxes plus cashflow)
