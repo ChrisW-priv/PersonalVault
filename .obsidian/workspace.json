@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Learn pydantic-settings.md",
+                "file": "dashboards/important-undone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn pydantic-settings"
+              "title": "important-undone"
             }
           }
         ]
@@ -172,6 +172,10 @@
   },
   "active": "bee6ca3d6c956e9c",
   "lastOpenFiles": [
+    "projects/Engineering Thesis.md",
+    "dashboards/important-undone.md",
+    "notes/Remove File From Git History.md",
+    "projects/Learn pydantic-settings.md",
     "dashboards/deemed-unimportant.md",
     "projects/AI w Axpo.md",
     "extra/x86-32bit-ccc-chapter.pdf",
@@ -180,7 +184,6 @@
     "notes/Life engineered.md",
     "notes/Timezones in Python.md",
     "projects/Work Skills.md",
-    "dashboards/important-undone.md",
     "projects/Personal cash flow analysis.md",
     "projects/Practical Training.md",
     "projects/Personal Budget.md",
@@ -188,7 +191,6 @@
     "projects/Life engineered.md",
     "projects/Fitness.md",
     "projects/Learn Ge.md",
-    "projects/Learn pydantic-settings.md",
     "projects/Learn Mojo.md",
     "projects/Learn Biotechnology.md",
     "projects/Learn Advanced Git.md",
@@ -199,7 +201,6 @@
     "projects/Create simple compiler.md",
     "projects/Content Access Permission App.md",
     "projects/Batteries Project.md",
-    "projects/Refactor vault notes.md",
     "dashboards",
     "project",
     "temp/4913",
