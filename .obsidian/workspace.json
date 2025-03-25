@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/AI w Axpo.md",
+                "file": "projects/Learn pydantic-settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI w Axpo"
+              "title": "Learn pydantic-settings"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "bee6ca3d6c956e9c",
   "lastOpenFiles": [
+    "dashboards/deemed-unimportant.md",
+    "projects/AI w Axpo.md",
     "extra/x86-32bit-ccc-chapter.pdf",
     "extra/Architektura komputerów.pdf",
     "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
-    "dashboards/deemed-unimportant.md",
     "notes/Life engineered.md",
     "notes/Timezones in Python.md",
     "projects/Work Skills.md",
@@ -198,7 +199,6 @@
     "projects/Create simple compiler.md",
     "projects/Content Access Permission App.md",
     "projects/Batteries Project.md",
-    "projects/AI w Axpo.md",
     "projects/Refactor vault notes.md",
     "dashboards",
     "project",
@@ -207,7 +207,6 @@
     "temp/uv.lock",
     "extra/x86-64bit-ccc-chapter.pdf",
     "temp/pyproject.toml",
-    "extra/Guide to x86 Assembly.html",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/sponge.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-yellow.png",
