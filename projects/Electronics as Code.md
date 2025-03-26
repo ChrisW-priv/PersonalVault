@@ -12,4 +12,6 @@ status: todo
  
 ## Action Items
 
-- [ ] 
+- [ ] Write to lecturer on the ideas
+- [ ] Figure out what is done
+- [ ] Write the lang

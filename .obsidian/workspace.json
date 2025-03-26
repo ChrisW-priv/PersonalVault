@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Electronics as Code.md",
+                "file": "projects/EARIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electronics as Code"
+              "title": "EARIN"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Minimax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +173,14 @@
   },
   "active": "d86aab746212f01b",
   "lastOpenFiles": [
-    "projects/EARIN.md",
+    "notes/Alpha Beta Pruning.md",
+    "notes/Minimax Algorithm.md",
+    "notes/Transposition Encryption Algorithms.md",
+    "notes/Game State Transpositions.md",
+    "notes/Zobrist Hashing.md",
+    "notes/Drawing ASCII trees.md",
     "projects/Electronics as Code.md",
+    "projects/EARIN.md",
     "templates/project.md",
     "projects/Constraint Solver.md",
     "projects/Min Max Solver.md",
@@ -195,12 +202,6 @@
     "projects/Learn German.md",
     "projects/Life engineered.md",
     "projects/Fitness.md",
-    "projects/Learn Ge.md",
-    "projects/Learn Mojo.md",
-    "projects/Learn Biotechnology.md",
-    "projects/Learn Advanced Git.md",
-    "projects/Graph theory as library.md",
-    "projects/Graph lib in db.md",
     "dashboards",
     "project",
     "temp/4913",
