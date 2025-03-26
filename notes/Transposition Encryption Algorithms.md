@@ -1,8 +1,8 @@
 ---
-title: Transposition Algorithms
+title: Transposition Encryption Algorithms
 description: No description provided.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
