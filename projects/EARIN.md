@@ -11,12 +11,8 @@ status: todo
 
 ## Action Items
 
-- [ ] Prepare for the lecture on Wednesday  
-
-## Progress
-
-Notes on what happened...
-
-## Reflection
-
-What went wrong? Why?
+- [ ] Prepare for the lecture on Wednesday
+- [ ] Make note on the alpha beta pruning
+- [ ] Make note on the constraints solver
+- [ ] Make note on the min max solver
+- [ ] Make note on the NP complete problems - what are they etc.
