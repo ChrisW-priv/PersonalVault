@@ -6,7 +6,7 @@ tags:
   - project
   - course
 important: true
-status: todo
+status: in-progress
 ---
 
 ## Action Items
@@ -15,4 +15,4 @@ status: todo
 - [x] Make note on the alpha beta pruning
 - [ ] Make note on the constraints solver
 - [x] Make note on the min max solver
-- [ ] Make note on the NP complete problems - what are they etc.
+- [x] Make note on the NP complete problems - what are they etc.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/EARIN.md",
+                "file": "notes/Constraint Satisfaction Problem (CSP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EARIN"
+              "title": "Constraint Satisfaction Problem (CSP)"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +172,10 @@
   },
   "active": "d86aab746212f01b",
   "lastOpenFiles": [
+    "notes/Monte Carlo Method in Searching.md",
+    "notes/Constraint Satisfaction Problem (CSP).md",
+    "projects/EARIN.md",
+    "notes/Polynomial vs Non-Polynomial time complexity.md",
     "notes/Alpha Beta Pruning.md",
     "notes/Minimax Algorithm.md",
     "notes/Transposition Encryption Algorithms.md",
@@ -180,7 +183,6 @@
     "notes/Zobrist Hashing.md",
     "notes/Drawing ASCII trees.md",
     "projects/Electronics as Code.md",
-    "projects/EARIN.md",
     "templates/project.md",
     "projects/Constraint Solver.md",
     "projects/Min Max Solver.md",
@@ -199,9 +201,6 @@
     "projects/Personal cash flow analysis.md",
     "projects/Practical Training.md",
     "projects/Personal Budget.md",
-    "projects/Learn German.md",
-    "projects/Life engineered.md",
-    "projects/Fitness.md",
     "dashboards",
     "project",
     "temp/4913",
