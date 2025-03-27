@@ -13,6 +13,6 @@ status: in-progress
 
 - [ ] Prepare for the lecture on Wednesday
 - [x] Make note on the alpha beta pruning
-- [ ] Make note on the constraints solver
+- [x] Make note on the constraints solver
 - [x] Make note on the min max solver
 - [x] Make note on the NP complete problems - what are they etc.

@@ -12,4 +12,4 @@ status: todo
 ## Action Items
 
 - [ ] Find out what docs I need to sign
-- [ ] Submit the notes
+- [ ] Submit the documents
