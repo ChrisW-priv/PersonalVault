@@ -12,7 +12,7 @@ status: in-progress
 ## Action Items
 
 - [x] Napisz do Pawła Klepackiego
-- [ ] Napisz do Ioanisa
+- [x] Napisz do Ioanisa
 - [ ] Umów spotkanie na początku kwietnia z Jarosławem Mazurem
 - [ ] Make presentation on AI
 
