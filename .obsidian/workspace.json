@@ -11,10 +11,14 @@
             "id": "95e2eb21eb943c21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/Timeseries data in Python.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Timeseries data in Python"
             }
           }
         ]
@@ -168,9 +172,11 @@
   },
   "active": "95e2eb21eb943c21",
   "lastOpenFiles": [
+    "notes/Timezones in Python.md",
+    "notes/Timeseries data in Python.md",
+    "dashboards/important-undone.md",
     "notes/Transposition Encryption Algorithms.md",
     "notes/Constraint Satisfaction Problem (CSP).md",
-    "dashboards/important-undone.md",
     "projects/Practical Training.md",
     "projects/Fitness.md",
     "notes/Monte Carlo Method in Searching.md",
@@ -194,9 +200,7 @@
     "extra/Architektura komputerów.pdf",
     "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
     "notes/Life engineered.md",
-    "notes/Timezones in Python.md",
     "projects/Work Skills.md",
-    "projects/Personal cash flow analysis.md",
     "dashboards",
     "project",
     "temp/4913",
