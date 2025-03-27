@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboards/important-undone.md",
+                "file": "projects/ECOTE/ECOTE LABS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "important-undone"
+              "title": "ECOTE LABS"
+            }
+          },
+          {
+            "id": "e0f4a4f451be275c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "projects/ECOTE/ECOTE Summer 2025 - lab regulations.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ECOTE Summer 2025 - lab regulations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,12 +183,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "044e24044c855317",
+  "active": "e0f4a4f451be275c",
   "lastOpenFiles": [
-    "projects/Refactor vault notes.md",
+    "projects/ECOTE/ECOTE LABS.md",
+    "projects/ECOTE/ECOTE.md",
     "dashboards/important-undone.md",
+    "projects/ECOTE/xml_to_cs.pdf",
+    "projects/ECOTE/ECOTE Summer 2025 - lab regulations.pdf",
+    "projects/ECOTE",
+    "projects/Refactor vault notes.md",
     "projects/Engineering Thesis.md",
-    "projects/ECOTE.md",
     "projects/TunnelLink.md",
     "notes/Constraint Satisfaction Problem (CSP).md",
     "notes/Timeseries data in Python.md",
@@ -197,7 +214,6 @@
     "projects/Min Max Solver.md",
     "notes/Remove File From Git History.md",
     "projects/Learn pydantic-settings.md",
-    "dashboards/deemed-unimportant.md",
     "extra/x86-32bit-ccc-chapter.pdf",
     "extra/Architektura komputerów.pdf",
     "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
@@ -205,9 +221,6 @@
     "project",
     "temp/4913",
     "temp/main.py~",
-    "temp/uv.lock",
-    "extra/x86-64bit-ccc-chapter.pdf",
-    "temp/pyproject.toml",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/whiteboard.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/sponge.png",
     "notes/presentations/Test Presentation/plugin/chalkboard/img/chalk-yellow.png",
