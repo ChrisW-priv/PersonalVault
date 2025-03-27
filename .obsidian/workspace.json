@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "773720e403178d5e",
+        "id": "e79e2d3cf7291c99",
         "type": "tabs",
         "children": [
           {
-            "id": "d86aab746212f01b",
+            "id": "95e2eb21eb943c21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Constraint Satisfaction Problem (CSP).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Constraint Satisfaction Problem (CSP)"
+              "title": "New tab"
             }
           }
         ]
@@ -170,15 +166,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d86aab746212f01b",
+  "active": "95e2eb21eb943c21",
   "lastOpenFiles": [
-    "notes/Monte Carlo Method in Searching.md",
+    "notes/Transposition Encryption Algorithms.md",
     "notes/Constraint Satisfaction Problem (CSP).md",
+    "dashboards/important-undone.md",
+    "projects/Practical Training.md",
+    "projects/Fitness.md",
+    "notes/Monte Carlo Method in Searching.md",
     "projects/EARIN.md",
     "notes/Polynomial vs Non-Polynomial time complexity.md",
     "notes/Alpha Beta Pruning.md",
     "notes/Minimax Algorithm.md",
-    "notes/Transposition Encryption Algorithms.md",
     "notes/Game State Transpositions.md",
     "notes/Zobrist Hashing.md",
     "notes/Drawing ASCII trees.md",
@@ -186,7 +185,6 @@
     "templates/project.md",
     "projects/Constraint Solver.md",
     "projects/Min Max Solver.md",
-    "dashboards/important-undone.md",
     "projects/Engineering Thesis.md",
     "notes/Remove File From Git History.md",
     "projects/Learn pydantic-settings.md",
@@ -199,8 +197,6 @@
     "notes/Timezones in Python.md",
     "projects/Work Skills.md",
     "projects/Personal cash flow analysis.md",
-    "projects/Practical Training.md",
-    "projects/Personal Budget.md",
     "dashboards",
     "project",
     "temp/4913",
