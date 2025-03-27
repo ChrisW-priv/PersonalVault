@@ -1,6 +1,6 @@
 ---
 title: Terrain scanner
-description: 
+description: Tool to scan terrain and extract insight
 date: 2025-03-06
 tags:
   - project
@@ -13,12 +13,7 @@ In particular I'm thinking to produce the drones with "visible light" spectrum a
 
 I predict that turning the view from multiple drones into one space and then displaying it from users POV will be the hardest tasks to solve.
 
+I will also need to learn how to build 3d spaces from the videos and stuff.
+
 ## Action Items
 
-## Progress
-
-Notes on what happened...
-
-## Reflection
-
-What went wrong? Why?
