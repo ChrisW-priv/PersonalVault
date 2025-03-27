@@ -1,6 +1,6 @@
 ---
 title: Content Access Permission App
-description: ""
+description: App to make django permissions WAY better and not be reliant on some bad implementations like right now.
 date: 2025-02-25
 tags:
   - project

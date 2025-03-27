@@ -1,9 +1,10 @@
 ---
 title: Min Max Solver
-description: ""
+description: Position solver for MiniMax games
 date: 2025-03-26
 tags:
   - project
+  - minimax
 important: false
 status: todo
 ---

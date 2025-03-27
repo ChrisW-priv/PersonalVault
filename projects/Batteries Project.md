@@ -18,7 +18,8 @@ status: in-progress
 - [x] Go through the code and understand what is going on
 - [ ] Read the paper on BESS [important:: false]
 - [x] Add tasks to Jira: setup mypy + pytest + coverage
-- [ ] Make a unified set of names for the variables and a glossary of what is what
+- [x] Make a unified set of names for the variables and a glossary of what is what
 - [x] Make the dataset in GCP to store the SoC measurements
 - [x] Make use of DBT to orchestrate the view from SoC measurements
 - [ ] Make library to make pushing data to the project tables easy
+- [ ] Refactor the code with new target in mind
