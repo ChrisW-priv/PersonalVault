@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/LLM performance benchmark.md",
+                "file": "notes/Access docker image shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM performance benchmark"
+              "title": "Access docker image shell"
             }
           }
         ],
@@ -201,6 +201,7 @@
   "active": "47ac11b099c2320b",
   "lastOpenFiles": [
     "notes/Create docker named configuration.md",
+    "notes/Access docker image shell.md",
     "notes/LLM performance benchmark.md",
     "notes/Finding PID that uses port on linux.md",
     "templates/zettlekasten.md",
@@ -228,7 +229,6 @@
     "projects/ECOTE/ECOTE Summer 2025 - lab regulations.pdf",
     "notes/test.md",
     "notes/Zettelkasten Note System.md",
-    "projects/Engineering Thesis.md",
     "projects/ECOTE/xml_to_cs.pdf",
     "projects/ECOTE",
     "extra/x86-32bit-ccc-chapter.pdf",
