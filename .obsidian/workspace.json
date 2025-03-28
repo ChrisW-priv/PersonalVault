@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Timeseries data in Python.md",
+                "file": "notes/Create docker named configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeseries data in Python"
+              "title": "Create docker named configuration"
             }
           }
         ],
@@ -200,6 +200,10 @@
   },
   "active": "47ac11b099c2320b",
   "lastOpenFiles": [
+    "notes/Finding PID that uses port on linux.md",
+    "notes/Create docker named configuration.md",
+    "templates/zettlekasten.md",
+    "notes/Timeseries data in Python.md",
     "notes/Deterministic Simulation Testing (DST).md",
     "projects/Learn Deterministic Simulation Testing (DST).md",
     "dashboards/important-undone.md",
@@ -219,16 +223,12 @@
     "dashboards/Untitled.md",
     "templates/daily-note.md",
     "notes/Untitled",
-    "templates/zettlekasten.md",
     "projects/Python Project Setup Script.md",
     "projects/ECOTE/ECOTE Summer 2025 - lab regulations.pdf",
     "notes/test.md",
     "notes/Zettelkasten Note System.md",
     "projects/Engineering Thesis.md",
     "projects/AI w Axpo.md",
-    "projects/SPA.md",
-    "projects/Terrain scanner.md",
-    "projects/Electronics as Code.md",
     "projects/ECOTE/xml_to_cs.pdf",
     "projects/ECOTE",
     "extra/x86-32bit-ccc-chapter.pdf",
