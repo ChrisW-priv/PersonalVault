@@ -9,9 +9,11 @@ categories:
 draft: true
 ---
 
-TLDR: My latest recomendation:
-on a laptop, it is best to use deepseek-r1:1.5b for thinking and hermes3:3b for execution.
-on a GPU powered machine: the same but more params (bigger models)
+TLDR: My latest recommendation:
+
+on a laptop, it is best to use deepseek-r1:1.5b for thinking and hermes3:3b for execution. but you need good laptop, hard to make it work with aider, I tried.
+
+on a GPU powered machine: the same but more params (bigger models).
 
 ## Coding performance
 
