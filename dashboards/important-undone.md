@@ -15,8 +15,9 @@ let pages = dv.pages('"projects" and #project and !#work').where(page => page.im
 for (let page of pages) {
 
     let tasks = page.file.tasks
-        .where(t => !t.completed)  // Exclude completed tasks
-        .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
+        .where(t => !t.completed)                              // Exclude completed tasks
+        .where(t => t.important || t.important === undefined)  // Exclude unimportant tasks
+        .where(t => !t.scheduled)                              // Exclude already scheduled
 
     dv.taskList(tasks)
 }
@@ -53,6 +54,24 @@ for (let page of pages) {
         .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
 
     dv.taskList(tasks)
+}
+
+```
+
+## Scheduled
+
+```dataviewjs
+
+let pages = dv.pages('"projects" and #project').where(page => page.important && page.status !== 'done');
+
+for (let page of pages) {
+
+    let tasks = page.file.tasks
+        .where(t => !t.completed)  // Exclude completed tasks
+        .where(t => t.scheduled)   // Include scheduled only
+
+    if (tasks.length)
+        dv.taskList(tasks)
 }
 
 ```
