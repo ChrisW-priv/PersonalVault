@@ -11,14 +11,12 @@
             "id": "044e24044c855317",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "dashboards/important-undone.md",
-                "mode": "source",
-                "source": false
+                "file": "extra/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf"
               },
-              "icon": "lucide-file",
-              "title": "important-undone"
+              "icon": "lucide-file-text",
+              "title": "Hands-On Machine Learning with Scikit-Lear - Aurelien Geron"
             }
           }
         ]
@@ -172,8 +170,8 @@
   },
   "active": "044e24044c855317",
   "lastOpenFiles": [
-    "projects/ECOTE/ECOTE LABS.md",
     "dashboards/important-undone.md",
+    "projects/ECOTE/ECOTE LABS.md",
     "projects/Batteries Project.md",
     "projects/ECOTE/ECOTE.md",
     "projects/ECOTE.md",
