@@ -18,6 +18,7 @@ on a GPU powered machine: the same but more params (bigger models)
 By this, I mean problem solving ability
 
 - [link](https://www.prollm.ai/leaderboard/stack-eval?type=conceptual,debugging,implementation,optimization&level=advanced,beginner,intermediate&tag=python)
+- [link](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
 
 ## Instruction following
 
