@@ -11,10 +11,24 @@
             "id": "9f97e12d0b61e35a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notes/Balancing Services Market.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Balancing Services Market"
             }
           }
         ]
@@ -150,6 +164,8 @@
   },
   "active": "9f97e12d0b61e35a",
   "lastOpenFiles": [
+    "projects/Batteries Project.md",
+    "projects/AI w Axpo.md",
     "notes/D Latch.md",
     "notes/Remove File From Git History.md",
     "notes/Data Base anomalies.md",
@@ -168,14 +184,12 @@
     "notes/Biggest pain-points of customer service.md",
     "projects/Personal Budget.md",
     "projects/ECOTE.md",
-    "projects/Batteries Project.md",
     "notes/Balancing Services Market.md",
     "projects/Python Builder.md",
     "templates/Meta-Skill.md",
     "notes/Mind mapping.md",
     "notes/Thesis index.md",
     "templates/project.md",
-    "templates/daily-note.md",
     "templates",
     "notes/attachments/Pasted image 20221028103829.png",
     "notes/attachments/Pasted image 20221030191929.png",
