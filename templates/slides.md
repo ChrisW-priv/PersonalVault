@@ -1,22 +1,21 @@
 ---
-title: "{{title}}"
-date: "{{date:YYYY-MM-DD}}"
+title: "<% tp.file.title %>"
 description: ""
+date: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - presentation
 theme: white
 transition: none
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 Krzysztof Watras
 
 ---
 
-## What is {{title}}?
+## What is <% tp.file.title %>?
 
 para...
 
 ---
-

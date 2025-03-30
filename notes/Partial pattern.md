@@ -1,11 +1,12 @@
 ---
-title: "Partial pattern"
+title: Partial pattern
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
+
 > [!Definition]
 > Pattern that allows us to supply fewer arguments then necessary to the function. Part of a [Function programming](Function%20programming) theory.
 

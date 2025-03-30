@@ -1,9 +1,10 @@
 ---
 title: Dijkstra's algorithm
+description: No description provided.
 date: 2025-02-14
-description: 
-tags:
-  - zettlekasten
+tags: []
+categories:
+  - zettelkasten
 ---
 
 > [!Important]

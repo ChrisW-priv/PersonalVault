@@ -1,11 +1,11 @@
 ---
 title: Python Builder
-date: 2025-02-25
 description: Builder pattern for python
+date: 2025-02-25
 tags:
   - project
-status: done
 important: true
+status: done
 ---
 
 Make a simple python builder class that will track the attributes of:

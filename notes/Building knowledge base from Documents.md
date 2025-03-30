@@ -1,10 +1,10 @@
 ---
-title: "Building knowledge base from Documents"
+title: Building knowledge base from Documents
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [RAG](RAG.md)

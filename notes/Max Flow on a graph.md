@@ -1,10 +1,11 @@
 ---
 title: Max Flow on a graph
+description: Answers a question of how much "flow" can we push through the network
 date: 2025-02-14
-description: Answers a question of how much "flow" can we push through the network given that each edge has a certain capacity.
-tags:
-  - zettlekasten
+tags: []
 categories:
+  - null
+  - zettelkasten
 ---
 
 ## Notation
@@ -37,4 +38,4 @@ complexities.
 
 ## Intuition
 
-Imagine the graph as an abstract representation of a road network or water pipes. 
+Imagine the graph as an abstract representation of a road network or water pipes.

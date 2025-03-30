@@ -1,10 +1,10 @@
 ---
-title: "Kirchhoff's Current Law (KCL)"
+title: Kirchhoff's Current Law (KCL)
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

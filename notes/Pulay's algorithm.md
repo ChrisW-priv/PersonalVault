@@ -1,10 +1,10 @@
 ---
-title: "Pulay's algorithm"
+title: Pulay's algorithm
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Pulay's algorithm is a method for accelerating the convergence of the [self-consistent field (SCF)](self-consistent%20field%20(SCF)) iteration in [density functional theory (DFT)](density%20functional%20theory%20(DFT)) calculations. It was developed by Peter Pulay in 1980.

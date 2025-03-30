@@ -1,9 +1,10 @@
 ---
-title: "PARA Note System"
-date: "2025-03-13"
-description: ""
-tags:
-  - zettlekasten
+title: PARA Note System
+description: No description provided.
+date: '2025-03-13'
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Files are separated into 4 main sections:

@@ -1,8 +1,9 @@
 ---
 title: Learning Progress Log
-date: 2025-02-18
 description: Log of Learning progress journey
-tags: 
+date: 2025-02-18
+tags:
+  - null
 categories:
   - Goal Tracker Chronicles
 ---

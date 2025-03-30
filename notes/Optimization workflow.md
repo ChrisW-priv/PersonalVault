@@ -1,10 +1,10 @@
 ---
-title: "Optimization workflow"
+title: Optimization workflow
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Steps to optimize your code
@@ -44,4 +44,4 @@ Side note: this point also highlights that best algorithms are the ones that can
 
 5. When you are desperate - limit number of other processes running on the same machine.
 
-When it's impossible/expensive to have more compute power you can limit work you do on the same hardware. Other programs will pollute your cashed and cause kernel switches which will kill our performance. 
+When it's impossible/expensive to have more compute power you can limit work you do on the same hardware. Other programs will pollute your cashed and cause kernel switches which will kill our performance.

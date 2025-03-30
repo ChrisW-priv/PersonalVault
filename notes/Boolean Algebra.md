@@ -1,10 +1,10 @@
 ---
-title: "Boolean Algebra"
+title: Boolean Algebra
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

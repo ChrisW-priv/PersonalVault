@@ -1,10 +1,10 @@
 ---
-title: "Number e"
+title: Number e
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Special case of [Exponential functions](Exponential%20functions.md). Also known as Euler Number.
@@ -20,4 +20,4 @@ Often used in [Differential equations](Differential%20equations.md) where **rate
 1. Any number $n$ can be written as $e^{ln(n)}$ 
 2. Derivative of $e^x = e^x$ 
 3. Derivative $\frac{df}{dt}$ of $e^{cx}$ is equal to $c\cdot e^{cx}$ due to chain rule
-4. Slope of a graph $y=e^x$ at any point $x$ is equal to $e^x$  
+4. Slope of a graph $y=e^x$ at any point $x$ is equal to $e^x$

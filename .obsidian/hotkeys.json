@@ -71,5 +71,15 @@
       ],
       "key": "-"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

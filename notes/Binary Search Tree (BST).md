@@ -1,49 +1,48 @@
 ---
-title: "Binary Search Tree (BST)"
+title: Binary Search Tree (BST)
+description: A Binary Search Tree (BST) is a data structure that maintains sorted
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition
 
-BST is a [Tree](Tree.md) that has special property of being ordered in folowing way:
+A Binary Search Tree (BST) is a specific type of Tree that has the following properties:
 
-- Each node has at most two children called "left" and "right". 
-- "left" child must be smaller that it's parent and "right" must be bigger
+- Each node has at most two children, referred to as the "left" and "right" child.
+- The "left" child contains a value less than its parent node's value, while the "right" child must have a value greater than its parent node's value.
 
-## Traversing tree
+## QA Structure
 
-- visit node first
-- visit subtrees first
+### What is a Binary Search Tree?
 
-Three different traversals:
+A Binary Search Tree is a data structure that organizes data in a way that allows for fast retrieval. Each node adheres to specific rules that define its relationship with other nodes.
 
-- Inorder (LNR) - Traverse left-first
-- Preorder (NLR) - Traverse node-first 
-- Postorder (LRN) - Traverse subtrees-frist
+### How to traverse a Binary Search Tree?
 
-### Use of the traversing orderings
+Traversing a binary search tree involves visiting nodes in a specific order. There are three primary types of traversal:
 
-- Inorder (LNR)
-Printing the elements in an order
+1. **Inorder (LNR)** - Traverse the left subtree first, then the node, followed by the right subtree.
+2. **Preorder (NLR)** - Visit the node first, then traverse the left subtree followed by the right subtree.
+3. **Postorder (LRN)** - Traverse the left and right subtrees first, and then visit the node.
 
-- Preorder (NLR) 
-When searching the tree, we always compare the node first after descending to
-sub-trees
+### What is the use of each traversing order?
 
-- Postorder (LRN)
-In a destructor, we always want to destroy the tree "bottoms-up"
+- **Inorder (LNR)**: This traversal method produces a sorted sequence of the elements, allowing for easy printing in order.
+  
+- **Preorder (NLR)**: In this method, we visit the node before its subtrees, which is useful for creating a copy of the tree or searching it.
+
+- **Postorder (LRN)**: This traversal is particularly useful for destructors since it visits children before their parent, enabling proper deallocation of memory.
 
 ## Code
 
 > [!Note]
-> While the naive implementation is easy to do, to make the methods
-efficient is really hard! Problem will always lie in making and keeping the tree
-balanced to maintain optimal $O(log(n))$ time!
+> While the naive implementation of a BST is straightforward, achieving efficient methods can be challenging. The main issue often lies in balancing the tree to maintain optimal $O(\log(n))$ performance.
 
 ## Intuition
 
-Search for any element in the tree is done in $O(log(n))$ time IF THE TREE IS BALANCED. In the worst case the search time can be $O(n)$!
+Searching for any element in a balanced binary search tree is performed in $O(\log(n))$ time complexity. However, in the worst-case scenario, when the tree becomes unbalanced, the search time can degrade to $O(n)$. 
+
+The BST structure is effective for searching and maintaining order, but it is essential to consider its balancing properties for optimal performance.

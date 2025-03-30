@@ -1,7 +1,7 @@
 ---
 title: Create simple compiler
-date: 2025-03-01
 description: On ELAC and ECOTE courses on PW uni I was taught some intro to compilers. I'd love to build some simple one.
+date: 2025-03-01
 tags:
   - project
 important: false

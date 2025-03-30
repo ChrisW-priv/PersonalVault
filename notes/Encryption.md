@@ -1,10 +1,10 @@
 ---
-title: "Encryption"
+title: Encryption
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition
@@ -25,4 +25,4 @@ $$E_{k_{1}}(M_{1})$$
 ## Intuition
 
 > [!Warning]
-> Remember that the use of encryption has to be motivated in some way. If there is no real benefit to using encryption then we add overhead to the process in question. 
+> Remember that the use of encryption has to be motivated in some way. If there is no real benefit to using encryption then we add overhead to the process in question.

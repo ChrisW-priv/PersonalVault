@@ -1,10 +1,10 @@
 ---
-title: "Code nesting resolution"
+title: Code nesting resolution
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 Part of [Code quality](Code%20quality)

@@ -1,10 +1,10 @@
 ---
-title: "Current divider formula (CDF)"
+title: Current divider formula (CDF)
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [electronic circuits](electronic%20circuit)

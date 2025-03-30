@@ -1,11 +1,12 @@
 ---
 title: Learning Taxonomy
+description: categorizes cognitive learning into six hierarchical levels. Each level
 date: 2025-02-15
-description: categorizes cognitive learning into six hierarchical levels. Each level progresses from basic recall to complex problem-solving.
 tags:
-  - zettlekasten
   - learning
 categories:
+  - null
+  - zettelkasten
 ---
 
 Revised Bloom’s Taxonomy: A Guide to Learning Levels

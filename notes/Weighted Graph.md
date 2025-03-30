@@ -1,10 +1,10 @@
 ---
-title: "Weighted Graph"
+title: Weighted Graph
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 [Graph](Graph.md)
@@ -33,4 +33,3 @@ It is the same as
 flowchart LR
     A(( )) -->|2| C(( ))
 ```
-

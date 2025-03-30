@@ -1,10 +1,10 @@
 ---
-title: "Examples of PDEs"
+title: Examples of PDEs
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Examples of PDEs

@@ -1,7 +1,7 @@
 ---
 title: Productivity
+description: Productivity is the ability to continuously take action that moves us
 date: 2025-02-18
-description: Productivity is the ability to continuously take action that moves us in the direction that we want
 tags: []
 categories:
   - meta-skills

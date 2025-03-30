@@ -1,10 +1,10 @@
 ---
-title: "Determinant of a matrix"
+title: Determinant of a matrix
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Notation

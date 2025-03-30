@@ -1,10 +1,10 @@
 ---
-title: "Minimum Spanning Tree (MST)"
+title: Minimum Spanning Tree (MST)
+description: No description provided.
 date: 2025-02-14
-description: ""
-tags: 
-  - "zettlekasten"
-categories: []
+tags: []
+categories:
+  - zettelkasten
 ---
 
 ## Definition

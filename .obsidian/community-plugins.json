@@ -1,7 +1,5 @@
 [
-  "obsidian-git",
   "templater-obsidian",
   "obsidian-linter",
-  "dataview",
-  "obsidian-advanced-slides"
+  "dataview"
 ]

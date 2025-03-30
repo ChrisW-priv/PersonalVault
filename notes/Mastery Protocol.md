@@ -1,12 +1,13 @@
 ---
 title: Mastery Protocol
+description: No description provided.
 date: 2025-02-18
-description: ""
 tags:
   - posts
-categories: 
-type: post
+categories:
+  - null
 draft: true
+type: post
 ---
 
 ## Mastery over tools
