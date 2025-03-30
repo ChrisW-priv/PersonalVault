@@ -22,5 +22,5 @@ important: true
 - [ ] Fix the bug on the function calling [folder:: backend]
 - [ ] Make use of n8n automations  [folder:: backend]
 - [ ] Add adnotations [folder:: paper]
-- [ ] Write Chapter on Design & Implementation [folder:: paper]
+- [x] Write Chapter on Design & Implementation [folder:: paper]
 - [ ] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
