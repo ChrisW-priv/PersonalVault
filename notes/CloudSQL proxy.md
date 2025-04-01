@@ -1,8 +1,9 @@
 ---
-title: "CloudSQL proxy"
+title: CloudSQL proxy
 description: ""
-date: "2025-04-01"
-tags: 
+date: 2025-04-01
+tags:
+  - GCP
 categories:
   - zettelkasten
 draft: true
