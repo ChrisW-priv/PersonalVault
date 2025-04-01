@@ -26,6 +26,12 @@ Make it executable:
 chmod +x cloud-sql-proxy
 ```
 
+In one line:
+
+```bash
+curl -o cloud-sql-proxy https://storage.googleapis.com/cloud-sql-connectors/cloud-sql-proxy/v2.11.4/cloud-sql-proxy.linux.amd64 && chmod +x cloud-sql-proxy
+```
+
 ### Start the proxy
 
 ```bash
