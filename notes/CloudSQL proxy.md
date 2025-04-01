@@ -6,7 +6,7 @@ tags:
   - GCP
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 ## Pull proxy from Google

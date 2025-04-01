@@ -6,7 +6,7 @@ tags:
   - linux
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 Command with `11434` as port example

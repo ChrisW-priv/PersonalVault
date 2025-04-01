@@ -5,5 +5,5 @@ date: "<% tp.date.now("YYYY-MM-DD") %>"
 tags: 
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---

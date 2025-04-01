@@ -5,7 +5,7 @@ date: 2025-03-30
 tags: 
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 ## Key Operations

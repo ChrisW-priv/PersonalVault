@@ -6,7 +6,7 @@ tags:
   - git
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 Basic configuration assumptions:

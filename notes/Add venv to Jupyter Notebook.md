@@ -1,11 +1,11 @@
 ---
-title: "Add venv to Jupyter Notebook"
+title: Add venv to Jupyter Notebook
 description: ""
-date: "2025-04-01"
+date: 2025-04-01
 tags: 
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 Jupyter Notebook makes sure that the IPython kernel is available, but you have to manually add a kernel with a different version of Python or a virtual environment. First, make sure your environment is activated with conda activate myenv. Next, install ipykernel which provides the IPython kernel for Jupyter:

@@ -1,11 +1,11 @@
 ---
-title: "running ollama"
+title: running ollama
 description: ""
-date: "2025-03-30"
+date: 2025-03-30
 tags: 
 categories:
   - zettelkasten
-draft: true
+draft: false
 ---
 
 ```bash
