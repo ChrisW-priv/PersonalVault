@@ -1,8 +1,10 @@
 ---
 title: Add venv to Jupyter Notebook
-description: ""
+description: Adding installed packages from virtual environment to be available in Jupyter Notebook
 date: 2025-04-01
-tags: 
+tags:
+  - jupyter
+  - python
 categories:
   - zettelkasten
 draft: false
