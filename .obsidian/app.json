@@ -17,5 +17,6 @@
   "readableLineLength": false,
   "showInlineTitle": false,
   "useTab": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "tabSize": 4
 }
