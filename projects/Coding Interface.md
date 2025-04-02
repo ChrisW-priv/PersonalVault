@@ -17,5 +17,7 @@ the assistant protocols as well as the freedom of the my own implementation:
 
 ## Action Items
 
+- [ ] Download, Setup and play around with the Claude code
 - [ ] Learn how to do pretty CLI like aider/claude code
 - [ ] Learn how to do MCP clients
+- [ ] Build the thing
