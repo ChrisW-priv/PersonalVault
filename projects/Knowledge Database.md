@@ -35,11 +35,15 @@ Pain point examples:
     much anyway so we can just index it once and have refs. to it to get full
     content.
 - Full local mode
-    In contrast to the non-local reference: I also want to be able to pull
+    In contrast to the non-local reference: I want to be able to pull
     all/selected data to local disk and have it sit there.
-- Local index
+- Simple local index
     I want to be able to use as simple tech as possible in order to allow
-    greater community support.
+    greater community support. This means using some sqlite3 database 
+    with some custom vector extension maybe.
+- Multi-modality support
+    While this is still hit and miss, I want the ability to have an image sent
+    and processed by LLMs to maybe get some insight.
 
 ## Action Items
 
