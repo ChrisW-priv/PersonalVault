@@ -13,5 +13,5 @@ status: in-progress
 
 - [ ] Make 2 forms for the same Client class
 - [ ] Resolve the stg-prod diverge
-- [ ] Make the inline eval lazy somehow...
-- [ ] Fix the name of the portfolio to actually enable some returns
+- [x] Make the inline eval lazy somehow...
+- [x] Fix the name of the portfolio to actually enable some returns
