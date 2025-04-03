@@ -8,6 +8,11 @@ important: true
 status: todo
 ---
 
+## Related work
+
+https://docs.tavily.com/documentation/about
+https://www.graphlit.com/
+
 ## Motivation
 
 So the idea of Knowledge Database is not new. 
