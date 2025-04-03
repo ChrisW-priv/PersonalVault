@@ -15,4 +15,3 @@ status: todo
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
     - Build MCP client 
-    - 

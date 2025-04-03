@@ -49,6 +49,8 @@ Pain point examples:
 - Multi-modality support
     While this is still hit and miss, I want the ability to have an image sent
     and processed by LLMs to maybe get some insight.
+- Support for complex permissions in case of a deployed knowledge server
+
 
 ## Action Items
 
