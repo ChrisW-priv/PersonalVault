@@ -109,3 +109,14 @@ solution is not in violation of the current laws and regulations.
 - User Training and Support: If users have no Idea how to use it - whey won't
 try. Figure out how to make a docs that are easy to use with currently most
 popular tools.
+
+While the above specification captures the primary considerations of the 
+Database, it does not specify how exactly it should be implemented.
+After all, a database storing knowledge is different from one storing 
+columnar structure of data, and thus, storing, indexing and retrieving data,
+will be different enough to warrant a more custom approach.
+Currently, there are many methods to query text databases.  `[...]`
+
+Definitely, we want to do *chunking*, and we want to use
+[vectors](Embedding%20Model.md) to store the meaning of that chunk in an easy to
+find format.

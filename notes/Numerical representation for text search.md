@@ -112,4 +112,8 @@ natural language processing (NLP) applications.
 
 ## How do you do this in practice?
 
-Currently, the preferred way is to use [Embeddings](Embeddings.md) models. There, the main limitation is the context window. Thus, you split the documents into chunks. Then you embed the meaning of each chunk and save it. Then, when the question comes, you embed the question, lookup most closely related documents, and return the documents relevant.
+Currently, the preferred way is to use [Embedding Models](Embedding%20Model.md)
+models. There, the main limitation is the context window. Thus, you split the
+documents into chunks. Then you embed the meaning of each chunk and save it.
+Then, when the question comes, you embed the question, lookup most closely
+related documents, and return the documents relevant.
