@@ -18,11 +18,15 @@ status: in-progress
 - [ ] Fix startup time [folder:: backend]
 - [ ] Make better Function Calling (accept) components [folder:: frontend]
 - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker)) [important:: false] [folder:: backend]
-- [ ] Make better QA function [folder:: backend]
+- [x] Make better QA function [folder:: backend]
 - [ ] Fix the bug on the function calling [folder:: backend]
 - [ ] Make use of n8n automations  [folder:: backend]
 - [x] Add adnotations [folder:: paper]
 - [ ] Write Chapter on Design & Implementation [folder:: paper]
+    - note on the ssg of the website 
+    - note on the sse to make better user experience
+    - note on why not use mcp
+    - include tree sitter for the documents
 - [ ] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
 - [ ] Make the PV repo private [link](https://github.com/ChrisW-priv/PersonalVault) [important:: false]
 - [ ] Rewrite frontend view to simple django [important:: false]
