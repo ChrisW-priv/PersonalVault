@@ -59,11 +59,30 @@ flowchart TD
 
 ## Functions
 
-| Node Type                    | Null-able(n) Algorithm                 | first(n) Algorithm                                        | last(n) Algorithm                                      |
-| ---------------------------- | -------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------ |
-| **ε node at i position**     | **true**                               | return $\emptyset$                                        | return $\emptyset$                                     |
-| **Non-ε node at i position** | **false**                              | return $i$                                                | return $i$                                             |
-| **Or node**                  | `null-able(c1) $\vee$ null-able(c2)`   | `first(c1) $\cap$ first(c2)`                              | `last(c1) $\cap$ last(c2)`                             |
-| **Concat node**              | `null-able(c1) $\wedge$ null-able(c2)` | `nullable(c1) ? (first(c1) $\cap$ first(c2)) : first(c1)` | `nullable(c2) ? (last(c1) $\cap$ last(c2)) : last(c2)` |
-| **Closure node**             | **true**                               | `first(c1)`                                               | `last(c1)`                                             |
+- **Null-able(n) Algorithm**
+  - **ε node at i position**: **true**
+  - **Non-ε node at i position**: **false**
+  - **Or node**: `null-able(c1) $\vee$ null-able(c2)`
+  - **Concat node**: `null-able(c1) $\wedge$ null-able(c2)`
+  - **Closure node**: **true**
 
+- **first(n) Algorithm**
+  - **ε node at i position**: return $\emptyset$
+  - **Non-ε node at i position**: return $i$
+  - **Or node**: `first(c1) $\cap$ first(c2)`
+  - **Concat node**: `nullable(c1) ? (first(c1) $\cap$ first(c2)) : first(c1)`
+  - **Closure node**: `first(c1)`
+
+- **last(n) Algorithm**
+  - **ε node at i position**: return $\emptyset$
+  - **Non-ε node at i position**: return $i$
+  - **Or node**: `last(c1) $\cap$ last(c2)`
+  - **Concat node**: `nullable(c2) ? (last(c1) $\cap$ last(c2)) : last(c2)`
+  - **Closure node**: `last(c1)`
+
+- **follow(i) Algorithm**
+  - **ε node at i position**: return $\emptyset$ (?)
+  - **Non-ε node at i position**: return $i$ (?)
+  - **Or node**: `last(c1) $\cap$ last(c2)`
+  - **Concat node**: `{i} in last(c2) ? first(c2) : ...`
+  - **Closure node**: `{i} in last(n) ? first(n) : ...`
