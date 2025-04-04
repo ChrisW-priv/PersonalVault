@@ -7,7 +7,9 @@ categories:
   - zettelkasten
 ---
 
-Topological sort (or top sort for short) is an algorithm that work on [Directed Acyclic Graphs (DAG)](Directed%20Acyclic%20Graphs%20(DAG).md). It creates something called [Topological ordering](Topological%20ordering.md).
+Topological sort (or top sort for short) is an algorithm that work on 
+[Directed Acyclic Graphs (DAG)](Directed%20Acyclic%20Graphs%20(DAG).md).
+It creates something called [Topological ordering](Topological%20ordering.md).
 
 Topological sort works with $O(V+E)$ complexity.
 
@@ -16,8 +18,8 @@ Topological sort works with $O(V+E)$ complexity.
 
 ## Algorithm
 
-1. Pick an unvisided node
-2. Beginning with the selected node, do a [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) exploring only unvisited nodes.
+1. Pick an un-visided node
+2. Beginning with the selected node, do a  [Depth First Search (DFS)](Depth%20First%20Search%20(DFS).md) exploring only unvisited nodes.
 3. On recursive callback of the DFS, add the current node to the topological ordering in the reverse order. (Or add to array and remember to revese it after the end of algorithm)
 
 ## Code

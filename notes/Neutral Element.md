@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Relation in Mathematics](Relation%20in%20Mathematics.md)
 
 Also known as Identity Element
 

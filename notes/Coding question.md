@@ -6,6 +6,7 @@ tags:
   - null
 categories: []
 ---
+[Code quality](Code%20quality)
 
 # Coding question
 

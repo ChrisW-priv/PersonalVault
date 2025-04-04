@@ -51,6 +51,7 @@ Pain point examples:
     and processed by LLMs to maybe get some insight.
 - Support for complex permissions in case of a deployed knowledge server
 
+Note on things to consider [Knowledge Database](../notes/Knowledge%20Database.md)
 
 ## Action Items
 

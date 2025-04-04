@@ -7,6 +7,8 @@ categories:
   - zettelkasten
 ---
 
+[Data Structure](Data%20Structure)
+
 ## Definition
 
 A Binary Search Tree (BST) is a specific type of Tree that has the following properties:

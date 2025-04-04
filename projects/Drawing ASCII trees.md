@@ -1,12 +1,12 @@
 ---
-title: "Drawing ASCII trees"
+title: Drawing ASCII trees
 description: ""
-date: "2025-03-26"
-tags: []
-categories:
-  - zettelkasten
+date: 2025-04-04
+tags:
+  - project
+important: false
+status: todo
 ---
-
 ## What I want put into words:
 
 - I want all tree leaves to be separated by at least 3 chars (one from the left, one from right and one for additional spacing)
@@ -81,3 +81,7 @@ Unbalanced tree:
  / \  
 A   C
 ```
+
+## Action Items
+
+- [ ] implement

@@ -9,7 +9,7 @@ categories:
 
 [Vector](Vector.md) that defines space. 
 
-Unit vectors are allways of length 1 and by [Linear combination](Linear%20combination.md) of them we can represent all vectors in space. 
+Unit vectors are always of length 1 and by [Linear combination](Linear%20combination.md) of them we can represent all vectors in space. 
 
 Unit vectors should be [Linearly independent](Linear%20dependence.md) to maximise a [Span of vector space](Span%20of%20vector%20space.md).
 

@@ -1,14 +1,11 @@
 ---
 title: Composed function
-description: No description provided.
+description: Function created from combining output from one function as the input to another function
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
-
-> [!Definition]
-> Function that end result is based on an input from an output of another function. For example `f(g(x))` is evaluated as `x -g(x)-> y -f(y)-> result`
 
 [Function in Mathematics](Function%20in%20Mathematics.md)
 
@@ -24,7 +21,10 @@ $$h = f(g(x)) = (f \circ g)(x)$$
 
 ## Intuition
 
-It can often be much easier to create couple of small functions to solve a problem instead of creating solution all in one go. This pattern is commonly used in function programming. See [Compose pattern](Compose%20pattern.md) for better perspective
+It can often be much easier to create couple of small functions to solve a
+problem instead of creating solution all in one go. This pattern is commonly
+used in function programming. See [Compose pattern](Compose%20pattern.md) for
+better perspective
 
 ## Derivative
 

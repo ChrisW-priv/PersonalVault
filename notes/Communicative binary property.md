@@ -16,3 +16,5 @@ We say that $\oplus$ is **Communicative** if:
 $x \oplus y \equiv y \oplus x$
 
 similar to [Symmetric Relation](Symmetric%20Relation.md) properties
+
+[Function in Mathematics](Function%20in%20Mathematics.md)

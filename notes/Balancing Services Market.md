@@ -8,6 +8,7 @@ categories:
 ---
 
 [Batteries Project](../projects/Batteries%20Project.md)
+[Rynek Energii w Polsce](Rynek%20Energii%20w%20Polsce.md)
 
 ## Glossary
 

@@ -2,11 +2,14 @@
 title: running ollama
 description: ""
 date: 2025-03-30
-tags: 
+tags:
+  - ollama
 categories:
   - zettelkasten
 draft: false
 ---
+
+On AMD GPU:
 
 ```bash
 docker run\ 

@@ -7,7 +7,10 @@ categories:
   - zettelkasten
 ---
 
-[SSSP](SSSP) problem can be solved efficiently on a DAG in $O(V+E)$ time. This is due to the fact that the nodes can be ordered in a [Topological ordering](Topological%20ordering.md) via [Topological Sort](Topological%20Sort.md) and processed sequencially. 
+[SSSP](SSSP) problem can be solved efficiently on a DAG in $O(V+E)$ time.
+This is due to the fact that the nodes can be ordered in a 
+[Topological ordering](Topological%20ordering.md) via 
+[Topological Sort](Topological%20Sort.md) and processed sequentially. 
 
 In this case we don't have to worry about negative edge weights as we do in other, more general algorithms.
 
@@ -39,5 +42,8 @@ function SSSP(start, graph, n):
 			else:
 				dist[edge.to] = min(dist[edge.to], newDist)		
 	}
-
 ```
+
+## Related
+
+[APSP](APSP)

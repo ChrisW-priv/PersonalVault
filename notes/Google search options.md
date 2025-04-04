@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Knowledge Database](Knowledge%20Database.md)
 
 ## Searching exact phrases
 

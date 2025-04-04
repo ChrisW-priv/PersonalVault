@@ -7,6 +7,7 @@ categories:
   - null
   - zettelkasten
 ---
+[Data Structure](Data%20Structure)
 
 ## Application
 

@@ -1,14 +1,14 @@
 ---
 title: Inspect pattern
-description: No description provided.
+description: Pattern to make debugging chained function calls easy.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-> [!Definition]
-> We use inspect pattern to make [Debugging](Debugging) [Pipe pattern](Pipe%20pattern.md) easy.
+[Debugging](Debugging)
+[Pipe pattern](Pipe%20pattern.md)
 
 ## Code
 
@@ -23,7 +23,12 @@ const inspect = (tag) => (x) => {
 
 ## Motivation
 
-Using pipe pattern is really nice but debugging it may be troublesome. Often, to debug code you have to break down the pipe into separate function calls. This defeats use of pipe all-together. However, use of inspect pattern can make it easy. Example provided [here](https://blog.bitsrc.io/functional-programming-composition-2e9b863d8bcb) but copied for easy, offline access:
+Using pipe pattern is really nice but debugging it may be troublesome. Often, to
+debug code you have to break down the pipe into separate function calls. This
+defeats use of pipe all-together. However, use of inspect pattern can make it
+easy. Example provided
+[here](https://blog.bitsrc.io/functional-programming-composition-2e9b863d8bcb)
+but copied for easy, offline access:
 
 Say you have piped function like this:
 

@@ -6,13 +6,15 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Boolean Algebra](Boolean%20Algebra.md)
 
-A note of video by Creel ![this](https://www.youtube.com/watch?v=ZRNO-ewsNcQ)
+
+A note of video by Creel 
+![link](https://www.youtube.com/watch?v=ZRNO-ewsNcQ)
 
 ## Setting the bit
 
 having a mask, `or` it with target.
-
 here we want to set 6-th bit (to 1):
 
 `x = x | (1<<6)`
@@ -20,7 +22,6 @@ here we want to set 6-th bit (to 1):
 ## Clear the bit
 
 having a mask, invert it and `and` it with target.
-
 here we want to clear the 6-th bit (set to 0).
 
 `x = x & ~(1<<6)`
@@ -28,7 +29,6 @@ here we want to clear the 6-th bit (set to 0).
 ## Toggle the bit
 
 having a mask, `xor` it with target.
-
 here we want to toggle the 6-th bit.
 
 `x = x ^ (1<<6)`
@@ -38,7 +38,6 @@ here we want to toggle the 6-th bit.
 example: turn `01101000` into `01101111`.
 
 having a number, subtract one from it and `or` it with target.
-
 here we want to set 6-th bit (to 1):
 
 `x = x | (x-1)`
@@ -47,7 +46,8 @@ here we want to set 6-th bit (to 1):
 
 example: turn `01101000` into `00001000`
 
-having a number, `and` it with it's negative value. More generally: and number with it's complement + 1
+having a number, `and` it with it's negative value. More generally: and number
+with it's complement + 1
 
 `x = x & (-x)` or `x = x & ((~x) + 1)`
 
@@ -86,9 +86,11 @@ count number of ones separated by zeros.
 
 `(x&1) + popcnt((x^(x>>1)))/2`
 
-This may require an explenation:
+This may require an explanation:
 
-first we count how many "state changes there are". So we do `x^(x>>1)`. After population count we get 2 the number we need, so divide by 2. Lastly, make sure that first island is counted.
+first we count how many "state changes there are". So we do `x^(x>>1)`. After
+population count we get 2 the number we need, so divide by 2. Lastly, make sure
+that first island is counted.
 
 ## Bit scan forwards
 

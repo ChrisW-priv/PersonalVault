@@ -1,15 +1,17 @@
 ---
 title: Connected Components
-description: No description provided.
+description: Graph that has all nodes connected to each other.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-Sometimes a graph is split into multiple components. It's useful to be able to identify and count these components.
+Sometimes a graph is split into multiple components. It's useful to be able to
+identify and count these components.
 
-To split graph into connected components it's useful to mark each node with an id of the component that it's in. 
+To split graph into connected components it's useful to mark each node with an
+id of the component that it's in. 
 
 ## Solution description
 

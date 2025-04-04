@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Data Structure](Data%20Structure)
 
 ## Definition
 

@@ -2,7 +2,8 @@
 title: Managing remote repositories
 description: Link to instructions on how to manage remote repos
 date: 2025-03-30
-tags: 
+tags:
+  - git
 categories:
   - zettelkasten
 draft: false

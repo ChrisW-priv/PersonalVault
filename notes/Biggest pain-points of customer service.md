@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Company Management](Company%20Management.md)
 
 ## QA Structure
 

@@ -3,10 +3,8 @@ title: Periodic Tasks
 description: Tasks that need to be done as habit
 date: 2025-02-18
 tags:
-  - habit
   - posts
-categories:
-  - null
+categories: 
 type: post
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: Bridges
-description: No description provided.
+title: Bridges in a graph
+description: An edge which removal creates two disconnected graphs
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-## Definition
+[Graph](Graph.md)
 
-In [Graph](Graph.md) theory a bridge is an edge which removal causes the increase in connected components (meaning: creates two disconnected graphs)
+Similar to [Articulation points](Articulation%20points.md)
 
-Simmilar to [Articulation points](Articulation%20points.md)

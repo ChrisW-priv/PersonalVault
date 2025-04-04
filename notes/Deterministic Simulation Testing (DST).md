@@ -7,6 +7,7 @@ draft: true
 categories:
   - zettelkasten
 ---
+[Code quality](Code%20quality)
 
 ## Resources
 

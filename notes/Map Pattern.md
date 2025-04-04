@@ -1,14 +1,15 @@
 ---
 title: Map Pattern
-description: No description provided.
+description: Pattern of computation that applies a function to every element of a given list to create a new list
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-> [!Definition]
-> Also known as projection. Pattern of computation that applies a function to every element of given [Array](Array) to create new array. Often implemented to execute functions in [Parallel](Parallel) to make computation faster. Commonly used with other [Function programming](Function%20programming) patterns
+> [!Important]
+> Map pattern allows for parallel function execution. It is commonly used with
+other [Function programming](Function%20programming) patterns
 
 Standard signature for map definition is `map(fn, arr)`.
 

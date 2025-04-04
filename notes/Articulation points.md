@@ -9,7 +9,9 @@ categories:
 
 ## Definition
 
-In [Graph](Graph.md) theory, articulation points are nodes whose removal causes an increase in the number of connected components, meaning they create two or more disconnected graphs.
+In [Graph](Graph.md) theory, articulation points are nodes whose removal causes
+an increase in the number of connected components, meaning they create two or
+more disconnected graphs.
 
 ## Question and Answer
 

@@ -3,7 +3,7 @@ title: Create docker named configuration
 description: Configuration of the docker such that it can later be invoked with one name
 date: 2025-03-28
 tags:
-  - Docker
+  - docker
 categories:
   - zettelkasten
 draft: false

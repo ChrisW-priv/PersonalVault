@@ -1,13 +1,14 @@
 ---
 title: Identity Matrix
-description: No description provided.
+description: Matrix representing an Identity Operation for matrix multiplication.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-A special [matrix](Matrix.md) that has zeros in the body and ones on the diagonal. It is denoted as $I$
+A special [matrix](Matrix.md) that has zeros in the body and ones on the
+diagonal. It is denoted as $I$
 
 Example:
 

@@ -1,8 +1,9 @@
 ---
-title: "Access docker image shell"
+title: Access docker image shell
 description: ""
-date: "2025-03-28"
-tags: []
+date: 2025-03-28
+tags:
+  - docker
 categories:
   - zettelkasten
 draft: true

@@ -9,7 +9,9 @@ categories:
 
 ## Definition
 
-Search done on a [Sorted Array](Sorted%20Array). It searches for the element in $O(log(n))$ complexity. Very efficient because each comparison cuts down half of the options that we would normally need to compare with.
+Search done on a [Sorted Array](Sorted%20Array). It searches for the element in
+$O(log(n))$ complexity. Very efficient because each comparison cuts down half of
+the options that we would normally need to compare with.
 
 > [!Note] 
 > What we need is an index of an element in range or boolean info if element is in the range we look for. 

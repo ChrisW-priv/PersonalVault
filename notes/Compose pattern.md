@@ -1,14 +1,11 @@
 ---
 title: Compose pattern
-description: No description provided.
+description: Process of creating big functions from small ones to solve more complex tasks
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
-
-> [!Definition]
-> Function composition is process of creating big functions from small ones to solve more complex tasks. Part of a [Function programming](Function%20programming) theory. 
 
 Similar to [Pipe pattern](Pipe%20pattern.md), main difference is in function order passing.
 

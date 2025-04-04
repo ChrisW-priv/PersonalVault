@@ -1,20 +1,24 @@
 ---
 title: Advice from Pawel Pawlucki
 description: Insights on learning the energy market from Pawel Pawlucki.
-date: '2025-03-15'
+date: 2025-03-15
 tags: []
 categories:
   - zettelkasten
+draft: true
 ---
+[Rynek Energii w Polsce](Rynek%20Energii%20w%20Polsce.md)
 
 ## What is the concept?
 
-The advice from Pawel Pawlucki emphasizes understanding the energy market through two distinct but interconnected views: **financial** and **physical**. This differentiation is crucial because trading and delivery processes operate separately within the market.
+The advice from Pawel Pawlucki emphasizes understanding the energy market
+through two distinct but interconnected views: **financial** and **physical**.
+This differentiation is crucial because trading and delivery processes operate
+separately within the market.
 
 ## Question and Answer Structure
 
 **Q: How should one approach learning the energy market?**
-
 A: One should analyze the market through two linked perspectives:
 
 ### Financial View
@@ -28,8 +32,11 @@ A: One should analyze the market through two linked perspectives:
 
 ### Physical View
 
-- **Law regarding the Separation of Responsibilities**: It is essential to understand the regulatory framework governing the industry.
-- **Seller vs Supplier**: Knowing the roles and legal distinctions between sellers and suppliers.
-- **Renewable Energy Sources Investments**: The growing importance of investments in renewable energy. 
+- **Law regarding the Separation of Responsibilities**: It is essential to
+understand the regulatory framework governing the industry.
+- **Seller vs Supplier**: Knowing the roles and legal distinctions between
+sellers and suppliers.
+- **Renewable Energy Sources Investments**: The growing importance of
+investments in renewable energy. 
 
 By focusing on both views, one can gain a comprehensive understanding of the energy market's complexities.

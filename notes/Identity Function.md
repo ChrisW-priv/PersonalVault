@@ -1,14 +1,13 @@
 ---
 title: Identity Function
-description: No description provided.
+description: Function accepting single argument and returning it as is.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-> [!Definition]
-> Function accepting single argument and returning it as is. Part of [Function programming](Function%20programming) theory 
+Part of [Function programming](Function%20programming) theory 
 
 ## Code
 
@@ -22,14 +21,17 @@ function identity(v){
 
 ## Example
 
-This is so simple, but surprisingly useful. Say we want to filter an array to not contain an empty quotes. Using [Filter pattern](Filter%20pattern.md) we may do:
+This is so simple, but surprisingly useful. Say we want to filter an array to
+not contain an empty quotes. Using [Filter pattern](Filter%20pattern.md) we may
+do:
 
 ```js
 ["", "Now", "is", "the", "time", "!", "", ""].filter(identity)
 // ["Now", "is", "the", "time", "!"]
 ```
 
-Another very useful trait is using it as a default parameter for predicate function in formatting functions:
+Another very useful trait is using it as a default parameter for predicate
+function in formatting functions:
 
 ```js
 function output(msg, formatFn = identity){

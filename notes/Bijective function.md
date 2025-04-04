@@ -7,6 +7,8 @@ categories:
   - zettelkasten
 ---
 
+[Function in Mathematics](Function%20in%20Mathematics.md)
+
 ## Overview
 
 A bijective function is a function that establishes a one-to-one correspondence (or bijection) between a set of elements in the domain and a set of elements in the co-domain.

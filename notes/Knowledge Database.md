@@ -7,6 +7,7 @@ categories:
   - zettelkasten
 draft: true
 ---
+[Database](Database)
 
 Knowledge Database, just like any other database needs to support the CRUD
 operations:

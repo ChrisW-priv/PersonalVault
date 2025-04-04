@@ -1,8 +1,8 @@
 ---
 title: Regular expressions
-description: No description provided.
+description: Regular expressions are algebraic way to describe a regular language.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
@@ -11,31 +11,21 @@ categories:
 
 ## Definition
 
-Regular expressions are algebraic way to describe language. They describe regular languages. If $E$ is a regex, then $L(E)$ is the language it defines.
+Regular expressions are algebraic way to describe a regular language. They
+describe regular languages. If $E$ is a regex, then $L(E)$ is the language it
+defines.
 
-### Basis 1
+### Basis
 
-Let $a$ be any symbol. Then $a$ is a regex and $L(a) = \{a\}$
+- Let $a$ be any symbol. Then $a$ is a regex and $L(a) = \{a\}$
+- $\epsilon$ is a regex and $L(\epsilon) = \{\epsilon\}$
+- $\emptyset$ is a regex and $L(\emptyset) = \emptyset$
 
-### Basis 2
+### Induction
 
-$\epsilon$ is a regex and $L(\epsilon) = \{\epsilon\}$
-
-### Basis 3
-
-$\emptyset$ is a regex and $L(\emptyset) = \emptyset$
-
-### Induction 1
-
-if $E_1 \wedge E_2$ are regex then ($E_1 | E_2$) is regex and $L(E_1 | E_2) = L(E_1) \cup L(E_2)$
-
-### Induction 2
-
-if $E_1 \wedge E_2$ are regex then ($E_1E_2$) is regex and $L(E_1E_2) = L(E_1)L(E_2)$
-
-### Induction 3
-
-if $E$ is regex then ($E^*$) is regex and $L(E^*) = (L(E))^*$
+- if $E_1 \wedge E_2$ are regex then ($E_1 | E_2$) is regex and $L(E_1 | E_2) = L(E_1) \cup L(E_2)$
+- if $E_1 \wedge E_2$ are regex then ($E_1E_2$) is regex and $L(E_1E_2) = L(E_1)L(E_2)$
+- if $E$ is regex then ($E^*$) is regex and $L(E^*) = (L(E))^*$
 
 ## Re to $\epsilon$-NFA
 
@@ -248,13 +238,10 @@ $E^+$ (one or more)
 ## Precedence of Operators
 
 Order of precedence is * (highest), then concatenation . , then |, + (lowest)
-
 Parentheses may be used wherever needed to influence the grouping of operators.
 
 ### Identities and Annihilators
 
-∅ is the identity for +. R | ∅ = R. 
-
-ε is the identity for concatenation. εR = Rε = R. 
-
-∅ is the annihilator for concatenation. ∅R = R∅ = ∅
+- ∅ is the identity for +. R | ∅ = R. 
+- ε is the identity for concatenation. εR = Rε = R. 
+- ∅ is the annihilator for concatenation. ∅R = R∅ = ∅

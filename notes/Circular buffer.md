@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Data Structure](Data%20Structure)
 
 > [!Definition]
 > Method used to reduce memory move operation used for repetitive, cyclic patterns. 

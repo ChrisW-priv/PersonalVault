@@ -1,14 +1,13 @@
 ---
 title: Unary function
-description: No description provided.
+description: Function accepting exactly one argument.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-> [!Definition]
-> Function accepting single argument. Part of [Function programming](Function%20programming) theory 
+Part of [Function programming](Function%20programming) theory 
 
 ## Code
 

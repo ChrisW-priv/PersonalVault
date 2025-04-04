@@ -23,6 +23,6 @@ Thoughts:
 ## Action Items
 
 - [x] structure the notes in the way that makes sense
-- [ ] description is some definition or short content summary
+- [x] delete and link notes
 - [ ] feinman technique and general QA structure 
 - [ ] connect notes to the llm

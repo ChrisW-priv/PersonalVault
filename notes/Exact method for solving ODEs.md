@@ -22,5 +22,3 @@ $$f(x,y) = \int{P dx} = \int{Q dy}$$
 **Step 5:** Use one of $f_x = P, f_y = Q$ properies.
 Just differentiate the $f$ over $dy$ (or $dx$ if we integrated $Q$)
 Result of that is the result for entire function
-
-Examples are provided in [edde04](../UNI/y2/EDDE-DifferentialMaths/Lectures/edde04.pdf)

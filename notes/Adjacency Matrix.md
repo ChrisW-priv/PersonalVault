@@ -7,6 +7,8 @@ categories:
   - zettelkasten
 ---
 
+[Graph representation](Graph%20representation.md)
+
 ## What is an Adjacency Matrix?
 
 An adjacency matrix, denoted as $m$, is a square matrix used to represent a graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph. Specifically, the cell $m[i][j]$ represents the edge weight of going from node $i$ to node $j$.

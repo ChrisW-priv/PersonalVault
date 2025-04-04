@@ -1,14 +1,13 @@
 ---
 title: Unapply pattern
-description: No description provided.
+description: Gathers the arguments into a list of arguments for a function.
 date: 2025-02-14
-tags: []
+tags: 
 categories:
   - zettelkasten
 ---
 
-> [!Definition]
-> Pattern that gathers the arguments into a list of arguments for a function. Part of a [Function programming](Function%20programming) theory.
+Part of a [Function programming](Function%20programming) theory.
 
 ## Code
 

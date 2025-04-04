@@ -1,14 +1,11 @@
 ---
 title: Pipe pattern
-description: No description provided.
+description: Way of creating a solution to a complex problem by using already defined, small functions and use their outputs as inputs for next functions.
 date: 2025-02-14
 tags: []
 categories:
   - zettelkasten
 ---
-
-> [!Definition]
-> Pipe pattern is a way of creating a solution to a complex problem by using already defined, small functions and use their outputs as inputs for next functions.
 
 Similar to [Compose pattern](Compose%20pattern.md). The order of arguments, however is reversed to get more natural left to right implementation
 

@@ -2,9 +2,7 @@
 title: Apply pattern
 description: This note explains the apply pattern in function programming, which allows
 date: 2025-02-14
-tags:
-  - function_programming
-  - programing_pattern
+tags: []
 categories:
   - zettelkasten
 ---

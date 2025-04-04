@@ -16,12 +16,15 @@ This algorithm is primarily used to evaluate state of games that are:
 
 ## How It Works:
 
-1. Tree Expansion: The game state is represented as a tree where each node represents a possible move.
+1. [Rooted tree](Rooted%20tree.md) Expansion: The game state is represented as a
+tree where each node represents a possible move.
 2. Min and Max Players:
     - Maximizing Player (Max): Tries to get the highest possible score.
     - Minimizing Player (Min): Tries to reduce Max's score (opponent).
-3. Recursive Evaluation: The algorithm explores all possible future moves up to a certain depth.
-4. Backpropagation: The best score is propagated back up the tree, selecting the move that leads to the optimal outcome for the current player.
+3. Recursive Evaluation: The algorithm explores all possible future moves up to
+a certain depth.
+4. Backpropagation: The best score is propagated back up the tree, selecting the
+move that leads to the optimal outcome for the current player.
 
 ## Optimizations
 

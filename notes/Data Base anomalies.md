@@ -6,6 +6,7 @@ tags: []
 categories:
   - zettelkasten
 ---
+[Database](Database)
 
 In general anomalies that we focus on are the ones when data is modified. 
 
