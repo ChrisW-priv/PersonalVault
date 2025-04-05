@@ -15,19 +15,18 @@ status: in-progress
 
 - [ ] Allow file uploads to temporary chat [important:: false] [folder:: frontend ]
 - [ ] Allow temporary login using OTP (This was partially implemented but i need to use JWT instead of sessions) [important:: false] [folder:: frontend]
-- [ ] Fix startup time [folder:: backend]
+- [ ] Fix startup time [folder:: backend] [important:: false]
 - [ ] Make better Function Calling (accept) components [folder:: frontend]
 - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker)) [important:: false] [folder:: backend]
 - [x] Make better QA function [folder:: backend]
 - [ ] Fix the bug on the function calling [folder:: backend]
-- [ ] Make use of n8n automations  [folder:: backend]
+- [ ] Make use of n8n automations  [folder:: backend] [important:: false]
 - [x] Add adnotations [folder:: paper]
 - [ ] Go through .bib file and review the `year` attribute.
-- [ ] Write Chapter on Design & Implementation [folder:: paper]
-    - note on why not use mcp
-    - include tree sitter for the documents
+- [x] Write Chapter on Design & Implementation [folder:: paper]
 - [ ] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
 - [ ] Make the PV repo private [link](https://github.com/ChrisW-priv/PersonalVault) [important:: false]
 - [ ] Rewrite frontend view to simple django [important:: false]
+- [ ] Add note on tree-sitter for document content extraction
 - [ ] Refactor chat view to make spans not take so much space [important:: false]
 - [ ] Add code cov again [important:: false]
