@@ -4,7 +4,7 @@ description: Attempt to make an OS that first my needs
 date: 2025-03-29
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 
