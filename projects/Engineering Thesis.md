@@ -24,8 +24,6 @@ status: in-progress
 - [x] Add adnotations [folder:: paper]
 - [ ] Go through .bib file and review the `year` attribute.
 - [ ] Write Chapter on Design & Implementation [folder:: paper]
-    - note on the ssg of the website 
-    - note on the sse to make better user experience
     - note on why not use mcp
     - include tree sitter for the documents
 - [ ] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
