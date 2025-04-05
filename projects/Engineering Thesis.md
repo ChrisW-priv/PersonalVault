@@ -22,6 +22,7 @@ status: in-progress
 - [ ] Fix the bug on the function calling [folder:: backend]
 - [ ] Make use of n8n automations  [folder:: backend]
 - [x] Add adnotations [folder:: paper]
+- [ ] Go through .bib file and review the `year` attribute.
 - [ ] Write Chapter on Design & Implementation [folder:: paper]
     - note on the ssg of the website 
     - note on the sse to make better user experience
