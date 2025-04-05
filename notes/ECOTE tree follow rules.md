@@ -69,20 +69,20 @@ flowchart TD
 - **first(n) Algorithm**
   - **ε node at i position**: return $\emptyset$
   - **Non-ε node at i position**: return $i$
-  - **Or node**: `first(c1) $\cap$ first(c2)`
-  - **Concat node**: `nullable(c1) ? (first(c1) $\cap$ first(c2)) : first(c1)`
-  - **Closure node**: `first(c1)`
+  - **Or node**: first(c1) $\cup$ first(c2)
+  - **Concat node**: nullable(c1) ? (first(c1) $\cup$ first(c2)) : first(c1)
+  - **Closure node**: first(c1)
 
 - **last(n) Algorithm**
   - **ε node at i position**: return $\emptyset$
   - **Non-ε node at i position**: return $i$
-  - **Or node**: `last(c1) $\cap$ last(c2)`
-  - **Concat node**: `nullable(c2) ? (last(c1) $\cap$ last(c2)) : last(c2)`
-  - **Closure node**: `last(c1)`
+  - **Or node**: last(c1) $\cup$ last(c2)
+  - **Concat node**: nullable(c2) ? (last(c1) $\cup$ last(c2)) : last(c2)
+  - **Closure node**: last(c1)
 
 - **follow(i) Algorithm**
-  - **ε node at i position**: return $\emptyset$ (?)
-  - **Non-ε node at i position**: return $i$ (?)
-  - **Or node**: `last(c1) $\cap$ last(c2)`
-  - **Concat node**: `{i} in last(c2) ? first(c2) : ...`
-  - **Closure node**: `{i} in last(n) ? first(n) : ...`
+  - **ε node at i position**:
+  - **Non-ε node at i position**:
+  - **Or node**:
+  - **Concat node**:
+  - **Closure node**:
