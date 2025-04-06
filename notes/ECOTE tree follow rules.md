@@ -62,8 +62,8 @@ flowchart TD
 - **Null-able(n) Algorithm**
   - **ε node at i position**: **true**
   - **Non-ε node at i position**: **false**
-  - **Or node**: `null-able(c1) $\vee$ null-able(c2)`
-  - **Concat node**: `null-able(c1) $\wedge$ null-able(c2)`
+  - **Or node**: null-able(c1) $\vee$ null-able(c2)
+  - **Concat node**: null-able(c1) $\wedge$ null-able(c2)
   - **Closure node**: **true**
 
 - **first(n) Algorithm**
