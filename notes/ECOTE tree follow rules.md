@@ -114,13 +114,15 @@ Here's the algorithm with proper LaTeX formatting and indentation:
 $$
 \begin{align}
 &\text{Take first element of "process" stack, call it }T \\
-&\quad\text{If }T \text{ in } Dstates \text{: discard it and continue to next element} \\
-&\quad\text{for input symbol "s" in the input symbols} \\
-&\quad\quad\text{define new set } U \text{ by taking result of follow}(p), \\
-&\quad\quad\text{where "p" is in "T" AND symbol at position "p" is "s"} \\
-&\quad\quad\text{IF "U" is non empty: add it to Dstates with some name} \\
-&\quad\quad\text{set } Dtran[T, s] = U
+&\text{If }T \text{ in } Dstates \text{: discard it and continue to next element} \\
+&\text{for input symbol "s" in the input symbols} \\
+&\quad\text{define new set } U \text{ by taking result of follow}(p), \\
+&\quad\text{where "p" is in "T" AND symbol at position "p" is "s"} \\
+&\quad\text{IF "U" is non empty: add it to Dstates with some name} \\
+&\quad\text{set } Dtran[T, s] = U
 \end{align}
 $$
 
-This maintains the hierarchical structure of your algorithm with proper indentation using `\quad` commands in LaTeX, which will render correctly in math-enabled Markdown environments while preserving the structure and notation.
+This maintains the hierarchical structure of your algorithm with proper
+indentation using `\quad` commands in LaTeX, which will render correctly in
+math-enabled Markdown environments while preserving the structure and notation.
