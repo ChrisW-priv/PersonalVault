@@ -58,19 +58,17 @@ $S$ is left-recursive: $S \rightarrow Aa \rightarrow Sda$
 1. Arrange non-terminals of Grammar in some order $A_1,A_2,\dots,A_n$
 2. Then:
 
-
 $$
 \begin{align}
-&\text{for } i := 1 \text{ to } n:\\
-    &\quad\text{for } j := 1 \text{ to } i-1:\\
+&\text{For } i := 1 \text{ to } n:\\
+    &\quad\text{For } j := 1 \text{ to } i-1:\\
         &\quad\quad\text{Replace all productions of the form } A_i \rightarrow A_j \gamma\\
         &\quad\quad\text{by: } A_i \rightarrow \delta_1\gamma \mid \delta_2\gamma \mid \dots \delta_k\gamma,\\
         &\quad\quad\text{where } A_j \rightarrow \delta_1 \mid \delta_2 \mid \dots \delta_k\\
-    &\quad\text{eliminate immediate recursion among }A_i\text{ productions}\\
-    &\quad\text{eliminate }\epsilon\text{ productions}
+    &\quad\text{Eliminate immediate recursion among }A_i\text{ productions}\\
+    &\quad\text{Eliminate }\epsilon\text{ productions}
 \end{align}
 $$
-
 
 ### Examples
 
