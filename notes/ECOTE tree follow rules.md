@@ -109,9 +109,18 @@ Define empty table "Dtran"
 Define initial state "A" = first(root) (this will be a set of positions (leafs))
 Push "A" to "process" stack
 
-Take first element of "process" stack, call it "T".
-    If "T" in Dstates: discard it and continue to next element
-    for each of the input symbols (we will generalize input symbol to "s")
-        define new set "U" by taking result of "follow(p)",  where "p" is in "T" AND symbol at position "p" is "s"
-        IF "U" is non empty: add it to Dstates with some name
-        set Dtran\["T", "s"\] = "U"
+Here's the algorithm with proper LaTeX formatting and indentation:
+
+$$
+\begin{align}
+&\text{Take first element of "process" stack, call it }T \\
+&\quad\text{If }T \text{ in } Dstates \text{: discard it and continue to next element} \\
+&\quad\text{for input symbol "s" in the input symbols} \\
+&\quad\quad\text{define new set } U \text{ by taking result of follow}(p), \\
+&\quad\quad\text{where "p" is in "T" AND symbol at position "p" is "s"} \\
+&\quad\quad\text{IF "U" is non empty: add it to Dstates with some name} \\
+&\quad\quad\text{set } Dtran[T, s] = U
+\end{align}
+$$
+
+This maintains the hierarchical structure of your algorithm with proper indentation using `\quad` commands in LaTeX, which will render correctly in math-enabled Markdown environments while preserving the structure and notation.
