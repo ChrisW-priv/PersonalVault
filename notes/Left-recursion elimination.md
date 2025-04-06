@@ -68,6 +68,9 @@ for i := 2 to n:
 
 #### Example 1
 
+> [!Note]
+> This example does not need to use the "complex" algorithm. It can just use the "naive" solution
+
 So this sounds complex, but really, if we have an example:
 
 $$
@@ -94,7 +97,7 @@ for i := 2 to 2:
         Replace all productions of the form $T \rightarrow S \gamma$
         by: $T \rightarrow \delta_1\gamma \mid \delta_2\gamma \mid \dots \delta_k\gamma$, where $S \rightarrow \delta_1 \mid \delta_2 \mid \dots \delta_k$
 
-notice: there is just one execution:
+notice: there is just one loop execution
 
 $$
 \begin{align}
