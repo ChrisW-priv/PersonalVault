@@ -11,5 +11,5 @@ status: todo
 
 ## Action Items
 
-- [ ] Find out what docs I need to sign
+- [x] Find out what docs I need to sign
 - [ ] Submit the documents

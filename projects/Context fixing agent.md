@@ -1,10 +1,10 @@
 ---
-title: "Context fixing agent"
+title: Context fixing agent
 description: ""
-date: "2025-04-03"
+date: 2025-04-03
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 

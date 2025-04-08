@@ -15,7 +15,7 @@ General course [intro](https://studia.elka.pw.edu.pl/f-raw/25L/103A-CSCSN-ISA-EC
 ## Action Items
 
 - [x] Do homework1  [scheduled:: 2025-03-03]
-- [ ] Prep. for a test 1  [due:: 2025-04-07]
+- [x] Prep. for a test 1  [due:: 2025-04-07]
 - [ ] Attend Laboratory1 (Introduction,)  [scheduled:: 2025-04-09]
 - [ ] Attend Laboratory2 (Presentation of first version of introductory project)  [scheduled:: 2025-04-16]
 - [ ] Attend Laboratory3 (Deadline for introductory project (final version))  [scheduled:: 2025-04-23]

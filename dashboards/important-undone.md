@@ -19,7 +19,8 @@ for (let page of pages) {
         .where(t => t.important || t.important === undefined)  // Exclude unimportant tasks
         .where(t => !t.scheduled)                              // Exclude already scheduled
 
-    dv.taskList(tasks)
+    if (tasks.length)
+        dv.taskList(tasks)
 }
 
 ```
@@ -36,7 +37,8 @@ for (let page of pages) {
         .where(t => !t.completed)  // Exclude completed tasks
         .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
 
-    dv.taskList(tasks)
+    if (tasks.length)
+        dv.taskList(tasks)
 }
 
 ```
@@ -53,7 +55,8 @@ for (let page of pages) {
         .where(t => !t.completed)  // Exclude completed tasks
         .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
 
-    dv.taskList(tasks)
+    if (tasks.length)
+        dv.taskList(tasks)
 }
 
 ```
