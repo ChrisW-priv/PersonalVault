@@ -27,7 +27,8 @@ status: in-progress
 - [ ] Write conclusions [folder:: paper]
 - [ ] Write introduction [folder:: paper]
 - [ ] Write abstract x2 [folder:: paper]
-- [x] Write Chapter on Design & Implementation [folder:: paper]
+- [ ] Write Chapter on Design & Implementation [folder:: paper]
+    - add text extraction methods: tree sitter and marker
 - [x] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
 - [ ] Make the PV repo private [link](https://github.com/ChrisW-priv/PersonalVault) [important:: false]
 - [ ] Rewrite frontend view to simple django [important:: false]
