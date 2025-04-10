@@ -18,6 +18,7 @@ status: in-progress
 - [ ] Fix startup time [folder:: backend] [important:: false]
 - [ ] Make better Function Calling (accept) components [folder:: frontend] [important:: false]
 - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker)) [important:: false] [folder:: backend]
+- [ ] Make file conversions as cloudrun job (!) [folder:: infrastructure]
 - [x] Make better QA function [folder:: backend]
 - [ ] Fix the bug on the function calling [folder:: backend] [important:: false]
 - [ ] Make use of n8n automations  [folder:: backend] [important:: false]
