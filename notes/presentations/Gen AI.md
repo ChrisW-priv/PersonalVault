@@ -44,3 +44,10 @@ TODO:
 > [!Important]
 > "AI application" is actually an "application with AI"
 
+--
+
+### What does it mean?
+
+In the big picture, AI is **just another feature**.
+
+Do not forget that we still 
