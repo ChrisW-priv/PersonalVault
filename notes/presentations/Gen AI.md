@@ -41,13 +41,27 @@ There are advances in interpretability, but this field is too young to be releva
 
 ## Usual model
 
-```mermaid  <!-- element style="width:auto; height:50%" -->
-flowchart TD
-    A[Problem Definition] --> B[Data Collection] --> C[Data Preprocessing] --> D[Data Analysis] --> F[Model Selection] --> G[Model Training] --> H[Model Evaluation] --> I{Is Performance Satisfactory?}
-    I -->|No| G
-    I -->|Yes| J[Deployment]
-    J --> K[Monitoring & Maintenance]
-```
+1. Define problem
+2. Collect data
+3. Process data
+4. Select Model
+5. Train Model
+6. Evaluate: is perf. satisfactory? 
+    1. Yes: goto 7.
+    2. No: goto 5.
+7. Deploy and Monitor
+
+---
+
+## GenAI model (text)
+
+1. Define problem
+2. Collect examples of behavior
+3. Run prompt optimization across different models<br>(if available)
+4. Evaluate: is perf. satisfactory? 
+    1. Yes: goto 5.
+    2. No: goto 2. or redefine what you want
+5. Deploy and Monitor
 
 ---
 
