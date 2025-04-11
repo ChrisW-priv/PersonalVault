@@ -16,14 +16,28 @@ Krzysztof Watras
 
 ## Agenda
 
-- Exploration of AI space
-- Tools utilizing the GenAI
-- Combining AI with tools to build full AI systems
+- Gen AI overview
+- Examples of tools using AI
+- Building AI systems
 - Case study of the SPA project
 
 ---
 
-## Gen AI (Text)
+## How to get token ?
+
+1. Get axpo.com account
+2. Login on Citrix
+3. Follow instructions on: <br>https://mingle.axpo.com/display/GAI/Request+new+project
+
+Note: LM game is pay to play -> you need token to access the APIs
+
+---
+
+## Gen AI (Text) overview
+
+--
+
+## Language Model
 
 - Generate text by predicting **next token** <br> (auto-regressive)
 - LM training is **data compression**
@@ -33,47 +47,60 @@ Krzysztof Watras
 Notes: The LM compresses the data by creating the internal models of the world. This view is directional. 
 There are advances in interpretability, but this field is too young to be relevant in the big scale.
 
+--
+
+> [!Important]
+> Using fine-tuning to teach model is a mistake!
+
+Note: To extend the general knowledge the Retrieval Augmented Generation method
+should be used
+
+--
+
+## Retrieval Augmented Generation (RAG)
+
+as the name suggests, there are 3 stages
+
+- **Retrieval** of query relevant information
+- **Augmenting** the *Original Question* to include retrieved documents
+- **Generation** of response by LM inference with newly created prompt
+
+--
+
+## AI workflows
+
+--
+
+## AI agents
+
+--
+
+## Workflows vs agents
+
+---
+
+## AI powered tools
+
+--
+
+## ChatGPT
+
+- Image generation
+- Deep research
+
+--
+
+## Claude Code
+
+--
+
+## Aider
+
 ---
 
 ## Building AI systems
 
----
-
-## Usual model
-
-1. Define problem
-2. Collect data
-3. Process data
-4. Select Model
-5. Train Model
-6. Evaluate: is perf. satisfactory? 
-    1. Yes: goto 7.
-    2. No: goto 5.
-7. Deploy and Monitor
-
----
-
-## GenAI model (text)
-
-1. Define problem
-2. Collect examples of behavior
-3. Run prompt optimization across different models<br>(if available)
-4. Evaluate: is perf. satisfactory? 
-    1. Yes: goto 5.
-    2. No: goto 2. or redefine what you want
-5. Deploy and Monitor
-
----
-
-LMs are likely to be in the center of the application design philosophy
-
-![](notes/attachments/Pasted%20image%2020250411135314.png)
-
-Note: much like the cpu is the center of the computer, the LMs will be the
-center of the app, thus it makes sense that we will take lessons learned and
-apply them here
-
----
+--
 
 > [!Important]
 > "AI application" is actually an "application with AI"
@@ -86,9 +113,43 @@ In the big picture, AI is **just another feature**.
 
 AI by itself is **just an artifact**.<br>You need the ability to connect it with *something*.
 
-Note: Notice: there is AI workflow when building the system. Also: other important features include: security, logging, backups, scalability, compliance (legal), user tutorials.
+Note: Also: other important features include: security, logging, backups,
+scalability, compliance (legal), user tutorials.
+Now, having that in mind *next slide*
 
----
+--
+
+Having that in mind LMs are likely to be in the center of the future application design philosophy
+
+![](notes/attachments/Pasted%20image%2020250411135314.png)
+
+Note: much like the cpu is the center of the computer, the LMs will be the
+center of the app, thus it makes sense that we will take lessons learned and
+apply them here. Examples: hardware acceleration - model finetuning.
+
+--
+
+AI performance is defined by:
+
+- Model
+- Context
+- Prompt
+
+--
+
+## GenAI model (text)
+
+1. Define problem
+2. Collect examples 
+3. Run prompt optimization for different models
+4. Evaluate: is perf. satisfactory? 
+    1. Yes: goto 5.
+    2. No: goto 2. or redefine what you want
+5. Deploy and Monitor
+
+Note: you can try to **generate** the examples
+
+--
 
 ## Prompt Engineering
 
@@ -111,7 +172,4 @@ Unless you are doing some quick scripting to just make it work (or need to lever
 
 ---
 
-## Promising tools
-
-- Aider
-- Claude Code
+## SPA project case study
