@@ -1,4 +1,6 @@
 {
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "main"
+  ],
   "baseFontSize": 14
 }
