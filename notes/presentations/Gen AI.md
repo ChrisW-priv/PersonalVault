@@ -88,9 +88,13 @@ as the name suggests, there are 3 stages
 
 ## Claude Code
 
+![](notes/attachments/Pasted%20image%2020250414150528.png)
+
 --
 
 ## Aider
+
+![](notes/attachments/Pasted%20image%2020250414150832.png)
 
 ---
 
@@ -130,6 +134,14 @@ AI performance is defined by:
 - Model
 - Context
 - Prompt
+
+Note: So because we cannot change the model, we split our attention into tools and prompts
+
+--
+
+## MCP
+
+![](notes/attachments/Pasted%20image%2020250414150344.png)
 
 --
 
