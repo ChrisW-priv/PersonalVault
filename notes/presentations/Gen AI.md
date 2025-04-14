@@ -182,4 +182,8 @@ Unless you are doing some quick scripting to just make it work (or need to lever
 - Function execution (possible, not utilized)
 - Asynchronous file processing
 - RBAC that spans tree of files
-- Full minimal standards
+- Fast (cheap) CI
+- Full minimal standards (+uv PoC)
+
+---
+
