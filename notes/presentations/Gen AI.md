@@ -99,6 +99,7 @@ Note: Notice that we may not just break the system or delete all records in a da
 
 ## ChatGPT
 
+- Reasoning
 - Image generation
 - Deep research
 
