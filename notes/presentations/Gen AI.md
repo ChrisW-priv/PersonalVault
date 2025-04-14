@@ -71,10 +71,6 @@ as the name suggests, there are 3 stages
 
 --
 
-## AI agents
-
---
-
 ## Workflows vs agents
 
 ---
@@ -174,7 +170,7 @@ Unless you are doing some quick scripting to just make it work (or need to lever
 
 ## SPA project case study
 
----
+--
 
 ## Features
 
@@ -185,5 +181,30 @@ Unless you are doing some quick scripting to just make it work (or need to lever
 - Fast (cheap) CI
 - Full minimal standards (+uv PoC)
 
----
+--
 
+## HLA
+
+![](notes/attachments/SPA%20-%20Arch.%20-%20HLA.png)
+
+--
+
+## Current Arch
+
+![](notes/attachments/SPA%20-%20Arch.%20-%20Page%201.png)
+
+--
+
+## Proposed next steps
+
+- Utilize MCP standard
+    - Split our logic for MCP 
+        - Client that defines behavior
+        - Servers that provide tools + context
+    - Requires the Knowledge Base as separate MCP server
+- Make better RBAC (open for ideas/help/assist)
+- Better file processing
+    - OCR (better)
+    - Deeper indexes
+    - Use Kafka<br>(not necessary but keeps arch unified)
+- Landing Zone transition
