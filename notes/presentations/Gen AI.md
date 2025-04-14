@@ -145,6 +145,10 @@ Note: So because we cannot change the model, we split our attention into tools a
 
 --
 
+![](notes/attachments/Pasted%20image%2020250414153032.png)
+
+--
+
 ## GenAI model (text)
 
 1. Define problem
