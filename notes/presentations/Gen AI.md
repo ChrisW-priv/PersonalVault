@@ -23,7 +23,7 @@ Notes: cześć wszystkim, zostałem poproszony o przygotowanie prezentacji nt. G
 - Building AI systems
 - Case study of the SPA project
 
-Notes: krótko o tym co tu będzie: zaczniemy od krótkiego powtórzenia co jest czym jest gen AI w czysto w kontekscie tekstu,<br>pokażę kilka narzędzi których używam lub które dopiero zacząłem ale wyglądają obiecująco,<br>Pokażę jak się robi tego typu apki i na koniec pokażę konkretnie projekt SPA w którym brałem udział
+Notes: krótko o tym co tu będzie:<br>zaczniemy od krótkiego powtórzenia czym jest gen AI<br>pokażę kilka narzędzi których używam lub które dopiero zacząłem ale wyglądają obiecująco,<br>Pokażę jak się robi tego typu apki i na koniec pokażę konkretnie projekt SPA w którym brałem udział
 
 ---
 
@@ -33,7 +33,7 @@ Notes: krótko o tym co tu będzie: zaczniemy od krótkiego powtórzenia co jest
 2. Login on Citrix
 3. Follow instructions on: <br>https://mingle.axpo.com/display/GAI/Request+new+project
 
-Note: Zanim zaczniemy użycie LLM'ów to pay to play -> you need token to access the APIs
+Note: Zacznijmy od tego że użycie LLM'ów to pay to play -> you need token to access the APIs
 
 ---
 
