@@ -72,8 +72,8 @@ as the name suggests, there are 3 stages
 
 ## Tool calling
 
->[!Important]
->Tool calling is the same as "structured output"
+> [!Important]
+> Tool calling is the same as "structured output"
 
 **YOU** call the code. AI is there to decide *which* tool to use.
 
