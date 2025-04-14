@@ -12,6 +12,8 @@ transition: none
 
 Krzysztof Watras
 
+Notes: cześć wszystkim, zostałem poproszony o przygotowanie prezentacji nt. Gen AI. no to... jestem :) Do tworzenia tej prezentacji użyłem nowego narzędzia, mam nadzieję że się nie wysypie, jak coś no to improwizacja
+
 ---
 
 ## Agenda
@@ -21,6 +23,8 @@ Krzysztof Watras
 - Building AI systems
 - Case study of the SPA project
 
+Notes: krótko o tym co tu będzie: zaczniemy od krótkiego powtórzenia co jest czym jest gen AI w czysto w kontekscie tekstu,<br>pokażę kilka narzędzi których używam lub które dopiero zacząłem ale wyglądają obiecująco,<br>Pokażę jak się robi tego typu apki i na koniec pokażę konkretnie projekt SPA w którym brałem udział
+
 ---
 
 ## How to get token ?
@@ -29,7 +33,7 @@ Krzysztof Watras
 2. Login on Citrix
 3. Follow instructions on: <br>https://mingle.axpo.com/display/GAI/Request+new+project
 
-Note: LM game is pay to play -> you need token to access the APIs
+Note: Zanim zaczniemy użycie LLM'ów to pay to play -> you need token to access the APIs
 
 ---
 
@@ -42,7 +46,7 @@ Note: LM game is pay to play -> you need token to access the APIs
 - Generate text by predicting **next token** <br> (auto-regressive)
 - LM training is **data compression**
 - Impossible to train to change *specific* behavior (inscrutable artifacts)
-- Need application to run the model <br> (obvious, but important for later)
+- **Need of application** to run the model <br> (obvious, but important for later)
 
 Notes: The LM compresses the data by creating the internal models of the world. This view is directional. 
 There are advances in interpretability, but this field is too young to be relevant in the big scale.
@@ -52,8 +56,7 @@ There are advances in interpretability, but this field is too young to be releva
 > [!Important]
 > Using fine-tuning to teach model is a mistake!
 
-Note: To extend the general knowledge the Retrieval Augmented Generation method
-should be used
+Note: żeby rozszerzyć wiedzę LLM powinniśmy użyć metody "in context learning", w praktyce lepiej znaną jako RAG.
 
 --
 
@@ -64,6 +67,21 @@ as the name suggests, there are 3 stages
 - **Retrieval** of query relevant information
 - **Augmenting** the *Original Question* to include retrieved documents
 - **Generation** of response by LM inference with newly created prompt
+
+--
+
+## Tool calling
+
+>[!Important]
+>Tool calling is the same as "structured output"
+
+**YOU** call the code. AI is there to decide *which* tool to use.
+
+--
+
+**ANY** tool calling needs to be done with extreme care!!!
+
+Note: Notice that we may not just break the system or delete all records in a database but also accidentally, share personal details.
 
 --
 
@@ -96,11 +114,23 @@ as the name suggests, there are 3 stages
 
 ![](notes/attachments/Pasted%20image%2020250414150832.png)
 
+--
+
+## Other
+
+- Cursor
+- Zed
+
+Notes: On Cursor: from demos: **insanely good auto complete**<br>On Zed: looks really promising, but didn't play with the Linux version yet. It is **Free** and *has first class support for git + vim*
+
+
 ---
 
 ## Building AI systems
 
 --
+
+## Biggest lesson
 
 > [!Important]
 > "AI application" is actually an "application with AI"
