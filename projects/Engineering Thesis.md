@@ -26,9 +26,9 @@ status: in-progress
 - [x] Add adnotations [folder:: paper]
 - [ ] Go through .bib file and review the `year` attribute. [folder:: paper]
 - [ ] Make screenshots and add examples of the paper results [folder:: paper]
-- [ ] Write conclusions [folder:: paper]
-- [ ] Write introduction [folder:: paper]
-- [ ] Write abstract x2 [folder:: paper]
+- [x] Write conclusions [folder:: paper]
+- [x] Write introduction [folder:: paper]
+- [x] Write abstract x2 [folder:: paper]
 - [ ] Write Chapter on Design & Implementation [folder:: paper]
     - add text extraction methods: tree sitter and marker
 - [x] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
