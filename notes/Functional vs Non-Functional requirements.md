@@ -18,8 +18,6 @@ draft: false
 - Functional = Features -> What the system does.
 - Non-Functional = Qualities -> How the system behaves under constraints or conditions.
 
-
-
 ## Functional Requirements (FR)
 
 These describe **what the system should do** - the core features and behaviors of the software.
