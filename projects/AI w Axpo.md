@@ -13,6 +13,6 @@ status: in-progress
 
 - [x] Napisz do Pawła Klepackiego
 - [x] Napisz do Ioanisa
-- [ ] Umów spotkanie na początku kwietnia z Jarosławem Mazurem
-- [ ] Make presentation on AI [due:: 2025-04-15] [scheduled:: 2025-04-11]
+- [x] Umów spotkanie na początku kwietnia z Jarosławem Mazurem
+- [x] Make presentation on AI [due:: 2025-04-15] [scheduled:: 2025-04-11]
 

@@ -11,6 +11,6 @@ status: in-progress
 
 ## Action Items
 
-- [ ] Resolve the stg-prod diverge
+- [x] Resolve the stg-prod diverge
 - [x] Make the inline eval lazy somehow...
 - [x] Fix the name of the portfolio to actually enable some returns
