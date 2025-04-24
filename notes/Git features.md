@@ -10,6 +10,7 @@ draft: false
 ---
 
 [Link to original video](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
+[Link to the video on the same topic part 2](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 ## Aliases
 
@@ -106,7 +107,32 @@ again, I have no idea what even it is so todo
 
 some fun one as well, and there is `commit-graph` now that saves the cache and allows for incremental run
 
-## fsmonitor
+## Fsmonitor
 
 so the normal mode for git to detect changes is to compare the "expected" file state with actual file state, which for large number of files is expensive.
 Fs monitor will watch for those changes as a deamon process and will *know* if the files were changed or not (because it will save all the changes from the os signals)
+
+## Hooks
+
+### Commiting
+
+- pre-commit
+- prepare-commit-msg
+- commit-msg
+- post-commit
+
+### Rewriting
+
+- pre-rebase
+- post-rewrite
+
+### Merging
+
+- pre-merge-commit
+- post-merge
+
+### Switching/Pushing
+
+- post-checkout
+- reference-transaction
+- pre-push
