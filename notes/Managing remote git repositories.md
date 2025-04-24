@@ -1,5 +1,5 @@
 ---
-title: Managing remote repositories
+title: Managing remote git repositories
 description: Link to instructions on how to manage remote repos
 date: 2025-03-30
 tags:
@@ -11,6 +11,7 @@ draft: false
 
 ## Key Operations
 
+- **Checking the current Remote URL**: Use `git remote get-url --all origin` to get current remote
 - **Adding a Remote**: Use `git remote add <name> <url>` to link your repository to a remote.
 - **Changing a Remote's URL**: Use `git remote set-url <name> <new-url>` to update the URL of an existing remote.
 - **Renaming a Remote**: Rename a remote with `git remote rename <old-name> <new-name>`.
