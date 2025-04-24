@@ -25,7 +25,7 @@ General course [intro](https://studia.elka.pw.edu.pl/f-raw/25L/103A-CSCSN-ISA-EC
     - Rewrite readme's and move some strings as docstrings
     - create documentation on models used + algorithm overview
     - Write full coverage of assumptions
-- [ ] Attend Laboratory3 (Deadline for introductory project (final version))  [scheduled:: 2025-04-23]
+- [x] Attend Laboratory3 (Deadline for introductory project (final version))  [scheduled:: 2025-04-23]
 - [ ] Attend Laboratory4 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-07]
 - [ ] Attend Laboratory5 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-14]
 - [ ] Attend Laboratory6 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-21]

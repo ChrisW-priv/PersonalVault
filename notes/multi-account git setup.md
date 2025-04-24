@@ -108,13 +108,13 @@ Use the `includeIf` directive to load separate Git configurations for different 
 This allows for different user names/emails per repo.
 
 1. Global `.gitconfig` (typically located at `~/.gitconfig`):
-   This file will include configurations for specific directories like work (`~/work/uni`) and personal (`~/projects`).
+   This file will include configurations for specific directories like work (`~/work` or `~/uni`) and personal (`~/projects`).
 
 Example of global `~/.gitconfig`:
 
 ```ini
 [includeIf "gitdir:~/work/axpl/"]
-   path = ~/work/uni/.gitconfig
+   path = ~/work/.gitconfig
 ```
 
 > [!Note]
@@ -154,3 +154,8 @@ ssh -T git@github.com
 
 And that should print your account name that is configured for the folder you
 run this from!
+
+> [!Note]
+> For what ever reason, when tested on `gitlab.com` instead of github I got an
+error. But after trying to clone a repo it worked so probably some other url
+is needed, I leave it as is cuz there is no time to properly research this.
