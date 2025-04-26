@@ -142,6 +142,16 @@ Fs monitor will watch for those changes as a deamon process and will *know* if t
 Perform certain operation based on a file extension.
 in the part 2: there is a suggestion to use exif tool too see what attrs of image file changed not just "it changed"
 
-## smudge and clean
+## Smudge and clean
 
 ![](attachments/Pasted%20image%2020250425125932.png)
+
+## Fixup commits
+
+you can do fixup to a commit and then do `rebase --autosquash` that will then modify past commits and redo all the changes etc.
+
+## Rebasing stacks
+
+rebasing the stacked changes such that it then updates all of the refs in the other stacks
+
+## Worktrees!
