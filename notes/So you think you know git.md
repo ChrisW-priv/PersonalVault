@@ -1,5 +1,5 @@
 ---
-title: Git features
+title: So you think you know git
 description: Note from a talk by some git expert, list of mentioned things to be investigated
 date: 2025-04-24
 tags:
@@ -80,6 +80,12 @@ git log -S pattern -p
 
 will do a search on the entire history of the repo to find that pattern (and history of changes to that)
 
+```sh
+git log feature-branch..main
+```
+
+will show all changes on main that are not in the feature-branch
+
 ## Git reflog
 
 history of all operations (if HEAD is pointing to it, then there will be a history of that change, shown here)
@@ -155,3 +161,5 @@ you can do fixup to a commit and then do `rebase --autosquash` that will then mo
 rebasing the stacked changes such that it then updates all of the refs in the other stacks
 
 ## Worktrees!
+
+Some cool way to work on multiple features **in the same time**.
