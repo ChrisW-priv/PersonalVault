@@ -56,3 +56,11 @@ Collect yourself before you react negatively in front of the others.
     General that pulls his hear out and says "We are all gonna die" is a bad
     general
 
+## Fatal punches
+
+Sometimes you just fail, no other way to say it. Look at the facts and ask
+yourself if you are really down. If you are, stop. There are ppl that are built 
+to rip you off when you are struggling. 
+
+Also: it is your idea that failed. You are not a failure (necessarily), just analyze 
+what went wrong and do better next time.
