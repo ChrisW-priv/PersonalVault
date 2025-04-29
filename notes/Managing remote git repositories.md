@@ -11,7 +11,7 @@ draft: false
 
 ## Key Operations
 
-- **Checking the current Remote URL**: Use `git remote get-url --all origin` to get current remote
+- **Get a Remote Url**: Use `git config --get remote.origin.url` to get remote repository url.
 - **Adding a Remote**: Use `git remote add <name> <url>` to link your repository to a remote.
 - **Changing a Remote's URL**: Use `git remote set-url <name> <new-url>` to update the URL of an existing remote.
 - **Renaming a Remote**: Rename a remote with `git remote rename <old-name> <new-name>`.
