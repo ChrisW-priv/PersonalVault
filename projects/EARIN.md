@@ -16,4 +16,5 @@ status: in-progress
 - [x] Make note on the constraints solver
 - [x] Make note on the min max solver
 - [x] Make note on the NP complete problems - what are they etc.
-- [ ] choose the project topic [due:: 2025-04-25]
+- [x] choose the project topic [due:: 2025-04-25]
+- [ ] Make notes on the Reinforcement Learning, and Markov Decisions Process
