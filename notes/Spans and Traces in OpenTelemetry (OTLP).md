@@ -23,3 +23,5 @@ It represents one operation (like an HTTP request, DB call, function execution).
 Each span has metadata: name, start/end time, status, parent span (if any), attributes, etc.
 
 Multiple spans make up a trace and are often nested (child spans within parent spans).
+
+There are multiple [Types of Spans in OpenTelemetry (OTLP)](Types%20of%20Spans%20in%20OpenTelemetry%20(OTLP).md)

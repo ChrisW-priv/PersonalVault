@@ -32,6 +32,8 @@ Libraries in your app that capture telemetry data and send it out.
 
 Supports auto and manual instrumentation.
 
+They can produce Spans or Traces etc. For the difference see also: [Spans and Traces in OpenTelemetry (OTLP)](Spans%20and%20Traces%20in%20OpenTelemetry%20(OTLP).md)
+
 2. OTLP Exporters
 
 Send telemetry data over the wire using OTLP.
