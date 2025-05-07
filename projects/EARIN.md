@@ -23,4 +23,4 @@ status: in-progress
 
 
 in a semantic we see if the word is true by looking at a truth table
-in a syntactic way, we are applying the LOGIC to derive truth based on the 
+in a syntactic way, we are applying the LOGIC to derive truth based on the predefined rules
