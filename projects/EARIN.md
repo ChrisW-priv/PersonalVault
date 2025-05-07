@@ -18,3 +18,9 @@ status: in-progress
 - [x] Make note on the NP complete problems - what are they etc.
 - [x] choose the project topic [due:: 2025-04-25]
 - [ ] Make notes on the Reinforcement Learning, and Markov Decisions Process
+- [ ] Make notes on the logic inference and all the rules
+    - What is the semantic versus syntactic
+
+
+in a semantic we see if the word is true by looking at a truth table
+in a syntactic way, we are applying the LOGIC to derive truth based on the 
