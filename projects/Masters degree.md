@@ -10,6 +10,6 @@ status: todo
 
 ## Action Items
 
-- [ ] Decide what is the next big thing in my life
-- [ ] Choose the degree I want to pursue
-- [ ] Choose UNI + department
+- [x] Decide what is the next big thing in my life
+- [x] Choose the degree I want to pursue
+- [x] Choose UNI + department
