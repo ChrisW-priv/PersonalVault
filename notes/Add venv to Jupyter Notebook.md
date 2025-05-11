@@ -19,7 +19,7 @@ pip install --user ipykernel
 Next you can add your virtual environment to Jupyter by typing:
 
 ```bash
-python -m ipykernel install --user --name=.venv
+python -m ipykernel install --user --name=.venv --display-name=nexus
 ```
 
 This should print the following: `Installed kernelspec .venv in /home/user/.local/share/jupyter/kernels/.venv`
@@ -36,7 +36,7 @@ In this folder you will find a `kernel.json` file which should look the followin
   "-f",
   "{connection_file}"
  ],
- "display_name": ".venv",
+ "display_name": "nexus",
  "language": "python",
  "metadata": {
   "debugger": true
