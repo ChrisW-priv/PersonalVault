@@ -24,12 +24,12 @@ $$
 
 Additionally, there is a set of questions that are impossible to answer right
 now, but we could answer if there was a better setup. There are currently
-approximately 200 requests that takes form 1h to 1.5h. 30% of them we could
+approximately 1000 requests that takes form 1h to 1.5h. 10% of them we could
 reasonably solve with the AI agent that would autonomously solve the requests.
 Thus:
 
 $$
-200 * 30 / 100 * 1.5 * 80 * 12 = 518'400
+1000 * 15 / 100 * 1.5 * 80 * 12 = 1'440'000
 $$
 
 There is also a matter of testing the internal tools (real-world project,
