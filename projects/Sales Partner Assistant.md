@@ -29,7 +29,7 @@ reasonably solve with the AI agent that would autonomously solve the requests.
 Thus:
 
 $$
-120 * 30 / 100 * 1.5 * 80 * 12 = 518'400
+200 * 30 / 100 * 1.5 * 80 * 12 = 518'400
 $$
 
 There is also a matter of testing the internal tools (real-world project,
