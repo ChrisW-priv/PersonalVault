@@ -12,6 +12,20 @@ Focus on micro-nutrients -> fill the rest with macros + optimize the release of 
 
 ## Micro
 
+Just summary of what are good sources for now:
+
+- Beef liver
+- Salmon/Makrel/Sardines/Tuna
+- Eggs
+- Dairy (milk, yogurt, parmesan)
+- Chicken breasts/ Pork
+- Sunflower seeds, Almonds, Avocados, Spinnach
+- Potatoes
+- Carrot, tomatoes, olive oil
+- Spinnach
+- dark chocolate
+- Brocoli, banana
+- Kiwi/Paprica/Orange (Anything with vit.c)
 
 ## Testosterone
 
@@ -20,8 +34,8 @@ Is built from cholesterol and high fat diet causes the release of it too.
 So eggs, and avocados are good, cuz cholesterol.
 
 You need Mg and Zn, so:
-- dark chocolate, nuts and legumes, carrots, berries, boiled spinach, potatoes,
-- shellfish and meat (Zn)
+- dark chocolate, nuts and legumes, carrots, berries, boiled spinach, potatoes, pumpkin seeds
+- shellfish and meat (beef, pork chop) (Zn)
 
 Vit. D helps; low carb diet improves the production of testosterone too
 
