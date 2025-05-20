@@ -43,14 +43,14 @@ status: in-progress
     - skąd są
     - po co? jakieś wyjaśnienie przykładów
     - większe obrazki: tak żeby było widzieć co na nim jest
-- [ ] BIBLIOGRAFIA
+- [x] BIBLIOGRAFIA
     - odwołania do literatury w 3.2
     - odwołania do sekcji dla powerautomate albo markdown
 - [x] przesunąć tekst tak żeby fig2 był w sekcji 2.6 nie 2.7
 - [x] figures nie może być bez referencji, koniecznie "in the fig4..."
 - [x] przed rozdziałami 3.2.x powinno być co będzie wgl opisane w nast. rozdziałach.
 - [x] w rozdziale 3 powinny być głębsze powiązania do rozdziału 2
-- [ ] list of abbreviations
+- [x] list of abbreviations
 - [x] przepisać conclusions - mniej poetycko, odwołać się do rozdziałów poprzednich.
     - czy są rzeczy podobne?
     - co działa, co można poprawić.
