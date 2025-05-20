@@ -37,7 +37,7 @@ status: in-progress
 - [ ] Add note on tree-sitter for document content extraction [important:: false]
 - [ ] Refactor chat view to make spans not take so much space [important:: false]
 - [ ] Add code cov again [important:: false]
-- [ ] streszczenie po polsku do przepisania.
+- [x] streszczenie po polsku do przepisania.
 - [ ] examples potrzebują jeszcze opisu
     - jakiś wstęp
     - skąd są
@@ -46,13 +46,13 @@ status: in-progress
 - [ ] BIBLIOGRAFIA
     - odwołania do literatury w 3.2
     - odwołania do sekcji dla powerautomate albo markdown
-- [ ] przesunąć tekst tak żeby fig2 był w sekcji 2.6 nie 2.7 
+- [x] przesunąć tekst tak żeby fig2 był w sekcji 2.6 nie 2.7
 - [ ] figures nie może być bez referencji, koniecznie "in the fig4..."
 - [ ] przed rozdziałami 3.2.x powinno być co będzie wgl opisane w nast. rozdziałach.
 - [ ] w rozdziale 3 powinny być głębsze powiązania do rozdziału 2
 - [ ] list of abbreviations
-- [ ] przepisać conclusions - mniej poetycko, odwołać się do rozdziałów poprzednich.
+- [x] przepisać conclusions - mniej poetycko, odwołać się do rozdziałów poprzednich.
     - czy są rzeczy podobne?
     - co działa, co można poprawić.
-- [ ] skrócić abstract
-- [ ] intro jest za krótkie
+- [x] skrócić abstract
+- [x] intro jest za krótkie
