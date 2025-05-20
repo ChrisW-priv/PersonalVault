@@ -27,8 +27,8 @@ General course [intro](https://studia.elka.pw.edu.pl/f-raw/25L/103A-CSCSN-ISA-EC
     - Write full coverage of assumptions
 - [x] Attend Laboratory3 (Deadline for introductory project (final version))  [scheduled:: 2025-04-23]
 - [x] Attend Laboratory4 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-07]
-- [ ] Attend Laboratory5 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-14]
-- [ ] Attend Laboratory6 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-21]
+- [x] Attend Laboratory5 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-14]
+- [x] Attend Laboratory6 (Presentation of preliminary version of program) [important:: false] [scheduled:: 2025-05-21]
 - [ ] Attend Laboratory7 (Deadline for program presentation)  [scheduled:: 2025-05-28]
 - [ ] Attend Laboratory8 (Deadline for final documentation, last laboratory)  [scheduled:: 2025-06-04]
 - [ ] Inspect lab result  (Results of laboratory)  [scheduled:: 2025-06-11]

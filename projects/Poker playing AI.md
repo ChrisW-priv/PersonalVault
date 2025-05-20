@@ -1,10 +1,10 @@
 ---
-title: "Poker playing AI"
-description: ""
-date: "2025-04-30"
+title: Poker playing AI
+description: Project to learn the idea of GANNs or Markov Chains in practice.
+date: 2025-04-30
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 

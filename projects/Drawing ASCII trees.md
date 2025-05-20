@@ -1,6 +1,6 @@
 ---
 title: Drawing ASCII trees
-description: ""
+description: Some cool project to make Drawing trees in ASCII automated
 date: 2025-04-04
 tags:
   - project

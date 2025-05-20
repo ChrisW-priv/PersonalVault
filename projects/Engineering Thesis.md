@@ -25,11 +25,11 @@ status: in-progress
 - [ ] Make use of n8n automations  [folder:: backend] [important:: false]
 - [x] Add adnotations [folder:: paper]
 - [ ] Go through .bib file and review the `year` attribute. [folder:: paper]
-- [ ] Make screenshots and add examples of the paper results [folder:: paper]
+- [x] Make screenshots and add examples of the paper results [folder:: paper]
 - [x] Write conclusions [folder:: paper]
 - [x] Write introduction [folder:: paper]
 - [x] Write abstract x2 [folder:: paper]
-- [ ] Write Chapter on Design & Implementation [folder:: paper]
+- [x] Write Chapter on Design & Implementation [folder:: paper]
     - add text extraction methods: tree sitter and marker
 - [x] Use the [link](https://arxiv.org/pdf/2502.21321) as ref. [folder:: paper]
 - [ ] Make the PV repo private [link](https://github.com/ChrisW-priv/PersonalVault) [important:: false]
@@ -38,7 +38,7 @@ status: in-progress
 - [ ] Refactor chat view to make spans not take so much space [important:: false]
 - [ ] Add code cov again [important:: false]
 - [x] streszczenie po polsku do przepisania.
-- [ ] examples potrzebują jeszcze opisu
+- [x] examples potrzebują jeszcze opisu
     - jakiś wstęp
     - skąd są
     - po co? jakieś wyjaśnienie przykładów

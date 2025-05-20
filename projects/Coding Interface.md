@@ -1,7 +1,7 @@
 ---
-title: "Coding Interface"
-description: ""
-date: "2025-04-02"
+title: Coding Interface
+description: I want something way better. I want full mcp support for testing the assistant protocols as well as the freedom of the my own implementation of any AI provider support, custom context management + prompts
+date: 2025-04-02
 tags:
   - project
 important: true
