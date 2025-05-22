@@ -12,4 +12,4 @@ status: todo
 
 - [x] Learn HTML + CSS + JS
 - [ ] Learn some game engine for more complex stuff
-    - I choose bevy fo 
+    - Try bevy and godot to see how they fare against eachother (I expect godot to be easier to pickup, but bevy has a significan advantage of it being a single binary, so I could make a general script that would suite my needs and then offload the scene generation to outside of the rust lang.)
