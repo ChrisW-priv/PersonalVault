@@ -12,3 +12,4 @@ status: todo
 
 - [x] Learn HTML + CSS + JS
 - [ ] Learn some game engine for more complex stuff
+    - I choose bevy fo 
