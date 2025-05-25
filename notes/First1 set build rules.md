@@ -9,7 +9,6 @@ categories:
 draft: false
 ---
 
-[ECOTE](../projects/ECOTE/ECOTE.md)
 [ECOTE-5-EN-mod](../projects/ECOTE/ECOTE-5-EN-mod.pdf)
 
 If $\alpha$ is any string of grammar symbols, let $\text{First}(\alpha)$ be the

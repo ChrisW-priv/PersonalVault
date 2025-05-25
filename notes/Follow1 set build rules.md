@@ -9,7 +9,6 @@ categories:
 draft: false
 ---
 
-[ECOTE](../projects/ECOTE/ECOTE.md)
 [ECOTE-5-EN-mod](../projects/ECOTE/ECOTE-5-EN-mod.pdf)
 
 $\text{Follow}_1(A)$

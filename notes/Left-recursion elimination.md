@@ -1,8 +1,9 @@
 ---
-title: "Left-recursion elimination"
+title: Left-recursion elimination
 description: ""
-date: "2025-04-05"
-tags: []
+date: 2025-04-05
+tags:
+  - ECOTE
 categories:
   - zettelkasten
 draft: false
