@@ -20,6 +20,12 @@ status: in-progress
 - [ ] Make notes on the Reinforcement Learning, and Markov Decisions Process
 - [ ] Make notes on the logic inference and all the rules
     - What is the semantic versus syntactic
+- [ ] There are diff types of learning
+    - induction
+    - abduction 
+    - deduction
+- [ ] Types of logic in AI (seems useful in context of building better RAG pipeline)
+- [ ] researchgate and sciencedirect are two nets to fig. out 
 
 
 in a semantic we see if the word is true by looking at a truth table
