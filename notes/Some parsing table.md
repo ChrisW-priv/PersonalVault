@@ -31,7 +31,7 @@ Algorithm to construct **a predictive parsing table**:
    If $\epsilon \in \text{First}_1(\alpha)$ and $\epsilon \in \text{Follow}_1(A)$, add $A \rightarrow \alpha$ to $M[A, \$]$.
 4. Make each undefined entry of $M$ `error`.
 
-## Example
+### Example
 
 Algorithm in *Method* section is complicated, let's brake it down step by step.
 
@@ -87,3 +87,48 @@ finally you should have:
 
 ![](attachments/Pasted%20image%2020250525204216.png)
 
+### Example 2
+
+**Given Grammar G:**
+
+- Terminals: `{ a, ↑, (, ), b }`
+- Nonterminals: `{ S, A }`
+- Start Symbol: `S`
+- Productions:
+
+$$
+\begin{align}
+S  &\rightarrow (S)A \mid aA \\
+A  &\rightarrow ↑aA \mid b \\
+\end{align}
+$$
+
+First1(S): {(, a}
+First1(A): {↑, b}
+Follow1(S): {), $\epsilon$}
+Follow1(A): {↑, b}
+
+Creation of the parsing table:
+
+We have 4 productions
+
+$$
+\begin{align}
+S  &\rightarrow (S)A \\
+S  &\rightarrow aA \\
+A  &\rightarrow ↑aA \\
+A  &\rightarrow b \\
+\end{align}
+$$
+
+For production $S  \rightarrow (S)A$, we take terminal of first1("(S)A"), so just "(".
+So add $S  \rightarrow (S)A$ to $M[S, (]$
+
+For production $S  \rightarrow aA$, we take terminal of first1("aA"), so just "a".
+So add $S  \rightarrow aA$ to $M[S, a]$
+
+For production $A \rightarrow ↑aA$, we take terminal of first1("↑aA"), so just "↑".
+So add $A \rightarrow ↑aA$ to $M[A, ↑]$
+
+For production $A \rightarrow b$, we take terminal of first1("b"), so just "b".
+So add $A \rightarrow b$ to $M[A, b]$

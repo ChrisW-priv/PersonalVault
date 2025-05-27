@@ -258,3 +258,68 @@ $$
 
 i = 3
 B: no left-recursion + no productions of A or S, so just end early (lazy).
+
+
+#### Example 4
+
+Eliminate left recursion from grammar  
+$G = < \{a, b, c, d, e, f, g\}, \{S, A, B\}, P, S>$ 
+
+$$
+\begin{align}
+S  &\rightarrow AB \\
+A &\rightarrow Aab \mid cde \\
+B &\rightarrow fg \\
+\end{align}
+$$
+
+Assume the order: SAB.
+
+i = 1 S is not left recursive, so do nothing
+
+i = 2, j=1 we look for production in the form: $A \rightarrow S\gamma$, there is none
+
+is $A$ left recursive? -> yes!
+
+$\alpha = \{ab\}$
+$\beta = \{cde\}$
+
+, but for simplicity we will not do $\alpha_1$, but use $\alpha$ directly instead
+(just a convenient shorthand cuz this is a set of 1 element only)
+
+$$
+\begin{align}
+A &\rightarrow \beta A' = cdeA' \\
+A' &\rightarrow \alpha A \mid\epsilon = abA' \mid \epsilon \\
+\end{align}
+$$
+
+i = 3, j=1 we look for production in the form: $B \rightarrow S\gamma$, there is none
+
+$\alpha = \{ab\}$
+$\beta = \{cde\}$
+
+, but for simplicity we will not do $\alpha_1$, but use $\alpha$ directly instead
+(just a convenient shorthand cuz this is a set of 1 element only)
+
+$$
+\begin{align}
+A &\rightarrow \beta A' = cdeA' \\
+A' &\rightarrow \alpha A \mid\epsilon = abA' \mid \epsilon \\
+\end{align}
+$$
+
+i = 3, j=1 we look for production in the form: $B \rightarrow S\gamma$, there is none
+
+i = 3, j=2 we look for production in the form: $B \rightarrow A\gamma$, there is none
+
+is $B$ left recursive? -> no
+
+$$
+\begin{align}
+S  &\rightarrow AB \\
+A &\rightarrow cdeA' \mid cde \\
+A' &\rightarrow abA' \mid ab \\
+B &\rightarrow fg \\
+\end{align}
+$$
