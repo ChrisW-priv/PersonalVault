@@ -55,15 +55,6 @@
       "key": "ArrowRight"
     }
   ],
-  "window:zoom-in": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "="
-    }
-  ],
   "window:zoom-out": [
     {
       "modifiers": [
@@ -105,6 +96,15 @@
         "Alt"
       ],
       "key": "]"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
     }
   ]
 }
