@@ -9,6 +9,8 @@ categories:
 draft: false
 ---
 
+[LR grammar](LR%20grammar.md)
+
 Let:
 - $C = \{ I_0, I_1, \dots, I_n \}$ be the canonical collection of sets of LR(0) items for the augmented grammar $G'$.
 - The states of the parser are $0, 1, \dots, n$, where state $i$ is constructed from $I_i$.

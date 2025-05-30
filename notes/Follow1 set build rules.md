@@ -26,4 +26,4 @@ any Follow set:
 1. $\epsilon \in \text{Follow}_1(S)$, where S is the start symbol 
 2. if there is a production $A\rightarrow\alpha B\beta$, then $\text{Follow}_1(B) = \text{First}_1(\beta) - \epsilon$
     Note that $\epsilon$ may still wind up in $\text{Follow}_1(B)$ by rule 3.
-3. if there is a production $A\rightarrow\alpha B$, or a production $A\rightarrow\alpha B\beta$ where $\epsilon\in\text{First}_1(\beta)$, then $\text{Follow}_1(A) = \text{Follow}_1(B)$
+3. if there is a production $A\rightarrow\alpha B$, or a production $A\rightarrow\alpha B\beta$ where $\epsilon\in\text{First}_1(\beta)$, then $\text{Follow}_1(B) = \text{Follow}_1(A)$
