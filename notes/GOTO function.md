@@ -9,6 +9,8 @@ categories:
 draft: false
 ---
 
+[Closure(I)](Closure(I).md)
+
 Let:
 - $I$ be a set of items
 - $X$ be a grammar symbol

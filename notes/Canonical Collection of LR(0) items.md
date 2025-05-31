@@ -9,6 +9,8 @@ categories:
 draft: false
 ---
 
+[GOTO function](GOTO%20function.md)
+
 - Construction of a DFA from the grammar, then turning it into parsing table.
 - DFA recognises **viable prefixes** – prefixes of the right-sentential forms that do not contain any symbols to the right of the handle.
 
