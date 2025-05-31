@@ -31,6 +31,14 @@ Algorithm to construct **a predictive parsing table**:
    If $\epsilon \in \text{First}_1(\alpha)$ and $\epsilon \in \text{Follow}_1(A)$, add $A \rightarrow \alpha$ to $M[A, \$]$.
 4. Make each undefined entry of $M$ `error`.
 
+Or in simpler terms:
+
+1. Calculate First and Follow of all non-terminals
+2. For each production $A\rightarrow\alpha$, get $\text{First}_1(\alpha)$
+    - If $\epsilon \in \text{First}_1(\alpha)$, and for all symbols $b$ in $\text{Follow}_1(A)$ set add $A \rightarrow \alpha$ to $M[A, b]$, in case when $b=\epsilon$, add $A \rightarrow \alpha$ to $M[A, b]$
+    - Else: For each terminal $a \in \text{First}_1(\alpha)$, add $A \rightarrow \alpha$ to $M[A, a]$.
+3. All spaces in M that has not been filled, are errors of "unexpected x, expected one of: {...}".
+
 ### Example
 
 Algorithm in *Method* section is complicated, let's brake it down step by step.
@@ -46,7 +54,6 @@ A' &\rightarrow *BA' \mid \epsilon \\
 B &\rightarrow (S) \mid a
 \end{align}
 $$
-
 
 Then, we have 5 non-terminals: $S, S', A, A', B$. For each of them we shall
 first calculate the $\text{First}_1$ and $\text{Follow}_1$ functions:

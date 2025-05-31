@@ -17,6 +17,8 @@ $A \rightarrow \alpha \mid \beta$ are two distinct productions of $G$, the follo
 
 If $\beta \Rightarrow^* \epsilon$, then $\alpha$ must not derive any strings beginning with a terminal in $\text{Follow}_1(A)$.
 
+[Some parsing table](Some%20parsing%20table.md)
+
 ### Example 1
 
 Given the grammar:

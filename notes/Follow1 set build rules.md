@@ -20,10 +20,12 @@ then $\epsilon \in \text{Follow}_1 (A)$
 
 ## Compute $\text{Follow}_1(A)$
 
-for all nonterminals A, apply the following rules until nothing can be added to
+for all non-terminals A, apply the following rules until nothing can be added to
 any Follow set: 
 
 1. $\epsilon \in \text{Follow}_1(S)$, where S is the start symbol 
-2. if there is a production $A\rightarrow\alpha B\beta$, then $\text{Follow}_1(B) = \text{First}_1(\beta) - \epsilon$
-    Note that $\epsilon$ may still wind up in $\text{Follow}_1(B)$ by rule 3.
-3. if there is a production $A\rightarrow\alpha B$, or a production $A\rightarrow\alpha B\beta$ where $\epsilon\in\text{First}_1(\beta)$, then $\text{Follow}_1(B) = \text{Follow}_1(A)$
+2. if there is a production $A\rightarrow\alpha B\beta$,
+   then $\text{Follow}_1(B) = \text{First}_1(\beta) - \epsilon$
+   Note: $\epsilon$ may still wind up in $\text{Follow}_1(B)$ by rule 3.
+3. if there is a production $A\rightarrow\alpha B$, or a production $A\rightarrow\alpha B\beta$ where $\epsilon\in\text{First}_1(\beta)$,
+   then $\text{Follow}_1(B) = \text{Follow}_1(A)$
