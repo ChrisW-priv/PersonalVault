@@ -12,7 +12,7 @@ draft: false
 [GOTO function](GOTO%20function.md)
 
 - Construction of a DFA from the grammar, then turning it into parsing table.
-- DFA recognises **viable prefixes** – prefixes of the right-sentential forms that do not contain any symbols to the right of the handle.
+- DFA recognizes **viable prefixes** – prefixes of the right-sentential forms that do not contain any symbols to the right of the handle.
 
 ## LR(0) item
 
@@ -33,7 +33,7 @@ draft: false
 
 2. $A \rightarrow X \cdot YZ$  
    We have just seen a string derivable from $X$ and we expect to see a string derivable from $YZ$.
-- We group items into sets. The items can be viewed as states of NFA recognising viable prefixes.
+- We group items into sets. The items can be viewed as states of NFA recognizing viable prefixes.
 - One collection of sets of items – **canonical collection LR(0)** – provides a basis for constructing simple LR parsers (**SLR**).
 
 ### Example 2

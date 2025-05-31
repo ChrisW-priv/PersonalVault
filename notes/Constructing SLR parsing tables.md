@@ -10,6 +10,7 @@ draft: false
 ---
 
 [LR grammar](LR%20grammar.md)
+[Canonical Collection of LR(0) items](Canonical%20Collection%20of%20LR(0)%20items.md)
 
 Let:
 - $C = \{ I_0, I_1, \dots, I_n \}$ be the canonical collection of sets of LR(0) items for the augmented grammar $G'$.
