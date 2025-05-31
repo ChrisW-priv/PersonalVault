@@ -28,5 +28,3 @@ Let:
 ### GOTO Transitions
 
 1. If $\text{goto}(I_i, A) = I_j$, then set $\text{GOTO}[i, A] := j$ for non-terminal $A$.
-2. All entries not defined by rules 1–4 are set to **error**.
-3. The **initial state** of the parser is the one constructed from the set $\{ [S' \rightarrow \cdot S] \}$.
