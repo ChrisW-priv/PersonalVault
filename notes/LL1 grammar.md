@@ -9,6 +9,8 @@ categories:
 draft: false
 ---
 
+[Compiler Grammar](Compiler%20Grammar)
+
 A grammar $G$ is **LL(1)** if and only if whenever  
 $A \rightarrow \alpha \mid \beta$ are two distinct productions of $G$, the following conditions hold:
 

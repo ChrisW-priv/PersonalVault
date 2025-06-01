@@ -9,6 +9,8 @@ categories:
 draft: false
 ---
 
+[Compiler Grammar](Compiler%20Grammar)
+
 ## Simplest example
 
 Production that is left recursive:

@@ -9,6 +9,7 @@ categories:
 draft: false
 ---
 
+[Compiler Grammar](Compiler%20Grammar)
 [Configuration of LR parser](Configuration%20of%20LR%20parser.md)
 [Canonical Collection of LR(0) items](Canonical%20Collection%20of%20LR(0)%20items.md)
 
