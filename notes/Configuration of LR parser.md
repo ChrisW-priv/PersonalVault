@@ -49,6 +49,7 @@ If $ACTION[s_m, a_i] = \text{shift } s$, the parser:
 
 
 
+
 (s_0\ X_1\ s_1\ X_2\ s_2\ \ldots\ X_m\ s_m\ a_i\ s,\ a_{i+1}\ \ldots\ a_n\ \$)
 
 $$
