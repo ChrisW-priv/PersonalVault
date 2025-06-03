@@ -12,7 +12,7 @@ There is a simple taxonomy:
 
 - Business requirements
 - Stakeholder requirements
-- Solution requirements [Functional vs Non-Functional requirements](Functional%20vs%20Non-Functional%20requirements.md)
+- Solution requirements
 
 Later sections describe what they do in detail.
 
