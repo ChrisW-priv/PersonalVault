@@ -19,12 +19,12 @@ status: in-progress
 - [ ] Make better Function Calling (accept) components [folder:: frontend] [important:: false]
 - [ ] Add better file conversions (focus on PDF -> md) (using [marker](https://github.com/VikParuchuri/marker)) [important:: false] [folder:: backend]
 - [ ] Make file conversions as cloudrun job (!) [folder:: infrastructure] [important:: false]
-- [ ] Add automated tests to the github CI and add coverage to them [folder:: backend]
+- [ ] Add automated tests to the github CI and add coverage to them [folder:: backend] [important:: false]
 - [x] Make better QA function [folder:: backend]
 - [ ] Fix the bug on the function calling [folder:: backend] [important:: false]
 - [ ] Make use of n8n automations  [folder:: backend] [important:: false]
 - [x] Add adnotations [folder:: paper]
-- [ ] Go through .bib file and review the `year` attribute. [folder:: paper]
+- [x] Go through .bib file and review the `year` attribute. [folder:: paper]
 - [x] Make screenshots and add examples of the paper results [folder:: paper]
 - [x] Write conclusions [folder:: paper]
 - [x] Write introduction [folder:: paper]
@@ -56,3 +56,5 @@ status: in-progress
     - co działa, co można poprawić.
 - [x] skrócić abstract
 - [x] intro jest za krótkie
+- [ ] make presentation
+- [ ] make intro + conclusions way better

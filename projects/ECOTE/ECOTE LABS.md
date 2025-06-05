@@ -27,4 +27,4 @@ status: in-progress
 - [x] Implement the transforming module
 - [x] Submit implementation [due:: 2025-04-23]
 - [x] Present work [due:: 2025-04-28]
-- [ ] Present Final Documentation [due:: 2025-05-28]
+- [x] Present Final Documentation [due:: 2025-05-28]

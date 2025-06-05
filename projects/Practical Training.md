@@ -12,4 +12,5 @@ status: todo
 ## Action Items
 
 - [x] Find out what docs I need to sign
-- [ ] Submit the documents
+- [x] Submit the documents
+- [ ] Make sure all is fine [scheduled:: 2025-06-10]

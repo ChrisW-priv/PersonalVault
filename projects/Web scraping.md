@@ -1,6 +1,6 @@
 ---
 title: Web scraping
-description: ""
+description: Learn a way to quickly make systems that would pull latest data from the websites
 date: 2025-05-14
 tags:
   - project

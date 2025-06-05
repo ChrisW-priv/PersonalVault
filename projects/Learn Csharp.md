@@ -1,6 +1,6 @@
 ---
 title: Learn Csharp
-description: ""
+description: C# is a modern language full of niceties, good tooling and support. Also, very popular in corporate. Could be a good pivot
 date: 2025-05-19
 tags:
   - project
