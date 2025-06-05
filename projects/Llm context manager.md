@@ -4,7 +4,7 @@ description: Tool for managing context that has been setup by the user.
 date: 2025-06-02
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 

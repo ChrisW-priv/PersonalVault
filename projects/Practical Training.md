@@ -6,7 +6,7 @@ tags:
   - project
   - course
 important: true
-status: todo
+status: in-progress
 ---
 
 ## Action Items
