@@ -26,6 +26,7 @@ status: in-progress
     - deduction
 - [ ] Types of logic in AI (seems useful in context of building better RAG pipeline)
 - [ ] researchgate and sciencedirect are two nets to fig. out 
+- [ ] on 14th slide of comp. Vis there is a very important distinction on the types of the vision we can have
 
 
 in a semantic we see if the word is true by looking at a truth table
