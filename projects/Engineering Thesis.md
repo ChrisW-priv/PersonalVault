@@ -9,6 +9,8 @@ important: true
 status: in-progress
 ---
 
+prof Cabaj will be a head of the exam
+
 [Link to overleaf doc](https://www.overleaf.com/project/67700d7144fd0bf691e02b75)
 
 ## Action Items
