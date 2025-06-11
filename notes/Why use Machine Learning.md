@@ -8,6 +8,8 @@ categories:
 draft: false
 ---
 
+Note from: [Hands-On Machine Learning with Scikit-Lear - Aurelien Geron](../extra/Hands-On%20Machine%20Learning%20with%20Scikit-Lear%20-%20Aurelien%20Geron.pdf)
+
 Using Machine Learning is often done as an optimization step of the traditional
 programming techniques. Example of spam filter:
 
