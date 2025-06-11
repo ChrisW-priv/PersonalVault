@@ -49,3 +49,8 @@ existing features.
 - Feature extraction: combining existing features to produce a more useful one
 (as we saw earlier, dimensionality reduction algorithms can help).
 - Creating new features by gathering new data.
+
+### Overfitting to training data
+
+Model fails to generalize well
+
