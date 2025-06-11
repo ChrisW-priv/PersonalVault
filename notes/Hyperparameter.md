@@ -2,7 +2,7 @@
 title: Hyperparameter
 description: A hyperparameter is a parameter of a learning algorithm (not of the model).
 date: 2025-06-11
-tags: 
+tags: []
 categories:
   - zettelkasten
 draft: false

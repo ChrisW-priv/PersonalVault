@@ -52,5 +52,28 @@ existing features.
 
 ### Overfitting to training data
 
-Model fails to generalize well
+    Model fails to generalize well.
+
+Overfitting happens when the model is too complex relative to the amount and
+noisiness of the training data. The possible solutions are: 
+
+- To simplify the model by selecting one with fewer parameters (e.g., a linear
+model rather than a high-degree polynomial model), by reducing the number of
+attributes in the training data or by constraining the model 
+- To gather more training data  
+- To reduce the noise in the training data (e.g., fix data errors and remove
+outliers)
+
+You can also use [Regularization](Regularization.md).
+
+### Underfitting to training data
+
+Model is too simplistic and does not reflect reality well.
+
+The main options to fix this problem are:
+
+- Selecting a more powerful model, with more parameters 
+- Feeding better features to the learning algorithm (feature engineering) 
+- Reducing the constraints on the model (e.g., reducing the regularization
+hyperparameter)
 
