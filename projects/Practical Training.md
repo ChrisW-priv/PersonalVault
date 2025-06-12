@@ -13,4 +13,4 @@ status: in-progress
 
 - [x] Find out what docs I need to sign
 - [x] Submit the documents
-- [ ] Make sure all is fine [scheduled:: 2025-06-10]
+- [x] Make sure all is fine [scheduled:: 2025-06-10]
