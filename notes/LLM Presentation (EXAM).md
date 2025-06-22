@@ -59,12 +59,12 @@ draft: true
 > Based on those requirements, we developed the system that is able to:
 
 * Answer questions and execute functions
-* Process files asynchronously, in en event driven fashion
+* Process files asynchronously, in an event driven fashion
 * Stream responses in real-time using Server-Side Events.
 * Role-based access control over users and user groups as well as features and feature groups (including files).
 * On a more technical side: we cared about developer productivity
-    * Developed fast and thus cheap CI pipelines
-    * Used modern virtual environment management
+    * Developed fast and thus cheap CI pipelines,
+    * Used modern virtual environment management, and
     * Had 80%+ test coverage such that,
         * We do not over-burden ourselves with testing, making sure that everything works, 
         * but also validating that system redesign does not break intended behavior.
@@ -86,18 +86,25 @@ draft: true
 
 > Here’s a high-level view of the deployed architecture:
 
-* The user interacts via web or mobile front-end.
-* Requests go to a Django app running on Cloud Run.
-* The app coordinates with Cloud SQL and Cloud Storage, and sends queries to the OpenAI API.
-* Background tasks like file processing are handled via Cloud Jobs.
-  As you can see this architecture is really scalable, allows for real-time performance, and integration with knowledge bases that are dynamic.
+* The user interacts with some frontend be it web or mobile, could be a smartwatch.
+* Requests from the frontend are sent to an exposed Django server hosted as Cloud Run service.
+* That server has 2 primary functions. 
+    * Allowing admin management of feature access, user management etc.
+    * but also handle the user's requests.
+- In case of uploading new files, the file itself is stored on the Cloud Storage and the task of processing that file is enqueued on the Celery Queue hosted on the PostgreSQL Database. The tasks are later handled by the Cloud Jobs spawned on demand.
+- In case of the user request, the server accesses the knowledge stored in the Knowledge Database, here, also a Postgres DB, creates a prompt and sends request to the OpenAI. Finally, it streams the response to the user.
+  
+As you can see this architecture is really scalable, allows for real-time performance, and knowledge base is dynamic, updating in real time.
 
 ---
 
 ### **Slide 8 – Chat Interface**
 
-> Here you can see the example chat interface I developed for the company I work at,
-> This system is used by that company for the past 5 months and successfully answers user questions.
+> An example of a frontend interface can be seen here
+> This is a chat interface I developed for the company I work at,
+> This system is used by that company for the past 5 months and successfully answers questions from sales partners.
+> The attached conversation is in Polish, as this is the language that the partner use and example question on the difference between tariff c12a and c12b.
+> The answer is first of all correct and grounded in the files made available to the user, again, dynamically. We could just as easily add new files as remove access to old versions.
 
 ---
 
