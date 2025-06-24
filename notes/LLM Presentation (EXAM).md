@@ -20,7 +20,7 @@ draft: true
 > Here’s what I’ll cover:
 
 1. First of all why do we even need to develop a personal assistant,
-2. and what are the requirements that we identified at an early stage?
+2. and what are the requirements that I identified at an early stage?
 3. Then, what were the challenges I faced during the development?
 4. And finally, an overview of the results.
 
@@ -103,8 +103,10 @@ As you can see this architecture is really scalable, allows for real-time perfor
 > An example of a frontend interface can be seen here
 > This is a chat interface I developed for the company I work at,
 > This system is used by that company for the past 5 months and successfully answers questions from sales partners.
-> The attached conversation is in Polish, as this is the language that the partner use and example question on the difference between tariff c12a and c12b.
-> The answer is first of all correct and grounded in the files made available to the user, again, dynamically. We could just as easily add new files as remove access to old versions.
+> The attached conversation, you can see the conversation starts in polish, but then example question is in English.
+> Question on the difference between tariff c12a and c12b is answered based on an information from uploaded file.
+> The files content are made available to the user, again, dynamically.
+> We could just as easily add new files as remove access to old versions.
 
 ---
 
