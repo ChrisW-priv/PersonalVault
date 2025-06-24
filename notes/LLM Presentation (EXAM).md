@@ -30,15 +30,12 @@ draft: true
 
 > “The reason for developing a personal assistant is: 
 > in day to day life, there are a lot of tasks that need to be done.
-> Some of them are really not complicated, but take time.
-> By developing an assistant, we wanted to allow user to focus on strategic tasks, 
-> and thus, scale their personal impact
-> After all, a digital assistant can perform actions on our behalf, 
-> faster and at consistent quality and format.
-> It could also boost our learning abilities by creating lectures 
-> and micro-quizzes for new topics,
-> making notes on what we have learned, as well as generate flashcards 
-> for long-term memory retention, thus using science to learn not only faster but smarter
+> Some of them are really not complicated, but take time. 
+> Traditionally, this was solved by employing a human to do them.
+> The benefit of that is less burden of manual execution or learning faster from an expert in a field, thus allowing to focus on strategy.
+> However, this is not only finacially unavailable to many, but also unsustainable. 
+> At some point there have to be people that have assistants or are assistants.
+> We wanted to solve this by replicating the human using a machine, thus, making it more accessible and sustainable. 
 
 ---
 
@@ -47,9 +44,12 @@ draft: true
 > At the early stage we identified the features we wanted, those are:
 
 * First of all, understanding the user’s intent.
-* Then, it has to *act on the user’s behalf*, whether by retrieving data, reasoning over problems or performing tasks on user's behalf.
-* The assistant should *communicate results clearly*—via text or interface.
-* It should also be platform independent.
+* Then, the ability to *act on the user’s behalf*, whether by 
+    * retrieving data, 
+    * reasoning over problems or 
+    * performing tasks on user's behalf.
+* The assistant should also be able to  *communicate results clearly*
+* The Application should also be platform independent.
 * Finally, because this is meant as a personal assistant, we needed a solid authentication and access control schemes.
 
 ---
@@ -62,8 +62,8 @@ draft: true
 * Process files asynchronously, in an event driven fashion
 * Stream responses in real-time using Server-Side Events.
 * Role-based access control over users and user groups as well as features and feature groups (including files).
-* On a more technical side: we cared about developer productivity
-    * Developed fast and thus cheap CI pipelines,
+* On a more technical side: we cared about developer productivity, so we developed:
+    * fast and thus cheap CI pipelines, that, not only checks the code correctness statically and dynamically, but also builds the app using cache from previous builds.
     * Used modern virtual environment management, and
     * Had 80%+ test coverage such that,
         * We do not over-burden ourselves with testing, making sure that everything works, 
@@ -73,12 +73,12 @@ draft: true
 
 ### **Slide 6 – Key Challenges During Development**
 
-> This project was not without its challenges.
+> Key Challenges During Development were:
 
-* First was designing and deploying the system reliably to the cloud. While the implementation was familiar, the nature of cloud forced me to adapt to different pattern of problem solving.
+* First, was designing and deploying the system reliably to the cloud. While the implementation was familiar, the nature of cloud forced me to adapt to different pattern of problem solving.
 * Secondly, Ensuring LLM responses are trustworthy and free from hallucinations was difficult as LLM is a fundamentally a probabilistic model.
 * Also, Debugging issues in a deployed asynchronous environment was especially tough.
-* Lastly, I had to conduct a lot of *experimentation on system performance* to make sure everything runs smoothly.
+* Lastly, I had to conduct a lot of *experimentation on system performance* to make sure everything runs smoothly, but also optimise results, which was not trivial due to scale.
 
 ---
 
