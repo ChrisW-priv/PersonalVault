@@ -79,7 +79,6 @@ about. Add the keywords that will define the book as a whole.
     - If there are definitions: copy them
     - Identify keywords and save them
     - It would be nice if we could identify how the subchapter is related to the big picture...
-    - 
 3. Repeat the step 2 for all chapters recursively (include the top-down summaries)
 
 At this step we have all of the main ideas covered (what the chapters are about).
