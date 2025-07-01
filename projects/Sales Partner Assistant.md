@@ -60,3 +60,6 @@ time saving advantages.
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
     - Build MCP client 
+- [ ] Make use of better chunking, use:
+    - flashcards as a new QA standard
+    - keywords to identify new ways of the indexing target.

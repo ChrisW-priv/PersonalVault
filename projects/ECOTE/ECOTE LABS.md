@@ -6,7 +6,7 @@ tags:
   - project
   - course
 important: true
-status: in-progress
+status: done
 ---
 
 [lab regulations](ECOTE%20Summer%202025%20-%20lab%20regulations.pdf)
