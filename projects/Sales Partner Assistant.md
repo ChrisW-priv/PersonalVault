@@ -55,7 +55,7 @@ time saving advantages.
 
 ## Action Items
 
-- [ ] Build better log of QA - collect AI responses as well
+- [x] Build better log of QA - collect AI responses as well
 - [ ] Rewrite to use MCP instead
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
@@ -63,3 +63,31 @@ time saving advantages.
 - [ ] Make use of better chunking, use:
     - flashcards as a new QA standard
     - keywords to identify new ways of the indexing target.
+
+### Main idea
+
+I need to do better chunking such that the split between the chapters is more clear. 
+
+Then, I need to chunk the text in a RAPTOR way:
+
+1. Take the abstract + index + summary etc. to get the gist of what the book is
+about. Add the keywords that will define the book as a whole.
+2. For each chapter: 
+    - Take the general gist + the intro to the chapter plus all sub-chapters 
+    (with content replaced with `...`),
+    then make the note on what that chapter covers.
+    - If there are definitions: copy them
+    - Identify keywords and save them
+    - It would be nice if we could identify how the subchapter is related to the big picture...
+    - 
+3. Repeat the step 2 for all chapters recursively (include the top-down summaries)
+
+At this step we have all of the main ideas covered (what the chapters are about).
+But we still desperately need the links between ideas in a book. Often, ideas
+later in the book are explained in the chapters before, but some ideas are
+explained only after some ground truth was established.
+
+4. Try clustering the ideas and questions in the notes
+5. For each cluster:
+    1. Identify if it really is a cluster that makes sense
+    2. Make a note on the logical argument for the relation between the notes.
