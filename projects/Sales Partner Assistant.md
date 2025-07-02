@@ -60,26 +60,32 @@ time saving advantages.
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
     - Build MCP client 
-- [ ] Make use of better chunking, use:
-    - flashcards as a new QA standard
-    - keywords to identify new ways of the indexing target.
+- [ ] Make use of better chunking
 
 ### Main idea
+
+I think it is best to first split the text in a top-down manner:
+
+1. Take the abstract + index + summary etc. to create first node
+2. Repeat the step 1 for all subsections recursively (include the parent, summaries) (lowest level is a heading + paragraph text)
+
+Each node should contain:
+
+- **Title** - Text that defines the node
+- **Text** - Actual text of the node
+- **Sumary** - What is this node about
+- **Definitions** - Pair of Term-Explanation
+- **Procedures** - List of steps to achieve some task
+- **Keywords** - Phrases that will help find this node
+- **Flashcards** - Question-Answer pairs
+- **Links** - What nodes are related to the note.
+    - Embedded files (images)
+    - Related Ideas ("See also" links)
+    - Mentioned files (hyperlinks that link to other files but are not related in a semantic sense)
 
 I need to do better chunking such that the split between the chapters is more clear. 
 
 Then, I need to chunk the text in a RAPTOR way:
-
-1. Take the abstract + index + summary etc. to get the gist of what the book is
-about. Add the keywords that will define the book as a whole.
-2. For each chapter: 
-    - Take the general gist + the intro to the chapter plus all sub-chapters 
-    (with content replaced with `...`),
-    then make the note on what that chapter covers.
-    - If there are definitions: copy them
-    - Identify keywords and save them
-    - It would be nice if we could identify how the subchapter is related to the big picture...
-3. Repeat the step 2 for all chapters recursively (include the top-down summaries)
 
 At this step we have all of the main ideas covered (what the chapters are about).
 But we still desperately need the links between ideas in a book. Often, ideas
