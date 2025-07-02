@@ -83,16 +83,12 @@ Each node should contain:
     - Related Ideas ("See also" links)
     - Mentioned files (hyperlinks that link to other files but are not related in a semantic sense)
 
-I need to do better chunking such that the split between the chapters is more clear. 
-
-Then, I need to chunk the text in a RAPTOR way:
-
 At this step we have all of the main ideas covered (what the chapters are about).
 But we still desperately need the links between ideas in a book. Often, ideas
 later in the book are explained in the chapters before, but some ideas are
 explained only after some ground truth was established.
 
-4. Try clustering the ideas and questions in the notes
-5. For each cluster:
+3. Try clustering the ideas and questions in the notes based on RAPTOR style (bottom-up)
+4. For each cluster:
     1. Identify if it really is a cluster that makes sense
     2. Make a note on the logical argument for the relation between the notes.
