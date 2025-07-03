@@ -82,6 +82,7 @@ Each node should contain:
     - Embedded files (images)
     - Related Ideas ("See also" links)
     - Mentioned files (hyperlinks that link to other files but are not related in a semantic sense)
+    - Parent node (link to the node that we started the processing from)
 
 At this step we have all of the main ideas covered (what the chapters are about).
 But we still desperately need the links between ideas in a book. Often, ideas
@@ -297,6 +298,12 @@ paragraph kind of style)
 ## Chunking Algorithm
 
 Let ELEMENT be the html element we were passed
-1. identify the highest aria-element in the ELEMENT
+1. identify the highest aria-element in the ELEMENT -> this is the title of the ELEMENT
 2. identify all subsections in the ELEMENT
-    1. get second highest aria-element
+    - if there is explicit `<section>` tag, just take that as a child
+    - else:
+        1. get second highest aria-elements
+        2. split the elements between the second highest aria-elements 
+        3. wrap the grouped elements with `<section>` tag -> this is a new node to process
+3. for all subsections: take k elements that contain text (heading + paragraph would be best) -> this is a summary of subsection
+4. take all elements verbatim + summary of each subsection (remember to do this in order of original appearance!) -> this is the text of the ELEMENT
