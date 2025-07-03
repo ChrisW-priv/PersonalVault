@@ -250,4 +250,10 @@ Processed Node should be:
 </node>
 ```
 
-So create a lot of nodes and
+So create a lot of nodes.
+
+But wait! This is chunking AND basic indexing in the same time, we need to split this:
+
+- split the html document recursively
+- process those chunks to extract as much info as possible
+- index the information
