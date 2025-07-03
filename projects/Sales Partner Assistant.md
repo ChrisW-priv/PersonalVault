@@ -257,3 +257,46 @@ But wait! This is chunking AND basic indexing in the same time, we need to split
 - split the html document recursively
 - process those chunks to extract as much info as possible
 - index the information
+
+I may have done way too much in one go, simples example:
+
+```
+<section>
+    <h2>Document</h2>
+    <p>...</p>
+    <section>
+        <h3>First section</h3>
+        <p>...</p>
+        <ul>
+            <li>...</li>
+            <li>...</li>
+        </ul>
+    </section>
+    <section>
+        <h3>Second section</h3>
+        <p>...</p>
+        <ul>
+            <li>...</li>
+            <li>...</li>
+        </ul>
+    </section>
+</section>
+```
+
+In this case, the title of this node is "Document", cuz highest aria-level element (h2) has that in the text field.
+Text of the node should be defined as all elements that are until one of the elements is found:
+
+- h1-h6 tags
+- section tags
+- div tags with role="heading" and aria-level defined
+
+In case such elements are found, they should be summarised in a simple manner 
+(take first k elements in that element. k should be at least 2 for heading +
+paragraph kind of style) 
+
+## Chunking Algorithm
+
+Let ELEMENT be the html element we were passed
+1. identify the highest aria-element in the ELEMENT
+2. identify all subsections in the ELEMENT
+    1. get second highest aria-element
