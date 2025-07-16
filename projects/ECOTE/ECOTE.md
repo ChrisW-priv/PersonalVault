@@ -7,7 +7,7 @@ tags:
   - course
 end_date: 2025-06-30
 important: true
-status: in-progress
+status: done
 ---
 
 General course [intro](https://studia.elka.pw.edu.pl/f-raw/25L/103A-CSCSN-ISA-ECOTE/priv//ECOTE.pdf) and [regulations](https://studia.elka.pw.edu.pl/f-raw/25L/103A-CSCSN-ISA-ECOTE/priv//ECOTE-regL2025.pdf)
