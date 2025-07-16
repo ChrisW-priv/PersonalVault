@@ -6,7 +6,7 @@ tags:
   - project
 due_date: 2025-05-05
 important: true
-status: done
+status: in-progress
 ---
 
 prof Cabaj will be a head of the exam
@@ -58,5 +58,5 @@ prof Cabaj will be a head of the exam
     - co działa, co można poprawić.
 - [x] skrócić abstract
 - [x] intro jest za krótkie
-- [x] make presentation
-- [x] make intro + conclusions way better
+- [ ] make presentation
+- [ ] make intro + conclusions way better
