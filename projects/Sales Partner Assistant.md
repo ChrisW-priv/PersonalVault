@@ -55,12 +55,12 @@ time saving advantages.
 
 ## Action Items
 
-- [ ] Build better log of QA - collect AI responses as well
+- [x] Build better log of QA - collect AI responses as well
 - [ ] Rewrite to use MCP instead
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
     - Build MCP client 
-- [ ] Make use of better chunking
+- [x] Make use of better chunking
 
 ### Main idea
 
