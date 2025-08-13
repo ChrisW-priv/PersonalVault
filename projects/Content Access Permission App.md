@@ -4,7 +4,7 @@ description: App to make django permissions WAY better and not be reliant on som
 date: 2025-02-25
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 

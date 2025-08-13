@@ -15,10 +15,6 @@ am interested in. Fastest way to do that is to make a script that will make the
 start trivial. I am actually inspired by the npm tool, where just after some
 basic choices I can get some nice scaffolded structure.
 
-### Remarks
-
-This is already kind of done by `uv` is this really necessary??
-
 ## Action Items
 
 - [ ] Learn how to make a great tui

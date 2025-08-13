@@ -55,7 +55,7 @@ time saving advantages.
 
 ## Action Items
 
-- [x] Build better log of QA - collect AI responses as well
+- [ ] Build better log of QA - collect AI responses as well
 - [ ] Rewrite to use MCP instead
     - Learn how to setup servers
     - Research the current list of instructions for already built MCPs
