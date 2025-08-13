@@ -73,7 +73,7 @@ Each node should contain:
 
 - **Title** - Text that defines the node
 - **Text** - Actual text of the node
-- **Sumary** - What is this node about
+- **Summary** - What is this node about
 - **Definitions** - Pair of Term-Explanation
 - **Procedures** - List of steps to achieve some task
 - **Keywords** - Phrases that will help find this node
