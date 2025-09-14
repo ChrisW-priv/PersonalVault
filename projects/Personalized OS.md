@@ -16,7 +16,11 @@ status: todo
 - [ ] Tiling wm
 - [ ] Windows in a vm (not dual boot)
 - [ ] separate vms for diff works (?)
-    - I want to make a separate workspaces for fun, studies, work etc. Be able to easily swith between them. But also to copy stuff between 
+    - I want to make a separate workspace for:
+        - Personal projects,
+        - Studies
+        - Work etc. 
+    - Be able to easily swith between them. But also to copy stuff between 
 - [ ] Separate server deployable, but working on a local laptop as well. 
     - Here, I want to also be able to work in hibrid mode: be able to connect to the server from normal laptop and work on that.
 
