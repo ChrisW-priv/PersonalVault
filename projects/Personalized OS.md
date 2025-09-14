@@ -8,7 +8,7 @@ important: false
 status: todo
 ---
 
-## Requirements 
+## Requirements
 
 - [ ] perfect integration with wifi
 - [ ] perfect integration with Bluetooth 
@@ -22,7 +22,7 @@ status: todo
         - Work etc. 
     - Be able to easily swith between them. But also to copy stuff between 
 - [ ] Separate server deployable, but working on a local laptop as well. 
-    - Here, I want to also be able to work in hibrid mode: be able to connect to the server from normal laptop and work on that.
+    
 
 ## Action Items
 
