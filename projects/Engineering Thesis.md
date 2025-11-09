@@ -58,5 +58,5 @@ prof Cabaj will be a head of the exam
     - co działa, co można poprawić.
 - [x] skrócić abstract
 - [x] intro jest za krótkie
-- [ ] make presentation
-- [ ] make intro + conclusions way better
+- [x] make presentation
+- [x] make intro + conclusions way better

@@ -4,7 +4,7 @@ description: Program that helps user learn new fields effortlessly
 date: 2025-08-08
 tags:
   - project
-important: true
+important: false
 status: in-progress
 ---
 

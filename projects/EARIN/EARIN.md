@@ -17,7 +17,7 @@ status: done
 - [x] Make note on the min max solver
 - [x] Make note on the NP complete problems - what are they etc.
 - [x] choose the project topic [due:: 2025-04-25]
-- [ ] Attend Exam [scheduled:: 2025-06-13]
+- [x] Attend Exam [scheduled:: 2025-06-13]
 - [ ] Make notes on the Reinforcement Learning, and Markov Decisions Process
 - [ ] Make notes on the logic inference and all the rules
     - What is the semantic versus syntactic

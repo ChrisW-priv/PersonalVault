@@ -4,7 +4,7 @@ description: I want to learn to do AI better, and the governance and the reprodu
 date: 2025-05-20
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 
