@@ -6,7 +6,7 @@ tags:
   - project
 due_date: 2025-05-05
 important: true
-status: in-progress
+status: done
 ---
 
 prof Cabaj will be a head of the exam
