@@ -10,5 +10,4 @@ status: todo
 
 ## Action Items
 
-- [ ] Pick up the new ID [sheduled::2025-11-14]
-- [ ] 
+- [ ] Pick up the new ID [scheduled::2025-11-14]

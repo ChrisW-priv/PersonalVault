@@ -15,7 +15,7 @@ let pages = dv.pages('"projects" and #project and !#work').where(page => page.im
 for (let page of pages) {
 
     let tasks = page.file.tasks
-        .where(t => !t.completed)                              // Exclude completed tasks
+        .where(t => !t.completed && !t.scheduled)                              // Exclude completed tasks
         .where(t => t.important || t.important === undefined)  // Exclude unimportant tasks
         .where(t => !t.scheduled)                              // Exclude already scheduled
 
@@ -34,7 +34,7 @@ let pages = dv.pages('"projects" and #project and #work').where(page => page.imp
 for (let page of pages) {
 
     let tasks = page.file.tasks
-        .where(t => !t.completed)  // Exclude completed tasks
+        .where(t => !t.completed && !t.scheduled)  // Exclude completed tasks
         .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
 
     if (tasks.length)
@@ -52,7 +52,7 @@ let pages = dv.pages('"projects" and #project').where(page => page.important && 
 for (let page of pages) {
 
     let tasks = page.file.tasks
-        .where(t => !t.completed)  // Exclude completed tasks
+        .where(t => !t.completed && !t.scheduled)  // Exclude completed tasks
         .where(t => t.important || t.important === undefined)   // Exclude unimportant tasks
 
     if (tasks.length)
