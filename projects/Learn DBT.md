@@ -1,11 +1,12 @@
 ---
-title: Untitled
-description: ""
+title: Learn DBT
+description: Learn how to manage databases using a dbt scripts. This should allow me to manage the databases in a manageable way.
 date: 2025-05-14
 tags:
   - project
-important: false
-status: todo
+  - work
+important: true
+status: in-progress
 ---
 
 ## Action Items

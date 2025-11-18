@@ -4,7 +4,7 @@ description: Learn how to read faster and comprehend faster
 date: 2025-11-09
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 

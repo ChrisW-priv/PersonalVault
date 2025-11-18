@@ -5,7 +5,7 @@ date: 2025-07-16
 tags:
   - project
 important: true
-status: in-progress
+status: cancelled
 draft: true
 ---
 

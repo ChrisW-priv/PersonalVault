@@ -13,6 +13,7 @@ status: in-progress
 
 ## Action Items
 
-- [ ] Prepare the prompts and scripts to get the transcriptions
-- [ ] Prepare full terraform config
+- [x] Prepare the prompts and scripts to get the transcriptions
+- [x] Prepare full terraform config
+- [ ] Create Import job docker and test against actual API on stg
 - [ ] Deploy infra to the cloud

@@ -24,7 +24,7 @@ status: in-progress
 - [ ] Make library to make pushing data to the project tables easy [important:: false]
 - [ ] Refactor the code with new target in mind [important:: false]
 - [x] Make a list of I/O pairs that will serve as API fail doc
-- [ ] Make a proper CLI that will allow testing the LP endpoint better
+- [x] Make a proper CLI that will allow testing the LP endpoint better
 - [ ] Make a CLI that will send ZPP
-- [ ] Make a CLI that will send ZOPMB
+- [x] Make a CLI that will send ZOPMB
 - [ ] Make a CLI that will send ZOMB

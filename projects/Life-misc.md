@@ -5,9 +5,12 @@ date: 2025-11-09
 tags:
   - project
 important: true
-status: todo
+status: in-progress
 ---
 
 ## Action Items
 
-- [ ] Pick up the new ID [scheduled::2025-11-14]
+- [x] Pick up the new ID [scheduled::2025-11-13]
+- [x] Go to the doctor [scheduled:: 2025-11-13]
+- [x] Go to the doctor [scheduled:: 2025-11-14]
+- [x] Go to the doctor [scheduled:: 2025-11-14]

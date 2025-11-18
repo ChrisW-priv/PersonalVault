@@ -12,4 +12,4 @@ status: in-progress
 
 - [ ] Go to the Gym
 - [ ] Eat good
-- [ ] Run the marathon [due:: 2025-12-31]
+- [ ] Run the marathon [scheduled:: 2025-12-06]

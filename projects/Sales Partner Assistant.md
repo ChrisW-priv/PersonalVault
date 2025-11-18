@@ -4,8 +4,9 @@ description: ""
 date: 2025-04-03
 tags:
   - project
+  - work
 important: true
-status: on-hold
+status: cancelled
 ---
 
 ## Motivation
