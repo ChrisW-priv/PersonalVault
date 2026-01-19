@@ -4,13 +4,13 @@ description: App to make django permissions WAY better and not be reliant on som
 date: 2025-02-25
 tags:
   - project
-important: false
-status: todo
+important: true
+status: done
 ---
 
 There is an app in my project to rewrite into the production ready app.
 
-The problem includes: 
+## Action Steps
 
-- make better django integration.
-- make it an installable app
+- [x] make better django integration.
+- [x] make it an installable app

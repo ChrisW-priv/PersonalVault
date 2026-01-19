@@ -1,17 +1,19 @@
 ---
-title: "Untitled"
-description: ""
-date: "2025-05-14"
+title: Learn DBT
+description: Learn how to manage databases using a dbt scripts. This should allow me to manage the databases in a manageable way.
+date: 2025-05-14
 tags:
   - project
+  - work
 important: true
-status: todo
+status: in-progress
 ---
 
 ## Action Items
 
-- [ ] setup some playground project
-- [ ] test the source of single table and create a simple view from it (cli commands)
+- [x] setup some playground project
+- [x] test the source of single table and create a simple view from it (cli commands)
 - [ ] test sourcing from the postgresql
-- [ ] test sourcing from storage
+    - There needs to be an external connector set up.
+- [x] test sourcing from storage
 - [ ] make extensive notes on the whole thing

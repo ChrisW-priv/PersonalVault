@@ -55,5 +55,5 @@ Note on things to consider [Knowledge Database](../notes/Knowledge%20Database.md
 
 ## Action Items
 
-- [ ] Build stable doc. of the intended solution
-- [ ] Learn ElasticSearch to evaluate if it is usefull
+- [x] Build stable doc. of the intended solution
+- [x] Learn ElasticSearch to evaluate if it is usefull

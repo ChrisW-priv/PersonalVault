@@ -11,4 +11,5 @@ status: in-progress
 ## Action Items
 
 - [ ] Go to the Gym
-
+- [ ] Eat good
+- [ ] Run the marathon [scheduled:: 2025-12-06]

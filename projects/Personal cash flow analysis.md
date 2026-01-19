@@ -5,7 +5,7 @@ date: 2025-03-01
 tags:
   - project
 important: false
-status: in-progress
+status: todo
 ---
 
 I desperately need a tool that will allow me to test some financial hypotheses.

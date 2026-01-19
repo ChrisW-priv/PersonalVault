@@ -1,10 +1,10 @@
 ---
-title: "Better OTLP tracing setup"
+title: Better OTLP tracing setup
 description: ""
-date: "2025-05-14"
+date: 2025-05-14
 tags:
   - project
-important: true
+important: false
 status: todo
 ---
 
