@@ -15,5 +15,5 @@ status: in-progress
 
 - [x] Prepare the prompts and scripts to get the transcriptions
 - [x] Prepare full terraform config
-- [ ] Create Import job docker and test against actual API on stg
+- [x] Create Import job docker and test against actual API on stg
 - [ ] Deploy infra to the cloud

@@ -11,9 +11,9 @@ status: todo
 
 ## Action Items
 
-- [ ] Redo the LinkedIn profile - bio [scheduled:: 2025-11-18]
-- [ ] Profile pic - make one [scheduled:: 2025-11-20]
-- [ ] Create a post
+- [x] Redo the LinkedIn profile - bio [scheduled:: 2025-11-18]
+- [x] Profile pic - make one [scheduled:: 2025-11-20]
+- [x] Create a post
 
 
 Use tags for discovery not classification. If you want to find it easily -> tag it.

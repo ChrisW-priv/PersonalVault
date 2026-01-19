@@ -25,6 +25,7 @@ status: in-progress
 - [ ] Refactor the code with new target in mind [important:: false]
 - [x] Make a list of I/O pairs that will serve as API fail doc
 - [x] Make a proper CLI that will allow testing the LP endpoint better
-- [ ] Make a CLI that will send ZPP
+- [x] Make a CLI that will send ZPP
 - [x] Make a CLI that will send ZOPMB
-- [ ] Make a CLI that will send ZOMB
+- [x] Make a CLI that will send ZOMB
+- [ ] Add testing CF
